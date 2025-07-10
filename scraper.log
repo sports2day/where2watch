@@ -39,3 +39,23 @@
 2025-07-10 14:37:22,175 [INFO] Scraping: https://www.kicker.de/live
 2025-07-10 14:37:22,793 [INFO] → 0 items from Kicker
 2025-07-10 14:37:22,796 [INFO] Saved 43 events to 'sports_schedule_2025-07-10.json'
+2025-07-10 22:09:53,020 [INFO] Starting full scraping process
+2025-07-10 22:09:53,021 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-10 22:09:53,650 [INFO] → 43 events from Sportschau
+2025-07-10 22:09:53,651 [INFO] Scraping: https://www.zdf.de/live-tv
+2025-07-10 22:09:54,080 [INFO] → 0 events from ZDF
+2025-07-10 22:09:54,082 [INFO] Scraping Eurosport via GraphQL
+2025-07-10 22:09:56,854 [INFO] → 45 events from Eurosport
+2025-07-10 22:09:56,856 [INFO] Scraping: https://www.kicker.de/live
+2025-07-10 22:09:57,331 [INFO] → 0 events from Kicker
+2025-07-10 22:09:57,335 [INFO] Saved 88 events to 'sports_schedule_2025-07-10.json'
+2025-07-10 22:30:25,940 [INFO] Starting full scraping process
+2025-07-10 22:30:25,940 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-10 22:30:34,243 [INFO] → 32 events from Sportschau
+2025-07-10 22:30:34,244 [INFO] Scraping: https://www.zdf.de/live-tv
+2025-07-10 22:30:34,538 [INFO] → 0 events from ZDF
+2025-07-10 22:30:34,539 [INFO] Scraping Eurosport via GraphQL
+2025-07-10 22:30:37,130 [INFO] → 45 events from Eurosport
+2025-07-10 22:30:37,130 [INFO] Scraping: https://www.kicker.de/live
+2025-07-10 22:30:37,542 [INFO] → 0 events from Kicker
+2025-07-10 22:30:37,547 [INFO] Saved 77 events to 'sports_schedule_2025-07-10.json'

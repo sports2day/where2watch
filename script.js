@@ -5,22 +5,35 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 const sportColors = {
-    Fußball: "#28a745",
-    Radsport: "#fd7e14",
-    Handball: "#007bff",
-    Basketball: "#8e44ad",
-    Tennis: "#c0392b",
-    Unbekannt: "#6c757d"
+  Fußball: "#28a745",
+  Radsport: "#fd7e14",
+  Handball: "#007bff",
+  Basketball: "#8e44ad",
+  Tennis: "#c0392b",
+  Snooker: "#17a2b8",
+  WEC: "#6f42c1",
+  Mountainbike: "#20c997",
+  Motorsports: "#dc3545",
+  Leichtathletik: "#ffc107",
+  Superbike: "#ff5722",
+  Unbekannt: "#6c757d"
 };
 
 const sportIcons = {
-    Fußball: "⚽",
-    Radsport: "🚴",
-    Handball: "🤾",
-    Basketball: "🏀",
-    Tennis: "🎾",
-    Unbekannt: "📺"
+  Fußball: "⚽",
+  Radsport: "🚴",
+  Handball: "🤾",
+  Basketball: "🏀",
+  Tennis: "🎾",
+  Snooker: "🎱",
+  WEC: "🏎️",
+  Mountainbike: "🚵",
+  Motorsports: "🏁",
+  Leichtathletik: "🏃",
+  Superbike: "🏍️",
+  Unbekannt: "📺"
 };
+
 
 async function createSportFilterMenu() {
     const filterContainer = document.createElement("div");
