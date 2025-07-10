@@ -73,7 +73,7 @@ def scrape_sportschau():
                         "sport": current_sport or "unbekannt",
                         "time": time.text.strip(),
                         "title": f"{home_team.text.strip()} vs {away_team.text.strip()}",
-                        "sender": "Sportschau",
+                        "sender": "Sportschau Live",
                         "link": "https://www.sportschau.de" + link_tag["href"] if link_tag else None
                     })
         logger.info(f"→ {len(events)} events from Sportschau")
