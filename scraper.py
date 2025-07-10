@@ -12,7 +12,7 @@ SCRAPER_CONFIG = {
     "sources": {
         "sportschau": "https://www.sportschau.de/live-und-ergebnisse/",
         "zdf": "https://www.zdf.de/live-tv",
-        "eurosport": "https://www.eurosport.de/tv-sender.shtml",
+        "eurosport": "https://www.eurosport.de/watch/schedule.shtml",
         "kicker": "https://www.kicker.de/live"
     },
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"

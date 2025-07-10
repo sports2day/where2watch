@@ -91,3 +91,33 @@ body {
       font-size: 0.95rem;
     }
   }  
+  #scrollTop {
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    background: #0077ff;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 48px;
+    height: 48px;
+    font-size: 1.5rem;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+    cursor: pointer;
+    display: none;
+    z-index: 1000;
+  }
+  #scrollTop.show {
+    display: block;
+  }
+  
+  @media (max-width: 600px) {
+    .sport-section h2 {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background-color: #fff;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    }
+  }
+  
