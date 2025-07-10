@@ -1,0 +1,93 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f9f9fb;
+    margin: 0;
+    padding: 0 1rem;
+  }
+  
+  h1 {
+    color: #0077ff;
+    text-align: center;
+    font-size: 2.5rem;
+    margin-top: 2rem;
+  }
+  
+  p {
+    text-align: center;
+    color: #555;
+  }
+  
+  .sport-section {
+    margin: 2rem 0;
+  }
+  
+  .sport-section h2 {
+    margin-bottom: 1rem;
+    padding-left: 0.75rem;
+    font-size: 1.5rem;
+    background-color: #fff;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+  }
+  
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1rem;
+  }
+  
+  .card {
+    background-color: #ffffff;
+    border-radius: 1rem;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    padding: 1rem;
+    transition: transform 0.2s, box-shadow 0.3s;
+  }
+  
+  .card:hover {
+    transform: scale(1.02);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+  }
+  
+  .card-time {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .card-title {
+    margin-top: 0.5rem;
+    font-size: 1rem;
+    font-weight: 500;
+  }
+  
+  .card-sender {
+    margin-top: 0.25rem;
+    color: #888;
+    font-size: 0.9rem;
+  }
+  
+  .btn-disabled {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 0.7rem 1.5rem;
+    font-size: 1rem;
+    border-radius: 0.6rem;
+    cursor: not-allowed;
+  }
+  
+  @media (max-width: 600px) {
+    h1 {
+      font-size: 2rem;
+    }
+  
+    .card-time {
+      font-size: 1rem;
+    }
+  
+    .card-title {
+      font-size: 0.95rem;
+    }
+  }  
