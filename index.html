@@ -2,352 +2,201 @@
 <html lang="de">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Fußball heute – Übertragungen im TV & Stream</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Where2Watch – Sport heute im TV & Stream</title>
+  <meta name="description" content="Live-Sport im Überblick – TV & Streaming auf einen Blick. Kostenlos & täglich aktualisiert.">
 
-  <!-- ✅ SEO -->
-  <meta name="description" content="Übersicht aller Fußballspiele heute – mit Sendern wie DAZN, ZDF, Eurosport und mehr. Jetzt live im TV oder Stream." />
-  <meta name="keywords" content="Fußball heute, TV Programm, Live-Übertragungen, DAZN, Eurosport, ZDF, Sport im Fernsehen" />
-  <meta name="robots" content="index, follow" />
-
-  <!-- ✅ Social Sharing (Open Graph) -->
-  <meta property="og:title" content="Fußball heute – Live im TV & Stream" />
-  <meta property="og:description" content="Hier findest du alle heutigen Fußballübertragungen im Überblick." />
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://DEINNAME.github.io/DEINPROJEKT/" />
-  <meta property="og:image" content="https://DEINNAME.github.io/DEINPROJEKT/preview.jpg" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet" />
 
   <style>
-    body {
-      font-family: system-ui, sans-serif;
-      margin: 1rem;
-      background: #fdfdfd;
-      color: #333;
+    :root {
+      --blue: #007BFF;
+      --green: #28a745;
+      --orange: #fd7e14;
+      --light: #f8f9fa;
+      --dark: #343a40;
+      --radius: 14px;
     }
 
-    h1 {
-      font-size: 1.5rem;
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background: var(--light);
+      color: var(--dark);
+      padding: 1rem;
+    }
+
+    header {
+      text-align: center;
+      padding: 2rem 1rem 1rem;
+    }
+
+    header h1 {
+      font-size: 2rem;
+      color: var(--blue);
+      margin-bottom: 0.25rem;
+    }
+
+    header p {
+      font-size: 1rem;
+      color: #666;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1rem;
+      margin-top: 1.5rem;
+    }
+
+    .card {
+      background: white;
+      padding: 1rem;
+      border-radius: var(--radius);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+      transition: transform 0.2s, box-shadow 0.3s;
+    }
+
+    .card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+    }
+
+    .sport-title {
+      font-weight: bold;
+      font-size: 1.1rem;
       margin-bottom: 0.5rem;
     }
 
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 1rem;
+    .time {
       font-size: 0.95rem;
+      color: #555;
     }
 
-    th, td {
-      padding: 0.6rem;
-      border: 1px solid #ccc;
-      text-align: left;
+    .sender {
+      margin-top: 0.25rem;
+      font-weight: bold;
+      font-size: 0.85rem;
+      padding: 2px 8px;
+      display: inline-block;
+      border-radius: 8px;
+      color: white;
     }
 
-    th {
-      background: #eee;
+    .sender.zdf { background-color: var(--orange); }
+    .sender.dazn { background-color: black; }
+    .sender.eurosport { background-color: var(--blue); }
+    .sender.kicker { background-color: #444; }
+    .sender.sportschau { background-color: var(--green); }
+
+    footer {
+      margin-top: 3rem;
+      text-align: center;
+      font-size: 0.9rem;
     }
 
-    @media screen and (max-width: 600px) {
-      table, thead, tbody, th, td, tr {
-        display: block;
-      }
-      tr {
-        margin-bottom: 1rem;
-      }
-      td {
-        padding-left: 50%;
-        position: relative;
-      }
-      td::before {
-        position: absolute;
-        left: 0.5rem;
-        top: 0.6rem;
-        width: 45%;
-        font-weight: bold;
-        white-space: nowrap;
-      }
-      td:nth-of-type(1)::before { content: "Uhrzeit"; }
-      td:nth-of-type(2)::before { content: "Spiel / Event"; }
-      td:nth-of-type(3)::before { content: "Sender"; }
-      th {
-        display: none;
-      }
+    footer a {
+      color: #666;
+      text-decoration: none;
+      margin: 0 0.5rem;
+    }
+
+    .cta {
+      margin: 2rem auto 0;
+      text-align: center;
+    }
+
+    .cta-button {
+      background: var(--green);
+      color: white;
+      padding: 0.75rem 1.5rem;
+      border: none;
+      border-radius: var(--radius);
+      font-size: 1rem;
+      cursor: pointer;
+      animation: pulse 2s infinite;
+      box-shadow: 0 0 0 rgba(40, 167, 69, 0.5);
+      transition: background 0.3s ease;
+    }
+
+    .cta-button:hover {
+      background: #218838;
+    }
+
+    @keyframes pulse {
+      0% { box-shadow: 0 0 0 0 rgba(40, 167, 69, 0.5); }
+      70% { box-shadow: 0 0 0 15px rgba(40, 167, 69, 0); }
+      100% { box-shadow: 0 0 0 0 rgba(40, 167, 69, 0); }
     }
   </style>
 </head>
-<body>
-  <h1>📺 Fußball heute – 2025-07-10</h1>
-  <table>
-    <thead>
-      <tr>
-        <th>Uhrzeit</th>
-        <th>Spiel / Event</th>
-        <th>Sender</th>
-      </tr>
-    </thead>
-    <tbody>
-      
-      <tr>
-        <td>21:00</td>
-        <td>Finnland vs Schweiz</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>21:00</td>
-        <td>Norwegen vs Island</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>12:35</td>
-        <td> vs </td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>18:00</td>
-        <td>Sabah FK vs NK Celje</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>18:30</td>
-        <td>AEK Larnaca vs Partizan Belgrad</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>19:00</td>
-        <td>FC Sheriff vs FC Prishtina</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>19:00</td>
-        <td>Paksi SE vs CFR Cluj</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>19:30</td>
-        <td>Levski Sofia vs Hapoel Be'er Sheva</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>20:00</td>
-        <td>Schachtar Donezk vs Ilves Tampere</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>20:15</td>
-        <td>Spartak Trnava vs BK Häcken</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>21:00</td>
-        <td>Legia Warschau vs FK Aktobe</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>16:00</td>
-        <td>Atlétic Escaldes vs F91 Dudelange</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>17:00</td>
-        <td>FCB Magpies vs Paide Linnameeskond</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>18:00</td>
-        <td>Torpedo Kutaisi vs FK Ordabasy</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>18:00</td>
-        <td>SJK Seinäjoki vs KÍ Klaksvík</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>18:00</td>
-        <td>Kauno Žalgiris vs Penybont FC</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>18:30</td>
-        <td>FC Urartu vs Neman Grodno</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>18:30</td>
-        <td>RFCU Luxemburg vs Dila Gori</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>18:45</td>
-        <td>JK Nõmme Kalju vs FK Partizani</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>20:00</td>
-        <td>FK Vllaznia vs BFC Daugavpils</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>20:00</td>
-        <td>Birkirkara FC vs CS Petrocub</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>20:00</td>
-        <td>FK Dečić Tuzi vs Sileks Kratovo</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>20:00</td>
-        <td>Torpedo-BelAZ Zhodino vs FK Rabotnički</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>20:15</td>
-        <td>KF Malisheva vs Víkingur Reykjavík</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>20:30</td>
-        <td>Željezničar Sarajevo vs FC Koper</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>20:30</td>
-        <td>Vardar Skopje vs SP La Fiorita</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>20:30</td>
-        <td>FK Sutjeska vs Dinamo Brest</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>20:45</td>
-        <td>NSÍ Runavík vs HJK Helsinki</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>20:45</td>
-        <td>St Patrick's Athletic vs FC Hegelmann</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>21:00</td>
-        <td>SP Tre Fiori vs Pyunik FC</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>21:00</td>
-        <td>Borac Banja Luka vs FC Santa Coloma</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>21:00</td>
-        <td>Larne FC vs FK Auda</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>22:00</td>
-        <td>Valur Reykjavík vs FC Flora</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>02:30</td>
-        <td>Thailand vs USA</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>08:30</td>
-        <td>Frankreich vs Brasilien</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>12:20</td>
-        <td>Südkorea vs Japan</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>17:00</td>
-        <td>Italien vs Serbien</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>20:30</td>
-        <td>Belgien vs Niederlande</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>23:00</td>
-        <td>Thailand vs Deutschland</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>14:30</td>
-        <td>Aryna Sabalenka vs Amanda Anisimova</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>15:40</td>
-        <td>Belinda Bencic vs Iga Świątek</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>14:00</td>
-        <td>Arevalo, M. / Pavic, M. vs Hijikata, R. / Pel, D.</td>
-        <td>Sportshau</td>
-      </tr>
-      
-      <tr>
-        <td>15:10</td>
-        <td>Granollers, M. / Zeballos, H. vs Cash, J. / Glasspool, L.</td>
-        <td>Sportshau</td>
-      </tr>
-      
-    </tbody>
-  </table>
 
-  <p style="margin-top:2rem; font-size: 0.85rem; color: #666;">Automatisch generiert. Keine Garantie auf Vollständigkeit oder Richtigkeit. © 2025</p>
+<body>
+
+<header>
+  <h1>Where2Watch</h1>
+  <p>Live-Sport heute im TV & Stream</p>
+</header>
+
+<div class="cta">
+  <button class="cta-button">📅 Kalender-Export (bald verfügbar)</button>
+</div>
+
+<main class="grid" id="eventGrid">
+  <!-- Inhalte werden durch JavaScript geladen -->
+</main>
+
+<footer>
+  <a href="pages/impressum.html">Impressum</a> |
+  <a href="pages/datenschutz.html">Datenschutz</a>
+</footer>
+
+<script>
+  async function loadEvents() {
+    const today = new Date().toISOString().slice(0, 10); // z.B. 2025-07-10
+    const url = `sports_schedule_${today}.json`;
+
+    try {
+      const res = await fetch(url);
+      const data = await res.json();
+      const grid = document.getElementById("eventGrid");
+      grid.innerHTML = "";
+
+      data.events.forEach(event => {
+        const card = document.createElement("div");
+        card.className = "card";
+
+        const sport = document.createElement("div");
+        sport.className = "sport-title";
+        sport.textContent = event.sport;
+
+        const time = document.createElement("div");
+        time.className = "time";
+        time.textContent = `${event.time} – ${event.title}`;
+
+        const sender = document.createElement("div");
+        sender.className = "sender " + (event.sender || "").toLowerCase().replace(/\s+/g, "");
+        sender.textContent = event.sender;
+
+        card.appendChild(sport);
+        card.appendChild(time);
+        card.appendChild(sender);
+
+        grid.appendChild(card);
+      });
+
+    } catch (e) {
+      console.error("Fehler beim Laden:", e);
+      document.getElementById("eventGrid").innerHTML = "<p style='text-align:center;'>Heute sind keine Daten verfügbar.</p>";
+    }
+  }
+
+  loadEvents();
+</script>
+
 </body>
 </html>
