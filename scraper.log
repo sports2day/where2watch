@@ -1,0 +1,31 @@
+2025-07-10 11:45:56,512 [INFO] Starting full scraping process
+2025-07-10 11:51:08,434 [INFO] Starting full scraping process
+2025-07-10 11:51:08,434 [INFO] Scraping: https://www.sportschau.de/live/
+2025-07-10 11:51:08,868 [ERROR] Error scraping Sportschau: 404 Client Error: Not Found for url: https://www.sportschau.de/live/
+2025-07-10 11:51:08,868 [INFO] Scraping: https://www.zdf.de/live-tv
+2025-07-10 11:51:09,100 [INFO] → 0 events from ZDF
+2025-07-10 11:51:09,100 [INFO] Scraping: https://www.eurosport.de/tv-sender.shtml
+2025-07-10 11:51:09,403 [ERROR] Error scraping Eurosport: 404 Client Error: Not Found for url: https://www.eurosport.de/tv-sender.shtml
+2025-07-10 11:51:09,403 [INFO] Scraping: https://www.kicker.de/live
+2025-07-10 11:51:09,702 [INFO] → 0 items from Kicker
+2025-07-10 11:51:09,708 [INFO] Saved 0 events to 'sports_schedule_2025-07-10.json'
+2025-07-10 11:52:54,371 [INFO] Starting full scraping process
+2025-07-10 11:52:54,371 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-10 11:52:54,923 [INFO] → 43 events from Sportschau
+2025-07-10 11:52:54,924 [INFO] Scraping: https://www.zdf.de/live-tv
+2025-07-10 11:52:55,134 [INFO] → 0 events from ZDF
+2025-07-10 11:52:55,135 [INFO] Scraping: https://www.eurosport.de/tv-sender.shtml
+2025-07-10 11:52:55,609 [ERROR] Error scraping Eurosport: 404 Client Error: Not Found for url: https://www.eurosport.de/tv-sender.shtml
+2025-07-10 11:52:55,609 [INFO] Scraping: https://www.kicker.de/live
+2025-07-10 11:52:55,863 [INFO] → 0 items from Kicker
+2025-07-10 11:52:55,865 [INFO] Saved 43 events to 'sports_schedule_2025-07-10.json'
+2025-07-10 12:07:36,220 [INFO] Starting full scraping process
+2025-07-10 12:07:36,220 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-10 12:07:36,679 [INFO] → 43 events from Sportschau
+2025-07-10 12:07:36,680 [INFO] Scraping: https://www.zdf.de/live-tv
+2025-07-10 12:07:36,893 [INFO] → 0 events from ZDF
+2025-07-10 12:07:36,894 [INFO] Scraping: https://www.eurosport.de/tv-sender.shtml
+2025-07-10 12:07:37,213 [ERROR] Error scraping Eurosport: 404 Client Error: Not Found for url: https://www.eurosport.de/tv-sender.shtml
+2025-07-10 12:07:37,214 [INFO] Scraping: https://www.kicker.de/live
+2025-07-10 12:07:37,476 [INFO] → 0 items from Kicker
+2025-07-10 12:07:37,478 [INFO] Saved 43 events to 'sports_schedule_2025-07-10.json'
