@@ -9,130 +9,91 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet" />
 
   <style>
-    :root {
-      --blue: #007BFF;
-      --green: #28a745;
-      --orange: #fd7e14;
-      --light: #f8f9fa;
-      --dark: #343a40;
-      --radius: 14px;
-    }
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f9f9fb;
+  margin: 0;
+  padding: 0 1rem;
+}
 
-    * {
-      box-sizing: border-box;
-    }
+h1 {
+  color: #0077ff;
+  text-align: center;
+  font-size: 2.5rem;
+  margin-top: 2rem;
+}
 
-    body {
-      margin: 0;
-      font-family: 'Inter', sans-serif;
-      background: var(--light);
-      color: var(--dark);
-      padding: 1rem;
-    }
+p {
+  text-align: center;
+  color: #555;
+}
 
-    header {
-      text-align: center;
-      padding: 2rem 1rem 1rem;
-    }
+.sport-section {
+  margin: 2rem 0;
+}
 
-    header h1 {
-      font-size: 2rem;
-      color: var(--blue);
-      margin-bottom: 0.25rem;
-    }
+.sport-section h2 {
+  margin-bottom: 1rem;
+  padding-left: 0.75rem;
+  font-size: 1.5rem;
+  background-color: #fff;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+}
 
-    header p {
-      font-size: 1rem;
-      color: #666;
-    }
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+}
 
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-      gap: 1rem;
-      margin-top: 1.5rem;
-    }
+.card {
+  background-color: #ffffff;
+  border-radius: 1rem;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+  padding: 1rem;
+  transition: transform 0.2s, box-shadow 0.3s;
+}
 
-    .card {
-      background: white;
-      padding: 1rem;
-      border-radius: var(--radius);
-      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
-      transition: transform 0.2s, box-shadow 0.3s;
-    }
+.card:hover {
+  transform: scale(1.02);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+}
 
-    .card:hover {
-      transform: translateY(-4px);
-      box-shadow: 0 6px 18px rgba(0,0,0,0.1);
-    }
+.card-time {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #333;
+}
 
-    .sport-title {
-      font-weight: bold;
-      font-size: 1.1rem;
-      margin-bottom: 0.5rem;
-    }
+.card-title {
+  margin-top: 0.5rem;
+  font-size: 1rem;
+  font-weight: 500;
+}
 
-    .time {
-      font-size: 0.95rem;
-      color: #555;
-    }
+.card-sender {
+  margin-top: 0.25rem;
+  color: #888;
+  font-size: 0.9rem;
+}
 
-    .sender {
-      margin-top: 0.25rem;
-      font-weight: bold;
-      font-size: 0.85rem;
-      padding: 2px 8px;
-      display: inline-block;
-      border-radius: 8px;
-      color: white;
-    }
+/* Responsiv */
+@media (max-width: 600px) {
+  h1 {
+    font-size: 2rem;
+  }
 
-    .sender.zdf { background-color: var(--orange); }
-    .sender.dazn { background-color: black; }
-    .sender.eurosport { background-color: var(--blue); }
-    .sender.kicker { background-color: #444; }
-    .sender.sportschau { background-color: var(--green); }
+  .card-time {
+    font-size: 1rem;
+  }
 
-    footer {
-      margin-top: 3rem;
-      text-align: center;
-      font-size: 0.9rem;
-    }
-
-    footer a {
-      color: #666;
-      text-decoration: none;
-      margin: 0 0.5rem;
-    }
-
-    .cta {
-      margin: 2rem auto 0;
-      text-align: center;
-    }
-
-    .cta-button {
-      background: var(--green);
-      color: white;
-      padding: 0.75rem 1.5rem;
-      border: none;
-      border-radius: var(--radius);
-      font-size: 1rem;
-      cursor: pointer;
-      animation: pulse 2s infinite;
-      box-shadow: 0 0 0 rgba(40, 167, 69, 0.5);
-      transition: background 0.3s ease;
-    }
-
-    .cta-button:hover {
-      background: #218838;
-    }
-
-    @keyframes pulse {
-      0% { box-shadow: 0 0 0 0 rgba(40, 167, 69, 0.5); }
-      70% { box-shadow: 0 0 0 15px rgba(40, 167, 69, 0); }
-      100% { box-shadow: 0 0 0 0 rgba(40, 167, 69, 0); }
-    }
-  </style>
+  .card-title {
+    font-size: 0.95rem;
+  }
+}
+</style>
 </head>
 
 <body>
@@ -156,47 +117,100 @@
 </footer>
 
 <script>
+  document.addEventListener("DOMContentLoaded", () => {
+    loadEvents();
+  });
+  
   async function loadEvents() {
-    const today = new Date().toISOString().slice(0, 10); // z.B. 2025-07-10
+    const today = new Date().toISOString().split("T")[0];
     const url = `sports_schedule_${today}.json`;
-
+  
+    const sportColors = {
+      Fußball: "#28a745",
+      Radsport: "#fd7e14",
+      Handball: "#007bff",
+      Basketball: "#8e44ad",
+      Tennis: "#c0392b",
+      Unbekannt: "#6c757d"
+    };
+  
+    const sportIcons = {
+      Fußball: "⚽",
+      Radsport: "🚴",
+      Handball: "🤾",
+      Basketball: "🏀",
+      Tennis: "🎾",
+      Unbekannt: "📺"
+    };
+  
     try {
-      const res = await fetch(url);
-      const data = await res.json();
-      const grid = document.getElementById("eventGrid");
-      grid.innerHTML = "";
-
-      data.events.forEach(event => {
-        const card = document.createElement("div");
-        card.className = "card";
-
-        const sport = document.createElement("div");
-        sport.className = "sport-title";
-        sport.textContent = event.sport;
-
-        const time = document.createElement("div");
-        time.className = "time";
-        time.textContent = `${event.time} – ${event.title}`;
-
-        const sender = document.createElement("div");
-        sender.className = "sender " + (event.sender || "").toLowerCase().replace(/\s+/g, "");
-        sender.textContent = event.sender;
-
-        card.appendChild(sport);
-        card.appendChild(time);
-        card.appendChild(sender);
-
-        grid.appendChild(card);
-      });
-
-    } catch (e) {
-      console.error("Fehler beim Laden:", e);
-      document.getElementById("eventGrid").innerHTML = "<p style='text-align:center;'>Heute sind keine Daten verfügbar.</p>";
+      const response = await fetch(url);
+      if (!response.ok) throw new Error(`HTTP error ${response.status}`);
+      const data = await response.json();
+  
+      const container = document.getElementById("eventsContainer");
+      container.innerHTML = "";
+  
+      if (!data.events || data.events.length === 0) {
+        container.innerHTML = "<p>Heute sind keine Daten verfügbar.</p>";
+        return;
+      }
+  
+      // 1. Gruppieren nach Sportart
+      const groupedEvents = {};
+      for (const event of data.events) {
+        const sport = event.sport || "Unbekannt";
+        if (!groupedEvents[sport]) groupedEvents[sport] = [];
+        groupedEvents[sport].push(event);
+      }
+  
+      // 2. Rendern je Gruppe
+      for (const [sport, events] of Object.entries(groupedEvents)) {
+        events.sort((a, b) => (a.time || "").localeCompare(b.time || ""));
+  
+        const section = document.createElement("div");
+        section.className = "sport-section";
+  
+        const header = document.createElement("h2");
+        header.innerHTML = `${sportIcons[sport] || "📺"} ${sport}`;
+        header.style.borderLeft = `6px solid ${sportColors[sport] || "#6c757d"}`;
+        section.appendChild(header);
+  
+        const grid = document.createElement("div");
+        grid.className = "card-grid";
+  
+        for (const event of events) {
+          const card = document.createElement("div");
+          card.className = "card";
+          card.style.borderLeft = `5px solid ${sportColors[sport] || "#6c757d"}`;
+  
+          const time = document.createElement("div");
+          time.className = "card-time";
+          time.textContent = event.time || "";
+  
+          const title = document.createElement("div");
+          title.className = "card-title";
+          title.textContent = `${event.title}`;
+  
+          const sender = document.createElement("div");
+          sender.className = "card-sender";
+          sender.textContent = event.sender || "";
+  
+          card.append(time, title, sender);
+          grid.appendChild(card);
+        }
+  
+        section.appendChild(grid);
+        container.appendChild(section);
+      }
+  
+    } catch (error) {
+      console.error("❌ Fehler beim Laden der Daten:", error);
+      document.getElementById("eventsContainer").innerHTML =
+        "<p>Heute sind keine Daten verfügbar.</p>";
     }
   }
-
-  loadEvents();
-</script>
+  </script>  
 
 </body>
 </html>
