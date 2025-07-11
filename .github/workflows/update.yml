@@ -2,7 +2,7 @@ name: Daily Update
 
 on:
   schedule:
-    - cron: '0 2 * * *'  # Täglich um 02:00 UTC (04:00 MESZ)
+    - cron: '27 6 * * *'  # Täglich um 02:00 UTC (04:00 MESZ)
   workflow_dispatch:      # Optional: manuell starten
 
 jobs:
