@@ -3,11 +3,12 @@ name: Daily Update
 on:
   schedule:
     - cron: '00 2 * * *'  # Täglich um 02:00 UTC (04:00 MESZ)
-  workflow_dispatch:      # Optional: manuell starten
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -21,17 +22,19 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run scraper
-        run: |
-          python scraper.py
+        run: python scraper.py
 
-      - name: Pull latest changes before pushing
-        run: |
-          git pull origin main --rebase
-
-      - name: Commit and push
+      - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add sports_schedule_*.json
           git commit -m "auto: daily project update $(date +'%Y-%m-%d')" || echo "Nothing to commit"
-          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git main
+
+      - name: Pull latest from origin
+        run: |
+          git pull origin main --rebase || echo "Pull failed or nothing to rebase"
+
+      - name: Push changes
+        run: |
+          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git HEAD:main
