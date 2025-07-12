@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <title>{{title}} – Live heute im TV</title>
+  <meta name="description" content="{{title}} heute um {{time}} live auf {{sender}}." />
+  <link rel="canonical" href="https://sports2day.github.io/where2watch/event/{{slug}}.html" />
+  <meta property="og:title" content="{{title}} – Live heute im TV" />
+  <meta property="og:description" content="Jetzt live: {{title}} um {{time}} auf {{sender}}." />
+  <meta property="og:url" content="https://sports2day.github.io/where2watch/event/{{slug}}.html" />
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="de_DE" />
+  <link rel="stylesheet" href="../style.css" />
+  <link rel="icon" href="../favicon.ico" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "{{title}}",
+    "startDate": "2025-07-10T{{time}}:00",
+    "location": {
+      "@type": "VirtualLocation",
+      "url": "{{link}}"
+    },
+    "performer": {
+      "@type": "SportsTeam",
+      "name": "{{title}}"
+    },
+    "eventBroadcast": {
+      "@type": "BroadcastEvent",
+      "isLiveBroadcast": true,
+      "name": "{{sender}}",
+      "url": "{{link}}"
+    }
+  }
+  </script>
+</head>
+<body>
+  <main>
+    <h1>{{title}}</h1>
+    <p><strong>Zeit:</strong> {{time}}</p>
+    <p><strong>Sender:</strong> {{sender}}</p>
+    {% if subtitle and subtitle.strip() %}
+      <p><strong>Details:</strong> {{ subtitle }}</p>
+    {% endif %}
+    <p><a href="{{link}}" target="_blank">🔗 Zum Livestream / Quelle</a></p>
+    <p><a href="../index.html">← Zurück zur Übersicht</a></p>
+  </main>
+</body>
+</html>

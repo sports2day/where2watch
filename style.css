@@ -1,127 +1,143 @@
 body {
-    font-family: 'Inter', sans-serif;
-    background-color: #f9f9fb;
-    margin: 0;
-    padding: 0 1rem;
-  }
-  
+  font-family: 'Inter', sans-serif;
+  background-color: #f9f9fb;
+  margin: 0;
+  padding: 0 1rem;
+}
+
+h1 {
+  color: #0077ff;
+  text-align: center;
+  font-size: 2.5rem;
+  margin-top: 2rem;
+}
+
+p {
+  text-align: center;
+  color: #555;
+}
+
+.sport-section {
+  margin: 2rem 0;
+}
+
+.sport-section h2 {
+  margin-bottom: 1rem;
+  padding-left: 0.75rem;
+  font-size: 1.5rem;
+  background-color: #fff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 1rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  padding: 1rem;
+  transition: transform 0.2s, box-shadow 0.3s;
+}
+
+.card:hover {
+  transform: scale(1.02);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+.card-time {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #333;
+}
+
+.card-title {
+  margin-top: 0.5rem;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.card-sender {
+  margin-top: 0.25rem;
+  color: #888;
+  font-size: 0.9rem;
+}
+
+.btn-disabled {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  padding: 0.7rem 1.5rem;
+  font-size: 1rem;
+  border-radius: 0.6rem;
+  cursor: not-allowed;
+}
+
+/* Centered section for content like buttons */
+.centered {
+  text-align: center;
+  margin: 1rem auto;
+}
+
+@media (max-width: 600px) {
   h1 {
-    color: #0077ff;
-    text-align: center;
-    font-size: 2.5rem;
-    margin-top: 2rem;
-  }
-  
-  p {
-    text-align: center;
-    color: #555;
-  }
-  
-  .sport-section {
-    margin: 2rem 0;
-  }
-  
-  .sport-section h2 {
-    margin-bottom: 1rem;
-    padding-left: 0.75rem;
-    font-size: 1.5rem;
-    background-color: #fff;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-    padding: 0.5rem 1rem;
-    border-radius: 0.5rem;
-  }
-  
-  .card-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-    gap: 1rem;
-  }
-  
-  .card {
-    background-color: #ffffff;
-    border-radius: 1rem;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
-    padding: 1rem;
-    transition: transform 0.2s, box-shadow 0.3s;
-  }
-  
-  .card:hover {
-    transform: scale(1.02);
-    box-shadow: 0 6px 12px rgba(0,0,0,0.1);
-  }
-  
-  .card-time {
-    font-size: 1.2rem;
-    font-weight: bold;
-    color: #333;
-  }
-  
-  .card-title {
-    margin-top: 0.5rem;
-    font-size: 1rem;
-    font-weight: 500;
-  }
-  
-  .card-sender {
-    margin-top: 0.25rem;
-    color: #888;
-    font-size: 0.9rem;
-  }
-  
-  .btn-disabled {
-    background-color: #28a745;
-    color: white;
-    border: none;
-    padding: 0.7rem 1.5rem;
-    font-size: 1rem;
-    border-radius: 0.6rem;
-    cursor: not-allowed;
-  }
-  
-  @media (max-width: 600px) {
-    h1 {
-      font-size: 2rem;
-    }
-  
-    .card-time {
-      font-size: 1rem;
-    }
-  
-    .card-title {
-      font-size: 0.95rem;
-    }
-  }  
-  #scrollTop {
-    position: fixed;
-    bottom: 1rem;
-    right: 1rem;
-    background: #0077ff;
-    color: white;
-    border: none;
-    border-radius: 50%;
-    width: 48px;
-    height: 48px;
-    font-size: 1.5rem;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
-    cursor: pointer;
-    display: none;
-    z-index: 1000;
-  }
-  #scrollTop.show {
-    display: block;
-  }
-  
-  @media (max-width: 600px) {
-    .sport-section h2 {
-      position: sticky;
-      top: 0;
-      z-index: 100;
-      background-color: #fff;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-    }
+    font-size: 2rem;
   }
 
-  /* Suchfeld */
+  .card-time {
+    font-size: 1rem;
+  }
+
+  .card-title {
+    font-size: 0.95rem;
+  }
+
+  .sport-section h2 {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  }
+}
+
+/* Scroll to top button */
+.scroll-top-btn {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  background: #0077ff;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  font-size: 1.5rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  display: none;
+  z-index: 1000;
+}
+
+.scroll-top-btn.show {
+  display: block;
+}
+
+/* Footer styling */
+.site-footer {
+  text-align: center;
+  margin-top: 3rem;
+  font-size: 0.9rem;
+  padding: 1rem 0;
+  color: #666;
+}
+
+/* Search box */
 .search-box {
   display: block;
   width: 100%;
@@ -133,7 +149,7 @@ body {
   font-size: 1rem;
 }
 
-/* Scrollbares Menü */
+/* Scrollable sport filter menu */
 .sport-filter {
   display: flex;
   overflow-x: auto;
@@ -156,5 +172,3 @@ body {
   background-color: #0077ff;
   color: white;
 }
-
-  

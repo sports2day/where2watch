@@ -137,7 +137,7 @@ function enableSportFilter() {
 
 
 async function loadEvents() {
-  const today = new Date().toISOString().split("T")[0];
+  const today = new Date().toISOString().split("T")[0]; //local testing toLocaleDateString("sv-SE");
   const url = `sports_schedule_${today}.json`;
 
   try {

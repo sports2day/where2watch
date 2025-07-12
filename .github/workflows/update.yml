@@ -21,19 +21,28 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run scraper
-        run: python scraper.py
-
-      - name: Commit changes
+      - name: Pull latest from origin (before generating)
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add sports_schedule_*.json
-          git commit -m "auto: daily project update $(date +'%Y-%m-%d')" || echo "Nothing to commit"
+          git pull origin main --rebase || echo "Nothing to pull"
 
-      - name: Pull latest from origin
+      - name: Run scraper
+        run: python scraper.py
+
+      - name: Generate event pages
+        run: python tools/generate_event_pages.py
+
+      - name: Generate static SEO pages
+        run: python tools/generate_static_pages.py
+
+      - name: Generate sitemap.xml and update robots.txt
+        run: python tools/generate_sitemap.py
+
+      - name: Commit changes
         run: |
-          git pull origin main --rebase || echo "Pull failed or nothing to rebase"
+          git add sports_schedule_*.json events/*.html pages/*.html sitemap.xml robots.txt
+          git commit -m "auto: daily content update $(date +'%Y-%m-%d')" || echo "Nothing to commit"
 
       - name: Push changes
         run: |

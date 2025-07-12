@@ -5,14 +5,17 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Sport heute im TV – Live-Übersicht für ZDF, Eurosport & Co</title>
-  <meta name="description"
-    content="Alle Sportevents heute im Fernsehen und Stream. Senderübersicht für ZDF, Eurosport, Kicker und mehr.">
+  <meta name="description" content="Alle Sportevents heute im Fernsehen und Stream. Senderübersicht für ZDF, Eurosport, Kicker und mehr." />
   <link rel="canonical" href="https://sports2day.github.io/where2watch/" />
   <meta property="og:title" content="Sport heute im TV – Where2Watch" />
   <meta property="og:description" content="Live-Sport heute im Fernsehen und Stream. Jetzt Events entdecken." />
+  <meta property="og:url" content="https://sports2day.github.io/where2watch/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="de_DE" />
   <link rel="stylesheet" href="style.css" />
-  <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/69/69524.png" />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <!-- Thanks to https://icons8.com for the awesome favicon -->
+  <link rel="icon" href="favicon.ico" type="image/x-icon" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
   <!-- Google Analytics (GA4) – anonymisierte IP -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-1H2FMTV41X"></script>
   <script>
@@ -23,24 +26,49 @@
       'anonymize_ip': true
     });
   </script>
+
+  <!-- JSON-LD structured data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Where2Watch – Sport heute im TV",
+    "url": "https://sports2day.github.io/where2watch/",
+    "description": "Alle Sportübertragungen heute im TV & Stream – Fußball, Radsport, Tennis, Handball uvm. auf Sendern wie ZDF, Eurosport, Sportschau und Kicker.",
+    "inLanguage": "de",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://sports2day.github.io/where2watch/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
 </head>
 
 <body>
   <main>
     <h1>Where2Watch</h1>
     <p>Live-Sport heute im TV & Stream</p>
-    <div style="text-align:center; margin: 1rem;">
-      <button class="btn-disabled">📅 Kalender-Export (bald verfügbar)</button>
+    <div class="centered">
+      <button class="btn-disabled" aria-disabled="true">📅 Kalender-Export (bald verfügbar)</button>
     </div>
     <div id="eventsContainer">Lade Sportevents...</div>
   </main>
 
-  <script src="script.js"></script>
-  <button id="scrollTop">⬆</button>
-  <footer style="text-align:center; margin-top:3rem; font-size:0.9rem;">
+  <nav>
+    <button id="scrollTop" class="scroll-top-btn" aria-label="Zurück nach oben">⬆</button>
+  </nav>
+
+  <footer class="site-footer">
     <a href="pages/impressum.html">Impressum</a> ·
     <a href="pages/datenschutz.html">Datenschutz</a>
+    <br /><br />
+    <a href="pages/fussball.html">⚽ Fußball heute im TV</a> ·
+    <a href="pages/eurosport.html">📺 Eurosport Sportprogramm</a> ·
+    <a href="pages/sportschau.html">📺 Sportschau Live-Übertragungen</a>
   </footer>
+
+  <script src="script.js"></script>
 </body>
 
 </html>
