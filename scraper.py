@@ -142,13 +142,20 @@ def scrape_eurosport():
         response = requests.get(SCRAPER_CONFIG["sources"]["eurosport"], params=params, headers=headers, timeout=15)
         response.raise_for_status()
         data = response.json()
+        #print(json.dumps(data, indent=2))
+        # Write to a file
+        #with open('output_eurosport.json', 'w') as file:
+        #    json.dump(data, file, indent=2)
 
         edges = data.get("data", {}).get("programsByDate", {}).get("edges", [])
+        if not edges:
+            logger.warning("No events found in Eurosport data")
+            return []
         for item in edges:
             node = item.get("node", {})
-            sport = node.get("sportName", "Unknown").strip()
-            title = node.get("title", "").strip()
-            subtitle = node.get("subtitle", "").strip()
+            sport = (node.get("sportName") or "Unknown").strip()
+            title = (node.get("title") or "").strip()
+            subtitle = (node.get("subtitle") or "").strip()
             time = node.get("startTime", "")[11:16]
             url = node.get("programLink", {}).get("url", "")
             # ToDo: Get legal permission from Eurosport to use images.
