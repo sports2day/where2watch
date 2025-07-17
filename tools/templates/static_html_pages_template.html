@@ -17,30 +17,35 @@
 </head>
 
 <body>
-  <main>
-    <h1>{{ heading }}</h1>
-    <p>{{ subheading }}</p>
+  <main class="static-page">
+    <nav class="nav-links">
+      <a class="nav-button" href="../index.html">⬅ Zur Übersicht</a>
+    </nav>
+
+    <header class="static-header">
+      <h1>{{ heading }}</h1>
+      <p class="static-subheading">{{ subheading }}</p>
+    </header>
 
     {% if events %}
-      <ul class="event-list">
+    <section class="static-events">
+      <div class="card-grid">
         {% for event in events %}
-        <li class="event-card">
-          <strong>{{ event.time }}</strong> – 
-          <a href="{{ event.link }}">{{ event.title }}</a>
-          {% if event.subtitle %}<br /><small>{{ event.subtitle }}</small>{% endif %}
-          <div><em>{{ event.sport }} · {{ event.sender }}</em></div>
-        </li>
+        <div class="card" style="border-left: 5px solid #0077ff;">
+          <div class="card-time">{{ event.time }}</div>
+          <a class="card-title" href="{{ event.link }}" target="_blank">{{ event.title }}</a>
+          {% if event.subtitle %}<div class="card-subtitle">{{ event.subtitle }}</div>{% endif %}
+          <div class="card-sender">{{ event.sport }} · {{ event.sender }}</div>
+        </div>
         {% endfor %}
-      </ul>
+      </div>
+    </section>
     {% else %}
-      <p>Aktuell sind keine passenden Events verfügbar.</p>
+    <section><p>Aktuell sind keine passenden Events verfügbar.</p></section>
     {% endif %}
   </main>
 
-  <footer class="site-footer">
-    <a href="../index.html">Startseite</a> ·
-    <a href="impressum.html">Impressum</a> ·
-    <a href="datenschutz.html">Datenschutz</a>
-  </footer>
+  {% include "footer_template.html" %}
+  <button onclick="scrollToTop()" class="scroll-top-btn" aria-label="Nach oben scrollen">↑</button>
 </body>
 </html>

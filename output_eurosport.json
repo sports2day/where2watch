@@ -1,0 +1,3097 @@
+{
+    "data": {
+        "programsByDate": {
+            "edges": [
+                {
+                    "node": {
+                        "id": "esp-e200762044c0ch2201",
+                        "status": "ONAIR",
+                        "startTime": "2025-07-16T23:25:26.840Z",
+                        "endTime": "2025-07-17T01:59:51.800Z",
+                        "title": "FIA WEC | 6h von Imola | Rennen",
+                        "subtitle": "Langstrecken-WM | 2. Station",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/fia-wec-round-2-6-hours-of-imola-8532935"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/200_0_200361804_20250411-173457.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/200_0_200361804_20250411-173458.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/200_0_200361804_20250411-173458.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "CH",
+                            "DE",
+                            "LI"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": false,
+                        "programDuration": 9264,
+                        "sportId": 554,
+                        "sportName": "WEC",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjIwMQ==",
+                            "channelNetsportId": "esp-2201",
+                            "name": "EUROSPORT 2",
+                            "family": "EUROSPORT2",
+                            "link": {
+                                "url": "https://www.eurosport.de/eurosport-2-germany_ifcesp-2201/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200748837c0ch2201",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T01:59:51.800Z",
+                        "endTime": "2025-07-17T03:57:38.160Z",
+                        "title": "Tour de France | 11. Etappe",
+                        "subtitle": "Toulouse - Toulouse (156,8km) | M\u00e4nner | UCI World Tour",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/tour-de-france-stage-11-8532988"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/1_1_200381167_20250716-132652.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/1_1_200381167_20250716-132652.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/1_1_200381167_20250716-132652.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "CH",
+                            "DE",
+                            "LI"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": false,
+                        "programDuration": 7066,
+                        "sportId": 18,
+                        "sportName": "Radsport",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjIwMQ==",
+                            "channelNetsportId": "esp-2201",
+                            "name": "EUROSPORT 2",
+                            "family": "EUROSPORT2",
+                            "link": {
+                                "url": "https://www.eurosport.de/eurosport-2-germany_ifcesp-2201/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200764270c0ch2201",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T03:57:38.160Z",
+                        "endTime": "2025-07-17T05:28:50.840Z",
+                        "title": "Tour Championship | Finale",
+                        "subtitle": "J. Higgins - M. Selby | Manchester",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/tour-championship-8532947"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/2201_1_200706797_20250627-105853.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/2201_1_200706797_20250627-105853.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/2201_1_200706797_20250627-105854.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "CH",
+                            "DE",
+                            "LI"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": false,
+                        "programDuration": 5472,
+                        "sportId": 52,
+                        "sportName": "Snooker",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjIwMQ==",
+                            "channelNetsportId": "esp-2201",
+                            "name": "EUROSPORT 2",
+                            "family": "EUROSPORT2",
+                            "link": {
+                                "url": "https://www.eurosport.de/eurosport-2-germany_ifcesp-2201/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200764601c0ch2201",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T05:28:50.840Z",
+                        "endTime": "2025-07-17T06:31:38.840Z",
+                        "title": "FIA WEC | 6h von S\u00e3o Paulo | Highlights",
+                        "subtitle": "Langstrecken-WM | 5. Saisonlauf",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/fia-wec-6-hours-of-sao-paulo-review"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/1_1_200361968_20250714-162128.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/1_1_200361968_20250714-162128.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/1_1_200361968_20250714-162128.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "CH",
+                            "DE",
+                            "LI"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": false,
+                        "programDuration": 3768,
+                        "sportId": 554,
+                        "sportName": "WEC",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjIwMQ==",
+                            "channelNetsportId": "esp-2201",
+                            "name": "EUROSPORT 2",
+                            "family": "EUROSPORT2",
+                            "link": {
+                                "url": "https://www.eurosport.de/eurosport-2-germany_ifcesp-2201/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200762348c0ch1",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T06:31:14.840Z",
+                        "endTime": "2025-07-17T08:24:03.040Z",
+                        "title": "FIA WEC | 6h von Imola | Rennen",
+                        "subtitle": "Langstrecken-WM | 2. Station",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/fia-wec-6h-von-imola-rennen-8533307"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/200_0_200361804_20250411-173457.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/200_0_200361804_20250411-173458.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/200_0_200361804_20250411-173458.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "DE",
+                            "LI",
+                            "LU",
+                            "CH"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": false,
+                        "programDuration": 6768,
+                        "sportId": 554,
+                        "sportName": "WEC",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMQ==",
+                            "channelNetsportId": "esp-1",
+                            "name": "EUROSPORT 1",
+                            "family": "EUROSPORT1",
+                            "link": {
+                                "url": "https://www.eurosport.de/eurosport-1-germany_ifcesp-1/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200794285c0ch2201",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T06:31:38.840Z",
+                        "endTime": "2025-07-17T06:57:29.440Z",
+                        "title": "UCI Downhill Weltcup | Vallnord-Pal Arinsal | Frauen Elite",
+                        "subtitle": "WHOOP UCI Mountain Bike World Series",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/uci-downhill-world-cup-women-elite-pal-arinsal-8533301"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/1_1_217088_20250714-134319.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/1_1_217088_20250714-134319.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/1_1_217088_20250714-134319.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "CH",
+                            "DE",
+                            "LI"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": false,
+                        "programDuration": 1550,
+                        "sportId": 69,
+                        "sportName": "Mountainbike",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjIwMQ==",
+                            "channelNetsportId": "esp-2201",
+                            "name": "EUROSPORT 2",
+                            "family": "EUROSPORT2",
+                            "link": {
+                                "url": "https://www.eurosport.de/eurosport-2-germany_ifcesp-2201/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200794268c0ch2201",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T06:57:29.440Z",
+                        "endTime": "2025-07-17T07:56:36.520Z",
+                        "title": "UCI Downhill Weltcup | Vallnord-Pal Arinsal | M\u00e4nner Elite",
+                        "subtitle": "WHOOP UCI Mountain Bike World Series | Abfahrt",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/uci-downhill-world-cup-men-elite-pal-arinsal-8533300"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/200_1_217243_20250712-114441.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/200_1_217243_20250712-114441.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/200_1_217243_20250712-114441.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "CH",
+                            "DE",
+                            "LI"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": false,
+                        "programDuration": 3547,
+                        "sportId": 69,
+                        "sportName": "Mountainbike",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjIwMQ==",
+                            "channelNetsportId": "esp-2201",
+                            "name": "EUROSPORT 2",
+                            "family": "EUROSPORT2",
+                            "link": {
+                                "url": "https://www.eurosport.de/eurosport-2-germany_ifcesp-2201/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200748306c0ch2201",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T07:56:36.520Z",
+                        "endTime": "2025-07-17T08:55:28.160Z",
+                        "title": "Tour de France | 11. Etappe",
+                        "subtitle": "Toulouse - Toulouse (156,8km) | M\u00e4nner | UCI World Tour",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/tour-de-france-stage-11-8533302"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/1_1_200381167_20250716-132652.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/1_1_200381167_20250716-132652.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/1_1_200381167_20250716-132652.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "CH",
+                            "DE",
+                            "LI"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": false,
+                        "programDuration": 3531,
+                        "sportId": 18,
+                        "sportName": "Radsport",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjIwMQ==",
+                            "channelNetsportId": "esp-2201",
+                            "name": "EUROSPORT 2",
+                            "family": "EUROSPORT2",
+                            "link": {
+                                "url": "https://www.eurosport.de/eurosport-2-germany_ifcesp-2201/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200544899c0ch1",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T08:24:03.040Z",
+                        "endTime": "2025-07-17T08:57:36.400Z",
+                        "title": "Racing on the Edge",
+                        "subtitle": "SailGP-Magazin",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/racing-on-the-edge-8533323"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/1_1_200544594_20250714-081000.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/1_1_200544594_20250714-081000.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/1_1_200544594_20250714-081000.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "DE",
+                            "LI",
+                            "LU",
+                            "CH"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": false,
+                        "programDuration": 2013,
+                        "sportId": 66,
+                        "sportName": "Segeln",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMQ==",
+                            "channelNetsportId": "esp-1",
+                            "name": "EUROSPORT 1",
+                            "family": "EUROSPORT1",
+                            "link": {
+                                "url": "https://www.eurosport.de/eurosport-1-germany_ifcesp-1/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200759947c0ch2201",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T08:55:28.160Z",
+                        "endTime": "2025-07-17T12:00:00.000Z",
+                        "title": "FIA WEC | 6h von Imola | Rennen",
+                        "subtitle": "Langstrecken-WM | 2. Station",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/fia-wec-round-2-6-hours-of-imola-8533292"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/200_0_200361804_20250411-173457.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/200_0_200361804_20250411-173458.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/200_0_200361804_20250411-173458.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "CH",
+                            "DE",
+                            "LI"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": false,
+                        "programDuration": 11071,
+                        "sportId": 554,
+                        "sportName": "WEC",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjIwMQ==",
+                            "channelNetsportId": "esp-2201",
+                            "name": "EUROSPORT 2",
+                            "family": "EUROSPORT2",
+                            "link": {
+                                "url": "https://www.eurosport.de/eurosport-2-germany_ifcesp-2201/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200794247c0ch1",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T08:57:36.400Z",
+                        "endTime": "2025-07-17T09:54:33.640Z",
+                        "title": "UCI XCO Weltcup | Vallnord-Pal Arinsal | Frauen Elite",
+                        "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Olympic",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/uci-xco-weltcup-vallnord-pal-arinsal-frauen-elite-8533316"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/1_1_200393228_20250710-132027.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/1_1_200393228_20250710-132027.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/1_1_200393228_20250710-132027.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "DE",
+                            "LI",
+                            "LU",
+                            "CH"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": false,
+                        "programDuration": 3417,
+                        "sportId": 69,
+                        "sportName": "Mountainbike",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMQ==",
+                            "channelNetsportId": "esp-1",
+                            "name": "EUROSPORT 1",
+                            "family": "EUROSPORT1",
+                            "link": {
+                                "url": "https://www.eurosport.de/eurosport-1-germany_ifcesp-1/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200820066c0ch20001",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T09:25:00.000Z",
+                        "endTime": "2025-07-17T11:15:00.000Z",
+                        "title": "Rhine-Ruhr 2025 | Einzel Mehrkampf | Reifen / Ball",
+                        "subtitle": "FISU World University Games | Essen | Englischer Kommentar",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/fisu-world-university-games-8481410"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/20001_4_200820066_20250619-144756.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/20001_4_200820066_20250619-144756.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/20001_4_200820066_20250619-144756.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AD",
+                            "AL",
+                            "AM",
+                            "AT",
+                            "AX",
+                            "AZ",
+                            "BA",
+                            "BE",
+                            "BG",
+                            "BL",
+                            "BQ",
+                            "BY",
+                            "CH",
+                            "CW",
+                            "CY",
+                            "CZ",
+                            "DE",
+                            "DK",
+                            "EE",
+                            "ES",
+                            "FI",
+                            "FK",
+                            "FO",
+                            "FR",
+                            "GB",
+                            "GE",
+                            "GF",
+                            "GG",
+                            "GI",
+                            "GL",
+                            "GP",
+                            "GR",
+                            "GY",
+                            "HR",
+                            "HU",
+                            "IE",
+                            "IL",
+                            "IM",
+                            "IS",
+                            "IT",
+                            "JE",
+                            "KG",
+                            "KN",
+                            "KZ",
+                            "LI",
+                            "LT",
+                            "LU",
+                            "LV",
+                            "MC",
+                            "MD",
+                            "ME",
+                            "MF",
+                            "MK",
+                            "MQ",
+                            "MT",
+                            "NC",
+                            "NL",
+                            "NO",
+                            "PF",
+                            "PL",
+                            "PM",
+                            "PT",
+                            "RE",
+                            "RO",
+                            "RS",
+                            "RU",
+                            "SE",
+                            "SI",
+                            "SJ",
+                            "SK",
+                            "SM",
+                            "SX",
+                            "TF",
+                            "TJ",
+                            "TM",
+                            "TR",
+                            "UA",
+                            "UZ",
+                            "VA",
+                            "WF",
+                            "XK",
+                            "YT"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": true,
+                        "programDuration": 6600,
+                        "sportId": 135,
+                        "sportName": "Rhythmische Sportgymnastik",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjAwMDE=",
+                            "channelNetsportId": "esp-20001",
+                            "name": "EUROSPORT",
+                            "family": "LIVE_EVENT",
+                            "link": {
+                                "url": "https://www.eurosport.de/live-event-bolt-1_ifcesp-20001/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200746575c0ch1",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T09:54:33.640Z",
+                        "endTime": "2025-07-17T11:00:00.000Z",
+                        "title": "Tour de France | 11. Etappe",
+                        "subtitle": "Toulouse - Toulouse (156,8km) | M\u00e4nner | UCI World Tour",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/tour-de-france-11-etappe-8533666"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/1_1_200381167_20250716-132652.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/1_1_200381167_20250716-132652.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/1_1_200381167_20250716-132652.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "DE",
+                            "LI",
+                            "LU",
+                            "CH"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": false,
+                        "programDuration": 3926,
+                        "sportId": 18,
+                        "sportName": "Radsport",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMQ==",
+                            "channelNetsportId": "esp-1",
+                            "name": "EUROSPORT 1",
+                            "family": "EUROSPORT1",
+                            "link": {
+                                "url": "https://www.eurosport.de/eurosport-1-germany_ifcesp-1/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200820126c0ch20012",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T10:55:00.000Z",
+                        "endTime": "2025-07-17T14:30:00.000Z",
+                        "title": "Rhine-Ruhr 2025 | Tag 1",
+                        "subtitle": "FISU World University Games | Essen | Englischer Kommentar",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/fisu-world-university-games-8481433"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/20012_2_200820126_20250702-121657.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/20012_2_200820126_20250702-121657.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/20012_2_200820126_20250702-121657.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AD",
+                            "AL",
+                            "AM",
+                            "AT",
+                            "AX",
+                            "AZ",
+                            "BA",
+                            "BE",
+                            "BG",
+                            "BL",
+                            "BQ",
+                            "BY",
+                            "CH",
+                            "CW",
+                            "CY",
+                            "CZ",
+                            "DE",
+                            "DK",
+                            "EE",
+                            "ES",
+                            "FI",
+                            "FK",
+                            "FO",
+                            "FR",
+                            "GB",
+                            "GE",
+                            "GF",
+                            "GG",
+                            "GI",
+                            "GL",
+                            "GP",
+                            "GR",
+                            "GY",
+                            "HR",
+                            "HU",
+                            "IE",
+                            "IL",
+                            "IM",
+                            "IS",
+                            "IT",
+                            "JE",
+                            "KG",
+                            "KN",
+                            "KZ",
+                            "LI",
+                            "LT",
+                            "LU",
+                            "LV",
+                            "MC",
+                            "MD",
+                            "ME",
+                            "MF",
+                            "MK",
+                            "MQ",
+                            "MT",
+                            "NC",
+                            "NL",
+                            "NO",
+                            "PF",
+                            "PL",
+                            "PM",
+                            "PT",
+                            "RE",
+                            "RO",
+                            "RS",
+                            "RU",
+                            "SE",
+                            "SI",
+                            "SJ",
+                            "SK",
+                            "SM",
+                            "SX",
+                            "TF",
+                            "TJ",
+                            "TM",
+                            "TR",
+                            "UA",
+                            "UZ",
+                            "VA",
+                            "WF",
+                            "XK",
+                            "YT"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": true,
+                        "programDuration": 12900,
+                        "sportId": 81,
+                        "sportName": "Taekwondo",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjAwMTI=",
+                            "channelNetsportId": "esp-20012",
+                            "name": "EUROSPORT",
+                            "family": "LIVE_EVENT",
+                            "link": {
+                                "url": "https://www.eurosport.de/live-event-bolt-12_ifcesp-20012/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200810229c0ch20032",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T11:00:00.000Z",
+                        "endTime": "2025-07-17T16:15:00.000Z",
+                        "title": "Tour de France | 12. Etappe mit Siegerehrung",
+                        "subtitle": "Auch - Hautacam (180,6km) | M\u00e4nner | UCI World Tour",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/tour-de-france-stage-12-8466789"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/20032_1_200810229_20250716-165855.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/20032_1_200810229_20250716-165855.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/20032_1_200810229_20250716-165855.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AD",
+                            "AL",
+                            "AM",
+                            "AT",
+                            "AX",
+                            "AZ",
+                            "BA",
+                            "BE",
+                            "BG",
+                            "BY",
+                            "CH",
+                            "CY",
+                            "CZ",
+                            "DE",
+                            "DK",
+                            "EE",
+                            "ES",
+                            "FI",
+                            "FO",
+                            "FR",
+                            "GE",
+                            "GI",
+                            "GL",
+                            "GP",
+                            "GR",
+                            "GY",
+                            "HR",
+                            "HU",
+                            "IE",
+                            "IL",
+                            "IS",
+                            "IT",
+                            "KG",
+                            "KN",
+                            "KZ",
+                            "LI",
+                            "LT",
+                            "LU",
+                            "LV",
+                            "MC",
+                            "MD",
+                            "ME",
+                            "MK",
+                            "MQ",
+                            "MT",
+                            "NC",
+                            "NL",
+                            "NO",
+                            "PF",
+                            "PL",
+                            "PM",
+                            "PT",
+                            "RE",
+                            "RO",
+                            "RS",
+                            "RU",
+                            "SE",
+                            "SI",
+                            "SJ",
+                            "SK",
+                            "SM",
+                            "TF",
+                            "TJ",
+                            "TM",
+                            "TR",
+                            "UA",
+                            "UZ",
+                            "VA",
+                            "WF",
+                            "YT"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": true,
+                        "programDuration": 18900,
+                        "sportId": 18,
+                        "sportName": "Radsport",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjAwMzI=",
+                            "channelNetsportId": "esp-20032",
+                            "name": "EUROSPORT",
+                            "family": "LIVE_EVENT",
+                            "link": {
+                                "url": "https://www.eurosport.de/live-event-bolt-32_ifcesp-20032/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200810997c0ch20035",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T11:00:00.000Z",
+                        "endTime": "2025-07-17T16:15:00.000Z",
+                        "title": "Tour de France | 12. Etappe mit \"Velo Club\"",
+                        "subtitle": "Auch - Hautacam (180,6km) | M\u00e4nner | UCI World Tour",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/tour-de-france-stage-12-velo-club"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/20035_1_200810997_20250716-165706.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/20035_1_200810997_20250716-165706.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/20035_1_200810997_20250716-165707.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "DE",
+                            "LI"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": true,
+                        "programDuration": 18900,
+                        "sportId": 18,
+                        "sportName": "Radsport",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjAwMzU=",
+                            "channelNetsportId": "esp-20035",
+                            "name": "EUROSPORT",
+                            "family": "LIVE_EVENT",
+                            "link": {
+                                "url": "https://www.eurosport.de/live-event-bolt-35_ifcesp-20035/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200381168c0ch1",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T11:00:00.000Z",
+                        "endTime": "2025-07-17T15:45:00.000Z",
+                        "title": "Tour de France | 12. Etappe",
+                        "subtitle": "Auch - Hautacam (180,6km) | M\u00e4nner | UCI World Tour",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/tour-de-france-12-etappe-8533650"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/1_1_200381168_20250716-165800.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/1_1_200381168_20250716-165800.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/1_1_200381168_20250716-165801.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "DE",
+                            "LI",
+                            "LU",
+                            "CH"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": true,
+                        "programDuration": 17100,
+                        "sportId": 18,
+                        "sportName": "Radsport",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMQ==",
+                            "channelNetsportId": "esp-1",
+                            "name": "EUROSPORT 1",
+                            "family": "EUROSPORT1",
+                            "link": {
+                                "url": "https://www.eurosport.de/eurosport-1-germany_ifcesp-1/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200837701c0ch20037",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T11:10:00.000Z",
+                        "endTime": "2025-07-17T15:56:00.000Z",
+                        "title": "Tour de France | 12. Etappe | Multi-Screen",
+                        "subtitle": "UCI World Tour | M\u00e4nner | Auch - Hautacam (180,6km)",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/tour-de-france-stage-12-multi-screen"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/20037_0_200837701_20250704-082426.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/20037_0_200837701_20250704-082426.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/20037_0_200837701_20250704-082426.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AD",
+                            "AL",
+                            "AM",
+                            "AT",
+                            "AX",
+                            "AZ",
+                            "BA",
+                            "BE",
+                            "BG",
+                            "BY",
+                            "CH",
+                            "CY",
+                            "CZ",
+                            "DE",
+                            "DK",
+                            "EE",
+                            "FI",
+                            "FO",
+                            "GE",
+                            "GI",
+                            "GL",
+                            "GR",
+                            "GY",
+                            "HR",
+                            "HU",
+                            "IE",
+                            "IL",
+                            "IS",
+                            "IT",
+                            "KG",
+                            "KN",
+                            "KZ",
+                            "LI",
+                            "LT",
+                            "LU",
+                            "LV",
+                            "MD",
+                            "ME",
+                            "MK",
+                            "MT",
+                            "NL",
+                            "NO",
+                            "PL",
+                            "PT",
+                            "RO",
+                            "RS",
+                            "RU",
+                            "SE",
+                            "SI",
+                            "SJ",
+                            "SK",
+                            "SM",
+                            "TJ",
+                            "TM",
+                            "TR",
+                            "UA",
+                            "UZ",
+                            "VA"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": true,
+                        "programDuration": 17160,
+                        "sportId": 18,
+                        "sportName": "Radsport",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjAwMzc=",
+                            "channelNetsportId": "esp-20037",
+                            "name": "EUROSPORT",
+                            "family": "LIVE_EVENT",
+                            "link": {
+                                "url": "https://www.eurosport.de/live-event-bolt-37_ifcesp-20037/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200763672c0ch2201",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T12:00:00.000Z",
+                        "endTime": "2025-07-17T13:00:00.000Z",
+                        "title": "FIA WEC | 6h von S\u00e3o Paulo | Highlights",
+                        "subtitle": "Langstrecken-WM | 5. Saisonlauf",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/fia-wec-6-hours-of-sao-paulo-review-8533661"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/1_1_200361968_20250714-162128.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/1_1_200361968_20250714-162128.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/1_1_200361968_20250714-162128.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "CH",
+                            "DE",
+                            "LI"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": false,
+                        "programDuration": 3600,
+                        "sportId": 554,
+                        "sportName": "WEC",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjIwMQ==",
+                            "channelNetsportId": "esp-2201",
+                            "name": "EUROSPORT 2",
+                            "family": "EUROSPORT2",
+                            "link": {
+                                "url": "https://www.eurosport.de/eurosport-2-germany_ifcesp-2201/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200820067c0ch20002",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T12:25:00.000Z",
+                        "endTime": "2025-07-17T14:15:00.000Z",
+                        "title": "Rhine-Ruhr 2025 | Einzel Mehrkampf | Reifen / Ball",
+                        "subtitle": "FISU World University Games | Essen",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/fisu-world-university-games-8481416"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/20002_4_200820067_20250620-123412.png",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/20002_4_200820067_20250619-144439.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/20002_4_200820067_20250619-144439.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AD",
+                            "AL",
+                            "AM",
+                            "AT",
+                            "AX",
+                            "AZ",
+                            "BA",
+                            "BE",
+                            "BG",
+                            "BL",
+                            "BQ",
+                            "BY",
+                            "CH",
+                            "CW",
+                            "CY",
+                            "CZ",
+                            "DE",
+                            "DK",
+                            "EE",
+                            "ES",
+                            "FI",
+                            "FK",
+                            "FO",
+                            "FR",
+                            "GB",
+                            "GE",
+                            "GF",
+                            "GG",
+                            "GI",
+                            "GL",
+                            "GP",
+                            "GR",
+                            "GY",
+                            "HR",
+                            "HU",
+                            "IE",
+                            "IL",
+                            "IM",
+                            "IS",
+                            "IT",
+                            "JE",
+                            "KG",
+                            "KN",
+                            "KZ",
+                            "LI",
+                            "LT",
+                            "LU",
+                            "LV",
+                            "MC",
+                            "MD",
+                            "ME",
+                            "MF",
+                            "MK",
+                            "MQ",
+                            "MT",
+                            "NC",
+                            "NL",
+                            "NO",
+                            "PF",
+                            "PL",
+                            "PM",
+                            "PT",
+                            "RE",
+                            "RO",
+                            "RS",
+                            "RU",
+                            "SE",
+                            "SI",
+                            "SJ",
+                            "SK",
+                            "SM",
+                            "SX",
+                            "TF",
+                            "TJ",
+                            "TM",
+                            "TR",
+                            "UA",
+                            "UZ",
+                            "VA",
+                            "WF",
+                            "XK",
+                            "YT"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": true,
+                        "programDuration": 6600,
+                        "sportId": 135,
+                        "sportName": "Rhythmische Sportgymnastik",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjAwMDI=",
+                            "channelNetsportId": "esp-20002",
+                            "name": "EUROSPORT",
+                            "family": "LIVE_EVENT",
+                            "link": {
+                                "url": "https://www.eurosport.de/live-event-bolt-2_ifcesp-20002/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200818510c0ch20005",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T12:40:00.000Z",
+                        "endTime": "2025-07-17T13:30:00.000Z",
+                        "title": "Rhine-Ruhr 2025 | 3m Mixed | Finale",
+                        "subtitle": "FISU World University Games | Berlin | Englischer Kommentar",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/fisu-world-university-games-8478393"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/20005_2_200818510_20250702-122931.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/20005_2_200818510_20250702-122931.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/20005_2_200818510_20250702-122931.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AD",
+                            "AL",
+                            "AM",
+                            "AT",
+                            "AX",
+                            "AZ",
+                            "BA",
+                            "BE",
+                            "BG",
+                            "BL",
+                            "BQ",
+                            "BY",
+                            "CH",
+                            "CW",
+                            "CY",
+                            "CZ",
+                            "DE",
+                            "DK",
+                            "EE",
+                            "ES",
+                            "FI",
+                            "FK",
+                            "FO",
+                            "FR",
+                            "GB",
+                            "GE",
+                            "GF",
+                            "GG",
+                            "GI",
+                            "GL",
+                            "GP",
+                            "GR",
+                            "GY",
+                            "HR",
+                            "HU",
+                            "IE",
+                            "IL",
+                            "IM",
+                            "IS",
+                            "IT",
+                            "JE",
+                            "KG",
+                            "KN",
+                            "KZ",
+                            "LI",
+                            "LT",
+                            "LU",
+                            "LV",
+                            "MC",
+                            "MD",
+                            "ME",
+                            "MF",
+                            "MK",
+                            "MQ",
+                            "MT",
+                            "NC",
+                            "NL",
+                            "NO",
+                            "PF",
+                            "PL",
+                            "PM",
+                            "PT",
+                            "RE",
+                            "RO",
+                            "RS",
+                            "RU",
+                            "SE",
+                            "SI",
+                            "SJ",
+                            "SK",
+                            "SM",
+                            "SX",
+                            "TF",
+                            "TJ",
+                            "TM",
+                            "TR",
+                            "UA",
+                            "UZ",
+                            "VA",
+                            "WF",
+                            "XK",
+                            "YT"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": true,
+                        "programDuration": 3000,
+                        "sportId": 20,
+                        "sportName": "Wasserspringen",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjAwMDU=",
+                            "channelNetsportId": "esp-20005",
+                            "name": "EUROSPORT",
+                            "family": "LIVE_EVENT",
+                            "link": {
+                                "url": "https://www.eurosport.de/live-event-bolt-5_ifcesp-20005/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200763946c0ch2201",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T13:00:00.000Z",
+                        "endTime": "2025-07-17T15:00:00.000Z",
+                        "title": "Tour Championship | Finale",
+                        "subtitle": "J. Higgins - M. Selby | Manchester",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/tour-championship-8533662"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/2201_1_200706797_20250627-105853.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/2201_1_200706797_20250627-105853.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/2201_1_200706797_20250627-105854.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "CH",
+                            "DE",
+                            "LI"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": false,
+                        "programDuration": 7200,
+                        "sportId": 52,
+                        "sportName": "Snooker",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjIwMQ==",
+                            "channelNetsportId": "esp-2201",
+                            "name": "EUROSPORT 2",
+                            "family": "EUROSPORT2",
+                            "link": {
+                                "url": "https://www.eurosport.de/eurosport-2-germany_ifcesp-2201/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200822087c0ch20041",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T13:15:00.000Z",
+                        "endTime": "2025-07-17T15:15:00.000Z",
+                        "title": "Belgium Tour | 2. Etappe",
+                        "subtitle": "UCI  | Frauen",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/tour-of-belgium-stage-2-8484860"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/20041_0_200822087_20250702-123927.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/20041_0_200822087_20250702-123927.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/20041_0_200822087_20250702-123927.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AD",
+                            "AL",
+                            "AM",
+                            "AS",
+                            "AT",
+                            "AX",
+                            "AZ",
+                            "BA",
+                            "BG",
+                            "BL",
+                            "BQ",
+                            "BY",
+                            "CH",
+                            "CW",
+                            "CY",
+                            "CZ",
+                            "DE",
+                            "DK",
+                            "EE",
+                            "ES",
+                            "FI",
+                            "FK",
+                            "FO",
+                            "FR",
+                            "GB",
+                            "GE",
+                            "GF",
+                            "GG",
+                            "GI",
+                            "GL",
+                            "GP",
+                            "GR",
+                            "GU",
+                            "GY",
+                            "HR",
+                            "HU",
+                            "IE",
+                            "IL",
+                            "IM",
+                            "IS",
+                            "IT",
+                            "JE",
+                            "KG",
+                            "KN",
+                            "KZ",
+                            "LI",
+                            "LT",
+                            "LU",
+                            "LV",
+                            "MC",
+                            "MD",
+                            "ME",
+                            "MF",
+                            "MK",
+                            "MP",
+                            "MQ",
+                            "MT",
+                            "NC",
+                            "NL",
+                            "NO",
+                            "PF",
+                            "PL",
+                            "PM",
+                            "PR",
+                            "PT",
+                            "RE",
+                            "RO",
+                            "RS",
+                            "RU",
+                            "SE",
+                            "SI",
+                            "SJ",
+                            "SK",
+                            "SM",
+                            "SX",
+                            "TF",
+                            "TJ",
+                            "TM",
+                            "TR",
+                            "UA",
+                            "UM",
+                            "US",
+                            "UZ",
+                            "VA",
+                            "VI",
+                            "WF",
+                            "XK",
+                            "YT"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": true,
+                        "programDuration": 7200,
+                        "sportId": 18,
+                        "sportName": "Radsport",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjAwNDE=",
+                            "channelNetsportId": "esp-20041",
+                            "name": "EUROSPORT",
+                            "family": "LIVE_EVENT",
+                            "link": {
+                                "url": "https://www.eurosport.de/live-event-bolt-41_ifcesp-20041/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200864741c0ch20003",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T14:25:00.000Z",
+                        "endTime": "2025-07-17T16:15:00.000Z",
+                        "title": "Rhine-Ruhr 2025 | Einzel Mehrkampf | Reifen / Ball",
+                        "subtitle": "FISU World University Games | Essen | Englischer Kommentar",
+                        "programLink": {
+                            "url": ""
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/20003_3_200864741_20250715-093828.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/20003_3_200864741_20250715-093828.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/20003_3_200864741_20250715-093828.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AD",
+                            "AL",
+                            "AM",
+                            "AT",
+                            "AX",
+                            "AZ",
+                            "BA",
+                            "BE",
+                            "BG",
+                            "BL",
+                            "BQ",
+                            "BY",
+                            "CH",
+                            "CW",
+                            "CY",
+                            "CZ",
+                            "DE",
+                            "DK",
+                            "EE",
+                            "ES",
+                            "FI",
+                            "FK",
+                            "FO",
+                            "FR",
+                            "GB",
+                            "GE",
+                            "GF",
+                            "GG",
+                            "GI",
+                            "GL",
+                            "GP",
+                            "GR",
+                            "GY",
+                            "HR",
+                            "HU",
+                            "IE",
+                            "IL",
+                            "IM",
+                            "IS",
+                            "IT",
+                            "JE",
+                            "KG",
+                            "KN",
+                            "KZ",
+                            "LI",
+                            "LT",
+                            "LU",
+                            "LV",
+                            "MC",
+                            "MD",
+                            "ME",
+                            "MF",
+                            "MK",
+                            "MQ",
+                            "MT",
+                            "NC",
+                            "NL",
+                            "NO",
+                            "PF",
+                            "PL",
+                            "PM",
+                            "PT",
+                            "RE",
+                            "RO",
+                            "RS",
+                            "RU",
+                            "SE",
+                            "SI",
+                            "SJ",
+                            "SK",
+                            "SM",
+                            "SX",
+                            "TF",
+                            "TJ",
+                            "TM",
+                            "TR",
+                            "UA",
+                            "UZ",
+                            "VA",
+                            "WF",
+                            "XK",
+                            "YT"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": true,
+                        "programDuration": 6600,
+                        "sportId": 135,
+                        "sportName": "Rhythmische Sportgymnastik",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjAwMDM=",
+                            "channelNetsportId": "esp-20003",
+                            "name": "EUROSPORT",
+                            "family": "LIVE_EVENT",
+                            "link": {
+                                "url": "https://www.eurosport.de/live-event-bolt-3_ifcesp-20003/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200818511c0ch20006",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T14:25:00.000Z",
+                        "endTime": "2025-07-17T15:40:00.000Z",
+                        "title": "Rhine-Ruhr 2025 | 10m Turm Synchron | Finale",
+                        "subtitle": "FISU World University Games | Frauen | Berlin | Englischer Kommentar",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/fisu-world-university-games-8478398"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/20006_2_200818511_20250702-122713.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/20006_2_200818511_20250702-122713.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/20006_2_200818511_20250702-122713.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AD",
+                            "AL",
+                            "AM",
+                            "AT",
+                            "AX",
+                            "AZ",
+                            "BA",
+                            "BE",
+                            "BG",
+                            "BL",
+                            "BQ",
+                            "BY",
+                            "CH",
+                            "CW",
+                            "CY",
+                            "CZ",
+                            "DE",
+                            "DK",
+                            "EE",
+                            "ES",
+                            "FI",
+                            "FK",
+                            "FO",
+                            "FR",
+                            "GB",
+                            "GE",
+                            "GF",
+                            "GG",
+                            "GI",
+                            "GL",
+                            "GP",
+                            "GR",
+                            "GY",
+                            "HR",
+                            "HU",
+                            "IE",
+                            "IL",
+                            "IM",
+                            "IS",
+                            "IT",
+                            "JE",
+                            "KG",
+                            "KN",
+                            "KZ",
+                            "LI",
+                            "LT",
+                            "LU",
+                            "LV",
+                            "MC",
+                            "MD",
+                            "ME",
+                            "MF",
+                            "MK",
+                            "MQ",
+                            "MT",
+                            "NC",
+                            "NL",
+                            "NO",
+                            "PF",
+                            "PL",
+                            "PM",
+                            "PT",
+                            "RE",
+                            "RO",
+                            "RS",
+                            "RU",
+                            "SE",
+                            "SI",
+                            "SJ",
+                            "SK",
+                            "SM",
+                            "SX",
+                            "TF",
+                            "TJ",
+                            "TM",
+                            "TR",
+                            "UA",
+                            "UZ",
+                            "VA",
+                            "WF",
+                            "XK",
+                            "YT"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": true,
+                        "programDuration": 4500,
+                        "sportId": 20,
+                        "sportName": "Wasserspringen",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjAwMDY=",
+                            "channelNetsportId": "esp-20006",
+                            "name": "EUROSPORT",
+                            "family": "LIVE_EVENT",
+                            "link": {
+                                "url": "https://www.eurosport.de/live-event-bolt-6_ifcesp-20006/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200775951c0ch2201",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T15:00:00.000Z",
+                        "endTime": "2025-07-17T16:30:00.000Z",
+                        "title": "Grand Slam Track | Philadelphia",
+                        "subtitle": "3. Station | Tag 1",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/grand-slam-track-8533665"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/0_0_200775143_20250520-150716.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/0_0_200775143_20250520-150716.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/0_0_200775143_20250520-150716.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "CH",
+                            "DE",
+                            "LI"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": false,
+                        "programDuration": 5400,
+                        "sportId": 6,
+                        "sportName": "Leichtathletik",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjIwMQ==",
+                            "channelNetsportId": "esp-2201",
+                            "name": "EUROSPORT 2",
+                            "family": "EUROSPORT2",
+                            "link": {
+                                "url": "https://www.eurosport.de/eurosport-2-germany_ifcesp-2201/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200687346c0ch1",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T15:45:00.000Z",
+                        "endTime": "2025-07-17T16:15:00.000Z",
+                        "title": "Velo Club | Tour-Show zur 12. Etappe",
+                        "subtitle": "Experten-Talk zur Tour de France",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/velo-club-8533644"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/1_1_200687346_20250714-090001.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/1_1_200687346_20250714-090001.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/1_1_200687346_20250714-090001.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "DE",
+                            "LI",
+                            "LU",
+                            "CH"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": true,
+                        "programDuration": 1800,
+                        "sportId": 18,
+                        "sportName": "Radsport",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMQ==",
+                            "channelNetsportId": "esp-1",
+                            "name": "EUROSPORT 1",
+                            "family": "EUROSPORT1",
+                            "link": {
+                                "url": "https://www.eurosport.de/eurosport-1-germany_ifcesp-1/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200820036c0ch20011",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T15:55:00.000Z",
+                        "endTime": "2025-07-17T18:30:00.000Z",
+                        "title": "Rhine-Ruhr 2025 | Tag 1",
+                        "subtitle": "FISU World University Games | M\u00e4nner / Frauen | Essen | Englischer Kommentar",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/fisu-world-university-games-8481260"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/20011_2_200820036_20250702-122328.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/20011_2_200820036_20250702-122328.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/20011_2_200820036_20250702-122328.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AD",
+                            "AL",
+                            "AM",
+                            "AT",
+                            "AX",
+                            "AZ",
+                            "BA",
+                            "BE",
+                            "BG",
+                            "BL",
+                            "BQ",
+                            "BY",
+                            "CH",
+                            "CW",
+                            "CY",
+                            "CZ",
+                            "DE",
+                            "DK",
+                            "EE",
+                            "ES",
+                            "FI",
+                            "FK",
+                            "FO",
+                            "FR",
+                            "GB",
+                            "GE",
+                            "GF",
+                            "GG",
+                            "GI",
+                            "GL",
+                            "GP",
+                            "GR",
+                            "GY",
+                            "HR",
+                            "HU",
+                            "IE",
+                            "IL",
+                            "IM",
+                            "IS",
+                            "IT",
+                            "JE",
+                            "KG",
+                            "KN",
+                            "KZ",
+                            "LI",
+                            "LT",
+                            "LU",
+                            "LV",
+                            "MC",
+                            "MD",
+                            "ME",
+                            "MF",
+                            "MK",
+                            "MQ",
+                            "MT",
+                            "NC",
+                            "NL",
+                            "NO",
+                            "PF",
+                            "PL",
+                            "PM",
+                            "PT",
+                            "RE",
+                            "RO",
+                            "RS",
+                            "RU",
+                            "SE",
+                            "SI",
+                            "SJ",
+                            "SK",
+                            "SM",
+                            "SX",
+                            "TF",
+                            "TJ",
+                            "TM",
+                            "TR",
+                            "UA",
+                            "UZ",
+                            "VA",
+                            "WF",
+                            "XK",
+                            "YT"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": true,
+                        "programDuration": 9300,
+                        "sportId": 27,
+                        "sportName": "Fechten",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjAwMTE=",
+                            "channelNetsportId": "esp-20011",
+                            "name": "EUROSPORT",
+                            "family": "LIVE_EVENT",
+                            "link": {
+                                "url": "https://www.eurosport.de/live-event-bolt-11_ifcesp-20011/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200772043c0ch1",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T16:15:00.000Z",
+                        "endTime": "2025-07-17T16:55:00.000Z",
+                        "title": "UCI XCO Weltcup | Vallnord-Pal Arinsal | M\u00e4nner Elite",
+                        "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Olympic",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/uci-xco-weltcup-vallnord-pal-arinsal-manner-elite-8534643"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/2201_1_200518563_20250710-135304.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/2201_1_200518563_20250710-135304.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/2201_1_200518563_20250710-135305.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "DE",
+                            "LI",
+                            "LU",
+                            "CH"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": false,
+                        "programDuration": 2400,
+                        "sportId": 69,
+                        "sportName": "Mountainbike",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMQ==",
+                            "channelNetsportId": "esp-1",
+                            "name": "EUROSPORT 1",
+                            "family": "EUROSPORT1",
+                            "link": {
+                                "url": "https://www.eurosport.de/eurosport-1-germany_ifcesp-1/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200763747c0ch2201",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T16:30:00.000Z",
+                        "endTime": "2025-07-17T17:30:00.000Z",
+                        "title": "Grand Slam Track | Philadelphia  ",
+                        "subtitle": "3. Station | Tag 2",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/grand-slam-track-8534627"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/2201_1_200776320_20250531-220709.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/2201_1_200776320_20250531-220710.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/2201_1_200776320_20250531-220711.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "CH",
+                            "DE",
+                            "LI"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": false,
+                        "programDuration": 3600,
+                        "sportId": 6,
+                        "sportName": "Leichtathletik",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjIwMQ==",
+                            "channelNetsportId": "esp-2201",
+                            "name": "EUROSPORT 2",
+                            "family": "EUROSPORT2",
+                            "link": {
+                                "url": "https://www.eurosport.de/eurosport-2-germany_ifcesp-2201/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200818584c0ch20007",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T16:55:00.000Z",
+                        "endTime": "2025-07-17T18:45:00.000Z",
+                        "title": "Rhine-Ruhr 2025 | Tag 1",
+                        "subtitle": "FISU World University Games | M\u00e4nner / Frauen | Berlin | Englischer Kommentar",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/fisu-world-university-games-8478406"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/20007_2_200818584_20250702-120837.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/20007_2_200818584_20250702-120837.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/20007_2_200818584_20250702-120837.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AD",
+                            "AL",
+                            "AM",
+                            "AT",
+                            "AX",
+                            "AZ",
+                            "BA",
+                            "BE",
+                            "BG",
+                            "BL",
+                            "BQ",
+                            "BY",
+                            "CH",
+                            "CW",
+                            "CY",
+                            "CZ",
+                            "DE",
+                            "DK",
+                            "EE",
+                            "ES",
+                            "FI",
+                            "FK",
+                            "FO",
+                            "FR",
+                            "GE",
+                            "GF",
+                            "GL",
+                            "GP",
+                            "GR",
+                            "GY",
+                            "HR",
+                            "HU",
+                            "IL",
+                            "IS",
+                            "IT",
+                            "KG",
+                            "KN",
+                            "KZ",
+                            "LI",
+                            "LT",
+                            "LU",
+                            "LV",
+                            "MC",
+                            "MD",
+                            "ME",
+                            "MF",
+                            "MK",
+                            "MQ",
+                            "MT",
+                            "NC",
+                            "NL",
+                            "NO",
+                            "PF",
+                            "PL",
+                            "PM",
+                            "PT",
+                            "RE",
+                            "RO",
+                            "RS",
+                            "RU",
+                            "SE",
+                            "SI",
+                            "SJ",
+                            "SK",
+                            "SM",
+                            "SX",
+                            "TF",
+                            "TJ",
+                            "TM",
+                            "TR",
+                            "UA",
+                            "UZ",
+                            "VA",
+                            "WF",
+                            "XK",
+                            "YT"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": true,
+                        "programDuration": 6600,
+                        "sportId": 54,
+                        "sportName": "Schwimmen",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjAwMDc=",
+                            "channelNetsportId": "esp-20007",
+                            "name": "EUROSPORT",
+                            "family": "LIVE_EVENT",
+                            "link": {
+                                "url": "https://www.eurosport.de/live-event-bolt-7_ifcesp-20007/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200711891c0ch1",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T16:55:00.000Z",
+                        "endTime": "2025-07-17T18:45:00.000Z",
+                        "title": "Rhine-Ruhr 2025 | Tag 1",
+                        "subtitle": "FISU World University Games | M\u00e4nner / Frauen | Berlin | Englischer Kommentar",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/fisu-world-university-games-rhein-ruhr-gebiet"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Generique/Crop/16_9/2606932_20240723-164028.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Generique/Crop/4_3/2606932_20240723-164028.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Generique/Crop/3_4/2606932_20240723-164029.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "DE",
+                            "LI",
+                            "LU",
+                            "CH"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": true,
+                        "programDuration": 6600,
+                        "sportId": 54,
+                        "sportName": "Schwimmen",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMQ==",
+                            "channelNetsportId": "esp-1",
+                            "name": "EUROSPORT 1",
+                            "family": "EUROSPORT1",
+                            "link": {
+                                "url": "https://www.eurosport.de/eurosport-1-germany_ifcesp-1/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200820068c0ch20001",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T17:25:00.000Z",
+                        "endTime": "2025-07-17T18:00:00.000Z",
+                        "title": "Rhine-Ruhr 2025 | Gruppe Mehrkampf | B\u00e4nder",
+                        "subtitle": "FISU World University Games | Essen | Englischer Kommentar",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/fisu-world-university-games-8481414"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/20001_2_200820068_20250702-120605.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/20001_2_200820068_20250702-120605.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/20001_2_200820068_20250702-120605.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AD",
+                            "AL",
+                            "AM",
+                            "AT",
+                            "AX",
+                            "AZ",
+                            "BA",
+                            "BE",
+                            "BG",
+                            "BL",
+                            "BQ",
+                            "BY",
+                            "CH",
+                            "CW",
+                            "CY",
+                            "CZ",
+                            "DE",
+                            "DK",
+                            "EE",
+                            "ES",
+                            "FI",
+                            "FK",
+                            "FO",
+                            "FR",
+                            "GB",
+                            "GE",
+                            "GF",
+                            "GG",
+                            "GI",
+                            "GL",
+                            "GP",
+                            "GR",
+                            "GY",
+                            "HR",
+                            "HU",
+                            "IE",
+                            "IL",
+                            "IM",
+                            "IS",
+                            "IT",
+                            "JE",
+                            "KG",
+                            "KN",
+                            "KZ",
+                            "LI",
+                            "LT",
+                            "LU",
+                            "LV",
+                            "MC",
+                            "MD",
+                            "ME",
+                            "MF",
+                            "MK",
+                            "MQ",
+                            "MT",
+                            "NC",
+                            "NL",
+                            "NO",
+                            "PF",
+                            "PL",
+                            "PM",
+                            "PT",
+                            "RE",
+                            "RO",
+                            "RS",
+                            "RU",
+                            "SE",
+                            "SI",
+                            "SJ",
+                            "SK",
+                            "SM",
+                            "SX",
+                            "TF",
+                            "TJ",
+                            "TM",
+                            "TR",
+                            "UA",
+                            "UZ",
+                            "VA",
+                            "WF",
+                            "XK",
+                            "YT"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": true,
+                        "programDuration": 2100,
+                        "sportId": 135,
+                        "sportName": "Rhythmische Sportgymnastik",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjAwMDE=",
+                            "channelNetsportId": "esp-20001",
+                            "name": "EUROSPORT",
+                            "family": "LIVE_EVENT",
+                            "link": {
+                                "url": "https://www.eurosport.de/live-event-bolt-1_ifcesp-20001/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200827020c0ch2201",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T17:30:00.000Z",
+                        "endTime": "2025-07-17T18:00:00.000Z",
+                        "title": "Race Bikes",
+                        "subtitle": "Mountainbike-Magazin | Folge 1",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/race-bikes-8534642"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/1_1_200839301_20250714-085012.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/1_1_200839301_20250714-085012.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/1_1_200839301_20250714-085012.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "CH",
+                            "DE",
+                            "LI"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": false,
+                        "programDuration": 1800,
+                        "sportId": 69,
+                        "sportName": "Mountainbike",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjIwMQ==",
+                            "channelNetsportId": "esp-2201",
+                            "name": "EUROSPORT 2",
+                            "family": "EUROSPORT2",
+                            "link": {
+                                "url": "https://www.eurosport.de/eurosport-2-germany_ifcesp-2201/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200748112c0ch2201",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T18:00:00.000Z",
+                        "endTime": "2025-07-17T20:00:00.000Z",
+                        "title": "Tour de France | 12. Etappe",
+                        "subtitle": "Auch - Hautacam (180,6km) | M\u00e4nner | UCI World Tour",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/tour-de-france-stage-12"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/1_1_200381168_20250716-165800.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/1_1_200381168_20250716-165800.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/1_1_200381168_20250716-165801.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "CH",
+                            "DE",
+                            "LI"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": false,
+                        "programDuration": 7200,
+                        "sportId": 18,
+                        "sportName": "Radsport",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjIwMQ==",
+                            "channelNetsportId": "esp-2201",
+                            "name": "EUROSPORT 2",
+                            "family": "EUROSPORT2",
+                            "link": {
+                                "url": "https://www.eurosport.de/eurosport-2-germany_ifcesp-2201/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200764048c0ch1",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T18:45:00.000Z",
+                        "endTime": "2025-07-17T20:00:00.000Z",
+                        "title": "Tour Championship | Finale",
+                        "subtitle": "J. Higgins - M. Selby | Manchester",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/tour-championship-finale-8535485"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/2201_1_200706797_20250627-105853.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/2201_1_200706797_20250627-105853.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/2201_1_200706797_20250627-105854.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "DE",
+                            "LI",
+                            "LU",
+                            "CH"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": false,
+                        "programDuration": 4500,
+                        "sportId": 52,
+                        "sportName": "Snooker",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMQ==",
+                            "channelNetsportId": "esp-1",
+                            "name": "EUROSPORT 1",
+                            "family": "EUROSPORT1",
+                            "link": {
+                                "url": "https://www.eurosport.de/eurosport-1-germany_ifcesp-1/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200746729c0ch1",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T20:00:00.000Z",
+                        "endTime": "2025-07-17T22:00:00.000Z",
+                        "title": "Tour de France | 12. Etappe",
+                        "subtitle": "Auch - Hautacam (180,6km) | M\u00e4nner | UCI World Tour",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/tour-de-france-12-etappe-8535512"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/1_1_200381168_20250716-165800.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/1_1_200381168_20250716-165800.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/1_1_200381168_20250716-165801.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "DE",
+                            "LI",
+                            "LU",
+                            "CH"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": false,
+                        "programDuration": 7200,
+                        "sportId": 18,
+                        "sportName": "Radsport",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMQ==",
+                            "channelNetsportId": "esp-1",
+                            "name": "EUROSPORT 1",
+                            "family": "EUROSPORT1",
+                            "link": {
+                                "url": "https://www.eurosport.de/eurosport-1-germany_ifcesp-1/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200762027c0ch2201",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T20:00:00.000Z",
+                        "endTime": "2025-07-17T22:00:00.000Z",
+                        "title": "FIA WEC | 6h von Spa | Rennen",
+                        "subtitle": "Langstrecken-WM | 3. Saisonlauf",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/fia-wec-round-3-6-hours-of-spa-francorchamps-8535552"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/2201_1_200426116_20250509-133104.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/2201_1_200426116_20250509-133104.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/2201_1_200426116_20250509-133104.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "CH",
+                            "DE",
+                            "LI"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": false,
+                        "programDuration": 7200,
+                        "sportId": 554,
+                        "sportName": "WEC",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjIwMQ==",
+                            "channelNetsportId": "esp-2201",
+                            "name": "EUROSPORT 2",
+                            "family": "EUROSPORT2",
+                            "link": {
+                                "url": "https://www.eurosport.de/eurosport-2-germany_ifcesp-2201/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200772118c0ch2201",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T22:00:00.000Z",
+                        "endTime": "2025-07-18T00:00:00.000Z",
+                        "title": "Grand Slam Track | Philadelphia  ",
+                        "subtitle": "3. Station | Tag 2",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/grand-slam-track-8535499"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/2201_1_200776320_20250531-220709.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/2201_1_200776320_20250531-220710.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/2201_1_200776320_20250531-220711.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "CH",
+                            "DE",
+                            "LI"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": false,
+                        "programDuration": 7200,
+                        "sportId": 6,
+                        "sportName": "Leichtathletik",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjIwMQ==",
+                            "channelNetsportId": "esp-2201",
+                            "name": "EUROSPORT 2",
+                            "family": "EUROSPORT2",
+                            "link": {
+                                "url": "https://www.eurosport.de/eurosport-2-germany_ifcesp-2201/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200764162c0ch1",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-17T22:00:00.000Z",
+                        "endTime": "2025-07-17T23:30:00.000Z",
+                        "title": "World Grand Prix | Finale",
+                        "subtitle": null,
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/world-grand-prix-finale-8535481"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/MagicBox/Crop/16_9/0_20240325-141103.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/MagicBox/Crop/4_3/0_20240325-141104.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/MagicBox/Crop/3_4/0_20240325-141104.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "DE",
+                            "LI",
+                            "LU",
+                            "CH"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": false,
+                        "programDuration": 5400,
+                        "sportId": 52,
+                        "sportName": "Snooker",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMQ==",
+                            "channelNetsportId": "esp-1",
+                            "name": "EUROSPORT 1",
+                            "family": "EUROSPORT1",
+                            "link": {
+                                "url": "https://www.eurosport.de/eurosport-1-germany_ifcesp-1/video.shtml"
+                            }
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "id": "esp-e200802999c0ch2201",
+                        "status": "SCHEDULED",
+                        "startTime": "2025-07-18T00:00:00.000Z",
+                        "endTime": "2025-07-18T02:00:00.000Z",
+                        "title": "Tour Championship | Finale",
+                        "subtitle": "J. Higgins - M. Selby | Manchester",
+                        "programLink": {
+                            "url": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/tour-championship-8535518"
+                        },
+                        "pictureFormats": [
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/16_9/2201_1_200706797_20250627-105853.jpeg",
+                                "width": 1920,
+                                "height": 1080,
+                                "assetPictureFormat": "XXL_16_9"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/4_3/2201_1_200706797_20250627-105853.jpeg",
+                                "width": 1440,
+                                "height": 1080,
+                                "assetPictureFormat": "L_4_3"
+                            },
+                            {
+                                "url": "https://i.eurosport.com/taiga/Specifique/Crop/3_4/2201_1_200706797_20250627-105854.jpeg",
+                                "width": 810,
+                                "height": 1080,
+                                "assetPictureFormat": "L_3_4"
+                            }
+                        ],
+                        "allowedCountries": [
+                            "AT",
+                            "CH",
+                            "DE",
+                            "LI"
+                        ],
+                        "entitlement": "PREMIUM",
+                        "isLive": false,
+                        "programDuration": 7200,
+                        "sportId": 52,
+                        "sportName": "Snooker",
+                        "channel": {
+                            "id": "Y2hhbm5lbDplc3AtMjIwMQ==",
+                            "channelNetsportId": "esp-2201",
+                            "name": "EUROSPORT 2",
+                            "family": "EUROSPORT2",
+                            "link": {
+                                "url": "https://www.eurosport.de/eurosport-2-germany_ifcesp-2201/video.shtml"
+                            }
+                        }
+                    }
+                }
+            ],
+            "pageInfo": {
+                "endCursor": "NDA=",
+                "hasNextPage": false,
+                "hasPreviousPage": false,
+                "startCursor": null
+            }
+        }
+    }
+}

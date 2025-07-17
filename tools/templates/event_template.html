@@ -2,49 +2,69 @@
 <html lang="de">
 <head>
   <meta charset="UTF-8" />
-  <title>{{title}} – Live heute im TV</title>
-  <meta name="description" content="{{title}} heute um {{time}} live auf {{sender}}." />
-  <link rel="canonical" href="https://sports2day.github.io/where2watch/event/{{slug}}.html" />
-  <meta property="og:title" content="{{title}} – Live heute im TV" />
-  <meta property="og:description" content="Jetzt live: {{title}} um {{time}} auf {{sender}}." />
-  <meta property="og:url" content="https://sports2day.github.io/where2watch/event/{{slug}}.html" />
+  <title>{{ title }} – Live heute im TV</title>
+  <meta name="description" content="{{ subtitle if subtitle else auto_description }}" />
+  <link rel="canonical" href="https://sports2day.github.io/where2watch/events/{{ slug }}.html" />
+  <meta property="og:title" content="{{ title }} – Live heute im TV" />
+  <meta property="og:description" content="{{ subtitle if subtitle else auto_description }}" />
+  <meta property="og:url" content="https://sports2day.github.io/where2watch/events/{{ slug }}.html" />
   <meta property="og:type" content="website" />
   <meta property="og:locale" content="de_DE" />
+  <meta name="robots" content="index, follow" />
+  <link rel="alternate" hreflang="de" href="https://sports2day.github.io/where2watch/events/{{ slug }}.html" />
   <link rel="stylesheet" href="../style.css" />
   <link rel="icon" href="../favicon.ico" />
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "SportsEvent",
-    "name": "{{title}}",
-    "startDate": "2025-07-10T{{time}}:00",
-    "location": {
-      "@type": "VirtualLocation",
-      "url": "{{link}}"
-    },
-    "performer": {
-      "@type": "SportsTeam",
-      "name": "{{title}}"
-    },
-    "eventBroadcast": {
-      "@type": "BroadcastEvent",
-      "isLiveBroadcast": true,
-      "name": "{{sender}}",
-      "url": "{{link}}"
-    }
-  }
+    {{ json_ld if json_ld is not undefined else {} | tojson(indent=2) }}
   </script>
 </head>
+
 <body>
   <main>
-    <h1>{{title}}</h1>
-    <p><strong>Zeit:</strong> {{time}}</p>
-    <p><strong>Sender:</strong> {{sender}}</p>
-    {% if subtitle and subtitle.strip() %}
-      <p><strong>Details:</strong> {{ subtitle }}</p>
-    {% endif %}
-    <p><a href="{{link}}" target="_blank">🔗 Zum Livestream / Quelle</a></p>
-    <p><a href="../index.html">← Zurück zur Übersicht</a></p>
+    <article class="event-page">
+      <nav class="nav-links">
+        <a class="nav-button" href="../pages/{{ sport_slug }}.html">🏅 Sportart</a>
+        <a class="nav-button" href="../pages/{{ sender_slug }}.html">📺 Sender</a>
+        <a class="nav-button" href="../index.html">⬅ Übersicht</a>
+      </nav>
+
+      <header class="event-header">
+        <h1>{{ title }}</h1>
+        {% if subtitle %}
+        <p class="event-subtitle">{{ subtitle }}</p>
+        {% else %}
+        <p class="event-subtitle">{{ auto_description }}</p>
+        {% endif %}
+      </header>
+
+      <section class="event-info-box">
+        <div class="event-meta"><strong>🕒 Zeit:</strong> {{ time }}</div>
+        <div class="event-meta"><strong>📺 Sender:</strong> {{ sender }}</div>
+        {% if sport %}<div class="event-meta"><strong>🏅 Sportart:</strong> {{ sport }}</div>{% endif %}
+      </section>
+
+      <section class="event-cta">
+        <a href="{{ link }}" target="_blank" class="cta-button">📡 Jetzt live bei {{ sender }} ansehen</a>
+      </section>
+
+      {% if related_events %}
+      <section class="related-events-section" aria-labelledby="related-heading">
+        <h2 id="related-heading">🎯 Ähnliche Events</h2>
+        <div class="related-events-grid">
+          {% for related in related_events[:3] %}
+          <div class="related-card">
+            <h3>{{ related.title }}</h3>
+            <p>{{ related.time }} · {{ related.sender }}</p>
+            <a href="../events/{{ related.slug }}.html">👉 Event öffnen</a>
+          </div>
+          {% endfor %}
+        </div>
+      </section>
+      {% endif %}
+    </article>
   </main>
+
+  {% include "footer_template.html" %}
+  <button onclick="scrollToTop()" class="scroll-top-btn" aria-label="Nach oben scrollen">↑</button>
 </body>
 </html>

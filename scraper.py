@@ -1,25 +1,26 @@
+# scraper.py
+
 import requests
 from bs4 import BeautifulSoup
 import json
-from datetime import datetime
 import logging
+from datetime import datetime
+from zoneinfo import ZoneInfo
+from slugify import slugify
+from tools.utils.date_utils import get_berlin_date_str, berlin_iso_from_time_string
 
-# ===============================
-# 🛠 CONFIGURATION
-# ===============================
+# === CONFIGURATION ===
 SCRAPER_CONFIG = {
     "sources": {
         "sportschau": "https://www.sportschau.de/live-und-ergebnisse/",
-        "zdf": "https://www.zdf.de/live-tv",
-        "eurosport": "https://netsport.eurosport.io/",
-        "kicker": "https://www.kicker.de/live"
+        "eurosport": "https://netsport.eurosport.io/"
     },
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 }
 
-# ===============================
-# 🧾 LOGGER
-# ===============================
+BERLIN = ZoneInfo("Europe/Berlin")
+
+# === LOGGER SETUP ===
 def setup_logger():
     logger = logging.getLogger("scraper")
     logger.setLevel(logging.INFO)
@@ -32,12 +33,22 @@ def setup_logger():
 
 logger = setup_logger()
 
-# ===============================
-# 📡 SCRAPER: Sportschau
-# ===============================
+# === Utility for Matching   ===
+def abs_time_diff(t1, t2):
+    if t1 and t2:
+        try:
+            dt1 = datetime.fromisoformat(t1)
+            dt2 = datetime.fromisoformat(t2)
+            return abs(int((dt2 - dt1).total_seconds()) // 60)
+        except Exception:
+            pass
+    return None  # Zeitvergleich nicht möglich
+
+
+# === SCRAPER: Sportschau ===
 def scrape_sportschau():
     url = SCRAPER_CONFIG["sources"]["sportschau"]
-    logger.info(f"Scraping: {url}")
+    logger.info(f"Scraping Sportschau: {url}")
     try:
         response = requests.get(url, headers={"User-Agent": SCRAPER_CONFIG["user_agent"]}, timeout=10)
         response.raise_for_status()
@@ -58,55 +69,40 @@ def scrape_sportschau():
                 away_team = li.select_one(".team-name-away")
                 link_tag = li.select_one(".match-more a")
 
-                if time and home_team and away_team:
-                    events.append({
-                        "sport": current_sport or "unknown",
-                        "time": time.text.strip(),
-                        "title": f"{home_team.text.strip()} vs {away_team.text.strip()}",
-                        "sender": "Sportschau Live",
-                        "link": "https://www.sportschau.de" + link_tag["href"] if link_tag else None
-                    })
-        logger.info(f"→ {len(events)} events from Sportschau")
-        return events
-    except Exception as e:
-        logger.error(f"Error scraping Sportschau: {e}")
-        return []
+                title = f"{home_team.text.strip()} vs {away_team.text.strip()}" if home_team and away_team else "Unbenanntes Spiel"
+                raw_time = time.text.strip() if time else ""
 
-# ===============================
-# 📺 SCRAPER: ZDF
-# ===============================
-def scrape_zdf():
-    url = SCRAPER_CONFIG["sources"]["zdf"]
-    logger.info(f"Scraping: {url}")
-    try:
-        resp = requests.get(url, headers={"User-Agent": SCRAPER_CONFIG["user_agent"]}, timeout=10)
-        resp.raise_for_status()
-        soup = BeautifulSoup(resp.content, "lxml")
-        events = []
-        for box in soup.select(".zdf-channel"):
-            name_el = box.select_one(".channel-name")
-            prog_el = box.select_one(".current-programme")
-            if name_el and prog_el:
+                sport = current_sport or "Unbekannt"
+                sender = "Sportschau Live"
+                today = get_berlin_date_str()  # z. B. "2025-07-17"
+                parsed_iso = berlin_iso_from_time_string(raw_time)
+
                 events.append({
-                    "time": datetime.now().strftime("%H:%M"),
-                    "title": prog_el.text.strip(),
-                    "sender": name_el.text.strip()
+                    "title": title,
+                    "time": raw_time,
+                    "iso_time": "",  # Sportschau liefert keine echte ISO-Zeit
+                    "sport": sport,
+                    "sport_slug": slugify(sport),
+                    "sender": sender,
+                    "sender_slug": slugify(sender),
+                    "link": "https://www.sportschau.de" + link_tag["href"] if link_tag and link_tag.get("href") else None,
+                    "slug": slugify(title),
+                    "subtitle": "",
+                    "related_events": []  # Optionale Erweiterung später
                 })
-        logger.info(f"→ {len(events)} events from ZDF")
+        logger.info(f"→ {len(events)} Events von Sportschau")
         return events
     except Exception as e:
-        logger.error(f"Error scraping ZDF: {e}")
+        logger.error(f"Fehler beim Scrapen von Sportschau: {e}")
         return []
 
-# ===============================
-# 🏁 SCRAPER: Eurosport (via GraphQL)
-# ===============================
+# === SCRAPER: Eurosport ===
 def scrape_eurosport():
     logger.info("Scraping Eurosport via GraphQL")
     events = []
 
     try:
-        iso_date = datetime.today().strftime("%Y-%m-%dT22:00:00.000Z")
+        iso_date = get_berlin_date_str() + "T00:00:00.000Z"
 
         variables = json.dumps({
             "after": None,
@@ -121,100 +117,72 @@ def scrape_eurosport():
             }
         }, separators=(",", ":"))
 
-        params = {
-            "variables": variables,
-            "extensions": extensions
-        }
-
-        headers = {
-            "User-Agent": SCRAPER_CONFIG["user_agent"],
-            "Accept": "*/*",
-            "Content-Type": "application/json",
-            "Referer": "https://www.eurosport.de/watch/schedule.shtml",
-            "Origin": "https://www.eurosport.de",
-            "apollographql-client-name": "web",
-            "apollographql-client-version": "0.366.0-csr-92",
-            "premium-country-code": "DE",
-            "x-timezone": "Europe/Berlin",
-            "domain": "www.eurosport.de"
-        }
-
-        response = requests.get(SCRAPER_CONFIG["sources"]["eurosport"], params=params, headers=headers, timeout=15)
+        response = requests.get(
+            SCRAPER_CONFIG["sources"]["eurosport"],
+            params={"variables": variables, "extensions": extensions},
+            headers={
+                "User-Agent": SCRAPER_CONFIG["user_agent"],
+                "Accept": "*/*",
+                "Content-Type": "application/json",
+                "Referer": "https://www.eurosport.de/watch/schedule.shtml",
+                "Origin": "https://www.eurosport.de",
+                "apollographql-client-name": "web",
+                "apollographql-client-version": "0.366.0-csr-92",
+                "premium-country-code": "DE",
+                "x-timezone": "Europe/Berlin",
+                "domain": "www.eurosport.de"
+            },
+            timeout=15
+        )
         response.raise_for_status()
         data = response.json()
-        #print(json.dumps(data, indent=2))
-        # Write to a file
-        #with open('output_eurosport.json', 'w') as file:
-        #    json.dump(data, file, indent=2)
 
         edges = data.get("data", {}).get("programsByDate", {}).get("edges", [])
         if not edges:
-            logger.warning("No events found in Eurosport data")
+            logger.warning("Keine Events in Eurosport-Daten gefunden")
             return []
+
         for item in edges:
             node = item.get("node", {})
-            sport = (node.get("sportName") or "Unknown").strip()
-            title = (node.get("title") or "").strip()
+            sport = (node.get("sportName") or "Unbekannt").strip()
+            title = (node.get("title") or "Ohne Titel").strip()
             subtitle = (node.get("subtitle") or "").strip()
-            time = node.get("startTime", "")[11:16]
+            raw_time = node.get("startTime", "")  # UTC ISO-Zeit
             url = node.get("programLink", {}).get("url", "")
-            # ToDo: Get legal permission from Eurosport to use images.
-            """image = None
-            for pf in node.get("pictureFormats", []):
-                if pf.get("assetPictureFormat") == "XXL_16_9":
-                    image = pf.get("url")
-                    break """
-            
+
+            try:
+                iso_local = datetime.fromisoformat(raw_time.replace("Z", "+00:00")).astimezone(BERLIN).isoformat()
+                time_str = iso_local[11:16]
+            except Exception as e:
+                logger.warning(f"⚠️ Fehler bei Zeitformat für '{title}': {e}")
+                iso_local = ""
+                time_str = ""
+
             events.append({
-                "sport": sport,
-                "time": time,
                 "title": title,
                 "subtitle": subtitle,
+                "sport": sport,
+                "sport_slug": slugify(sport),
                 "sender": "Eurosport",
-                "link": url
-                #,"image": image
+                "sender_slug": slugify("Eurosport"),
+                "time": time_str,
+                "iso_time": iso_local,
+                "link": url,
+                "slug": slugify(title),
+                "related_events": []
             })
-
-        logger.info(f"→ {len(events)} events from Eurosport")
+        logger.info(f"→ {len(events)} Events von Eurosport")
         return events
 
     except Exception as e:
-        logger.error(f"Error scraping Eurosport: {e}")
+        logger.error(f"Fehler beim Scrapen von Eurosport: {e}")
         return []
 
-# ===============================
-# ⚽️ SCRAPER: Kicker
-# ===============================
-def scrape_kicker():
-    url = SCRAPER_CONFIG["sources"]["kicker"]
-    logger.info(f"Scraping: {url}")
-    try:
-        resp = requests.get(url, headers={"User-Agent": SCRAPER_CONFIG["user_agent"]}, timeout=10)
-        resp.raise_for_status()
-        soup = BeautifulSoup(resp.content, "lxml")
-        events = []
-        for entry in soup.select(".liveTickerEntry"):
-            time_el = entry.select_one(".time")
-            title_el = entry.select_one(".ticker-title")
-            if time_el and title_el:
-                events.append({
-                    "time": time_el.text.strip(),
-                    "title": title_el.text.strip(),
-                    "sender": "Kicker"
-                })
-        logger.info(f"→ {len(events)} events from Kicker")
-        return events
-    except Exception as e:
-        logger.error(f"Error scraping Kicker: {e}")
-        return []
-
-# ===============================
-# 🏁 MAIN EXECUTION
-# ===============================
+# === MAIN EXECUTION ===
 def main():
-    logger.info("Starting full scraping process")
+    logger.info("🚀 Starte Scraping-Prozess")
     all_events = []
-    scrapers = [scrape_sportschau, scrape_zdf, scrape_eurosport, scrape_kicker]
+    scrapers = [scrape_sportschau, scrape_eurosport]
 
     for scraper in scrapers:
         try:
@@ -222,20 +190,56 @@ def main():
             if isinstance(result, list):
                 all_events.extend(result)
             else:
-                logger.warning(f"{scraper.__name__} returned non-list: {type(result)}")
+                logger.warning(f"{scraper.__name__} lieferte kein list-Objekt: {type(result)}")
         except Exception as e:
             logger.error(f"Unhandled error in {scraper.__name__}: {e}")
 
-    today = datetime.today().strftime("%Y-%m-%d")
+    # === Related matching ===
+# === RELATED EVENTS ZUORDNEN ===
+    for base_event in all_events:
+        base_sport = base_event.get("sport_slug", "")
+        base_slug = base_event.get("slug", "")
+        base_iso = base_event.get("iso_time", "")
+        base_time = base_event.get("time", "")
+
+        related = []
+
+        for candidate in all_events:
+            if candidate.get("slug") == base_slug:
+                continue
+            if candidate.get("sport_slug") != base_sport:
+                continue
+
+            time_diff = abs_time_diff(base_iso, candidate.get("iso_time", ""))
+            if time_diff is None:
+                is_similar = base_time and candidate.get("time") == base_time
+            else:
+                is_similar = time_diff <= 180
+
+            if is_similar:
+                related.append({
+                    "title": candidate.get("title", ""),
+                    "time": candidate.get("time", ""),
+                    "sender": candidate.get("sender", ""),
+                    "slug": candidate.get("slug", "")
+                })
+
+        base_event["related_events"] = related[:3]
+
+
+# Ende matching #     
+
+
+    today = get_berlin_date_str()
+    filename = f"sports_schedule_{get_berlin_date_str()}.json" #f"sports_schedule_{today}.json"
     output = {"date": today, "events": all_events}
-    filename = f"sports_schedule_{today}.json"
 
     try:
         with open(filename, "w", encoding="utf-8") as f:
             json.dump(output, f, ensure_ascii=False, indent=2)
-        logger.info(f"Saved {len(all_events)} events to '{filename}'")
+        logger.info(f"✅ {len(all_events)} Events gespeichert in '{filename}'")
     except Exception as e:
-        logger.error(f"Failed writing JSON '{filename}': {e}")
+        logger.error(f"❌ Fehler beim Schreiben der JSON-Datei: {e}")
 
 if __name__ == "__main__":
     main()

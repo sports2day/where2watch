@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="de">
-
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -13,21 +12,17 @@
   <meta property="og:type" content="website" />
   <meta property="og:locale" content="de_DE" />
   <link rel="stylesheet" href="style.css" />
-  <!-- Thanks to https://icons8.com for the awesome favicon -->
   <link rel="icon" href="favicon.ico" type="image/x-icon" />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
-  <!-- Google Analytics (GA4) – anonymisierte IP -->
+
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-1H2FMTV41X"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
-    gtag('config', 'G-1H2FMTV41X', {
-      'anonymize_ip': true
-    });
+    gtag('config', 'G-1H2FMTV41X', { 'anonymize_ip': true });
   </script>
 
-  <!-- JSON-LD structured data -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -46,29 +41,753 @@
 </head>
 
 <body>
-  <main>
+  <header role="banner">
     <h1>Where2Watch</h1>
     <p>Live-Sport heute im TV & Stream</p>
+  </header>
+
+  <main role="main">
     <div class="centered">
       <button class="btn-disabled" aria-disabled="true">📅 Kalender-Export (bald verfügbar)</button>
     </div>
-    <div id="eventsContainer">Lade Sportevents...</div>
+
+    <input type="text" id="searchInput" class="search-box" placeholder="🔍 Nach Sportart oder Team suchen…" aria-label="Suchfeld für Sportevents" />
+
+    <nav class="sport-filter" id="filterMenu" role="navigation" aria-label="Sportarten-Filtermenü">
+      <!-- Buttons werden per JavaScript generiert -->
+    </nav>
+
+    <div id="eventsContainer">
+      
+        
+          <section class="sport-section" role="region" aria-label="Fußball">
+            <h2 style="border-left: 6px solid #28a745;">⚽ Fußball</h2>
+            <div class="card-grid">
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">17:00</div>
+                  <a class="card-title" href="events/bfc-daugavpils-vs-fk-vllaznia.html" style="text-decoration: none; color: #0077ff;">BFC Daugavpils vs FK Vllaznia</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">18:00</div>
+                  <a class="card-title" href="events/ilves-tampere-vs-schachtar-donezk.html" style="text-decoration: none; color: #0077ff;">Ilves Tampere vs Schachtar Donezk</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">18:00</div>
+                  <a class="card-title" href="events/fk-aktobe-vs-legia-warschau.html" style="text-decoration: none; color: #0077ff;">FK Aktobe vs Legia Warschau</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">18:00</div>
+                  <a class="card-title" href="events/hjk-helsinki-vs-nsi-runavik.html" style="text-decoration: none; color: #0077ff;">HJK Helsinki vs NSÍ Runavík</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">18:00</div>
+                  <a class="card-title" href="events/fk-ordabasy-vs-torpedo-kutaisi.html" style="text-decoration: none; color: #0077ff;">FK Ordabasy vs Torpedo Kutaisi</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">18:00</div>
+                  <a class="card-title" href="events/pyunik-fc-vs-sp-tre-fiori.html" style="text-decoration: none; color: #0077ff;">Pyunik FC vs SP Tre Fiori</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">18:00</div>
+                  <a class="card-title" href="events/fc-santa-coloma-vs-borac-banja-luka.html" style="text-decoration: none; color: #0077ff;">FC Santa Coloma vs Borac Banja Luka</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">18:00</div>
+                  <a class="card-title" href="events/fc-flora-vs-valur-reykjavik.html" style="text-decoration: none; color: #0077ff;">FC Flora vs Valur Reykjavík</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">18:00</div>
+                  <a class="card-title" href="events/dila-gori-vs-rfcu-luxemburg.html" style="text-decoration: none; color: #0077ff;">Dila Gori vs RFCU Luxemburg</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">18:00</div>
+                  <a class="card-title" href="events/fc-hegelmann-vs-st-patrick-s-athletic.html" style="text-decoration: none; color: #0077ff;">FC Hegelmann vs St Patrick&#39;s Athletic</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">18:00</div>
+                  <a class="card-title" href="events/fk-rabotnicki-vs-torpedo-belaz-zhodino.html" style="text-decoration: none; color: #0077ff;">FK Rabotnički vs Torpedo-BelAZ Zhodino</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">18:30</div>
+                  <a class="card-title" href="events/paide-linnameeskond-vs-fcb-magpies.html" style="text-decoration: none; color: #0077ff;">Paide Linnameeskond vs FCB Magpies</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">19:00</div>
+                  <a class="card-title" href="events/bk-hacken-vs-spartak-trnava.html" style="text-decoration: none; color: #0077ff;">BK Häcken vs Spartak Trnava</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">19:00</div>
+                  <a class="card-title" href="events/penybont-fc-vs-kauno-zalgiris.html" style="text-decoration: none; color: #0077ff;">Penybont FC vs Kauno Žalgiris</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">19:00</div>
+                  <a class="card-title" href="events/cs-petrocub-vs-birkirkara-fc.html" style="text-decoration: none; color: #0077ff;">CS Petrocub vs Birkirkara FC</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">19:00</div>
+                  <a class="card-title" href="events/f91-dudelange-vs-atletic-escaldes.html" style="text-decoration: none; color: #0077ff;">F91 Dudelange vs Atlétic Escaldes</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">19:00</div>
+                  <a class="card-title" href="events/sileks-kratovo-vs-fk-decic-tuzi.html" style="text-decoration: none; color: #0077ff;">Sileks Kratovo vs FK Dečić Tuzi</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">19:00</div>
+                  <a class="card-title" href="events/haverfordwest-county-vs-floriana-fc.html" style="text-decoration: none; color: #0077ff;">Haverfordwest County vs Floriana FC</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">19:30</div>
+                  <a class="card-title" href="events/cfr-cluj-vs-paksi-se.html" style="text-decoration: none; color: #0077ff;">CFR Cluj vs Paksi SE</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">19:30</div>
+                  <a class="card-title" href="events/fc-koper-vs-zeljeznicar-sarajevo.html" style="text-decoration: none; color: #0077ff;">FC Koper vs Željezničar Sarajevo</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">20:00</div>
+                  <a class="card-title" href="events/fc-prishtina-vs-fc-sheriff.html" style="text-decoration: none; color: #0077ff;">FC Prishtina vs FC Sheriff</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">20:00</div>
+                  <a class="card-title" href="events/nk-celje-vs-sabah-fk.html" style="text-decoration: none; color: #0077ff;">NK Celje vs Sabah FK</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">20:00</div>
+                  <a class="card-title" href="events/hapoel-be-er-sheva-vs-levski-sofia.html" style="text-decoration: none; color: #0077ff;">Hapoel Be&#39;er Sheva vs Levski Sofia</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">20:00</div>
+                  <a class="card-title" href="events/fk-partizani-vs-jk-nomme-kalju.html" style="text-decoration: none; color: #0077ff;">FK Partizani vs JK Nõmme Kalju</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">20:00</div>
+                  <a class="card-title" href="events/neman-grodno-vs-fc-urartu.html" style="text-decoration: none; color: #0077ff;">Neman Grodno vs FC Urartu</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">20:30</div>
+                  <a class="card-title" href="events/dinamo-brest-vs-fk-sutjeska.html" style="text-decoration: none; color: #0077ff;">Dinamo Brest vs FK Sutjeska</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">20:45</div>
+                  <a class="card-title" href="events/ki-klaksvik-vs-sjk-seinajoki.html" style="text-decoration: none; color: #0077ff;">KÍ Klaksvík vs SJK Seinäjoki</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">20:45</div>
+                  <a class="card-title" href="events/cliftonville-fc-vs-st-joseph-s-fc.html" style="text-decoration: none; color: #0077ff;">Cliftonville FC vs St. Joseph&#39;s FC</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">20:45</div>
+                  <a class="card-title" href="events/vikingur-reykjavik-vs-kf-malisheva.html" style="text-decoration: none; color: #0077ff;">Víkingur Reykjavík vs KF Malisheva</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">21:00</div>
+                  <a class="card-title" href="events/schweden-vs-england.html" style="text-decoration: none; color: #0077ff;">Schweden vs England</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">21:00</div>
+                  <a class="card-title" href="events/partizan-belgrad-vs-aek-larnaca.html" style="text-decoration: none; color: #0077ff;">Partizan Belgrad vs AEK Larnaca</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #28a745;">
+                  <div class="card-time">21:00</div>
+                  <a class="card-title" href="events/sp-la-fiorita-vs-vardar-skopje.html" style="text-decoration: none; color: #0077ff;">SP La Fiorita vs Vardar Skopje</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+            </div>
+          </section>
+        
+          <section class="sport-section" role="region" aria-label="Radsport Straßenrennen">
+            <h2 style="border-left: 6px solid #6c757d;">📺 Radsport Straßenrennen</h2>
+            <div class="card-grid">
+              
+                <div class="card" style="border-left: 5px solid #6c757d;">
+                  <div class="card-time">13:10</div>
+                  <a class="card-title" href="events/vs.html" style="text-decoration: none; color: #0077ff;"> vs </a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+            </div>
+          </section>
+        
+          <section class="sport-section" role="region" aria-label="Volleyball">
+            <h2 style="border-left: 6px solid #6c757d;">📺 Volleyball</h2>
+            <div class="card-grid">
+              
+                <div class="card" style="border-left: 5px solid #6c757d;">
+                  <div class="card-time">08:30</div>
+                  <a class="card-title" href="events/turkei-vs-deutschland.html" style="text-decoration: none; color: #0077ff;">Türkei vs Deutschland</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #6c757d;">
+                  <div class="card-time">12:20</div>
+                  <a class="card-title" href="events/argentinien-vs-japan.html" style="text-decoration: none; color: #0077ff;">Argentinien vs Japan</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #6c757d;">
+                  <div class="card-time">16:30</div>
+                  <a class="card-title" href="events/china-vs-iran.html" style="text-decoration: none; color: #0077ff;">China vs Iran</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #6c757d;">
+                  <div class="card-time">16:30</div>
+                  <a class="card-title" href="events/ukraine-vs-italien.html" style="text-decoration: none; color: #0077ff;">Ukraine vs Italien</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #6c757d;">
+                  <div class="card-time">20:00</div>
+                  <a class="card-title" href="events/kuba-vs-polen.html" style="text-decoration: none; color: #0077ff;">Kuba vs Polen</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #6c757d;">
+                  <div class="card-time">20:30</div>
+                  <a class="card-title" href="events/niederlande-vs-slowenien.html" style="text-decoration: none; color: #0077ff;">Niederlande vs Slowenien</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+            </div>
+          </section>
+        
+          <section class="sport-section" role="region" aria-label="Tennis">
+            <h2 style="border-left: 6px solid #c0392b;">🎾 Tennis</h2>
+            <div class="card-grid">
+              
+                <div class="card" style="border-left: 5px solid #c0392b;">
+                  <div class="card-time">03:00</div>
+                  <a class="card-title" href="events/govind-nanda-vs-denis-shapovalov.html" style="text-decoration: none; color: #0077ff;">Govind Nanda vs Denis Shapovalov</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #c0392b;">
+                  <div class="card-time">03:00</div>
+                  <a class="card-title" href="events/quentin-halys-vs-juan-pablo-ficovich.html" style="text-decoration: none; color: #0077ff;">Quentin Halys vs Juan Pablo Ficovich</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #c0392b;">
+                  <div class="card-time">03:00</div>
+                  <a class="card-title" href="events/emilio-nava-vs-yunchaokete-bu.html" style="text-decoration: none; color: #0077ff;">Emilio Nava vs Yunchaokete Bu</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #c0392b;">
+                  <div class="card-time">04:15</div>
+                  <a class="card-title" href="events/andrey-rublev-vs-alex-hernandez.html" style="text-decoration: none; color: #0077ff;">Andrey Rublev vs Alex Hernandez</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #c0392b;">
+                  <div class="card-time">05:45</div>
+                  <a class="card-title" href="events/luis-alvarez-valdes-vs-aleksandar-kovacevic.html" style="text-decoration: none; color: #0077ff;">Luis Alvarez Valdes vs Aleksandar Kovacevic</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #c0392b;">
+                  <div class="card-time">06:00</div>
+                  <a class="card-title" href="events/james-duckworth-vs-alejandro-davidovich-fokina.html" style="text-decoration: none; color: #0077ff;">James Duckworth vs Alejandro Davidovich Fokina</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #c0392b;">
+                  <div class="card-time">06:20</div>
+                  <a class="card-title" href="events/daniel-altmaier-vs-tristan-schoolkate.html" style="text-decoration: none; color: #0077ff;">Daniel Altmaier vs Tristan Schoolkate</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #c0392b;">
+                  <div class="card-time">07:35</div>
+                  <a class="card-title" href="events/adam-walton-vs-nishesh-basavareddy.html" style="text-decoration: none; color: #0077ff;">Adam Walton vs Nishesh Basavareddy</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #c0392b;">
+                  <div class="card-time">10:30</div>
+                  <a class="card-title" href="events/francisco-comesana-vs-roberto-carballes-baena.html" style="text-decoration: none; color: #0077ff;">Francisco Comesana vs Roberto Carballes Baena</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #c0392b;">
+                  <div class="card-time">11:00</div>
+                  <a class="card-title" href="events/astra-sharma-vs-viktoriya-tomova.html" style="text-decoration: none; color: #0077ff;">Astra Sharma vs Viktoriya Tomova</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #c0392b;">
+                  <div class="card-time">11:00</div>
+                  <a class="card-title" href="events/camilo-ugo-carabelli-vs-botic-van-de-zandschulp.html" style="text-decoration: none; color: #0077ff;">Camilo Ugo Carabelli vs Botic van de Zandschulp</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #c0392b;">
+                  <div class="card-time">12:00</div>
+                  <a class="card-title" href="events/juan-manuel-cerundolo-vs-david-goffin.html" style="text-decoration: none; color: #0077ff;">Juan Manuel Cerundolo vs David Goffin</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #c0392b;">
+                  <div class="card-time">12:25</div>
+                  <a class="card-title" href="events/sinja-kraus-vs-anna-bondar.html" style="text-decoration: none; color: #0077ff;">Sinja Kraus vs Anna Bondar</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #c0392b;">
+                  <div class="card-time">13:05</div>
+                  <a class="card-title" href="events/arthur-cazaux-vs-tomas-martin-etcheverry.html" style="text-decoration: none; color: #0077ff;">Arthur Cazaux vs Tomas Martin Etcheverry</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #c0392b;">
+                  <div class="card-time">14:05</div>
+                  <a class="card-title" href="events/filip-misolic-vs-nuno-borges.html" style="text-decoration: none; color: #0077ff;">Filip Misolic vs Nuno Borges</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #c0392b;">
+                  <div class="card-time">14:10</div>
+                  <a class="card-title" href="events/diane-parry-vs-dayana-yastremska.html" style="text-decoration: none; color: #0077ff;">Diane Parry vs Dayana Yastremska</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #c0392b;">
+                  <div class="card-time">16:00</div>
+                  <a class="card-title" href="events/francisco-cerundolo-vs-mariano-navone.html" style="text-decoration: none; color: #0077ff;">Francisco Cerúndolo vs Mariano Navone</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #c0392b;">
+                  <div class="card-time">16:00</div>
+                  <a class="card-title" href="events/alexander-shevchenko-vs-alexander-bublik.html" style="text-decoration: none; color: #0077ff;">Alexander Shevchenko vs Alexander Bublik</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #c0392b;">
+                  <div class="card-time">17:00</div>
+                  <a class="card-title" href="events/ekaterina-alexandrova-vs-caroline-werner.html" style="text-decoration: none; color: #0077ff;">Ekaterina Alexandrova vs Caroline Werner</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #c0392b;">
+                  <div class="card-time">17:10</div>
+                  <a class="card-title" href="events/hugo-gaston-vs-damir-dzumhur.html" style="text-decoration: none; color: #0077ff;">Hugo Gaston vs Damir Džumhur</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #c0392b;">
+                  <div class="card-time">17:30</div>
+                  <a class="card-title" href="events/francesco-passaro-vs-jerome-kym.html" style="text-decoration: none; color: #0077ff;">Francesco Passaro vs Jerome Kym</a>
+                  <div class="card-sender">Sportschau Live</div>
+                </div>
+              
+            </div>
+          </section>
+        
+          <section class="sport-section" role="region" aria-label="WEC">
+            <h2 style="border-left: 6px solid #6f42c1;">🏎️ WEC</h2>
+            <div class="card-grid">
+              
+                <div class="card" style="border-left: 5px solid #6f42c1;">
+                  <div class="card-time">01:25</div>
+                  <a class="card-title" href="events/fia-wec-6h-von-imola-rennen.html" style="text-decoration: none; color: #0077ff;">FIA WEC | 6h von Imola | Rennen</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #6f42c1;">
+                  <div class="card-time">07:28</div>
+                  <a class="card-title" href="events/fia-wec-6h-von-sao-paulo-highlights.html" style="text-decoration: none; color: #0077ff;">FIA WEC | 6h von São Paulo | Highlights</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #6f42c1;">
+                  <div class="card-time">08:31</div>
+                  <a class="card-title" href="events/fia-wec-6h-von-imola-rennen.html" style="text-decoration: none; color: #0077ff;">FIA WEC | 6h von Imola | Rennen</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #6f42c1;">
+                  <div class="card-time">10:55</div>
+                  <a class="card-title" href="events/fia-wec-6h-von-imola-rennen.html" style="text-decoration: none; color: #0077ff;">FIA WEC | 6h von Imola | Rennen</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #6f42c1;">
+                  <div class="card-time">13:54</div>
+                  <a class="card-title" href="events/fia-wec-6h-von-sao-paulo-highlights.html" style="text-decoration: none; color: #0077ff;">FIA WEC | 6h von São Paulo | Highlights</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #6f42c1;">
+                  <div class="card-time">21:55</div>
+                  <a class="card-title" href="events/fia-wec-6h-von-spa-rennen.html" style="text-decoration: none; color: #0077ff;">FIA WEC | 6h von Spa | Rennen</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+            </div>
+          </section>
+        
+          <section class="sport-section" role="region" aria-label="Radsport">
+            <h2 style="border-left: 6px solid #fd7e14;">🚴 Radsport</h2>
+            <div class="card-grid">
+              
+                <div class="card" style="border-left: 5px solid #fd7e14;">
+                  <div class="card-time">03:59</div>
+                  <a class="card-title" href="events/tour-de-france-11-etappe.html" style="text-decoration: none; color: #0077ff;">Tour de France | 11. Etappe</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #fd7e14;">
+                  <div class="card-time">09:56</div>
+                  <a class="card-title" href="events/tour-de-france-11-etappe.html" style="text-decoration: none; color: #0077ff;">Tour de France | 11. Etappe</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #fd7e14;">
+                  <div class="card-time">11:52</div>
+                  <a class="card-title" href="events/tour-de-france-11-etappe.html" style="text-decoration: none; color: #0077ff;">Tour de France | 11. Etappe</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #fd7e14;">
+                  <div class="card-time">12:55</div>
+                  <a class="card-title" href="events/tour-de-france-12-etappe.html" style="text-decoration: none; color: #0077ff;">Tour de France | 12. Etappe</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #fd7e14;">
+                  <div class="card-time">13:00</div>
+                  <a class="card-title" href="events/tour-de-france-12-etappe-mit-siegerehrung.html" style="text-decoration: none; color: #0077ff;">Tour de France | 12. Etappe mit Siegerehrung</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #fd7e14;">
+                  <div class="card-time">13:00</div>
+                  <a class="card-title" href="events/tour-de-france-12-etappe-mit-velo-club.html" style="text-decoration: none; color: #0077ff;">Tour de France | 12. Etappe mit &#34;Velo Club&#34;</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #fd7e14;">
+                  <div class="card-time">13:10</div>
+                  <a class="card-title" href="events/tour-de-france-12-etappe-multi-screen.html" style="text-decoration: none; color: #0077ff;">Tour de France | 12. Etappe | Multi-Screen</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #fd7e14;">
+                  <div class="card-time">15:15</div>
+                  <a class="card-title" href="events/baloise-ladies-tour-1-etappe.html" style="text-decoration: none; color: #0077ff;">Baloise Ladies Tour | 1. Etappe</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #fd7e14;">
+                  <div class="card-time">17:26</div>
+                  <a class="card-title" href="events/velo-club-tour-show-zur-12-etappe.html" style="text-decoration: none; color: #0077ff;">Velo Club | Tour-Show zur 12. Etappe</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #fd7e14;">
+                  <div class="card-time">19:55</div>
+                  <a class="card-title" href="events/tour-de-france-12-etappe.html" style="text-decoration: none; color: #0077ff;">Tour de France | 12. Etappe</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #fd7e14;">
+                  <div class="card-time">21:40</div>
+                  <a class="card-title" href="events/tour-de-france-12-etappe.html" style="text-decoration: none; color: #0077ff;">Tour de France | 12. Etappe</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+            </div>
+          </section>
+        
+          <section class="sport-section" role="region" aria-label="Snooker">
+            <h2 style="border-left: 6px solid #17a2b8;">🎱 Snooker</h2>
+            <div class="card-grid">
+              
+                <div class="card" style="border-left: 5px solid #17a2b8;">
+                  <div class="card-time">02:00</div>
+                  <a class="card-title" href="events/tour-championship-finale.html" style="text-decoration: none; color: #0077ff;">Tour Championship | Finale</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #17a2b8;">
+                  <div class="card-time">05:57</div>
+                  <a class="card-title" href="events/tour-championship-finale.html" style="text-decoration: none; color: #0077ff;">Tour Championship | Finale</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #17a2b8;">
+                  <div class="card-time">14:57</div>
+                  <a class="card-title" href="events/tour-championship-finale.html" style="text-decoration: none; color: #0077ff;">Tour Championship | Finale</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #17a2b8;">
+                  <div class="card-time">20:22</div>
+                  <a class="card-title" href="events/tour-championship-finale.html" style="text-decoration: none; color: #0077ff;">Tour Championship | Finale</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #17a2b8;">
+                  <div class="card-time">23:37</div>
+                  <a class="card-title" href="events/world-grand-prix-finale.html" style="text-decoration: none; color: #0077ff;">World Grand Prix | Finale</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+            </div>
+          </section>
+        
+          <section class="sport-section" role="region" aria-label="Mountainbike">
+            <h2 style="border-left: 6px solid #20c997;">🚵 Mountainbike</h2>
+            <div class="card-grid">
+              
+                <div class="card" style="border-left: 5px solid #20c997;">
+                  <div class="card-time">08:31</div>
+                  <a class="card-title" href="events/uci-downhill-weltcup-vallnord-pal-arinsal-frauen-elite.html" style="text-decoration: none; color: #0077ff;">UCI Downhill Weltcup | Vallnord-Pal Arinsal | Frauen Elite</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #20c997;">
+                  <div class="card-time">08:57</div>
+                  <a class="card-title" href="events/uci-downhill-weltcup-vallnord-pal-arinsal-manner-elite.html" style="text-decoration: none; color: #0077ff;">UCI Downhill Weltcup | Vallnord-Pal Arinsal | Männer Elite</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #20c997;">
+                  <div class="card-time">10:57</div>
+                  <a class="card-title" href="events/uci-xco-weltcup-vallnord-pal-arinsal-frauen-elite.html" style="text-decoration: none; color: #0077ff;">UCI XCO Weltcup | Vallnord-Pal Arinsal | Frauen Elite</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #20c997;">
+                  <div class="card-time">17:51</div>
+                  <a class="card-title" href="events/uci-xco-weltcup-vallnord-pal-arinsal-manner-elite.html" style="text-decoration: none; color: #0077ff;">UCI XCO Weltcup | Vallnord-Pal Arinsal | Männer Elite</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #20c997;">
+                  <div class="card-time">19:26</div>
+                  <a class="card-title" href="events/race-bikes.html" style="text-decoration: none; color: #0077ff;">Race Bikes</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+            </div>
+          </section>
+        
+          <section class="sport-section" role="region" aria-label="Segeln">
+            <h2 style="border-left: 6px solid #6c757d;">📺 Segeln</h2>
+            <div class="card-grid">
+              
+                <div class="card" style="border-left: 5px solid #6c757d;">
+                  <div class="card-time">10:24</div>
+                  <a class="card-title" href="events/racing-on-the-edge.html" style="text-decoration: none; color: #0077ff;">Racing on the Edge</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+            </div>
+          </section>
+        
+          <section class="sport-section" role="region" aria-label="Rhythmische Sportgymnastik">
+            <h2 style="border-left: 6px solid #6c757d;">📺 Rhythmische Sportgymnastik</h2>
+            <div class="card-grid">
+              
+                <div class="card" style="border-left: 5px solid #6c757d;">
+                  <div class="card-time">11:25</div>
+                  <a class="card-title" href="events/rhine-ruhr-2025-einzel-mehrkampf-reifen-ball.html" style="text-decoration: none; color: #0077ff;">Rhine-Ruhr 2025 | Einzel Mehrkampf | Reifen / Ball</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #6c757d;">
+                  <div class="card-time">14:25</div>
+                  <a class="card-title" href="events/rhine-ruhr-2025-einzel-mehrkampf-reifen-ball.html" style="text-decoration: none; color: #0077ff;">Rhine-Ruhr 2025 | Einzel Mehrkampf | Reifen / Ball</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #6c757d;">
+                  <div class="card-time">16:25</div>
+                  <a class="card-title" href="events/rhine-ruhr-2025-einzel-mehrkampf-reifen-ball.html" style="text-decoration: none; color: #0077ff;">Rhine-Ruhr 2025 | Einzel Mehrkampf | Reifen / Ball</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #6c757d;">
+                  <div class="card-time">19:25</div>
+                  <a class="card-title" href="events/rhine-ruhr-2025-gruppe-mehrkampf-bander.html" style="text-decoration: none; color: #0077ff;">Rhine-Ruhr 2025 | Gruppe Mehrkampf | Bänder</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+            </div>
+          </section>
+        
+          <section class="sport-section" role="region" aria-label="Taekwondo">
+            <h2 style="border-left: 6px solid #6c757d;">📺 Taekwondo</h2>
+            <div class="card-grid">
+              
+                <div class="card" style="border-left: 5px solid #6c757d;">
+                  <div class="card-time">12:55</div>
+                  <a class="card-title" href="events/rhine-ruhr-2025-tag-1.html" style="text-decoration: none; color: #0077ff;">Rhine-Ruhr 2025 | Tag 1</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+            </div>
+          </section>
+        
+          <section class="sport-section" role="region" aria-label="Wasserspringen">
+            <h2 style="border-left: 6px solid #6c757d;">📺 Wasserspringen</h2>
+            <div class="card-grid">
+              
+                <div class="card" style="border-left: 5px solid #6c757d;">
+                  <div class="card-time">14:40</div>
+                  <a class="card-title" href="events/rhine-ruhr-2025-3m-mixed-finale.html" style="text-decoration: none; color: #0077ff;">Rhine-Ruhr 2025 | 3m Mixed | Finale</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #6c757d;">
+                  <div class="card-time">16:25</div>
+                  <a class="card-title" href="events/rhine-ruhr-2025-10m-turm-synchron-finale.html" style="text-decoration: none; color: #0077ff;">Rhine-Ruhr 2025 | 10m Turm Synchron | Finale</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+            </div>
+          </section>
+        
+          <section class="sport-section" role="region" aria-label="Leichtathletik">
+            <h2 style="border-left: 6px solid #ffc107;">🏃 Leichtathletik</h2>
+            <div class="card-grid">
+              
+                <div class="card" style="border-left: 5px solid #ffc107;">
+                  <div class="card-time">16:54</div>
+                  <a class="card-title" href="events/grand-slam-track-philadelphia.html" style="text-decoration: none; color: #0077ff;">Grand Slam Track | Philadelphia</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #ffc107;">
+                  <div class="card-time">18:25</div>
+                  <a class="card-title" href="events/grand-slam-track-philadelphia.html" style="text-decoration: none; color: #0077ff;">Grand Slam Track | Philadelphia</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #ffc107;">
+                  <div class="card-time">23:56</div>
+                  <a class="card-title" href="events/grand-slam-track-philadelphia.html" style="text-decoration: none; color: #0077ff;">Grand Slam Track | Philadelphia</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+            </div>
+          </section>
+        
+          <section class="sport-section" role="region" aria-label="Fechten">
+            <h2 style="border-left: 6px solid #6c757d;">📺 Fechten</h2>
+            <div class="card-grid">
+              
+                <div class="card" style="border-left: 5px solid #6c757d;">
+                  <div class="card-time">17:55</div>
+                  <a class="card-title" href="events/rhine-ruhr-2025-tag-1.html" style="text-decoration: none; color: #0077ff;">Rhine-Ruhr 2025 | Tag 1</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+            </div>
+          </section>
+        
+          <section class="sport-section" role="region" aria-label="Schwimmen">
+            <h2 style="border-left: 6px solid #6c757d;">📺 Schwimmen</h2>
+            <div class="card-grid">
+              
+                <div class="card" style="border-left: 5px solid #6c757d;">
+                  <div class="card-time">18:32</div>
+                  <a class="card-title" href="events/rhine-ruhr-2025-tag-1.html" style="text-decoration: none; color: #0077ff;">Rhine-Ruhr 2025 | Tag 1</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+                <div class="card" style="border-left: 5px solid #6c757d;">
+                  <div class="card-time">18:55</div>
+                  <a class="card-title" href="events/rhine-ruhr-2025-tag-1.html" style="text-decoration: none; color: #0077ff;">Rhine-Ruhr 2025 | Tag 1</a>
+                  <div class="card-sender">Eurosport</div>
+                </div>
+              
+            </div>
+          </section>
+        
+      
+    </div>
   </main>
 
-  <nav>
-    <button id="scrollTop" class="scroll-top-btn" aria-label="Zurück nach oben">⬆</button>
-  </nav>
+  <button id="scrollTop" class="scroll-top-btn" aria-label="Zurück nach oben">⬆</button>
 
-  <footer class="site-footer">
-    <a href="pages/impressum.html">Impressum</a> ·
-    <a href="pages/datenschutz.html">Datenschutz</a>
-    <br /><br />
-    <a href="pages/fussball.html">⚽ Fußball heute im TV</a> ·
-    <a href="pages/eurosport.html">📺 Eurosport Sportprogramm</a> ·
-    <a href="pages/sportschau-live.html">📺 Sportschau Live-Übertragungen</a>
+  <footer class="site-footer" role="contentinfo">
+    <footer class="site-footer" role="contentinfo">
+  <a href="../pages/impressum.html">Impressum</a> ·
+  <a href="../pages/datenschutz.html">Datenschutz</a>
+  <br /><br />
+  <a href="../pages/fussball.html">⚽ Fußball heute im TV</a> ·
+  <a href="../pages/eurosport.html">📺 Eurosport Sportprogramm</a> ·
+  <a href="../pages/sportschau-live.html">📺 Sportschau Live-Übertragungen</a>
+</footer>
   </footer>
 
   <script src="script.js"></script>
 </body>
-
 </html>

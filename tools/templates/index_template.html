@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sport heute im TV – Live-Übersicht für ZDF, Eurosport & Co</title>
+  <meta name="description" content="Alle Sportevents heute im Fernsehen und Stream. Senderübersicht für ZDF, Eurosport, Kicker und mehr." />
+  <link rel="canonical" href="https://sports2day.github.io/where2watch/" />
+  <meta property="og:title" content="Sport heute im TV – Where2Watch" />
+  <meta property="og:description" content="Live-Sport heute im Fernsehen und Stream. Jetzt Events entdecken." />
+  <meta property="og:url" content="https://sports2day.github.io/where2watch/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="de_DE" />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="favicon.ico" type="image/x-icon" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-1H2FMTV41X"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-1H2FMTV41X', { 'anonymize_ip': true });
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Where2Watch – Sport heute im TV",
+    "url": "https://sports2day.github.io/where2watch/",
+    "description": "Alle Sportübertragungen heute im TV & Stream – Fußball, Radsport, Tennis, Handball uvm. auf Sendern wie ZDF, Eurosport, Sportschau und Kicker.",
+    "inLanguage": "de",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://sports2day.github.io/where2watch/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+</head>
+
+<body>
+  <header role="banner">
+    <h1>Where2Watch</h1>
+    <p>Live-Sport heute im TV & Stream</p>
+  </header>
+
+  <main role="main">
+    <div class="centered">
+      <button class="btn-disabled" aria-disabled="true">📅 Kalender-Export (bald verfügbar)</button>
+    </div>
+
+    <input type="text" id="searchInput" class="search-box" placeholder="🔍 Nach Sportart oder Team suchen…" aria-label="Suchfeld für Sportevents" />
+
+    <nav class="sport-filter" id="filterMenu" role="navigation" aria-label="Sportarten-Filtermenü">
+      <!-- Buttons werden per JavaScript generiert -->
+    </nav>
+
+    <div id="eventsContainer">
+      {% if grouped_events %}
+        {% for sport, events in grouped_events.items() %}
+          <section class="sport-section" role="region" aria-label="{{ sport }}">
+            <h2 style="border-left: 6px solid {{ sport_colors.get(sport, '#6c757d') }};">{{ sport_icons.get(sport, '📺') }} {{ sport }}</h2>
+            <div class="card-grid">
+              {% for event in events %}
+                <div class="card" style="border-left: 5px solid {{ sport_colors.get(sport, '#6c757d') }};">
+                  <div class="card-time">{{ event.time }}</div>
+                  <a class="card-title" href="events/{{ event.slug }}.html" style="text-decoration: none; color: #0077ff;">{{ event.title }}</a>
+                  <div class="card-sender">{{ event.sender }}</div>
+                </div>
+              {% endfor %}
+            </div>
+          </section>
+        {% endfor %}
+      {% else %}
+        <p>Heute sind keine Daten verfügbar.</p>
+      {% endif %}
+    </div>
+  </main>
+
+  <button id="scrollTop" class="scroll-top-btn" aria-label="Zurück nach oben">⬆</button>
+
+  <footer class="site-footer" role="contentinfo">
+    {% include "footer_template.html" %}
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

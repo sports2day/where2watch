@@ -1,112 +1,179 @@
+/* ============================================
+   Basis-Styles und Layout
+============================================ */
+:root {
+  --primary-color: #002f6c;     /* Dunkelblau */
+  --accent-color: #00ff84;      /* Neongrün */
+  --light-bg: #f9f9fb;
+  --text-color: #222;
+  --muted-color: #666;
+  --card-bg: #ffffff;
+  --shadow: rgba(0, 0, 0, 0.05);
+  --transition: 0.3s ease-in-out;
+}
+
 body {
   font-family: 'Inter', sans-serif;
-  background-color: #f9f9fb;
+  background-color: var(--light-bg);
   margin: 0;
   padding: 0 1rem;
+  color: var(--text-color);
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* ============================================
+   Überschriften & Typografie
+============================================ */
+h1, h2, h3 {
+  font-weight: 700;
+  color: var(--primary-color);
 }
 
 h1 {
-  color: #0077ff;
   text-align: center;
   font-size: 2.5rem;
   margin-top: 2rem;
 }
 
-p {
-  text-align: center;
-  color: #555;
-}
-
-.sport-section {
-  margin: 2rem 0;
-}
-
-.sport-section h2 {
+h2 {
+  font-size: 1.6rem;
   margin-bottom: 1rem;
-  padding-left: 0.75rem;
-  font-size: 1.5rem;
-  background-color: #fff;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-  padding: 0.5rem 1rem;
-  border-radius: 0.5rem;
 }
 
-.card-grid {
+p {
+  font-size: 1rem;
+  color: var(--muted-color);
+  line-height: 1.6;
+}
+
+/* ============================================
+   Komponenten: Karten & Gitter
+============================================ */
+.card-grid, .related-events {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   gap: 1rem;
+  margin-bottom: 2rem;
 }
 
-.card {
-  background-color: #ffffff;
+.card, .event-card {
+  background-color: var(--card-bg);
   border-radius: 1rem;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 4px 8px var(--shadow);
   padding: 1rem;
-  transition: transform 0.2s, box-shadow 0.3s;
+  transition: transform var(--transition), box-shadow var(--transition);
 }
 
-.card:hover {
+.card:hover,
+.event-card:hover {
   transform: scale(1.02);
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.1);
 }
 
 .card-time {
   font-size: 1.2rem;
   font-weight: bold;
-  color: #333;
+  color: var(--primary-color);
 }
 
 .card-title {
-  margin-top: 0.5rem;
   font-size: 1rem;
   font-weight: 500;
 }
 
 .card-sender {
+  color: var(--muted-color);
+  font-size: 0.9rem;
   margin-top: 0.25rem;
-  color: #888;
+}
+
+/* ============================================
+   Buttons
+============================================ */
+.btn {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 0.7rem 1.2rem;
+  border: none;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color var(--transition), transform var(--transition);
+}
+
+.btn:hover {
+  background-color: var(--accent-color);
+  color: black;
+  transform: scale(1.03);
+}
+
+/* ============================================
+   Navigation & Footer
+============================================ */
+.site-footer {
+  text-align: center;
+  margin-top: 3rem;
+  font-size: 0.9rem;
+  padding: 2rem 0;
+  background-color: var(--card-bg);
+  color: var(--muted-color);
+}
+
+.site-footer a {
+  color: var(--primary-color);
+  text-decoration: none;
+  margin: 0 0.25rem;
+}
+
+.site-footer a:hover {
+  text-decoration: underline;
+}
+
+/* ============================================
+   Suchleiste & Filtermenü
+============================================ */
+.search-box {
+  display: block;
+  width: 100%;
+  max-width: 600px;
+  margin: 1rem auto;
+  padding: 0.7rem 1rem;
+  border: 1px solid #ccc;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+}
+
+.sport-filter {
+  display: flex;
+  overflow-x: auto;
+  padding: 0.5rem 1rem;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.sport-filter button {
+  flex-shrink: 0;
+  background-color: #e0e0e0;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 1rem;
+  cursor: pointer;
   font-size: 0.9rem;
 }
 
-.btn-disabled {
-  background-color: #28a745;
+.sport-filter .filter-active {
+  background-color: var(--primary-color);
   color: white;
-  border: none;
-  padding: 0.7rem 1.5rem;
-  font-size: 1rem;
-  border-radius: 0.6rem;
-  cursor: not-allowed;
 }
 
-/* Centered section for content like buttons */
-.centered {
-  text-align: center;
-  margin: 1rem auto;
-}
+/* ============================================
+   Scroll to Top Button
+============================================ */
 
-@media (max-width: 600px) {
-  h1 {
-    font-size: 2rem;
-  }
-
-  .card-time {
-    font-size: 1rem;
-  }
-
-  .card-title {
-    font-size: 0.95rem;
-  }
-
-  .sport-section h2 {
-    position: sticky;
-    top: 0;
-    z-index: 100;
-    background-color: #fff;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
-  }
-}
-
-/* Scroll to top button */
 .scroll-top-btn {
   position: fixed;
   bottom: 1rem;
@@ -128,47 +195,218 @@ p {
   display: block;
 }
 
-/* Footer styling */
-.site-footer {
-  text-align: center;
-  margin-top: 3rem;
-  font-size: 0.9rem;
-  padding: 1rem 0;
-  color: #666;
+
+/* ============================================
+   Responsives Design
+============================================ */
+@media (max-width: 600px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  .card-time {
+    font-size: 1rem;
+  }
+
+  .card-title {
+    font-size: 0.95rem;
+  }
+
+  .sport-section h2 {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background-color: var(--card-bg);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  }
 }
 
-/* Search box */
-.search-box {
-  display: block;
-  width: 100%;
-  max-width: 600px;
-  margin: 1rem auto 0.5rem auto;
-  padding: 0.7rem 1rem;
-  border: 1px solid #ccc;
-  border-radius: 0.5rem;
-  font-size: 1rem;
+/* ============================================
+   Event Page Styles
+============================================ */
+
+.event-page {
+  padding: 1.5rem;
+  max-width: 800px;
+  margin: 0 auto;
+  font-family: 'Inter', sans-serif;
 }
 
-/* Scrollable sport filter menu */
-.sport-filter {
-  display: flex;
-  overflow-x: auto;
-  padding: 0.5rem 1rem;
-  gap: 0.5rem;
+.event-header h1 {
+  font-size: 1.8rem;
+  margin-bottom: 0.5rem;
+}
+
+.event-subtitle {
+  font-style: italic;
+  color: #555;
   margin-bottom: 1rem;
 }
 
-.sport-filter button {
-  flex-shrink: 0;
-  background-color: #e0e0e0;
-  border: none;
-  padding: 0.5rem 1rem;
-  border-radius: 1rem;
-  cursor: pointer;
-  font-size: 0.9rem;
+.event-info-box {
+  background: #f7f7f7;
+  border-left: 6px solid #0077ff;
+  padding: 1rem;
+  margin-bottom: 1rem;
 }
 
-.sport-filter .filter-active {
+.event-meta {
+  margin-bottom: 0.5rem;
+}
+
+.cta-button {
+  display: inline-block;
   background-color: #0077ff;
   color: white;
+  text-decoration: none;
+  padding: 0.6rem 1.2rem;
+  border-radius: 4px;
+  font-weight: bold;
+  margin-bottom: 1rem;
 }
+
+.event-links a {
+  text-decoration: none;
+  color: #0077ff;
+  margin-right: 0.8rem;
+}
+
+.related-events-section {
+  margin-top: 2rem;
+}
+
+.related-events-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+}
+
+.related-card {
+  background: #fafafa;
+  padding: 0.8rem;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+/* ============================================
+   Event Page Styles
+============================================ */
+.static-page {
+  padding: 1.5rem;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.static-header h1 {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+
+.static-subheading {
+  text-align: center;
+  font-style: italic;
+  color: var(--muted-color);
+  margin-bottom: 2rem;
+}
+
+.card-subtitle {
+  font-size: 0.9rem;
+  color: var(--muted-color);
+  margin-top: 0.25rem;
+}
+
+/* ============================================
+   Navigation and recommendation Styles
+============================================ */
+
+.nav-links {
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
+.nav-button {
+  background-color: #f0f0f0;
+  padding: 0.4rem 0.8rem;
+  border-radius: 1rem;
+  font-size: 0.85rem;
+  text-decoration: none;
+  margin-right: 0.5rem;
+  color: var(--primary-color);
+}
+.nav-button:hover {
+  background-color: var(--accent-color);
+  color: #000;
+}
+
+.card-subtitle {
+  font-size: 0.9rem;
+  color: var(--muted-color);
+  margin-top: 0.25rem;
+}
+
+.static-page {
+  padding: 1.5rem;
+  max-width: 960px;
+  margin: 0 auto;
+}
+.static-header h1 {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+.static-subheading {
+  text-align: center;
+  font-style: italic;
+  color: var(--muted-color);
+  margin-bottom: 2rem;
+}
+
+.related-events-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+}
+.related-card {
+  background: #fafafa;
+  padding: 0.8rem;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+.related-card h3 {
+  font-size: 1rem;
+  margin-bottom: 0.25rem;
+}
+.related-card p {
+  font-size: 0.9rem;
+  color: var(--muted-color);
+}
+.related-card a {
+  font-size: 0.85rem;
+  color: #0077ff;
+  text-decoration: none;
+}
+.related-card a:hover {
+  text-decoration: underline;
+}
+
+/* === SENDER SEITEN STYLES === */
+.sender-page {
+  padding: 1.5rem;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.sender-header h1 {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+
+.sender-subheading {
+  text-align: center;
+  font-style: italic;
+  color: var(--muted-color);
+  margin-bottom: 2rem;
+}
+
+

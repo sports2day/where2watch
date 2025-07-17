@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ page_title }}</title>
+  <meta name="description" content="{{ meta_description }}" />
+  <link rel="canonical" href="https://sports2day.github.io/where2watch/pages/{{ slug }}.html" />
+  <meta property="og:title" content="{{ page_title }}" />
+  <meta property="og:description" content="{{ meta_description }}" />
+  <meta property="og:url" content="https://sports2day.github.io/where2watch/pages/{{ slug }}.html" />
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="de_DE" />
+  <link rel="stylesheet" href="../style.css" />
+  <link rel="icon" href="../favicon.ico" type="image/x-icon" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
+</head>
+
+<body>
+  <main class="sender-page">
+    <nav class="nav-links">
+      <a class="nav-button" href="../index.html">⬅ Zur Übersicht</a>
+    </nav>
+
+    <header class="sender-header">
+      <h1>{{ heading }}</h1>
+      <p class="sender-subheading">{{ subheading }}</p>
+    </header>
+
+    {% if events %}
+    <section class="sender-events">
+      <div class="card-grid">
+        {% for event in events %}
+        <div class="card" style="border-left: 5px solid #0077ff;">
+          <div class="card-time">{{ event.time }}</div>
+          <a class="card-title" href="{{ event.link }}" target="_blank">{{ event.title }}</a>
+          {% if event.subtitle %}<div class="card-subtitle">{{ event.subtitle }}</div>{% endif %}
+          <div class="card-sender">{{ event.sport }} · {{ event.sender }}</div>
+        </div>
+        {% endfor %}
+      </div>
+    </section>
+    {% else %}
+    <section><p>Aktuell sind keine Events bei diesem Sender verfügbar.</p></section>
+    {% endif %}
+  </main>
+
+  {% include "footer_template.html" %}
+  <button onclick="scrollToTop()" class="scroll-top-btn" aria-label="Nach oben scrollen">↑</button>
+</body>
+</html>

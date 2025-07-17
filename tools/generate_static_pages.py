@@ -8,7 +8,7 @@ from datetime import datetime
 # === CONFIG ===
 TEMPLATE_PATH = "tools/templates/static_html_pages_template.html"
 OUTPUT_DIR = "pages"  # Hier Ausgabeordner geändert
-INPUT_JSON = "sports_schedule_{}.json".format(datetime.today().strftime("%Y-%m-%d"))
+INPUT_JSON = "sports_schedule_2025-07-17.json" #"sports_schedule_{}.json".format(datetime.today().strftime("%Y-%m-%d"))
 
 # === Load Events ===
 with open(INPUT_JSON, "r", encoding="utf-8") as f:
@@ -54,11 +54,3 @@ for sport_slug, sport_events in sports.items():
     filename = f"{sport_slug}.html"
     generate_page(filename, title, description, heading, subheading, sport_events)
 
-# === Generate sender pages ===
-for sender_slug, sender_events in senders.items():
-    title = f"{sender_events[0]['sender']} Sportprogramm heute"
-    description = f"Sport live im TV auf {sender_events[0]['sender']}. Alle Übertragungen auf einen Blick."
-    heading = f"{sender_events[0]['sender']} heute im Überblick"
-    subheading = f"Live-Übertragungen bei {sender_events[0]['sender']}"
-    filename = f"{sender_slug}.html"
-    generate_page(filename, title, description, heading, subheading, sender_events)

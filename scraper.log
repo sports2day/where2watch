@@ -79,3 +79,281 @@
 2025-07-12 02:31:48,891 [INFO] Scraping: https://www.kicker.de/live
 2025-07-12 02:31:49,443 [INFO] → 0 events from Kicker
 2025-07-12 02:31:49,446 [INFO] Saved 71 events to 'sports_schedule_2025-07-12.json'
+2025-07-14 09:54:16,949 [INFO] Starting full scraping process
+2025-07-14 09:54:16,950 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-14 09:54:20,581 [INFO] → 12 events from Sportschau
+2025-07-14 09:54:20,588 [INFO] Scraping: https://www.zdf.de/live-tv
+2025-07-14 09:54:21,848 [INFO] → 0 events from ZDF
+2025-07-14 09:54:21,849 [INFO] Scraping Eurosport via GraphQL
+2025-07-14 09:54:28,271 [ERROR] Error scraping Eurosport: 'NoneType' object has no attribute 'strip'
+2025-07-14 09:54:28,272 [INFO] Scraping: https://www.kicker.de/live
+2025-07-14 09:54:28,645 [INFO] → 0 events from Kicker
+2025-07-14 09:54:28,647 [INFO] Saved 12 events to 'sports_schedule_2025-07-14.json'
+2025-07-14 10:00:40,187 [INFO] Starting full scraping process
+2025-07-14 10:00:40,188 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-14 10:00:44,222 [INFO] → 12 events from Sportschau
+2025-07-14 10:00:44,223 [INFO] Scraping: https://www.zdf.de/live-tv
+2025-07-14 10:00:44,556 [INFO] → 0 events from ZDF
+2025-07-14 10:00:44,557 [INFO] Scraping Eurosport via GraphQL
+2025-07-14 10:00:47,934 [ERROR] Error scraping Eurosport: 'NoneType' object has no attribute 'strip'
+2025-07-14 10:00:47,937 [INFO] Scraping: https://www.kicker.de/live
+2025-07-14 10:00:48,345 [INFO] → 0 events from Kicker
+2025-07-14 10:00:48,347 [INFO] Saved 12 events to 'sports_schedule_2025-07-14.json'
+2025-07-14 10:05:41,109 [INFO] Starting full scraping process
+2025-07-14 10:05:41,109 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-14 10:05:43,455 [INFO] → 12 events from Sportschau
+2025-07-14 10:05:43,456 [INFO] Scraping: https://www.zdf.de/live-tv
+2025-07-14 10:05:43,847 [INFO] → 0 events from ZDF
+2025-07-14 10:05:43,847 [INFO] Scraping Eurosport via GraphQL
+2025-07-14 10:05:46,852 [ERROR] Error scraping Eurosport: 'NoneType' object has no attribute 'strip'
+2025-07-14 10:05:46,855 [INFO] Scraping: https://www.kicker.de/live
+2025-07-14 10:05:48,333 [INFO] → 0 events from Kicker
+2025-07-14 10:05:48,336 [INFO] Saved 12 events to 'sports_schedule_2025-07-14.json'
+2025-07-14 10:12:42,952 [INFO] Starting full scraping process
+2025-07-14 10:12:42,953 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-14 10:12:43,515 [INFO] → 12 events from Sportschau
+2025-07-14 10:12:43,516 [INFO] Scraping: https://www.zdf.de/live-tv
+2025-07-14 10:12:43,921 [INFO] → 0 events from ZDF
+2025-07-14 10:12:43,922 [INFO] Scraping Eurosport via GraphQL
+2025-07-14 10:12:47,037 [ERROR] Error scraping Eurosport: 'NoneType' object has no attribute 'strip'
+2025-07-14 10:12:47,038 [INFO] Scraping: https://www.kicker.de/live
+2025-07-14 10:12:50,616 [INFO] → 0 events from Kicker
+2025-07-14 10:12:50,619 [INFO] Saved 12 events to 'sports_schedule_2025-07-14.json'
+2025-07-14 10:15:39,030 [INFO] Starting full scraping process
+2025-07-14 10:15:39,031 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-14 10:15:40,162 [INFO] → 12 events from Sportschau
+2025-07-14 10:15:40,163 [INFO] Scraping: https://www.zdf.de/live-tv
+2025-07-14 10:15:40,474 [INFO] → 0 events from ZDF
+2025-07-14 10:15:40,475 [INFO] Scraping Eurosport via GraphQL
+2025-07-14 10:15:43,182 [ERROR] Error scraping Eurosport: 'NoneType' object has no attribute 'strip'
+2025-07-14 10:15:43,185 [INFO] Scraping: https://www.kicker.de/live
+2025-07-14 10:15:44,178 [INFO] → 0 events from Kicker
+2025-07-14 10:15:44,180 [INFO] Saved 12 events to 'sports_schedule_2025-07-14.json'
+2025-07-14 10:18:28,195 [INFO] Starting full scraping process
+2025-07-14 10:18:28,195 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-14 10:18:28,655 [INFO] → 12 events from Sportschau
+2025-07-14 10:18:28,656 [INFO] Scraping: https://www.zdf.de/live-tv
+2025-07-14 10:18:28,965 [INFO] → 0 events from ZDF
+2025-07-14 10:18:28,966 [INFO] Scraping Eurosport via GraphQL
+2025-07-14 10:18:31,883 [ERROR] Error scraping Eurosport: 'NoneType' object has no attribute 'strip'
+2025-07-14 10:18:31,885 [INFO] Scraping: https://www.kicker.de/live
+2025-07-14 10:18:32,605 [INFO] → 0 events from Kicker
+2025-07-14 10:18:32,608 [INFO] Saved 12 events to 'sports_schedule_2025-07-14.json'
+2025-07-14 10:19:04,815 [INFO] Starting full scraping process
+2025-07-14 10:19:04,816 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-14 10:19:05,356 [INFO] → 12 events from Sportschau
+2025-07-14 10:19:05,356 [INFO] Scraping: https://www.zdf.de/live-tv
+2025-07-14 10:19:05,679 [INFO] → 0 events from ZDF
+2025-07-14 10:19:05,680 [INFO] Scraping Eurosport via GraphQL
+2025-07-14 10:19:05,811 [ERROR] Error scraping Eurosport: 'NoneType' object has no attribute 'strip'
+2025-07-14 10:19:05,814 [INFO] Scraping: https://www.kicker.de/live
+2025-07-14 10:19:06,096 [INFO] → 0 events from Kicker
+2025-07-14 10:19:06,098 [INFO] Saved 12 events to 'sports_schedule_2025-07-14.json'
+2025-07-14 10:20:57,444 [INFO] Starting full scraping process
+2025-07-14 10:20:57,445 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-14 10:20:58,090 [INFO] → 12 events from Sportschau
+2025-07-14 10:20:58,092 [INFO] Scraping: https://www.zdf.de/live-tv
+2025-07-14 10:20:58,496 [INFO] → 0 events from ZDF
+2025-07-14 10:20:58,497 [INFO] Scraping Eurosport via GraphQL
+2025-07-14 10:21:00,966 [ERROR] Error scraping Eurosport: 'NoneType' object has no attribute 'strip'
+2025-07-14 10:21:00,969 [INFO] Scraping: https://www.kicker.de/live
+2025-07-14 10:21:01,752 [INFO] → 0 events from Kicker
+2025-07-14 10:21:01,754 [INFO] Saved 12 events to 'sports_schedule_2025-07-14.json'
+2025-07-14 10:24:22,862 [INFO] Starting full scraping process
+2025-07-14 10:24:22,863 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-14 10:24:23,754 [INFO] → 12 events from Sportschau
+2025-07-14 10:24:23,755 [INFO] Scraping: https://www.zdf.de/live-tv
+2025-07-14 10:24:24,145 [INFO] → 0 events from ZDF
+2025-07-14 10:24:24,146 [INFO] Scraping Eurosport via GraphQL
+2025-07-14 10:24:27,878 [ERROR] Error scraping Eurosport: 'list' object has no attribute 'sport'
+2025-07-14 10:24:27,881 [INFO] Scraping: https://www.kicker.de/live
+2025-07-14 10:24:29,368 [INFO] → 0 events from Kicker
+2025-07-14 10:24:29,371 [INFO] Saved 12 events to 'sports_schedule_2025-07-14.json'
+2025-07-14 10:26:22,712 [INFO] Starting full scraping process
+2025-07-14 10:26:22,712 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-14 10:26:24,405 [INFO] → 12 events from Sportschau
+2025-07-14 10:26:24,405 [INFO] Scraping: https://www.zdf.de/live-tv
+2025-07-14 10:26:25,079 [INFO] → 0 events from ZDF
+2025-07-14 10:26:25,080 [INFO] Scraping Eurosport via GraphQL
+2025-07-14 10:26:27,584 [ERROR] Error scraping Eurosport: 'list' object has no attribute 'sport'
+2025-07-14 10:26:27,587 [INFO] Scraping: https://www.kicker.de/live
+2025-07-14 10:26:30,941 [INFO] → 0 events from Kicker
+2025-07-14 10:26:30,942 [INFO] Saved 12 events to 'sports_schedule_2025-07-14.json'
+2025-07-14 10:29:09,481 [INFO] Starting full scraping process
+2025-07-14 10:29:09,482 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-14 10:29:10,011 [INFO] → 12 events from Sportschau
+2025-07-14 10:29:10,012 [INFO] Scraping: https://www.zdf.de/live-tv
+2025-07-14 10:29:11,575 [INFO] → 0 events from ZDF
+2025-07-14 10:29:11,577 [INFO] Scraping Eurosport via GraphQL
+2025-07-14 10:29:17,905 [ERROR] Error scraping Eurosport: 'list' object has no attribute 'sport'
+2025-07-14 10:29:17,908 [INFO] Scraping: https://www.kicker.de/live
+2025-07-14 10:29:19,782 [INFO] → 0 events from Kicker
+2025-07-14 10:29:19,785 [INFO] Saved 12 events to 'sports_schedule_2025-07-14.json'
+2025-07-14 10:31:18,213 [INFO] Starting full scraping process
+2025-07-14 10:31:18,214 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-14 10:31:18,817 [INFO] → 12 events from Sportschau
+2025-07-14 10:31:18,818 [INFO] Scraping: https://www.zdf.de/live-tv
+2025-07-14 10:31:19,433 [INFO] → 0 events from ZDF
+2025-07-14 10:31:19,434 [INFO] Scraping Eurosport via GraphQL
+2025-07-14 10:31:22,507 [ERROR] Error scraping Eurosport: name 'event' is not defined
+2025-07-14 10:31:22,510 [INFO] Scraping: https://www.kicker.de/live
+2025-07-14 10:31:23,203 [INFO] → 0 events from Kicker
+2025-07-14 10:31:23,205 [INFO] Saved 12 events to 'sports_schedule_2025-07-14.json'
+2025-07-14 10:32:06,611 [INFO] Starting full scraping process
+2025-07-14 10:32:06,612 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-14 10:32:08,703 [INFO] → 12 events from Sportschau
+2025-07-14 10:32:08,704 [INFO] Scraping: https://www.zdf.de/live-tv
+2025-07-14 10:32:09,611 [INFO] → 0 events from ZDF
+2025-07-14 10:32:09,612 [INFO] Scraping Eurosport via GraphQL
+2025-07-14 10:32:09,742 [ERROR] Error scraping Eurosport: list indices must be integers or slices, not str
+2025-07-14 10:32:09,745 [INFO] Scraping: https://www.kicker.de/live
+2025-07-14 10:32:13,296 [INFO] → 0 events from Kicker
+2025-07-14 10:32:13,298 [INFO] Saved 12 events to 'sports_schedule_2025-07-14.json'
+2025-07-14 10:34:13,053 [INFO] Starting full scraping process
+2025-07-14 10:34:13,054 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-14 10:34:13,425 [INFO] → 12 events from Sportschau
+2025-07-14 10:34:13,426 [INFO] Scraping: https://www.zdf.de/live-tv
+2025-07-14 10:34:14,015 [INFO] → 0 events from ZDF
+2025-07-14 10:34:14,016 [INFO] Scraping Eurosport via GraphQL
+2025-07-14 10:34:18,225 [ERROR] Error scraping Eurosport: list indices must be integers or slices, not str
+2025-07-14 10:34:18,228 [INFO] Scraping: https://www.kicker.de/live
+2025-07-14 10:34:18,947 [INFO] → 0 events from Kicker
+2025-07-14 10:34:18,949 [INFO] Saved 12 events to 'sports_schedule_2025-07-14.json'
+2025-07-14 11:02:17,220 [INFO] Starting full scraping process
+2025-07-14 11:02:17,221 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-14 11:02:18,397 [INFO] → 12 events from Sportschau
+2025-07-14 11:02:18,399 [INFO] Scraping: https://www.zdf.de/live-tv
+2025-07-14 11:02:21,219 [INFO] → 0 events from ZDF
+2025-07-14 11:02:21,220 [INFO] Scraping Eurosport via GraphQL
+2025-07-14 11:02:26,482 [ERROR] Error scraping Eurosport: 'NoneType' object has no attribute 'strip'
+2025-07-14 11:02:26,484 [INFO] Scraping: https://www.kicker.de/live
+2025-07-14 11:02:27,217 [INFO] → 0 events from Kicker
+2025-07-14 11:02:27,219 [INFO] Saved 12 events to 'sports_schedule_2025-07-14.json'
+2025-07-14 11:12:08,489 [INFO] Starting full scraping process
+2025-07-14 11:12:08,490 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-14 11:12:09,294 [INFO] → 12 events from Sportschau
+2025-07-14 11:12:09,295 [INFO] Scraping: https://www.zdf.de/live-tv
+2025-07-14 11:12:09,986 [INFO] → 0 events from ZDF
+2025-07-14 11:12:09,987 [INFO] Scraping Eurosport via GraphQL
+2025-07-14 11:12:21,428 [ERROR] Error scraping Eurosport: HTTPSConnectionPool(host='netsport.eurosport.io', port=443): Max retries exceeded with url: /?variables=%7B%22after%22%3Anull%2C%22date%22%3A%222025-07-14T22%3A00%3A00.000Z%22%2C%22first%22%3A500%7D&extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%22a9fb22686737ac30083dbae4c0927a1d07056d783357d3821c9140f810656753%22%7D%7D (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001AEB5E50E10>: Failed to resolve 'netsport.eurosport.io' ([Errno 11001] getaddrinfo failed)"))
+2025-07-14 11:12:21,430 [INFO] Scraping: https://www.kicker.de/live
+2025-07-14 11:12:32,844 [ERROR] Error scraping Kicker: HTTPSConnectionPool(host='www.kicker.de', port=443): Max retries exceeded with url: /live (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001AEB5E50550>: Failed to resolve 'www.kicker.de' ([Errno 11001] getaddrinfo failed)"))
+2025-07-14 11:12:32,849 [INFO] Saved 12 events to 'sports_schedule_2025-07-14.json'
+2025-07-14 11:48:12,706 [INFO] Starting full scraping process
+2025-07-14 11:48:12,707 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-14 11:48:13,087 [INFO] → 12 events from Sportschau
+2025-07-14 11:48:13,088 [INFO] Scraping: https://www.zdf.de/live-tv
+2025-07-14 11:48:14,350 [INFO] → 0 events from ZDF
+2025-07-14 11:48:14,351 [INFO] Scraping Eurosport via GraphQL
+2025-07-14 11:48:19,361 [INFO] → 41 events from Eurosport
+2025-07-14 11:48:19,365 [INFO] Scraping: https://www.kicker.de/live
+2025-07-14 11:48:19,775 [INFO] → 0 events from Kicker
+2025-07-14 11:48:19,780 [INFO] Saved 53 events to 'sports_schedule_2025-07-14.json'
+2025-07-15 00:19:13,440 [INFO] Starting full scraping process
+2025-07-15 00:19:13,440 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-15 00:19:13,862 [INFO] → 12 events from Sportschau
+2025-07-15 00:19:13,868 [INFO] Scraping: https://www.zdf.de/live-tv
+2025-07-15 00:19:13,869 [INFO] → 0 events from ZDF
+2025-07-15 00:19:13,869 [INFO] Scraping Eurosport via GraphQL
+2025-07-15 00:19:16,155 [INFO] → 36 events from Eurosport
+2025-07-15 00:19:16,156 [INFO] Scraping: https://www.kicker.de/live
+2025-07-15 00:19:16,156 [INFO] → 0 events from Kicker
+2025-07-15 00:19:16,158 [INFO] Saved 48 events to 'sports_schedule_2025-07-15.json'
+2025-07-15 12:43:35,802 [INFO] Starting full scraping process
+2025-07-15 12:43:35,803 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-15 12:43:36,224 [INFO] → 45 events from Sportschau
+2025-07-15 12:43:36,231 [INFO] Scraping: https://www.zdf.de/live-tv
+2025-07-15 12:43:36,231 [INFO] → 0 events from ZDF
+2025-07-15 12:43:36,231 [INFO] Scraping Eurosport via GraphQL
+2025-07-15 12:43:40,344 [INFO] → 36 events from Eurosport
+2025-07-15 12:43:40,346 [INFO] Scraping: https://www.kicker.de/live
+2025-07-15 12:43:40,347 [INFO] → 0 events from Kicker
+2025-07-15 12:43:40,358 [INFO] Saved 81 events to 'sports_schedule_2025-07-15.json'
+2025-07-15 12:53:54,901 [INFO] Starting full scraping process
+2025-07-15 12:53:54,902 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-15 12:53:55,481 [INFO] → 45 events from Sportschau
+2025-07-15 12:53:55,482 [INFO] Scraping: https://www.zdf.de/live-tv
+2025-07-15 12:53:55,482 [INFO] → 0 events from ZDF
+2025-07-15 12:53:55,482 [INFO] Scraping Eurosport via GraphQL
+2025-07-15 12:53:59,765 [INFO] → 36 events from Eurosport
+2025-07-15 12:53:59,767 [INFO] Scraping: https://www.kicker.de/live
+2025-07-15 12:53:59,768 [INFO] → 0 events from Kicker
+2025-07-15 12:53:59,779 [INFO] Saved 81 events to 'sports_schedule_2025-07-15.json'
+2025-07-15 12:58:33,575 [INFO] Starting full scraping process
+2025-07-15 12:58:33,576 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-15 12:58:33,723 [ERROR] Error scraping Sportschau: Expecting value: line 1 column 1 (char 0)
+2025-07-15 12:58:33,727 [INFO] Scraping: https://www.zdf.de/live-tv
+2025-07-15 12:58:33,728 [INFO] → 0 events from ZDF
+2025-07-15 12:58:33,729 [INFO] Scraping Eurosport via GraphQL
+2025-07-15 12:58:38,149 [INFO] → 36 events from Eurosport
+2025-07-15 12:58:38,152 [INFO] Scraping: https://www.kicker.de/live
+2025-07-15 12:58:38,154 [INFO] → 0 events from Kicker
+2025-07-15 12:58:38,164 [INFO] Saved 36 events to 'sports_schedule_2025-07-15.json'
+2025-07-15 13:06:27,351 [INFO] Starting full scraping process
+2025-07-15 13:06:27,352 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-15 13:06:27,960 [INFO] → 45 events from Sportschau
+2025-07-15 13:06:27,963 [INFO] Scraping: https://www.zdf.de/live-tv
+2025-07-15 13:06:27,963 [INFO] → 0 events from ZDF
+2025-07-15 13:06:27,964 [INFO] Scraping Eurosport via GraphQL
+2025-07-15 13:06:32,697 [INFO] → 36 events from Eurosport
+2025-07-15 13:06:32,699 [INFO] Scraping: https://www.kicker.de/live
+2025-07-15 13:06:32,701 [INFO] → 0 events from Kicker
+2025-07-15 13:06:32,718 [INFO] Saved 81 events to 'sports_schedule_2025-07-15.json'
+2025-07-17 02:19:00,713 [INFO] Starting full scraping process
+2025-07-17 02:19:00,714 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-17 02:19:01,352 [INFO] → 60 events from Sportschau
+2025-07-17 02:19:01,356 [INFO] Scraping: https://www.zdf.de/live-tv
+2025-07-17 02:19:01,357 [INFO] → 0 events from ZDF
+2025-07-17 02:19:01,357 [INFO] Scraping Eurosport via GraphQL
+2025-07-17 02:19:04,329 [INFO] → 41 events from Eurosport
+2025-07-17 02:19:04,331 [INFO] Scraping: https://www.kicker.de/live
+2025-07-17 02:19:04,332 [INFO] → 0 events from Kicker
+2025-07-17 02:19:04,342 [INFO] Saved 101 events to 'sports_schedule_2025-07-17.json'
+2025-07-17 02:35:17,504 [INFO] Starting full scraping process
+2025-07-17 02:35:17,504 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-17 02:35:19,985 [INFO] → 60 events from Sportschau
+2025-07-17 02:35:19,986 [INFO] Scraping Eurosport via GraphQL
+2025-07-17 02:35:23,133 [INFO] → 41 events from Eurosport
+2025-07-17 02:35:23,143 [INFO] Saved 101 events to 'sports_schedule_2025-07-17.json'
+2025-07-17 13:34:22,357 [INFO] Starting full scraping process
+2025-07-17 13:34:22,357 [INFO] Scraping: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-17 13:34:22,614 [INFO] → 60 events from Sportschau
+2025-07-17 13:34:22,615 [INFO] Scraping Eurosport via GraphQL
+2025-07-17 13:34:25,956 [INFO] → 41 events from Eurosport
+2025-07-17 13:34:25,959 [INFO] Saved 101 events to 'sports_schedule_2025-07-17.json'
+2025-07-17 14:25:55,522 [INFO] 🚀 Starte Scraping-Prozess
+2025-07-17 14:25:55,522 [INFO] Scraping Sportschau: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-17 14:25:55,952 [INFO] → 60 Events von Sportschau
+2025-07-17 14:25:55,953 [INFO] Scraping Eurosport via GraphQL
+2025-07-17 14:26:00,254 [INFO] → 41 Events von Eurosport
+2025-07-17 14:26:00,258 [INFO] ✅ 101 Events gespeichert in 'sports_schedule_2025-07-17.json'
+2025-07-17 14:42:40,594 [INFO] 🚀 Starte Scraping-Prozess
+2025-07-17 14:42:40,594 [INFO] Scraping Sportschau: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-17 14:42:40,854 [INFO] → 60 Events von Sportschau
+2025-07-17 14:42:40,855 [INFO] Scraping Eurosport via GraphQL
+2025-07-17 14:42:45,366 [INFO] → 41 Events von Eurosport
+2025-07-17 14:42:45,372 [INFO] ✅ 101 Events gespeichert in 'sports_schedule_2025-07-17.json'
+2025-07-17 14:52:54,101 [INFO] 🚀 Starte Scraping-Prozess
+2025-07-17 14:52:54,101 [INFO] Scraping Sportschau: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-17 14:52:54,608 [INFO] → 60 Events von Sportschau
+2025-07-17 14:52:54,611 [INFO] Scraping Eurosport via GraphQL
+2025-07-17 14:52:59,712 [INFO] → 41 Events von Eurosport
+2025-07-17 14:52:59,728 [INFO] ✅ 101 Events gespeichert in 'sports_schedule_2025-07-17.json'
+2025-07-17 14:55:56,590 [INFO] 🚀 Starte Scraping-Prozess
+2025-07-17 14:55:56,590 [INFO] Scraping Sportschau: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-17 14:55:57,045 [ERROR] Fehler beim Scrapen von Sportschau: 'datetime.timedelta' object has no attribute 'isoformat'
+2025-07-17 14:55:57,046 [INFO] Scraping Eurosport via GraphQL
+2025-07-17 14:56:01,749 [INFO] → 41 Events von Eurosport
+2025-07-17 14:56:01,752 [INFO] ✅ 41 Events gespeichert in 'sports_schedule_2025-07-17.json'
+2025-07-17 15:37:19,976 [INFO] 🚀 Starte Scraping-Prozess
+2025-07-17 15:37:19,976 [INFO] Scraping Sportschau: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-17 15:37:20,204 [ERROR] Fehler beim Scrapen von Sportschau: 'datetime.timedelta' object has no attribute 'isoformat'
+2025-07-17 15:37:20,205 [INFO] Scraping Eurosport via GraphQL
+2025-07-17 15:37:25,640 [INFO] → 41 Events von Eurosport
+2025-07-17 15:37:25,644 [INFO] ✅ 41 Events gespeichert in 'sports_schedule_2025-07-17.json'
+2025-07-17 15:46:15,772 [INFO] 🚀 Starte Scraping-Prozess
+2025-07-17 15:46:15,772 [INFO] Scraping Sportschau: https://www.sportschau.de/live-und-ergebnisse/
+2025-07-17 15:46:16,232 [INFO] → 60 Events von Sportschau
+2025-07-17 15:46:16,233 [INFO] Scraping Eurosport via GraphQL
+2025-07-17 15:46:23,678 [INFO] → 41 Events von Eurosport
+2025-07-17 15:46:23,684 [INFO] ✅ 101 Events gespeichert in 'sports_schedule_2025-07-17.json'

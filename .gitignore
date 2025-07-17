@@ -1,2 +1,5 @@
-# Ignore log files
+venv/
+__pycache__/
 *.log
+*.pyc
+sports_schedule_*.json

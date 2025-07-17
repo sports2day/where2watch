@@ -17,28 +17,68 @@
 </head>
 
 <body>
-  <main>
-    <h1>Snooker heute im TV</h1>
-    <p>Live-Übertragungen aus dem Bereich Snooker</p>
+  <main class="static-page">
+    <nav class="nav-links">
+      <a class="nav-button" href="../index.html">⬅ Zur Übersicht</a>
+    </nav>
+
+    <header class="static-header">
+      <h1>Snooker heute im TV</h1>
+      <p class="static-subheading">Live-Übertragungen aus dem Bereich Snooker</p>
+    </header>
 
     
-      <ul class="event-list">
+    <section class="static-events">
+      <div class="card-grid">
         
-        <li class="event-card">
-          <strong>22:00</strong> – 
-          <a href="https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/wm-finale-8523240">WM | Finale</a>
-          <br /><small>Zhao X. - M. Williams | Sheffield | 4. Session</small>
-          <div><em>Snooker · Eurosport</em></div>
-        </li>
+        <div class="card" style="border-left: 5px solid #0077ff;">
+          <div class="card-time">05:57</div>
+          <a class="card-title" href="" target="_blank">Tour Championship | Finale</a>
+          <div class="card-subtitle">J. Higgins - M. Selby | Manchester</div>
+          <div class="card-sender">Snooker · Eurosport</div>
+        </div>
         
-      </ul>
+        <div class="card" style="border-left: 5px solid #0077ff;">
+          <div class="card-time">14:57</div>
+          <a class="card-title" href="https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/tour-championship-8533662" target="_blank">Tour Championship | Finale</a>
+          <div class="card-subtitle">J. Higgins - M. Selby | Manchester</div>
+          <div class="card-sender">Snooker · Eurosport</div>
+        </div>
+        
+        <div class="card" style="border-left: 5px solid #0077ff;">
+          <div class="card-time">20:22</div>
+          <a class="card-title" href="https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/tour-championship-finale-8535485" target="_blank">Tour Championship | Finale</a>
+          <div class="card-subtitle">J. Higgins - M. Selby | Manchester</div>
+          <div class="card-sender">Snooker · Eurosport</div>
+        </div>
+        
+        <div class="card" style="border-left: 5px solid #0077ff;">
+          <div class="card-time">23:37</div>
+          <a class="card-title" href="https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/world-grand-prix-finale-8535481" target="_blank">World Grand Prix | Finale</a>
+          <div class="card-subtitle">N. Robertson - S. Bingham | 2. Session | Hongkong</div>
+          <div class="card-sender">Snooker · Eurosport</div>
+        </div>
+        
+        <div class="card" style="border-left: 5px solid #0077ff;">
+          <div class="card-time">02:00</div>
+          <a class="card-title" href="https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/tour-championship-8535518" target="_blank">Tour Championship | Finale</a>
+          <div class="card-subtitle">J. Higgins - M. Selby | Manchester</div>
+          <div class="card-sender">Snooker · Eurosport</div>
+        </div>
+        
+      </div>
+    </section>
     
   </main>
 
-  <footer class="site-footer">
-    <a href="../index.html">Startseite</a> ·
-    <a href="impressum.html">Impressum</a> ·
-    <a href="datenschutz.html">Datenschutz</a>
-  </footer>
+  <footer class="site-footer" role="contentinfo">
+  <a href="../pages/impressum.html">Impressum</a> ·
+  <a href="../pages/datenschutz.html">Datenschutz</a>
+  <br /><br />
+  <a href="../pages/fussball.html">⚽ Fußball heute im TV</a> ·
+  <a href="../pages/eurosport.html">📺 Eurosport Sportprogramm</a> ·
+  <a href="../pages/sportschau-live.html">📺 Sportschau Live-Übertragungen</a>
+</footer>
+  <button onclick="scrollToTop()" class="scroll-top-btn" aria-label="Nach oben scrollen">↑</button>
 </body>
 </html>

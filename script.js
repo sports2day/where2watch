@@ -1,51 +1,40 @@
 let currentSportFilter = localStorage.getItem("lastSport") || "all";
 let allEventsRaw = [];
+let sportIcons = {};
+let sportColors = {};
 
-document.addEventListener("DOMContentLoaded", () => {
+async function loadSportMeta() {
+  try {
+    const response = await fetch("tools/config/sport_meta.json");
+    const data = await response.json();
+
+    for (const [sport, meta] of Object.entries(data)) {
+      sportIcons[sport] = meta.icon;
+      sportColors[sport] = meta.color;
+    }
+  } catch (error) {
+    console.error("❌ Fehler beim Laden der Sport-Metadaten:", error);
+  }
+}
+
+
+document.addEventListener("DOMContentLoaded", async () => {
+  await loadSportMeta();
+  await waitForElement("#eventsContainer");
+  await waitForElement("#searchInput");
+
   createSportFilterMenu();
   loadEvents();
   enableSportFilter();
 
-  // Set active filter from localStorage
+  // Letzten Filter aus localStorage setzen
   const stored = localStorage.getItem("lastSport");
   if (stored && stored !== "all") {
     const btn = document.querySelector(`[data-sport="${stored}"]`);
-    if (btn) btn.click(); // Triggert gleich die Filterung
+    if (btn) btn.click();
   }
 });
 
-
-const sportColors = {
-  Fußball: "#28a745",
-  Radsport: "#fd7e14",
-  Handball: "#007bff",
-  Basketball: "#8e44ad",
-  Tennis: "#c0392b",
-  Snooker: "#17a2b8",
-  WEC: "#6f42c1",
-  Mountainbike: "#20c997",
-  Motorsports: "#dc3545",
-  Leichtathletik: "#ffc107",
-  Superbike: "#ff5722",
-  FormelE: "#00bcd4",
-  Unknown: "#6c757d"
-};
-
-const sportIcons = {
-  Fußball: "⚽",
-  Radsport: "🚴",
-  Handball: "🤾",
-  Basketball: "🏀",
-  Tennis: "🎾",
-  Snooker: "🎱",
-  WEC: "🏎️",
-  Mountainbike: "🚵",
-  Motorsports: "🏁",
-  Leichtathletik: "🏃",
-  Superbike: "🏍️",
-  FormelE: "⚡",
-  Unknown: "📺"
-};
 
 function debounce(func, delay = 300) {
   let timeoutId;
@@ -55,13 +44,25 @@ function debounce(func, delay = 300) {
   };
 }
 
-async function createSportFilterMenu() {
-  const searchBox = document.createElement("input");
-  searchBox.type = "text";
-  searchBox.placeholder = "🔍 Suche nach Team, Sender oder Sportart...";
-  searchBox.id = "searchInput";
-  searchBox.className = "search-box";
+async function waitForElement(selector, timeout = 3000) {
+  return new Promise((resolve, reject) => {
+    const interval = 50;
+    let elapsed = 0;
 
+    const check = () => {
+      const el = document.querySelector(selector);
+      if (el) return resolve(el);
+
+      elapsed += interval;
+      if (elapsed >= timeout) return reject(`⏰ Element ${selector} nicht gefunden`);
+      setTimeout(check, interval);
+    };
+
+    check();
+  });
+}
+
+function createSportFilterMenu() {
   const filterContainer = document.createElement("div");
   filterContainer.id = "sportFilter";
   filterContainer.className = "sport-filter";
@@ -80,13 +81,21 @@ async function createSportFilterMenu() {
   });
 
   const main = document.querySelector("main");
-  main.insertBefore(searchBox, document.getElementById("eventsContainer"));
-  main.insertBefore(filterContainer, document.getElementById("eventsContainer"));
+  const eventsContainer = document.getElementById("eventsContainer");
+
+  if (main && eventsContainer) {
+    main.insertBefore(filterContainer, eventsContainer);
+  }
 }
 
 function filterEvents() {
-  const search = document.getElementById("searchInput").value.toLowerCase();
+  const searchInput = document.getElementById("searchInput");
+  if (!searchInput) return;
+
+  const search = searchInput.value.toLowerCase();
   const container = document.getElementById("eventsContainer");
+  if (!container) return;
+
   container.innerHTML = "";
 
   if (!allEventsRaw || allEventsRaw.length === 0) {
@@ -115,30 +124,33 @@ function filterEvents() {
   renderEvents(filteredGrouped);
 }
 
-
 function enableSportFilter() {
-  document.getElementById("sportFilter").addEventListener("click", (e) => {
-    if (!e.target.matches("button")) return;
+  const filter = document.getElementById("sportFilter");
+  if (filter) {
+    filter.addEventListener("click", (e) => {
+      if (!e.target.matches("button")) return;
 
-    currentSportFilter = e.target.dataset.sport;
-    localStorage.setItem("lastSport", currentSportFilter);
+      currentSportFilter = e.target.dataset.sport;
+      localStorage.setItem("lastSport", currentSportFilter);
 
-    document.querySelectorAll(".sport-filter button").forEach(btn =>
-      btn.classList.remove("filter-active")
-    );
-    e.target.classList.add("filter-active");
+      document.querySelectorAll(".sport-filter button").forEach(btn =>
+        btn.classList.remove("filter-active")
+      );
+      e.target.classList.add("filter-active");
 
-    filterEvents();
-  });
+      filterEvents();
+    });
+  }
 
-  document.getElementById("searchInput").addEventListener("input", debounce(filterEvents, 300));
+  const search = document.getElementById("searchInput");
+  if (search) {
+    search.addEventListener("input", debounce(filterEvents, 300));
+  }
 }
 
-
-
 async function loadEvents() {
-  const today = new Date().toISOString().split("T")[0]; //local testing toLocaleDateString("sv-SE");
-  const url = `sports_schedule_${today}.json`;
+  //const today = new Date().toISOString().split("T")[0];
+  const url =  'sports_schedule_2025-07-17.json' //`sports_schedule_${today}.json`;
 
   try {
     const response = await fetch(url);
@@ -146,17 +158,19 @@ async function loadEvents() {
     const data = await response.json();
 
     allEventsRaw = data.events || [];
-    filterEvents(); // Filter gleich beim Laden anwenden
+    filterEvents();
   } catch (error) {
     console.error("❌ Fehler beim Laden der Daten:", error);
-    document.getElementById("eventsContainer").innerHTML =
-      "<p>Heute sind keine Daten verfügbar.</p>";
+    const container = document.getElementById("eventsContainer");
+    if (container) {
+      container.innerHTML = "<p>Heute sind keine Daten verfügbar.</p>";
+    }
   }
 }
 
-
 async function renderEvents(groupedEvents) {
   const container = document.getElementById("eventsContainer");
+  if (!container) return;
   container.innerHTML = "";
 
   if (!groupedEvents || Object.keys(groupedEvents).length === 0) {
@@ -187,18 +201,15 @@ async function renderEvents(groupedEvents) {
       time.className = "card-time";
       time.textContent = event.time || "";
 
-      const title = document.createElement(event.link ? "a" : "div");
+      // Immer interner Link zur Eventseite – basiert auf 'slug'
+      const title = document.createElement("a");
       title.className = "card-title";
       title.textContent = event.title;
-      
-      if (event.link) {
-        title.href = event.link;
-        title.target = "_blank";
-        title.rel = "noopener noreferrer";
-        title.style.textDecoration = "none";
-        title.style.color = "#0077ff";
-      }
-      
+      title.href = event.slug ? `events/${event.slug}.html` : "#";
+      title.target = "_self";
+      title.rel = "noopener noreferrer";
+      title.style.textDecoration = "none";
+      title.style.color = "#0077ff";
 
       const sender = document.createElement("div");
       sender.className = "card-sender";
@@ -213,24 +224,18 @@ async function renderEvents(groupedEvents) {
   }
 }
 
-// Show or hide the scroll-to-top button depending on scroll position
-window.addEventListener("scroll", () => {
-  const scrollBtn = document.getElementById("scrollTop");
-  if (!scrollBtn) return;
-  if (window.scrollY > 300) {
-    scrollBtn.classList.add("show");
-  } else {
-    scrollBtn.classList.remove("show");
-  }
-});
-
-// Scroll smoothly to the top when the button is clicked
+// Scroll-to-Top Button anzeigen/verstecken
 document.addEventListener("DOMContentLoaded", () => {
-  const scrollBtn = document.getElementById("scrollTop");
-  if (scrollBtn) {
-    scrollBtn.addEventListener("click", () => {
+  const scrollButton = document.getElementById("scrollTop");
+  if (scrollButton) {
+    scrollButton.addEventListener("click", () => {
       window.scrollTo({ top: 0, behavior: "smooth" });
     });
   }
-});
 
+  window.addEventListener("scroll", () => {
+    if (scrollButton) {
+      scrollButton.classList.toggle("show", window.scrollY > 300);
+    }
+  });
+});

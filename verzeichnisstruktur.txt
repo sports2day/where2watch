@@ -1,0 +1,175 @@
+Auflistung der Ordnerpfade für Volume OS
+Volumeseriennummer : 7014-5A4E
+C:.
+|   .env
+|   .gitignore
+|   event_pages.log
+|   favicon.ico
+|   index.html
+|   output_eurosport.json
+|   output_sportschau.json
+|   raw_response.html
+|   requirements.txt
+|   robots.txt
+|   scraper.log
+|   scraper.py
+|   script.js
+|   sitemap.xml
+|   sportschau_content.py
+|   sports_schedule_2025-07-17.json
+|   style.css
+|   test_import_root.py
+|   verzeichnisstruktur.txt
+|   
++---.github
+|   \---workflows
+|           update.yml
+|           
++---.vscode
+|       settings.json
+|       
++---events
+|       adam-walton-vs-nishesh-basavareddy.html
+|       alexander-shevchenko-vs-alexander-bublik.html
+|       andrey-rublev-vs-alex-hernandez.html
+|       argentinien-vs-japan.html
+|       arthur-cazaux-vs-tomas-martin-etcheverry.html
+|       astra-sharma-vs-viktoriya-tomova.html
+|       baloise-ladies-tour-1-etappe.html
+|       bfc-daugavpils-vs-fk-vllaznia.html
+|       bk-hacken-vs-spartak-trnava.html
+|       camilo-ugo-carabelli-vs-botic-van-de-zandschulp.html
+|       cfr-cluj-vs-paksi-se.html
+|       china-vs-iran.html
+|       cliftonville-fc-vs-st-joseph-s-fc.html
+|       cs-petrocub-vs-birkirkara-fc.html
+|       daniel-altmaier-vs-tristan-schoolkate.html
+|       diane-parry-vs-dayana-yastremska.html
+|       dila-gori-vs-rfcu-luxemburg.html
+|       dinamo-brest-vs-fk-sutjeska.html
+|       ekaterina-alexandrova-vs-caroline-werner.html
+|       emilio-nava-vs-yunchaokete-bu.html
+|       f91-dudelange-vs-atletic-escaldes.html
+|       fc-flora-vs-valur-reykjavik.html
+|       fc-hegelmann-vs-st-patrick-s-athletic.html
+|       fc-koper-vs-zeljeznicar-sarajevo.html
+|       fc-prishtina-vs-fc-sheriff.html
+|       fc-santa-coloma-vs-borac-banja-luka.html
+|       fia-wec-6h-von-imola-rennen.html
+|       fia-wec-6h-von-sao-paulo-highlights.html
+|       fia-wec-6h-von-spa-rennen.html
+|       filip-misolic-vs-nuno-borges.html
+|       fk-aktobe-vs-legia-warschau.html
+|       fk-ordabasy-vs-torpedo-kutaisi.html
+|       fk-partizani-vs-jk-nomme-kalju.html
+|       fk-rabotnicki-vs-torpedo-belaz-zhodino.html
+|       francesco-passaro-vs-jerome-kym.html
+|       francisco-cerundolo-vs-mariano-navone.html
+|       francisco-comesana-vs-roberto-carballes-baena.html
+|       govind-nanda-vs-denis-shapovalov.html
+|       grand-slam-track-philadelphia.html
+|       hapoel-be-er-sheva-vs-levski-sofia.html
+|       haverfordwest-county-vs-floriana-fc.html
+|       hjk-helsinki-vs-nsi-runavik.html
+|       hugo-gaston-vs-damir-dzumhur.html
+|       ilves-tampere-vs-schachtar-donezk.html
+|       james-duckworth-vs-alejandro-davidovich-fokina.html
+|       juan-manuel-cerundolo-vs-david-goffin.html
+|       ki-klaksvik-vs-sjk-seinajoki.html
+|       kuba-vs-polen.html
+|       luis-alvarez-valdes-vs-aleksandar-kovacevic.html
+|       neman-grodno-vs-fc-urartu.html
+|       niederlande-vs-slowenien.html
+|       nk-celje-vs-sabah-fk.html
+|       paide-linnameeskond-vs-fcb-magpies.html
+|       partizan-belgrad-vs-aek-larnaca.html
+|       penybont-fc-vs-kauno-zalgiris.html
+|       pyunik-fc-vs-sp-tre-fiori.html
+|       quentin-halys-vs-juan-pablo-ficovich.html
+|       race-bikes.html
+|       racing-on-the-edge.html
+|       rhine-ruhr-2025-10m-turm-synchron-finale.html
+|       rhine-ruhr-2025-3m-mixed-finale.html
+|       rhine-ruhr-2025-einzel-mehrkampf-reifen-ball.html
+|       rhine-ruhr-2025-gruppe-mehrkampf-bander.html
+|       rhine-ruhr-2025-tag-1.html
+|       schweden-vs-england.html
+|       sileks-kratovo-vs-fk-decic-tuzi.html
+|       sinja-kraus-vs-anna-bondar.html
+|       sp-la-fiorita-vs-vardar-skopje.html
+|       tour-championship-finale.html
+|       tour-de-france-11-etappe.html
+|       tour-de-france-12-etappe-mit-siegerehrung.html
+|       tour-de-france-12-etappe-mit-velo-club.html
+|       tour-de-france-12-etappe-multi-screen.html
+|       tour-de-france-12-etappe.html
+|       turkei-vs-deutschland.html
+|       uci-downhill-weltcup-vallnord-pal-arinsal-frauen-elite.html
+|       uci-downhill-weltcup-vallnord-pal-arinsal-manner-elite.html
+|       uci-xco-weltcup-vallnord-pal-arinsal-frauen-elite.html
+|       uci-xco-weltcup-vallnord-pal-arinsal-manner-elite.html
+|       ukraine-vs-italien.html
+|       velo-club-tour-show-zur-12-etappe.html
+|       vikingur-reykjavik-vs-kf-malisheva.html
+|       vs.html
+|       world-grand-prix-finale.html
+|       
++---pages
+|       datenschutz.html
+|       eurosport.html
+|       fechten.html
+|       fussball.html
+|       impressum.html
+|       leichtathletik.html
+|       mountainbike.html
+|       radsport-strassenrennen.html
+|       radsport.html
+|       rhythmische-sportgymnastik.html
+|       schwimmen.html
+|       segeln.html
+|       snooker.html
+|       sportschau-live.html
+|       taekwondo.html
+|       tennis.html
+|       volleyball.html
+|       wasserspringen.html
+|       wec.html
+|       
+\---tools
+    |   generate_event_pages.py
+    |   generate_index.py
+    |   generate_sender_pages.py
+    |   generate_sitemap.py
+    |   generate_static_pages.py
+    |   generator.py
+    |   test_data_generator.py
+    |   test_import.py
+    |   test_module_setup.py
+    |   __init__.py
+    |   
+    +---config
+    |       sport_meta.json
+    |       
+    +---templates
+    |       event_template.html
+    |       footer_template.html
+    |       index_template.html
+    |       sender_template.html
+    |       static_html_pages_template.html
+    |       
+    +---utils
+    |   |   date_utils.py
+    |   |   jinja_env.py
+    |   |   jinja_filters.py
+    |   |   __init__.py
+    |   |   
+    |   \---__pycache__
+    |           date_utils.cpython-313.pyc
+    |           jinja_env.cpython-313.pyc
+    |           jinja_filters.cpython-313.pyc
+    |           __init__.cpython-313.pyc
+    |           
+    \---__pycache__
+            test_module_setup.cpython-313.pyc
+            __init__.cpython-313.pyc
+            
