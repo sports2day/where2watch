@@ -1,49 +1,58 @@
-name: Daily Update
+name: 🚀 Daily Update & Generator
 
 on:
   schedule:
-    - cron: '00 1 * * *'  # Täglich um 01:00 UTC 
+    - cron: '0 1 * * *'  # Täglich 01:00 UTC
   workflow_dispatch:
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - name: 🧾 Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+          cache: 'pip'
 
-      - name: Install dependencies
+      - name: 📦 Install Python dependencies
         run: pip install -r requirements.txt
 
-      - name: Pull latest from origin (before generating)
+      - name: ⚙️ Pull latest changes (before generation)
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git pull origin main --rebase || echo "Nothing to pull"
 
-      - name: Run scraper
+      - name: 📡 Run scraper
         run: python scraper.py
 
-      - name: Generate event pages
+      - name: 🧱 Generate event pages
         run: python tools/generate_event_pages.py
 
-      - name: Generate static SEO pages
+      - name: 📄 Generate static SEO pages
         run: python tools/generate_static_pages.py
 
-      - name: Generate sitemap.xml and update robots.txt
+      - name: 🗂️ Generate sender-specific pages
+        run: python tools/generate_sender_pages.py
+
+      - name: 🏁 Generate index overview
+        run: python tools/generate_index.py
+
+      - name: 🗺 Generate sitemap & robots.txt
         run: python tools/generate_sitemap.py
 
-      - name: Commit changes
+      - name: ✅ Commit changes (if any)
         run: |
           git add sports_schedule_*.json events/*.html pages/*.html sitemap.xml robots.txt
-          git commit -m "auto: daily content update $(date +'%Y-%m-%d')" || echo "Nothing to commit"
+          git diff --cached --quiet || git commit -m "auto: daily content update $(date +'%Y-%m-%d')"
 
-      - name: Push changes
+      - name: 🚀 Push to GitHub
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
         run: |
-          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git HEAD:main
+          git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
