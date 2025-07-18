@@ -149,8 +149,10 @@ function enableSportFilter() {
 }
 
 async function loadEvents() {
-  //const today = new Date().toISOString().split("T")[0];
-  const url =  'sports_schedule_2025-07-17.json' //`sports_schedule_${today}.json`;
+  const today = new Date().toLocaleDateString('sv-SE', {
+  timeZone: 'Europe/Berlin',
+});
+  const url =  `sports_schedule_${today}.json`; 
 
   try {
     const response = await fetch(url);

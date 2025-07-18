@@ -1,15 +1,18 @@
 # tools/generate_sender_pages.py
 
-import os
+import os,sys
 import json
 from jinja2 import Environment, FileSystemLoader
 from slugify import slugify
 from datetime import datetime
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+from tools.utils.date_utils import get_berlin_date_str
 
 # === CONFIG ===
 TEMPLATE_PATH = "tools/templates/sender_template.html"
 OUTPUT_DIR = "pages"
-INPUT_JSON = "sports_schedule_2025-07-17.json" #f"sports_schedule_{datetime.today().strftime('%Y-%m-%d')}.json"
+INPUT_JSON = f"sports_schedule_{get_berlin_date_str()}.json"  #f"sports_schedule_{datetime.today().strftime('%Y-%m-%d')}.json"
 
 # === Load Events ===
 with open(INPUT_JSON, "r", encoding="utf-8") as f:

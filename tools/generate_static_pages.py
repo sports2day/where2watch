@@ -1,14 +1,17 @@
 # tools/generate_static_pages.py
-import os
+import os,sys
 import json
 from jinja2 import Environment, FileSystemLoader
 from slugify import slugify
 from datetime import datetime
 
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from tools.utils.date_utils import get_berlin_date_str
+
 # === CONFIG ===
 TEMPLATE_PATH = "tools/templates/static_html_pages_template.html"
 OUTPUT_DIR = "pages"  # Hier Ausgabeordner geändert
-INPUT_JSON = "sports_schedule_2025-07-17.json" #"sports_schedule_{}.json".format(datetime.today().strftime("%Y-%m-%d"))
+INPUT_JSON = f"sports_schedule_{get_berlin_date_str()}.json" #"sports_schedule_{}.json".format(datetime.today().strftime("%Y-%m-%d"))
 
 # === Load Events ===
 with open(INPUT_JSON, "r", encoding="utf-8") as f:

@@ -35,7 +35,7 @@ h1, h2, h3 {
 
 h1 {
   text-align: center;
-  font-size: 2.5rem;
+  font-size: clamp(1.5rem, 5vw, 2.5rem);/*2.5rem;*/
   margin-top: 2rem;
 }
 
@@ -409,4 +409,77 @@ p {
   margin-bottom: 2rem;
 }
 
+/* === Responsive Image Handling === */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* === Größere Buttons und Touch-Fläche verbessern === */
+
+@media (max-width: 600px) {
+    .nav-links {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .nav-button {
+    display: block;
+    width: 100%;
+    font-size: 1rem;
+    padding: 0.5rem;
+    border-radius: 1.5rem;
+    text-align: center;
+    background-color: var(--primary-color);
+    color: white;
+    font-weight: bold;
+  }
+
+  .nav-button:hover {
+    background-color: var(--accent-color);
+    color: black;
+  }
+
+  .cta-button {
+    font-size: 1rem;
+    padding: 1rem 1.4rem;
+    width: 80%;
+    display: block;
+    text-align: center;
+  }
+}
+
+/* =============== Kachelgrößen und Grid optimieren für kleine Screens ============== */
+@media (max-width: 600px) {
+  .related-events-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .related-card {
+    padding: 1.2rem;
+    font-size: 1rem;
+  }
+}
+
+/* === Abstände und Fonts verbessern === */
+@media (max-width: 600px) {
+  h2 {
+    font-size: 1.4rem;
+  }
+
+  p {
+    font-size: 1rem;
+    line-height: 1.8;
+  }
+
+  .event-info-box {
+    padding: 1rem;
+    font-size: 1rem;
+  }
+}
+
+   
 
