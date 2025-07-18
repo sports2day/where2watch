@@ -241,7 +241,7 @@
     },
     {
       "title": "Ekaterina Alexandrova vs Anna Bondar",
-      "time": "16:20",
+      "time": "16:30",
       "iso_time": "",
       "sport": "Tennis",
       "sport_slug": "tennis",
@@ -254,7 +254,7 @@
     },
     {
       "title": "Lois Boisson vs Viktoriya Tomova",
-      "time": "17:30",
+      "time": "17:40",
       "iso_time": "",
       "sport": "Tennis",
       "sport_slug": "tennis",
@@ -263,14 +263,7 @@
       "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co6518/hamburg-open/ma11406104/lois-boisson_viktoriya-tomova/info",
       "slug": "lois-boisson-vs-viktoriya-tomova",
       "subtitle": "",
-      "related_events": [
-        {
-          "title": "Jerome Kym vs Arthur Cazaux",
-          "time": "17:30",
-          "sender": "Sportschau Live",
-          "slug": "jerome-kym-vs-arthur-cazaux"
-        }
-      ]
+      "related_events": []
     },
     {
       "title": "Tristan Schoolkate vs Denis Shapovalov",
@@ -440,14 +433,7 @@
       "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-schweiz-credit-agricole-suisse-open/ma11407571/jerome-kym_arthur-cazaux/info",
       "slug": "jerome-kym-vs-arthur-cazaux",
       "subtitle": "",
-      "related_events": [
-        {
-          "title": "Lois Boisson vs Viktoriya Tomova",
-          "time": "17:30",
-          "sender": "Sportschau Live",
-          "slug": "lois-boisson-vs-viktoriya-tomova"
-        }
-      ]
+      "related_events": []
     },
     {
       "title": "Tour Championship | Finale",
@@ -780,7 +766,7 @@
       "sender": "Eurosport",
       "sender_slug": "eurosport",
       "time": "14:25",
-      "iso_time": "2025-07-18T14:25:04.040000+02:00",
+      "iso_time": "2025-07-18T14:25:08.554000+02:00",
       "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/fisu-world-university-games-8481413",
       "slug": "rhine-ruhr-2025-einzel-mehrkampf-keulen-bander",
       "related_events": []
@@ -877,8 +863,8 @@
       "sport_slug": "radsport",
       "sender": "Eurosport",
       "sender_slug": "eurosport",
-      "time": "16:27",
-      "iso_time": "2025-07-18T16:27:55.840000+02:00",
+      "time": "16:33",
+      "iso_time": "2025-07-18T16:33:55.840000+02:00",
       "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/velo-club",
       "slug": "velo-club-tour-show-zur-13-etappe",
       "related_events": [
@@ -887,26 +873,6 @@
           "time": "15:45",
           "sender": "Eurosport",
           "slug": "baloise-ladies-tour-2-etappe"
-        }
-      ]
-    },
-    {
-      "title": "Chamonix | Speed | Finale",
-      "subtitle": "Weltcup | Frauen / Männer",
-      "sport": "Sportklettern",
-      "sport_slug": "sportklettern",
-      "sender": "Eurosport",
-      "sender_slug": "eurosport",
-      "time": "16:53",
-      "iso_time": "2025-07-18T16:53:23.360000+02:00",
-      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/chamonix-speed-finale-8536991",
-      "slug": "chamonix-speed-finale",
-      "related_events": [
-        {
-          "title": "Chamonix | Lead | Finale",
-          "time": "18:56",
-          "sender": "Eurosport",
-          "slug": "chamonix-lead-finale"
         }
       ]
     },
@@ -927,6 +893,26 @@
           "time": "17:28",
           "sender": "Eurosport",
           "slug": "finnland-mx2-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Chamonix | Speed | Finale",
+      "subtitle": "Weltcup | Frauen / Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:59",
+      "iso_time": "2025-07-18T16:59:23.360000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/chamonix-speed-finale-8536991",
+      "slug": "chamonix-speed-finale",
+      "related_events": [
+        {
+          "title": "Chamonix | Lead | Finale",
+          "time": "18:56",
+          "sender": "Eurosport",
+          "slug": "chamonix-lead-finale"
         }
       ]
     },
@@ -965,19 +951,6 @@
     },
     {
       "title": "Rhine-Ruhr 2025 | Tag 2",
-      "subtitle": "FISU World University Games | Männer / Frauen | Berlin",
-      "sport": "Schwimmen",
-      "sport_slug": "schwimmen",
-      "sender": "Eurosport",
-      "sender_slug": "eurosport",
-      "time": "17:49",
-      "iso_time": "2025-07-18T17:49:07.640000+02:00",
-      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/fisu-world-university-games-rhein-ruhr-gebiet-8536996",
-      "slug": "rhine-ruhr-2025-tag-2",
-      "related_events": []
-    },
-    {
-      "title": "Rhine-Ruhr 2025 | Tag 2",
       "subtitle": "FISU World University Games | Essen | Englischer Kommentar",
       "sport": "Fechten",
       "sport_slug": "fechten",
@@ -986,6 +959,19 @@
       "time": "17:55",
       "iso_time": "2025-07-18T17:55:00+02:00",
       "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/fisu-world-university-games-8481259",
+      "slug": "rhine-ruhr-2025-tag-2",
+      "related_events": []
+    },
+    {
+      "title": "Rhine-Ruhr 2025 | Tag 2",
+      "subtitle": "FISU World University Games | Männer / Frauen | Berlin",
+      "sport": "Schwimmen",
+      "sport_slug": "schwimmen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:55",
+      "iso_time": "2025-07-18T17:55:07.640000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/fisu-world-university-games-rhein-ruhr-gebiet-8536996",
       "slug": "rhine-ruhr-2025-tag-2",
       "related_events": []
     },
@@ -1029,7 +1015,7 @@
       "related_events": [
         {
           "title": "Chamonix | Speed | Finale",
-          "time": "16:53",
+          "time": "16:59",
           "sender": "Eurosport",
           "slug": "chamonix-speed-finale"
         },
@@ -1094,31 +1080,18 @@
       "sport_slug": "snooker",
       "sender": "Eurosport",
       "sender_slug": "eurosport",
-      "time": "19:59",
-      "iso_time": "2025-07-18T19:59:36.120000+02:00",
+      "time": "20:05",
+      "iso_time": "2025-07-18T20:05:36.120000+02:00",
       "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/world-grand-prix-finale-8536929",
       "slug": "world-grand-prix-finale",
       "related_events": [
         {
           "title": "WM | Finale",
-          "time": "22:54",
+          "time": "23:00",
           "sender": "Eurosport",
           "slug": "wm-finale"
         }
       ]
-    },
-    {
-      "title": "Tour de France | 13. Etappe",
-      "subtitle": "Loudenvielle - Peyragudes (10,9km / EZF) | Männer | UCI World Tour",
-      "sport": "Radsport",
-      "sport_slug": "radsport",
-      "sender": "Eurosport",
-      "sender_slug": "eurosport",
-      "time": "20:56",
-      "iso_time": "2025-07-18T20:56:59.400000+02:00",
-      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/tour-de-france-13-etappe-8539110",
-      "slug": "tour-de-france-13-etappe",
-      "related_events": []
     },
     {
       "title": "Madrid | Lead | Halbfinale",
@@ -1141,6 +1114,19 @@
       ]
     },
     {
+      "title": "Tour de France | 13. Etappe",
+      "subtitle": "Loudenvielle - Peyragudes (10,9km / EZF) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:02",
+      "iso_time": "2025-07-18T21:02:59.400000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/tour-de-france-13-etappe-8539110",
+      "slug": "tour-de-france-13-etappe",
+      "related_events": []
+    },
+    {
       "title": "FIA WEC | 24h von Le Mans | Rennen",
       "subtitle": "Langstrecken-WM | 4. Saisonlauf",
       "sport": "WEC",
@@ -1160,14 +1146,14 @@
       "sport_slug": "snooker",
       "sender": "Eurosport",
       "sender_slug": "eurosport",
-      "time": "22:54",
-      "iso_time": "2025-07-18T22:54:41.280000+02:00",
+      "time": "23:00",
+      "iso_time": "2025-07-18T23:00:41.280000+02:00",
       "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/wm-finale-8539221",
       "slug": "wm-finale",
       "related_events": [
         {
           "title": "World Grand Prix | Finale",
-          "time": "19:59",
+          "time": "20:05",
           "sender": "Eurosport",
           "slug": "world-grand-prix-finale"
         }
