@@ -48,7 +48,7 @@ jobs:
 
       - name: ✅ Commit changes (if any)
         run: |
-          git add sports_schedule_*.json index.html events/*.html pages/*.html sitemap.xml robots.txt
+          git add sports_schedule_*.json index.html  events/*.html pages/*.html sitemap.xml robots.txt
           git diff --cached --quiet || git commit -m "auto: daily content update $(date +'%Y-%m-%d')"
 
       - name: 🚀 Push to GitHub
