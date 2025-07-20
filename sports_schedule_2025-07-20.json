@@ -575,7 +575,7 @@
       "sender_slug": "eurosport",
       "time": "01:29",
       "iso_time": "2025-07-20T01:29:07.280000+02:00",
-      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/mens-and-womens-lead-final-8541832",
+      "link": "",
       "slug": "madrid-lead-finale",
       "related_events": []
     },
@@ -588,7 +588,7 @@
       "sender_slug": "eurosport",
       "time": "02:30",
       "iso_time": "2025-07-20T02:30:17.560000+02:00",
-      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/grand-slam-track-8541967",
+      "link": "",
       "slug": "grand-slam-track-philadelphia",
       "related_events": []
     },
@@ -599,8 +599,8 @@
       "sport_slug": "radsport",
       "sender": "Eurosport",
       "sender_slug": "eurosport",
-      "time": "04:07",
-      "iso_time": "2025-07-20T04:07:15.800000+02:00",
+      "time": "04:00",
+      "iso_time": "2025-07-20T04:00:26.640000+02:00",
       "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/tour-de-france-stage-14-8542154",
       "slug": "tour-de-france-14-etappe",
       "related_events": []
@@ -612,8 +612,8 @@
       "sport_slug": "sportklettern",
       "sender": "Eurosport",
       "sender_slug": "eurosport",
-      "time": "06:09",
-      "iso_time": "2025-07-20T06:09:14.480000+02:00",
+      "time": "06:02",
+      "iso_time": "2025-07-20T06:02:25.320000+02:00",
       "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/mens-and-womens-lead-final-8542199",
       "slug": "madrid-lead-finale",
       "related_events": []
@@ -625,14 +625,14 @@
       "sport_slug": "motocross",
       "sender": "Eurosport",
       "sender_slug": "eurosport",
-      "time": "07:38",
-      "iso_time": "2025-07-20T07:38:36.760000+02:00",
+      "time": "07:25",
+      "iso_time": "2025-07-20T07:25:35.080000+02:00",
       "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/finland-mx2-race-2-8542192",
       "slug": "finnland-mx2-2-rennen",
       "related_events": [
         {
           "title": "Finnland | MXGP | 2. Rennen",
-          "time": "08:08",
+          "time": "07:55",
           "sender": "Eurosport",
           "slug": "finnland-mxgp-2-rennen"
         }
@@ -645,18 +645,31 @@
       "sport_slug": "motocross",
       "sender": "Eurosport",
       "sender_slug": "eurosport",
-      "time": "08:08",
-      "iso_time": "2025-07-20T08:08:21.600000+02:00",
+      "time": "07:55",
+      "iso_time": "2025-07-20T07:55:19.920000+02:00",
       "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/finland-mxgp-race-2-8542298",
       "slug": "finnland-mxgp-2-rennen",
       "related_events": [
         {
           "title": "Finnland | MX2 | 2. Rennen",
-          "time": "07:38",
+          "time": "07:25",
           "sender": "Eurosport",
           "slug": "finnland-mx2-2-rennen"
         }
       ]
+    },
+    {
+      "title": "Tour de France | 14. Etappe",
+      "subtitle": "Pau - Luchon-Superbagnères (182,6km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:28",
+      "iso_time": "2025-07-20T08:28:21.640000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/tour-de-france-stage-14-8542288",
+      "slug": "tour-de-france-14-etappe",
+      "related_events": []
     },
     {
       "title": "FIA WEC | 6h von São Paulo | Rennen",
@@ -669,19 +682,6 @@
       "iso_time": "2025-07-20T08:31:49.760000+02:00",
       "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/fia-wec-6h-von-sao-paulo-rennen-8542300",
       "slug": "fia-wec-6h-von-sao-paulo-rennen",
-      "related_events": []
-    },
-    {
-      "title": "Tour de France | 14. Etappe",
-      "subtitle": "Pau - Luchon-Superbagnères (182,6km) | Männer | UCI World Tour",
-      "sport": "Radsport",
-      "sport_slug": "radsport",
-      "sender": "Eurosport",
-      "sender_slug": "eurosport",
-      "time": "08:41",
-      "iso_time": "2025-07-20T08:41:23.320000+02:00",
-      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/tour-de-france-stage-14-8542288",
-      "slug": "tour-de-france-14-etappe",
       "related_events": []
     },
     {
@@ -704,10 +704,23 @@
       "sport_slug": "mountainbike",
       "sender": "Eurosport",
       "sender_slug": "eurosport",
-      "time": "10:41",
-      "iso_time": "2025-07-20T10:41:04.640000+02:00",
+      "time": "10:28",
+      "iso_time": "2025-07-20T10:28:02.960000+02:00",
       "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/race-bikes-8542350",
       "slug": "race-bikes",
+      "related_events": []
+    },
+    {
+      "title": "FIA WEC | 6h von São Paulo | Rennen",
+      "subtitle": "Langstrecken-WM | 5. Saisonlauf",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:57",
+      "iso_time": "2025-07-20T10:57:29.880000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/fia-wec-round-5-6-hours-of-sao-paulo-8542355",
+      "slug": "fia-wec-6h-von-sao-paulo-rennen",
       "related_events": []
     },
     {
@@ -717,43 +730,30 @@
       "sport_slug": "radsport",
       "sender": "Eurosport",
       "sender_slug": "eurosport",
-      "time": "11:02",
-      "iso_time": "2025-07-20T11:02:01.880000+02:00",
+      "time": "11:00",
+      "iso_time": "2025-07-20T11:00:52+02:00",
       "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/tour-de-france-14-etappe-8542360",
       "slug": "tour-de-france-14-etappe",
       "related_events": [
         {
           "title": "Jens Voigt - Cycling Legacy",
-          "time": "12:30",
+          "time": "12:27",
           "sender": "Eurosport",
           "slug": "jens-voigt-cycling-legacy"
+        },
+        {
+          "title": "Tour de France | 15. Etappe",
+          "time": "12:55",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-15-etappe"
         },
         {
           "title": "Tour de France | 15. Etappe mit Siegerehrung",
           "time": "13:00",
           "sender": "Eurosport",
           "slug": "tour-de-france-15-etappe-mit-siegerehrung"
-        },
-        {
-          "title": "Tour de France | 15. Etappe mit \"Velo Club\"",
-          "time": "13:00",
-          "sender": "Eurosport",
-          "slug": "tour-de-france-15-etappe-mit-velo-club"
         }
       ]
-    },
-    {
-      "title": "FIA WEC | 6h von São Paulo | Rennen",
-      "subtitle": "Langstrecken-WM | 5. Saisonlauf",
-      "sport": "WEC",
-      "sport_slug": "wec",
-      "sender": "Eurosport",
-      "sender_slug": "eurosport",
-      "time": "11:10",
-      "iso_time": "2025-07-20T11:10:31.560000+02:00",
-      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/fia-wec-round-5-6-hours-of-sao-paulo-8542355",
-      "slug": "fia-wec-6h-von-sao-paulo-rennen",
-      "related_events": []
     },
     {
       "title": "Rhine-Ruhr 2025 | Mixed | Halbfinale",
@@ -775,86 +775,22 @@
       "sport_slug": "radsport",
       "sender": "Eurosport",
       "sender_slug": "eurosport",
-      "time": "12:30",
-      "iso_time": "2025-07-20T12:30:00+02:00",
+      "time": "12:27",
+      "iso_time": "2025-07-20T12:27:34.520000+02:00",
       "link": "",
       "slug": "jens-voigt-cycling-legacy",
       "related_events": [
         {
           "title": "Tour de France | 14. Etappe",
-          "time": "11:02",
+          "time": "11:00",
           "sender": "Eurosport",
           "slug": "tour-de-france-14-etappe"
         },
         {
-          "title": "Tour de France | 15. Etappe mit Siegerehrung",
-          "time": "13:00",
+          "title": "Tour de France | 15. Etappe",
+          "time": "12:55",
           "sender": "Eurosport",
-          "slug": "tour-de-france-15-etappe-mit-siegerehrung"
-        },
-        {
-          "title": "Tour de France | 15. Etappe mit \"Velo Club\"",
-          "time": "13:00",
-          "sender": "Eurosport",
-          "slug": "tour-de-france-15-etappe-mit-velo-club"
-        }
-      ]
-    },
-    {
-      "title": "Tour de France | 15. Etappe mit Siegerehrung",
-      "subtitle": "Muret - Carcassonne (169,3km) | Männer | UCI World Tour",
-      "sport": "Radsport",
-      "sport_slug": "radsport",
-      "sender": "Eurosport",
-      "sender_slug": "eurosport",
-      "time": "13:00",
-      "iso_time": "2025-07-20T13:00:00+02:00",
-      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/tour-de-france-stage-15-8466788",
-      "slug": "tour-de-france-15-etappe-mit-siegerehrung",
-      "related_events": [
-        {
-          "title": "Tour de France | 14. Etappe",
-          "time": "11:02",
-          "sender": "Eurosport",
-          "slug": "tour-de-france-14-etappe"
-        },
-        {
-          "title": "Jens Voigt - Cycling Legacy",
-          "time": "12:30",
-          "sender": "Eurosport",
-          "slug": "jens-voigt-cycling-legacy"
-        },
-        {
-          "title": "Tour de France | 15. Etappe mit \"Velo Club\"",
-          "time": "13:00",
-          "sender": "Eurosport",
-          "slug": "tour-de-france-15-etappe-mit-velo-club"
-        }
-      ]
-    },
-    {
-      "title": "Tour de France | 15. Etappe mit \"Velo Club\"",
-      "subtitle": "Muret - Carcassonne (169,3km) | Männer | UCI World Tour",
-      "sport": "Radsport",
-      "sport_slug": "radsport",
-      "sender": "Eurosport",
-      "sender_slug": "eurosport",
-      "time": "13:00",
-      "iso_time": "2025-07-20T13:00:00+02:00",
-      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/tour-de-france-stage-15-velo-club",
-      "slug": "tour-de-france-15-etappe-mit-velo-club",
-      "related_events": [
-        {
-          "title": "Tour de France | 14. Etappe",
-          "time": "11:02",
-          "sender": "Eurosport",
-          "slug": "tour-de-france-14-etappe"
-        },
-        {
-          "title": "Jens Voigt - Cycling Legacy",
-          "time": "12:30",
-          "sender": "Eurosport",
-          "slug": "jens-voigt-cycling-legacy"
+          "slug": "tour-de-france-15-etappe"
         },
         {
           "title": "Tour de France | 15. Etappe mit Siegerehrung",
@@ -871,20 +807,20 @@
       "sport_slug": "radsport",
       "sender": "Eurosport",
       "sender_slug": "eurosport",
-      "time": "13:00",
-      "iso_time": "2025-07-20T13:00:00+02:00",
+      "time": "12:55",
+      "iso_time": "2025-07-20T12:55:30.760000+02:00",
       "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/tour-de-france-15-etappe-8542410",
       "slug": "tour-de-france-15-etappe",
       "related_events": [
         {
           "title": "Tour de France | 14. Etappe",
-          "time": "11:02",
+          "time": "11:00",
           "sender": "Eurosport",
           "slug": "tour-de-france-14-etappe"
         },
         {
           "title": "Jens Voigt - Cycling Legacy",
-          "time": "12:30",
+          "time": "12:27",
           "sender": "Eurosport",
           "slug": "jens-voigt-cycling-legacy"
         },
@@ -903,11 +839,75 @@
       "sport_slug": "sportklettern",
       "sender": "Eurosport",
       "sender_slug": "eurosport",
-      "time": "13:00",
-      "iso_time": "2025-07-20T13:00:00+02:00",
+      "time": "12:56",
+      "iso_time": "2025-07-20T12:56:00.320000+02:00",
       "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/mens-and-womens-lead-final-8542349",
       "slug": "madrid-lead-finale",
       "related_events": []
+    },
+    {
+      "title": "Tour de France | 15. Etappe mit Siegerehrung",
+      "subtitle": "Muret - Carcassonne (169,3km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:00",
+      "iso_time": "2025-07-20T13:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/tour-de-france-stage-15-8466788",
+      "slug": "tour-de-france-15-etappe-mit-siegerehrung",
+      "related_events": [
+        {
+          "title": "Tour de France | 14. Etappe",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-14-etappe"
+        },
+        {
+          "title": "Jens Voigt - Cycling Legacy",
+          "time": "12:27",
+          "sender": "Eurosport",
+          "slug": "jens-voigt-cycling-legacy"
+        },
+        {
+          "title": "Tour de France | 15. Etappe",
+          "time": "12:55",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-15-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 15. Etappe mit \"Velo Club\"",
+      "subtitle": "Muret - Carcassonne (169,3km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:00",
+      "iso_time": "2025-07-20T13:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/tour-de-france-stage-15-velo-club",
+      "slug": "tour-de-france-15-etappe-mit-velo-club",
+      "related_events": [
+        {
+          "title": "Tour de France | 14. Etappe",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-14-etappe"
+        },
+        {
+          "title": "Jens Voigt - Cycling Legacy",
+          "time": "12:27",
+          "sender": "Eurosport",
+          "slug": "jens-voigt-cycling-legacy"
+        },
+        {
+          "title": "Tour de France | 15. Etappe",
+          "time": "12:55",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-15-etappe"
+        }
+      ]
     },
     {
       "title": "Tour de France | 15. Etappe | Multi-Screen",
@@ -923,21 +923,21 @@
       "related_events": [
         {
           "title": "Tour de France | 14. Etappe",
-          "time": "11:02",
+          "time": "11:00",
           "sender": "Eurosport",
           "slug": "tour-de-france-14-etappe"
         },
         {
           "title": "Jens Voigt - Cycling Legacy",
-          "time": "12:30",
+          "time": "12:27",
           "sender": "Eurosport",
           "slug": "jens-voigt-cycling-legacy"
         },
         {
-          "title": "Tour de France | 15. Etappe mit Siegerehrung",
-          "time": "13:00",
+          "title": "Tour de France | 15. Etappe",
+          "time": "12:55",
           "sender": "Eurosport",
-          "slug": "tour-de-france-15-etappe-mit-siegerehrung"
+          "slug": "tour-de-france-15-etappe"
         }
       ]
     },
@@ -956,6 +956,19 @@
     },
     {
       "title": "Rhine-Ruhr 2025 | Spiel um Bronze / Finale",
+      "subtitle": "FISU World University Games | Männer / Frauen | Bochum",
+      "sport": "3x3 Basketball",
+      "sport_slug": "3x3-basketball",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:05",
+      "iso_time": "2025-07-20T14:05:55+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/fisu-world-university-games",
+      "slug": "rhine-ruhr-2025-spiel-um-bronze-finale",
+      "related_events": []
+    },
+    {
+      "title": "Rhine-Ruhr 2025 | Spiel um Bronze / Finale",
       "subtitle": "FISU World University Games | Männer / Frauen | Bochum | Englischer Kommentar",
       "sport": "3x3 Basketball",
       "sport_slug": "3x3-basketball",
@@ -964,19 +977,6 @@
       "time": "14:10",
       "iso_time": "2025-07-20T14:10:00+02:00",
       "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/fisu-world-university-games-8478336",
-      "slug": "rhine-ruhr-2025-spiel-um-bronze-finale",
-      "related_events": []
-    },
-    {
-      "title": "Rhine-Ruhr 2025 | Spiel um Bronze / Finale",
-      "subtitle": "FISU World University Games | Männer / Frauen | Bochum",
-      "sport": "3x3 Basketball",
-      "sport_slug": "3x3-basketball",
-      "sender": "Eurosport",
-      "sender_slug": "eurosport",
-      "time": "14:10",
-      "iso_time": "2025-07-20T14:10:00+02:00",
-      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/fisu-world-university-games",
       "slug": "rhine-ruhr-2025-spiel-um-bronze-finale",
       "related_events": []
     },
@@ -1046,6 +1046,12 @@
       "slug": "baloise-ladies-tour-4-etappe",
       "related_events": [
         {
+          "title": "Tour de France | 15. Etappe",
+          "time": "12:55",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-15-etappe"
+        },
+        {
           "title": "Tour de France | 15. Etappe mit Siegerehrung",
           "time": "13:00",
           "sender": "Eurosport",
@@ -1056,12 +1062,6 @@
           "time": "13:00",
           "sender": "Eurosport",
           "slug": "tour-de-france-15-etappe-mit-velo-club"
-        },
-        {
-          "title": "Tour de France | 15. Etappe",
-          "time": "13:00",
-          "sender": "Eurosport",
-          "slug": "tour-de-france-15-etappe"
         }
       ]
     },
