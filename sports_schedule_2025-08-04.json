@@ -1,0 +1,576 @@
+{
+  "date": "2025-08-04",
+  "events": [
+    {
+      "title": "Heart of Midlothian vs Aberdeen FC",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/schottland-premiership/ma11165163/heart-of-midlothian_aberdeen-fc/info",
+      "slug": "heart-of-midlothian-vs-aberdeen-fc",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Clara Tauson vs Iga Świątek",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11478296/clara-tauson_iga-swiatek/info",
+      "slug": "clara-tauson-vs-iga-swiatek",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Amanda Anisimova vs Elina Svitolina",
+      "time": "02:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11478299/amanda-anisimova_elina-svitolina/info",
+      "slug": "amanda-anisimova-vs-elina-svitolina",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Flavio Cobolli vs Ben Shelton",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11478302/flavio-cobolli_ben-shelton/info",
+      "slug": "flavio-cobolli-vs-ben-shelton",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Jiří Lehečka vs Taylor Fritz",
+      "time": "03:45",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11478290/jiri-lehecka_taylor-fritz/info",
+      "slug": "jiri-lehecka-vs-taylor-fritz",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Shanghai Masters | Finale",
+      "subtitle": "2. Session | Shanghai",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:25",
+      "iso_time": "2025-08-04T01:25:01.520000+02:00",
+      "link": "",
+      "slug": "shanghai-masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France Femmes avec Zwift | 9. Etappe",
+      "subtitle": "Praz-sur-Arly - Châtel (124,1km) | Frauen | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:01",
+      "iso_time": "2025-08-04T03:01:35.400000+02:00",
+      "link": "",
+      "slug": "tour-de-france-femmes-avec-zwift-9-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Shanghai Masters | Finale",
+      "subtitle": "2. Session | Shanghai",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:27",
+      "iso_time": "2025-08-04T04:27:15.360000+02:00",
+      "link": "",
+      "slug": "shanghai-masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France Femmes avec Zwift | 9. Etappe",
+      "subtitle": "Praz-sur-Arly - Châtel (124,1km) | Frauen | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:25",
+      "iso_time": "2025-08-04T06:25:57.880000+02:00",
+      "link": "",
+      "slug": "tour-de-france-femmes-avec-zwift-9-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Flandern | MX2 | 1. Rennen",
+      "subtitle": "WM | Lommel",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:56",
+      "iso_time": "2025-08-04T07:56:15.960000+02:00",
+      "link": "",
+      "slug": "flandern-mx2-1-rennen",
+      "related_events": [
+        {
+          "title": "Flandern | MXGP | 1. Rennen",
+          "time": "08:50",
+          "sender": "Eurosport",
+          "slug": "flandern-mxgp-1-rennen"
+        },
+        {
+          "title": "Flandern | MX2 | 2. Rennen",
+          "time": "09:47",
+          "sender": "Eurosport",
+          "slug": "flandern-mx2-2-rennen"
+        },
+        {
+          "title": "Flandern | MXGP | 2. Rennen",
+          "time": "10:48",
+          "sender": "Eurosport",
+          "slug": "flandern-mxgp-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France Femmes avec Zwift | 9. Etappe",
+      "subtitle": "Praz-sur-Arly - Châtel (124,1km) | Frauen | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:30",
+      "iso_time": "2025-08-04T08:30:40.800000+02:00",
+      "link": "",
+      "slug": "tour-de-france-femmes-avec-zwift-9-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Flandern | MXGP | 1. Rennen",
+      "subtitle": "WM | Lommel",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:50",
+      "iso_time": "2025-08-04T08:50:16.040000+02:00",
+      "link": "",
+      "slug": "flandern-mxgp-1-rennen",
+      "related_events": [
+        {
+          "title": "Flandern | MX2 | 1. Rennen",
+          "time": "07:56",
+          "sender": "Eurosport",
+          "slug": "flandern-mx2-1-rennen"
+        },
+        {
+          "title": "Flandern | MX2 | 2. Rennen",
+          "time": "09:47",
+          "sender": "Eurosport",
+          "slug": "flandern-mx2-2-rennen"
+        },
+        {
+          "title": "Flandern | MXGP | 2. Rennen",
+          "time": "10:48",
+          "sender": "Eurosport",
+          "slug": "flandern-mxgp-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Shanghai Masters | Finale",
+      "subtitle": "2. Session | Shanghai",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:27",
+      "iso_time": "2025-08-04T09:27:12.160000+02:00",
+      "link": "",
+      "slug": "shanghai-masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "Flandern | MX2 | 2. Rennen",
+      "subtitle": "WM | Lommel",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:47",
+      "iso_time": "2025-08-04T09:47:34.720000+02:00",
+      "link": "",
+      "slug": "flandern-mx2-2-rennen",
+      "related_events": [
+        {
+          "title": "Flandern | MX2 | 1. Rennen",
+          "time": "07:56",
+          "sender": "Eurosport",
+          "slug": "flandern-mx2-1-rennen"
+        },
+        {
+          "title": "Flandern | MXGP | 1. Rennen",
+          "time": "08:50",
+          "sender": "Eurosport",
+          "slug": "flandern-mxgp-1-rennen"
+        },
+        {
+          "title": "Flandern | MXGP | 2. Rennen",
+          "time": "10:48",
+          "sender": "Eurosport",
+          "slug": "flandern-mxgp-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Flandern | MXGP | 2. Rennen",
+      "subtitle": "WM | Lommel",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:48",
+      "iso_time": "2025-08-04T10:48:29.080000+02:00",
+      "link": "",
+      "slug": "flandern-mxgp-2-rennen",
+      "related_events": [
+        {
+          "title": "Flandern | MX2 | 1. Rennen",
+          "time": "07:56",
+          "sender": "Eurosport",
+          "slug": "flandern-mx2-1-rennen"
+        },
+        {
+          "title": "Flandern | MXGP | 1. Rennen",
+          "time": "08:50",
+          "sender": "Eurosport",
+          "slug": "flandern-mxgp-1-rennen"
+        },
+        {
+          "title": "Flandern | MX2 | 2. Rennen",
+          "time": "09:47",
+          "sender": "Eurosport",
+          "slug": "flandern-mx2-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France Femmes avec Zwift | 9. Etappe",
+      "subtitle": "Praz-sur-Arly - Châtel (124,1km) | Frauen | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:03",
+      "iso_time": "2025-08-04T11:03:40.040000+02:00",
+      "link": "",
+      "slug": "tour-de-france-femmes-avec-zwift-9-etappe",
+      "related_events": [
+        {
+          "title": "Tour de Pologne | 1. Etappe",
+          "time": "11:36",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-1-etappe"
+        },
+        {
+          "title": "Tour de Pologne | 1. Etappe",
+          "time": "11:40",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-1-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de Pologne | 1. Etappe",
+      "subtitle": "UCI World Tour | Männer | Wrocław - Legnica (199,7km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:36",
+      "iso_time": "2025-08-04T11:36:00.280000+02:00",
+      "link": "",
+      "slug": "tour-de-pologne-1-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France Femmes avec Zwift | 9. Etappe",
+          "time": "11:03",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-femmes-avec-zwift-9-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de Pologne | 1. Etappe",
+      "subtitle": "UCI World Tour | Männer | Wrocław - Legnica (199,7km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:40",
+      "iso_time": "2025-08-04T11:40:00+02:00",
+      "link": "",
+      "slug": "tour-de-pologne-1-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France Femmes avec Zwift | 9. Etappe",
+          "time": "11:03",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-femmes-avec-zwift-9-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Porsche Supercup | Ungarn | Rennen",
+      "subtitle": "Budapest | 6. Saisonlauf",
+      "sport": "Motorsport",
+      "sport_slug": "motorsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:46",
+      "iso_time": "2025-08-04T11:46:19.480000+02:00",
+      "link": "",
+      "slug": "porsche-supercup-ungarn-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Shanghai Masters | Finale",
+      "subtitle": "2. Session | Shanghai",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:28",
+      "iso_time": "2025-08-04T12:28:33.920000+02:00",
+      "link": "",
+      "slug": "shanghai-masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "8h von Suzuka | Rennen",
+      "subtitle": "FIM EWC | 3. Station",
+      "sport": "Motorrad-Langstrecke",
+      "sport_slug": "motorrad-langstrecke",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:55",
+      "iso_time": "2025-08-04T13:55:54.320000+02:00",
+      "link": "",
+      "slug": "8h-von-suzuka-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Porsche Supercup | Ungarn | Rennen",
+      "subtitle": "Budapest | 6. Saisonlauf",
+      "sport": "Motorsport",
+      "sport_slug": "motorsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2025-08-04T16:00:00+02:00",
+      "link": "",
+      "slug": "porsche-supercup-ungarn-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Shanghai Masters | Finale",
+      "subtitle": "2. Session | Shanghai",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:45",
+      "iso_time": "2025-08-04T16:45:00+02:00",
+      "link": "",
+      "slug": "shanghai-masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "Race Bikes",
+      "subtitle": "Mountainbike-Magazin | Folge 4",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2025-08-04T17:00:00+02:00",
+      "link": "",
+      "slug": "race-bikes",
+      "related_events": []
+    },
+    {
+      "title": "Golden Trail World Series | Pitztal",
+      "subtitle": "Österreich | Männer / Frauen",
+      "sport": "Trail Running",
+      "sport_slug": "trail-running",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:30",
+      "iso_time": "2025-08-04T17:30:00+02:00",
+      "link": "",
+      "slug": "golden-trail-world-series-pitztal",
+      "related_events": []
+    },
+    {
+      "title": "Tour de Pologne | 1. Etappe",
+      "subtitle": "UCI World Tour | Männer | Wrocław - Legnica (199,7km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2025-08-04T18:30:00+02:00",
+      "link": "",
+      "slug": "tour-de-pologne-1-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Porsche Supercup | Ungarn | Rennen",
+      "subtitle": "Budapest | 6. Saisonlauf",
+      "sport": "Motorsport",
+      "sport_slug": "motorsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2025-08-04T18:30:00+02:00",
+      "link": "",
+      "slug": "porsche-supercup-ungarn-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Shanghai Masters | Finale",
+      "subtitle": "2. Session | Shanghai",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:15",
+      "iso_time": "2025-08-04T19:15:00+02:00",
+      "link": "",
+      "slug": "shanghai-masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "Race Bikes",
+      "subtitle": "Mountainbike-Magazin | Folge 4",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2025-08-04T20:00:00+02:00",
+      "link": "",
+      "slug": "race-bikes",
+      "related_events": []
+    },
+    {
+      "title": "Golden Trail World Series | Pitztal",
+      "subtitle": "Österreich | Männer / Frauen",
+      "sport": "Trail Running",
+      "sport_slug": "trail-running",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:30",
+      "iso_time": "2025-08-04T20:30:00+02:00",
+      "link": "",
+      "slug": "golden-trail-world-series-pitztal",
+      "related_events": []
+    },
+    {
+      "title": "Porsche Supercup | Ungarn | Rennen",
+      "subtitle": "Budapest | 6. Saisonlauf",
+      "sport": "Motorsport",
+      "sport_slug": "motorsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:30",
+      "iso_time": "2025-08-04T20:30:00+02:00",
+      "link": "",
+      "slug": "porsche-supercup-ungarn-rennen",
+      "related_events": []
+    },
+    {
+      "title": "8h von Suzuka | Rennen",
+      "subtitle": "FIM EWC | 3. Station",
+      "sport": "Motorrad-Langstrecke",
+      "sport_slug": "motorrad-langstrecke",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:15",
+      "iso_time": "2025-08-04T21:15:00+02:00",
+      "link": "",
+      "slug": "8h-von-suzuka-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Tour de Pologne | 1. Etappe",
+      "subtitle": "UCI World Tour | Männer | Wrocław - Legnica (199,7km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2025-08-04T22:00:00+02:00",
+      "link": "",
+      "slug": "tour-de-pologne-1-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Tour de Pologne | 1. Etappe",
+      "subtitle": "UCI World Tour | Männer | Wrocław - Legnica (199,7km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2025-08-05T00:00:00+02:00",
+      "link": "",
+      "slug": "tour-de-pologne-1-etappe",
+      "related_events": []
+    },
+    {
+      "title": "UK Championship | Finale",
+      "subtitle": "B. Hawkins - J. Trump | York",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2025-08-05T00:00:00+02:00",
+      "link": "",
+      "slug": "uk-championship-finale",
+      "related_events": []
+    },
+    {
+      "title": "UK Championship | Finale",
+      "subtitle": "B. Hawkins - J. Trump | York",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:30",
+      "iso_time": "2025-08-05T01:30:00+02:00",
+      "link": "",
+      "slug": "uk-championship-finale",
+      "related_events": []
+    }
+  ]
+}
