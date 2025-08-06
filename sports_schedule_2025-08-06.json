@@ -1,0 +1,778 @@
+{
+  "date": "2025-08-06",
+  "events": [
+    {
+      "title": "FK Kairat vs Slovan Bratislava",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-cl-quali/ma11427131/fk-kairat_slovan-bratislava/info",
+      "slug": "fk-kairat-vs-slovan-bratislava",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "RB Salzburg vs FC Brügge",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-cl-quali/ma11427170/rb-salzburg_fc-bruegge/info",
+      "slug": "rb-salzburg-vs-fc-brugge",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FK RFS vs Kuopion PS",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "fk-rfs-vs-kuopion-ps"
+        }
+      ]
+    },
+    {
+      "title": "Ludogorez Rasgrad vs Ferencvárosi TC",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-cl-quali/ma11427143/ludogorez-rasgrad_ferencvarosi-tc/info",
+      "slug": "ludogorez-rasgrad-vs-ferencvarosi-tc",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Lech Poznań vs Roter Stern Belgrad",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-cl-quali/ma11427137/lech-poznan_roter-stern-belgrad/info",
+      "slug": "lech-poznan-vs-roter-stern-belgrad",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Basel 1893 vs BSC Young Boys",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "fc-basel-1893-vs-bsc-young-boys"
+        }
+      ]
+    },
+    {
+      "title": "OGC Nizza vs SL Benfica",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-cl-quali/ma11427185/ogc-nizza_sl-benfica/info",
+      "slug": "ogc-nizza-vs-sl-benfica",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Feyenoord Rotterdam vs Fenerbahçe",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "feyenoord-rotterdam-vs-fenerbahce"
+        }
+      ]
+    },
+    {
+      "title": "Feyenoord Rotterdam vs Fenerbahçe",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-cl-quali/ma11427191/feyenoord-rotterdam_fenerbahce/info",
+      "slug": "feyenoord-rotterdam-vs-fenerbahce",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "OGC Nizza vs SL Benfica",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "ogc-nizza-vs-sl-benfica"
+        }
+      ]
+    },
+    {
+      "title": "Schweiz vs Ukraine",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-quali/ma11003879/schweiz_ukraine/info",
+      "slug": "schweiz-vs-ukraine",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Rumänien vs Ungarn",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-quali/ma11003882/rumaenien_ungarn/info",
+      "slug": "rumanien-vs-ungarn",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Norwegen vs Kroatien",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "norwegen-vs-kroatien"
+        }
+      ]
+    },
+    {
+      "title": "Österreich vs Bulgarien",
+      "time": "19:20",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-quali/ma11003885/oesterreich_bulgarien/info",
+      "slug": "osterreich-vs-bulgarien",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Norwegen vs Kroatien",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-quali/ma11003888/norwegen_kroatien/info",
+      "slug": "norwegen-vs-kroatien",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Rumänien vs Ungarn",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "rumanien-vs-ungarn"
+        }
+      ]
+    },
+    {
+      "title": "FK RFS vs Kuopion PS",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-el-quali/ma11432105/fk-rfs_kuopion-ps/info",
+      "slug": "fk-rfs-vs-kuopion-ps",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "RB Salzburg vs FC Brügge",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "rb-salzburg-vs-fc-brugge"
+        }
+      ]
+    },
+    {
+      "title": "HNK Rijeka vs Shelbourne FC",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-el-quali/ma11432099/hnk-rijeka_shelbourne-fc/info",
+      "slug": "hnk-rijeka-vs-shelbourne-fc",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "FC Basel 1893 vs BSC Young Boys",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/schweiz-super-league/ma11166945/fc-basel-1893_bsc-young-boys/info",
+      "slug": "fc-basel-1893-vs-bsc-young-boys",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Lech Poznań vs Roter Stern Belgrad",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "lech-poznan-vs-roter-stern-belgrad"
+        }
+      ]
+    },
+    {
+      "title": "Madison Keys vs Clara Tauson",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11480078/madison-keys_clara-tauson/info",
+      "slug": "madison-keys-vs-clara-tauson",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Elina Svitolina vs Naomi Osaka",
+      "time": "01:35",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11480081/elina-svitolina_naomi-osaka/info",
+      "slug": "elina-svitolina-vs-naomi-osaka",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Andrey Rublev vs Taylor Fritz",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11480087/andrey-rublev_taylor-fritz/liveticker",
+      "slug": "andrey-rublev-vs-taylor-fritz",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alex de Minaur vs Ben Shelton",
+      "time": "02:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11480084/alex-de-minaur_ben-shelton/liveticker",
+      "slug": "alex-de-minaur-vs-ben-shelton",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "London Masters | Finale",
+      "subtitle": "S. Murphy - K. Wilson | London | European Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:26",
+      "iso_time": "2025-08-06T01:26:50.440000+02:00",
+      "link": "",
+      "slug": "london-masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tour de Pologne | 2. Etappe",
+      "subtitle": "UCI World Tour | Männer | Hotel Gołębiewski Karpacz - Karpacz (149,4km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:00",
+      "iso_time": "2025-08-06T03:00:01.520000+02:00",
+      "link": "",
+      "slug": "tour-de-pologne-2-etappe",
+      "related_events": []
+    },
+    {
+      "title": "London Masters | Finale",
+      "subtitle": "S. Murphy - K. Wilson | London | European Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:29",
+      "iso_time": "2025-08-06T04:29:02.960000+02:00",
+      "link": "",
+      "slug": "london-masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tour de Pologne | 2. Etappe",
+      "subtitle": "UCI World Tour | Männer | Hotel Gołębiewski Karpacz - Karpacz (149,4km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:25",
+      "iso_time": "2025-08-06T06:25:55.240000+02:00",
+      "link": "",
+      "slug": "tour-de-pologne-2-etappe",
+      "related_events": []
+    },
+    {
+      "title": "London Masters | Finale",
+      "subtitle": "S. Murphy - K. Wilson | London | European Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:25",
+      "iso_time": "2025-08-06T08:25:13.520000+02:00",
+      "link": "",
+      "slug": "london-masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tour de Pologne | 2. Etappe",
+      "subtitle": "UCI World Tour | Männer | Hotel Gołębiewski Karpacz - Karpacz (149,4km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:31",
+      "iso_time": "2025-08-06T08:31:11.120000+02:00",
+      "link": "",
+      "slug": "tour-de-pologne-2-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France | Highlights",
+          "time": "11:10",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-highlights"
+        }
+      ]
+    },
+    {
+      "title": "EWC All Access",
+      "subtitle": "Motorrad-Magazin",
+      "sport": "Wrestling",
+      "sport_slug": "wrestling",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:42",
+      "iso_time": "2025-08-06T09:42:29.520000+02:00",
+      "link": "",
+      "slug": "ewc-all-access",
+      "related_events": []
+    },
+    {
+      "title": "Flandern | MXGP | 2. Rennen",
+      "subtitle": "WM | Lommel",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:27",
+      "iso_time": "2025-08-06T10:27:08.560000+02:00",
+      "link": "",
+      "slug": "flandern-mxgp-2-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Race Bikes",
+      "subtitle": "Mountainbike-Magazin | Folge 4",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:41",
+      "iso_time": "2025-08-06T10:41:20.440000+02:00",
+      "link": "",
+      "slug": "race-bikes",
+      "related_events": []
+    },
+    {
+      "title": "EWC All Access",
+      "subtitle": "Motorrad-Magazin",
+      "sport": "Wrestling",
+      "sport_slug": "wrestling",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:55",
+      "iso_time": "2025-08-06T10:55:34.520000+02:00",
+      "link": "",
+      "slug": "ewc-all-access",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France | Highlights",
+      "subtitle": "UCI World Tour | Frauen",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:10",
+      "iso_time": "2025-08-06T11:10:40.400000+02:00",
+      "link": "",
+      "slug": "tour-de-france-highlights",
+      "related_events": [
+        {
+          "title": "Tour de Pologne | 2. Etappe",
+          "time": "08:31",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-2-etappe"
+        },
+        {
+          "title": "Tour de Pologne | 3. Etappe",
+          "time": "12:09",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-3-etappe"
+        },
+        {
+          "title": "Tour de Pologne | 3. Etappe",
+          "time": "12:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "London Masters | Finale",
+      "subtitle": "S. Murphy - K. Wilson | London | European Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:53",
+      "iso_time": "2025-08-06T11:53:41+02:00",
+      "link": "",
+      "slug": "london-masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tour de Pologne | 3. Etappe",
+      "subtitle": "UCI World Tour | Männer | Wałbrzych - Wałbrzych (159,3km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:09",
+      "iso_time": "2025-08-06T12:09:59.280000+02:00",
+      "link": "",
+      "slug": "tour-de-pologne-3-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France | Highlights",
+          "time": "11:10",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-highlights"
+        }
+      ]
+    },
+    {
+      "title": "Tour de Pologne | 3. Etappe",
+      "subtitle": "UCI World Tour | Männer | Wałbrzych - Wałbrzych (159,3km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:15",
+      "iso_time": "2025-08-06T12:15:00+02:00",
+      "link": "",
+      "slug": "tour-de-pologne-3-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France | Highlights",
+          "time": "11:10",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-highlights"
+        }
+      ]
+    },
+    {
+      "title": "FIM Speedway GP | Riga | Highlights",
+      "subtitle": "Lettland | 8. Station",
+      "sport": "Speedway",
+      "sport_slug": "speedway",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:54",
+      "iso_time": "2025-08-06T13:54:06+02:00",
+      "link": "",
+      "slug": "fim-speedway-gp-riga-highlights",
+      "related_events": []
+    },
+    {
+      "title": "EWC All Access",
+      "subtitle": "Motorrad-Magazin",
+      "sport": "Wrestling",
+      "sport_slug": "wrestling",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:52",
+      "iso_time": "2025-08-06T14:52:12.640000+02:00",
+      "link": "",
+      "slug": "ewc-all-access",
+      "related_events": []
+    },
+    {
+      "title": "London Masters | Finale",
+      "subtitle": "S. Murphy - K. Wilson | London | European Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2025-08-06T16:00:00+02:00",
+      "link": "",
+      "slug": "london-masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tour de l'Ain | 1. Etappe",
+      "subtitle": "UCI Europe Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:30",
+      "iso_time": "2025-08-06T16:30:00+02:00",
+      "link": "",
+      "slug": "tour-de-l-ain-1-etappe",
+      "related_events": [
+        {
+          "title": "Tour de Pologne | 3. Etappe",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de l'Ain | 1. Etappe",
+      "subtitle": "UCI Europe Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:45",
+      "iso_time": "2025-08-06T16:45:00+02:00",
+      "link": "",
+      "slug": "tour-de-l-ain-1-etappe",
+      "related_events": [
+        {
+          "title": "Tour de Pologne | 3. Etappe",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de Pologne | 3. Etappe",
+      "subtitle": "UCI World Tour | Männer | Wałbrzych - Wałbrzych (159,3km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2025-08-06T18:30:00+02:00",
+      "link": "",
+      "slug": "tour-de-pologne-3-etappe",
+      "related_events": [
+        {
+          "title": "Tour de l'Ain | 1. Etappe",
+          "time": "16:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-l-ain-1-etappe"
+        },
+        {
+          "title": "Tour de l'Ain | 1. Etappe",
+          "time": "16:45",
+          "sender": "Eurosport",
+          "slug": "tour-de-l-ain-1-etappe"
+        },
+        {
+          "title": "Tour de l'Ain | 1. Etappe",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-l-ain-1-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Race Bikes",
+      "subtitle": "Mountainbike-Magazin | Folge 4",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2025-08-06T18:30:00+02:00",
+      "link": "",
+      "slug": "race-bikes",
+      "related_events": []
+    },
+    {
+      "title": "London Masters | Finale",
+      "subtitle": "S. Murphy - K. Wilson | London | European Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2025-08-06T19:00:00+02:00",
+      "link": "",
+      "slug": "london-masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "Discovery Golf",
+      "subtitle": "Golf-Magazin",
+      "sport": "Golf",
+      "sport_slug": "golf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2025-08-06T20:00:00+02:00",
+      "link": "",
+      "slug": "discovery-golf",
+      "related_events": []
+    },
+    {
+      "title": "Golden Trail World Series | Pitztal",
+      "subtitle": "Österreich | Männer / Frauen",
+      "sport": "Trail Running",
+      "sport_slug": "trail-running",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:30",
+      "iso_time": "2025-08-06T20:30:00+02:00",
+      "link": "",
+      "slug": "golden-trail-world-series-pitztal",
+      "related_events": []
+    },
+    {
+      "title": "Tour de l'Ain | 1. Etappe",
+      "subtitle": "UCI Europe Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2025-08-06T21:00:00+02:00",
+      "link": "",
+      "slug": "tour-de-l-ain-1-etappe",
+      "related_events": [
+        {
+          "title": "Tour de Pologne | 3. Etappe",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-3-etappe"
+        },
+        {
+          "title": "Tour de Pologne | 3. Etappe",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-3-etappe"
+        },
+        {
+          "title": "Tour de Pologne | 3. Etappe",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "8h von Suzuka | Rennen",
+      "subtitle": "FIM EWC | 3. Station",
+      "sport": "Motorrad-Langstrecke",
+      "sport_slug": "motorrad-langstrecke",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2025-08-06T22:00:00+02:00",
+      "link": "",
+      "slug": "8h-von-suzuka-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Tour de Pologne | 3. Etappe",
+      "subtitle": "UCI World Tour | Männer | Wałbrzych - Wałbrzych (159,3km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2025-08-06T22:00:00+02:00",
+      "link": "",
+      "slug": "tour-de-pologne-3-etappe",
+      "related_events": [
+        {
+          "title": "Tour de l'Ain | 1. Etappe",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-l-ain-1-etappe"
+        }
+      ]
+    },
+    {
+      "title": "WM | Finale",
+      "subtitle": "Zhao X. - M. Williams | Sheffield | 4. Session",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2025-08-07T00:00:00+02:00",
+      "link": "",
+      "slug": "wm-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tour de Pologne | 3. Etappe",
+      "subtitle": "UCI World Tour | Männer | Wałbrzych - Wałbrzych (159,3km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2025-08-07T00:00:00+02:00",
+      "link": "",
+      "slug": "tour-de-pologne-3-etappe",
+      "related_events": [
+        {
+          "title": "Tour de l'Ain | 1. Etappe",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-l-ain-1-etappe"
+        }
+      ]
+    },
+    {
+      "title": "WM | Finale",
+      "subtitle": "Zhao X. - M. Williams | Sheffield | 4. Session",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:30",
+      "iso_time": "2025-08-07T01:30:00+02:00",
+      "link": "",
+      "slug": "wm-finale",
+      "related_events": []
+    }
+  ]
+}
