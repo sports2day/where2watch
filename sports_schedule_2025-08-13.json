@@ -1,0 +1,1269 @@
+{
+  "date": "2025-08-13",
+  "events": [
+    {
+      "title": "Paris Saint-Germain vs Tottenham Hotspur",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-supercup/ma11108799/paris-saint-germain_tottenham-hotspur/info",
+      "slug": "paris-saint-germain-vs-tottenham-hotspur",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Irland vs Deutschland",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Feldhockey",
+      "sport_slug": "feldhockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/feldhockey/eurohockey-frauen/ma10776584/irland_deutschland/info",
+      "slug": "irland-vs-deutschland",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Schweiz vs Slowakei",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-quali/ma11003903/schweiz_slowakei/info",
+      "slug": "schweiz-vs-slowakei",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Rumänien vs Nordmazedonien",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-quali/ma11003906/rumaenien_nordmazedonien/info",
+      "slug": "rumanien-vs-nordmazedonien",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Norwegen vs Dänemark",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "norwegen-vs-danemark"
+        }
+      ]
+    },
+    {
+      "title": "Österreich vs Niederlande",
+      "time": "19:20",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-quali/ma11003909/oesterreich_niederlande/info",
+      "slug": "osterreich-vs-niederlande",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Norwegen vs Dänemark",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-quali/ma11003912/norwegen_daenemark/info",
+      "slug": "norwegen-vs-danemark",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Rumänien vs Nordmazedonien",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "rumanien-vs-nordmazedonien"
+        }
+      ]
+    },
+    {
+      "title": "İstanbul Başakşehir vs Viking FK",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma11432393/stanbul-basaksehir_viking-fk/info",
+      "slug": "istanbul-basaksehir-vs-viking-fk",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Magda Linette vs Jessica Pegula",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-western-southern-open/ma11510285/magda-linette_jessica-pegula/info",
+      "slug": "magda-linette-vs-jessica-pegula",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Brandon Nakashima vs Alexander Zverev",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "brandon-nakashima-vs-alexander-zverev"
+        }
+      ]
+    },
+    {
+      "title": "Clara Tauson vs Veronika Kudermetova",
+      "time": "04:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-western-southern-open/ma11510273/clara-tauson_veronika-kudermetova/info",
+      "slug": "clara-tauson-vs-veronika-kudermetova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ben Shelton vs Roberto Bautista Agut",
+          "time": "04:50",
+          "sender": "Sportschau Live",
+          "slug": "ben-shelton-vs-roberto-bautista-agut"
+        }
+      ]
+    },
+    {
+      "title": "Iga Świątek vs Sorana Cirstea",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-western-southern-open/ma11513183/iga-swiatek_sorana-cirstea/info",
+      "slug": "iga-swiatek-vs-sorana-cirstea",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Frances Tiafoe vs Holger Rune",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "frances-tiafoe-vs-holger-rune"
+        }
+      ]
+    },
+    {
+      "title": "Elena Rybakina vs Madison Keys",
+      "time": "18:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-western-southern-open/ma11513576/elena-rybakina_madison-keys/info",
+      "slug": "elena-rybakina-vs-madison-keys",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Felix Auger-Aliassime vs Benjamin Bonzi",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "felix-auger-aliassime-vs-benjamin-bonzi"
+        },
+        {
+          "title": "Jannik Sinner vs Adrian Mannarino",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "jannik-sinner-vs-adrian-mannarino"
+        }
+      ]
+    },
+    {
+      "title": "Aryna Sabalenka vs Jessica Bouzas Maneiro",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-western-southern-open/ma11513186/aryna-sabalenka_jessica-bouzas-maneiro/info",
+      "slug": "aryna-sabalenka-vs-jessica-bouzas-maneiro",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Brandon Nakashima vs Alexander Zverev",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-western-southern-open/ma11510582/brandon-nakashima_alexander-zverev/info",
+      "slug": "brandon-nakashima-vs-alexander-zverev",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Magda Linette vs Jessica Pegula",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "magda-linette-vs-jessica-pegula"
+        }
+      ]
+    },
+    {
+      "title": "Ben Shelton vs Roberto Bautista Agut",
+      "time": "04:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-western-southern-open/ma11510573/ben-shelton_roberto-bautista-agut/info",
+      "slug": "ben-shelton-vs-roberto-bautista-agut",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Clara Tauson vs Veronika Kudermetova",
+          "time": "04:50",
+          "sender": "Sportschau Live",
+          "slug": "clara-tauson-vs-veronika-kudermetova"
+        }
+      ]
+    },
+    {
+      "title": "Frances Tiafoe vs Holger Rune",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-western-southern-open/ma11513177/frances-tiafoe_holger-rune/info",
+      "slug": "frances-tiafoe-vs-holger-rune",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Iga Świątek vs Sorana Cirstea",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "iga-swiatek-vs-sorana-cirstea"
+        }
+      ]
+    },
+    {
+      "title": "Felix Auger-Aliassime vs Benjamin Bonzi",
+      "time": "18:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-western-southern-open/ma11513534/felix-auger-aliassime_benjamin-bonzi/info",
+      "slug": "felix-auger-aliassime-vs-benjamin-bonzi",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Elena Rybakina vs Madison Keys",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "elena-rybakina-vs-madison-keys"
+        },
+        {
+          "title": "Jannik Sinner vs Adrian Mannarino",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "jannik-sinner-vs-adrian-mannarino"
+        }
+      ]
+    },
+    {
+      "title": "Jannik Sinner vs Adrian Mannarino",
+      "time": "18:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-western-southern-open/ma11513573/jannik-sinner_adrian-mannarino/info",
+      "slug": "jannik-sinner-vs-adrian-mannarino",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Elena Rybakina vs Madison Keys",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "elena-rybakina-vs-madison-keys"
+        },
+        {
+          "title": "Felix Auger-Aliassime vs Benjamin Bonzi",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "felix-auger-aliassime-vs-benjamin-bonzi"
+        }
+      ]
+    },
+    {
+      "title": "Taylor Fritz vs Terence Atmane",
+      "time": "19:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-western-southern-open/ma11513570/taylor-fritz_terence-atmane/info",
+      "slug": "taylor-fritz-vs-terence-atmane",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Francisco Comesana vs Andrey Rublev",
+      "time": "21:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-western-southern-open/ma11529623/francisco-comesana_andrey-rublev/info",
+      "slug": "francisco-comesana-vs-andrey-rublev",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Saudi Arabia Masters | Sechzehntelfinale",
+      "subtitle": "Mit Ronnie O'Sullivan u.a. | Jeddah",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:27",
+      "iso_time": "2025-08-13T01:27:54.920000+02:00",
+      "link": "",
+      "slug": "saudi-arabia-masters-sechzehntelfinale",
+      "related_events": []
+    },
+    {
+      "title": "Tour de Pologne Women | 1. Etappe",
+      "subtitle": "UCI Women Elite | Frauen | Zamosc - Zamosc (105,7km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:57",
+      "iso_time": "2025-08-13T02:57:59.120000+02:00",
+      "link": "",
+      "slug": "tour-de-pologne-women-1-etappe",
+      "related_events": [
+        {
+          "title": "Dänemark-Rundfahrt | 1. Etappe",
+          "time": "03:57",
+          "sender": "Eurosport",
+          "slug": "danemark-rundfahrt-1-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Dänemark-Rundfahrt | 1. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Nexø - Rønne (178,3km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:57",
+      "iso_time": "2025-08-13T03:57:07.840000+02:00",
+      "link": "",
+      "slug": "danemark-rundfahrt-1-etappe",
+      "related_events": [
+        {
+          "title": "Tour de Pologne Women | 1. Etappe",
+          "time": "02:57",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-women-1-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Saudi Arabia Masters | Sechzehntelfinale",
+      "subtitle": "Mit Ronnie O'Sullivan u.a. | Jeddah",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:57",
+      "iso_time": "2025-08-13T04:57:45.840000+02:00",
+      "link": "",
+      "slug": "saudi-arabia-masters-sechzehntelfinale",
+      "related_events": []
+    },
+    {
+      "title": "8h von Suzuka | Rennen",
+      "subtitle": "FIM EWC | 3. Station",
+      "sport": "Motorrad-Langstrecke",
+      "sport_slug": "motorrad-langstrecke",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:57",
+      "iso_time": "2025-08-13T06:57:35.680000+02:00",
+      "link": "",
+      "slug": "8h-von-suzuka-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Dänemark-Rundfahrt | 1. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Nexø - Rønne (178,3km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:31",
+      "iso_time": "2025-08-13T08:31:28.760000+02:00",
+      "link": "",
+      "slug": "danemark-rundfahrt-1-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Saudi Arabia Masters | Sechzehntelfinale",
+      "subtitle": "Mit Ronnie O'Sullivan u.a. | Jeddah",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:59",
+      "iso_time": "2025-08-13T08:59:07.320000+02:00",
+      "link": "",
+      "slug": "saudi-arabia-masters-sechzehntelfinale",
+      "related_events": [
+        {
+          "title": "Saudi Arabia Masters | Achtelfinale",
+          "time": "11:56",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-achtelfinale"
+        },
+        {
+          "title": "Snooker",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "snooker"
+        },
+        {
+          "title": "Snooker",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "snooker"
+        }
+      ]
+    },
+    {
+      "title": "Racing on the Edge",
+      "subtitle": "SailGP-Magazin",
+      "sport": "Segeln",
+      "sport_slug": "segeln",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:56",
+      "iso_time": "2025-08-13T09:56:49.640000+02:00",
+      "link": "",
+      "slug": "racing-on-the-edge",
+      "related_events": []
+    },
+    {
+      "title": "Hard Knocks",
+      "subtitle": "NFL-Dokumentation | Folge 1",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:27",
+      "iso_time": "2025-08-13T10:27:44.520000+02:00",
+      "link": "",
+      "slug": "hard-knocks",
+      "related_events": []
+    },
+    {
+      "title": "Saudi Arabia Masters | Sechzehntelfinale",
+      "subtitle": "Mit Ronnie O'Sullivan u.a. | Jeddah",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:28",
+      "iso_time": "2025-08-13T10:28:47.960000+02:00",
+      "link": "",
+      "slug": "saudi-arabia-masters-sechzehntelfinale",
+      "related_events": [
+        {
+          "title": "Saudi Arabia Masters | Achtelfinale",
+          "time": "11:56",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-achtelfinale"
+        },
+        {
+          "title": "Snooker",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "snooker"
+        },
+        {
+          "title": "Snooker",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "snooker"
+        }
+      ]
+    },
+    {
+      "title": "Triathlon: T100 Triathlon World Tour in London",
+      "subtitle": "Highlights",
+      "sport": "Triathlon",
+      "sport_slug": "triathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:29",
+      "iso_time": "2025-08-13T11:29:56.360000+02:00",
+      "link": "",
+      "slug": "triathlon-t100-triathlon-world-tour-in-london",
+      "related_events": []
+    },
+    {
+      "title": "Saudi Arabia Masters | Achtelfinale",
+      "subtitle": "| Jeddah",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:56",
+      "iso_time": "2025-08-13T11:56:46.160000+02:00",
+      "link": "",
+      "slug": "saudi-arabia-masters-achtelfinale",
+      "related_events": [
+        {
+          "title": "Saudi Arabia Masters | Sechzehntelfinale",
+          "time": "08:59",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-sechzehntelfinale"
+        },
+        {
+          "title": "Saudi Arabia Masters | Sechzehntelfinale",
+          "time": "10:28",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-sechzehntelfinale"
+        },
+        {
+          "title": "Snooker",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "snooker"
+        }
+      ]
+    },
+    {
+      "title": "Snooker",
+      "subtitle": "Saudi Arabia Masters | Achtelfinale | Jeddah | Original Sound",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:00",
+      "iso_time": "2025-08-13T12:00:00+02:00",
+      "link": "",
+      "slug": "snooker",
+      "related_events": [
+        {
+          "title": "Saudi Arabia Masters | Sechzehntelfinale",
+          "time": "10:28",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-sechzehntelfinale"
+        },
+        {
+          "title": "Saudi Arabia Masters | Achtelfinale",
+          "time": "11:56",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-achtelfinale"
+        },
+        {
+          "title": "Elliot Slessor - Stuart Bingham",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "elliot-slessor-stuart-bingham"
+        }
+      ]
+    },
+    {
+      "title": "Snooker",
+      "subtitle": "Saudi Arabia Masters | Achtelfinale | Jeddah | Original Sound",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:00",
+      "iso_time": "2025-08-13T12:00:00+02:00",
+      "link": "",
+      "slug": "snooker",
+      "related_events": [
+        {
+          "title": "Saudi Arabia Masters | Sechzehntelfinale",
+          "time": "10:28",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-sechzehntelfinale"
+        },
+        {
+          "title": "Saudi Arabia Masters | Achtelfinale",
+          "time": "11:56",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-achtelfinale"
+        },
+        {
+          "title": "Elliot Slessor - Stuart Bingham",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "elliot-slessor-stuart-bingham"
+        }
+      ]
+    },
+    {
+      "title": "Elliot Slessor - Stuart Bingham",
+      "subtitle": "Saudi Arabia Masters | Achtelfinale | Jeddah | Original Sound",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:00",
+      "iso_time": "2025-08-13T12:00:00+02:00",
+      "link": "",
+      "slug": "elliot-slessor-stuart-bingham",
+      "related_events": [
+        {
+          "title": "Saudi Arabia Masters | Sechzehntelfinale",
+          "time": "10:28",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-sechzehntelfinale"
+        },
+        {
+          "title": "Saudi Arabia Masters | Achtelfinale",
+          "time": "11:56",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-achtelfinale"
+        },
+        {
+          "title": "Snooker",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "snooker"
+        }
+      ]
+    },
+    {
+      "title": "Snooker",
+      "subtitle": "Saudi Arabia Masters | Achtelfinale | Jeddah",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:00",
+      "iso_time": "2025-08-13T12:00:00+02:00",
+      "link": "",
+      "slug": "snooker",
+      "related_events": [
+        {
+          "title": "Saudi Arabia Masters | Sechzehntelfinale",
+          "time": "10:28",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-sechzehntelfinale"
+        },
+        {
+          "title": "Saudi Arabia Masters | Achtelfinale",
+          "time": "11:56",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-achtelfinale"
+        },
+        {
+          "title": "Elliot Slessor - Stuart Bingham",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "elliot-slessor-stuart-bingham"
+        }
+      ]
+    },
+    {
+      "title": "Dänemark-Rundfahrt | 1. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Nexø - Rønne (178,3km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:30",
+      "iso_time": "2025-08-13T12:30:40.120000+02:00",
+      "link": "",
+      "slug": "danemark-rundfahrt-1-etappe",
+      "related_events": [
+        {
+          "title": "Tour de Pologne Women | 2. Etappe",
+          "time": "13:25",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-women-2-etappe"
+        },
+        {
+          "title": "Tour de Pologne Women | 2. Etappe",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-women-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de Pologne Women | 2. Etappe",
+      "subtitle": "UCI Women Elite | Frauen | Chelm - Chelm (100km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:25",
+      "iso_time": "2025-08-13T13:25:52.040000+02:00",
+      "link": "",
+      "slug": "tour-de-pologne-women-2-etappe",
+      "related_events": [
+        {
+          "title": "Dänemark-Rundfahrt | 1. Etappe",
+          "time": "12:30",
+          "sender": "Eurosport",
+          "slug": "danemark-rundfahrt-1-etappe"
+        },
+        {
+          "title": "Dänemark-Rundfahrt | 1. Etappe",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "danemark-rundfahrt-1-etappe"
+        },
+        {
+          "title": "Dänemark-Rundfahrt | 2. Etappe",
+          "time": "15:45",
+          "sender": "Eurosport",
+          "slug": "danemark-rundfahrt-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de Pologne Women | 2. Etappe",
+      "subtitle": "UCI Women Elite | Frauen | Chelm - Chelm (100km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:30",
+      "iso_time": "2025-08-13T13:30:00+02:00",
+      "link": "",
+      "slug": "tour-de-pologne-women-2-etappe",
+      "related_events": [
+        {
+          "title": "Dänemark-Rundfahrt | 1. Etappe",
+          "time": "12:30",
+          "sender": "Eurosport",
+          "slug": "danemark-rundfahrt-1-etappe"
+        },
+        {
+          "title": "Dänemark-Rundfahrt | 1. Etappe",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "danemark-rundfahrt-1-etappe"
+        },
+        {
+          "title": "Dänemark-Rundfahrt | 2. Etappe",
+          "time": "15:45",
+          "sender": "Eurosport",
+          "slug": "danemark-rundfahrt-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Dänemark-Rundfahrt | 1. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Nexø - Rønne (178,3km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:30",
+      "iso_time": "2025-08-13T15:30:00+02:00",
+      "link": "",
+      "slug": "danemark-rundfahrt-1-etappe",
+      "related_events": [
+        {
+          "title": "Tour de Pologne Women | 2. Etappe",
+          "time": "13:25",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-women-2-etappe"
+        },
+        {
+          "title": "Tour de Pologne Women | 2. Etappe",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-women-2-etappe"
+        },
+        {
+          "title": "Dänemark-Rundfahrt | 2. Etappe",
+          "time": "15:45",
+          "sender": "Eurosport",
+          "slug": "danemark-rundfahrt-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Dänemark-Rundfahrt | 2. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Rødovre - Gladsaxe (110,5km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:45",
+      "iso_time": "2025-08-13T15:45:00+02:00",
+      "link": "",
+      "slug": "danemark-rundfahrt-2-etappe",
+      "related_events": [
+        {
+          "title": "Tour de Pologne Women | 2. Etappe",
+          "time": "13:25",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-women-2-etappe"
+        },
+        {
+          "title": "Tour de Pologne Women | 2. Etappe",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-women-2-etappe"
+        },
+        {
+          "title": "Dänemark-Rundfahrt | 1. Etappe",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "danemark-rundfahrt-1-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Dänemark-Rundfahrt | 2. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Rødovre - Gladsaxe (110,5km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:45",
+      "iso_time": "2025-08-13T15:45:00+02:00",
+      "link": "",
+      "slug": "danemark-rundfahrt-2-etappe",
+      "related_events": [
+        {
+          "title": "Tour de Pologne Women | 2. Etappe",
+          "time": "13:25",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-women-2-etappe"
+        },
+        {
+          "title": "Tour de Pologne Women | 2. Etappe",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-women-2-etappe"
+        },
+        {
+          "title": "Dänemark-Rundfahrt | 1. Etappe",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "danemark-rundfahrt-1-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Dänemark-Rundfahrt | 2. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Rødovre - Gladsaxe (110,5km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:45",
+      "iso_time": "2025-08-13T15:45:00+02:00",
+      "link": "",
+      "slug": "danemark-rundfahrt-2-etappe",
+      "related_events": [
+        {
+          "title": "Tour de Pologne Women | 2. Etappe",
+          "time": "13:25",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-women-2-etappe"
+        },
+        {
+          "title": "Tour de Pologne Women | 2. Etappe",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-women-2-etappe"
+        },
+        {
+          "title": "Dänemark-Rundfahrt | 1. Etappe",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "danemark-rundfahrt-1-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de Pologne Women | 2. Etappe",
+      "subtitle": "UCI Women Elite | Frauen | Chelm - Chelm (100km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:45",
+      "iso_time": "2025-08-13T17:45:00+02:00",
+      "link": "",
+      "slug": "tour-de-pologne-women-2-etappe",
+      "related_events": [
+        {
+          "title": "Dänemark-Rundfahrt | 1. Etappe",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "danemark-rundfahrt-1-etappe"
+        },
+        {
+          "title": "Dänemark-Rundfahrt | 2. Etappe",
+          "time": "15:45",
+          "sender": "Eurosport",
+          "slug": "danemark-rundfahrt-2-etappe"
+        },
+        {
+          "title": "Dänemark-Rundfahrt | 2. Etappe",
+          "time": "15:45",
+          "sender": "Eurosport",
+          "slug": "danemark-rundfahrt-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de Pologne Women | 2. Etappe",
+      "subtitle": "UCI Women Elite | Frauen | Chelm - Chelm (100km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:45",
+      "iso_time": "2025-08-13T17:45:00+02:00",
+      "link": "",
+      "slug": "tour-de-pologne-women-2-etappe",
+      "related_events": [
+        {
+          "title": "Dänemark-Rundfahrt | 1. Etappe",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "danemark-rundfahrt-1-etappe"
+        },
+        {
+          "title": "Dänemark-Rundfahrt | 2. Etappe",
+          "time": "15:45",
+          "sender": "Eurosport",
+          "slug": "danemark-rundfahrt-2-etappe"
+        },
+        {
+          "title": "Dänemark-Rundfahrt | 2. Etappe",
+          "time": "15:45",
+          "sender": "Eurosport",
+          "slug": "danemark-rundfahrt-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Ding Junhui - Barry Hawkins",
+      "subtitle": "Saudi Arabia Masters | Achtelfinale | Jeddah | Original Sound",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2025-08-13T18:30:00+02:00",
+      "link": "",
+      "slug": "ding-junhui-barry-hawkins",
+      "related_events": [
+        {
+          "title": "Snooker",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "snooker"
+        },
+        {
+          "title": "Snooker",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "snooker"
+        },
+        {
+          "title": "Snooker",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "snooker"
+        }
+      ]
+    },
+    {
+      "title": "Snooker",
+      "subtitle": "Saudi Arabia Masters | Achtelfinale | Jeddah | Original Sound",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2025-08-13T18:30:00+02:00",
+      "link": "",
+      "slug": "snooker",
+      "related_events": [
+        {
+          "title": "Ding Junhui - Barry Hawkins",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "ding-junhui-barry-hawkins"
+        },
+        {
+          "title": "Saudi Arabia Masters | Achtelfinale",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-achtelfinale"
+        }
+      ]
+    },
+    {
+      "title": "Snooker",
+      "subtitle": "Saudi Arabia Masters | Achtelfinale | Jeddah | Original Sound",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2025-08-13T18:30:00+02:00",
+      "link": "",
+      "slug": "snooker",
+      "related_events": [
+        {
+          "title": "Ding Junhui - Barry Hawkins",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "ding-junhui-barry-hawkins"
+        },
+        {
+          "title": "Saudi Arabia Masters | Achtelfinale",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-achtelfinale"
+        }
+      ]
+    },
+    {
+      "title": "Snooker",
+      "subtitle": "Saudi Arabia Masters | Achtelfinale | Jeddah",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2025-08-13T18:30:00+02:00",
+      "link": "",
+      "slug": "snooker",
+      "related_events": [
+        {
+          "title": "Ding Junhui - Barry Hawkins",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "ding-junhui-barry-hawkins"
+        },
+        {
+          "title": "Saudi Arabia Masters | Achtelfinale",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-achtelfinale"
+        }
+      ]
+    },
+    {
+      "title": "Saudi Arabia Masters | Achtelfinale",
+      "subtitle": "| Jeddah",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2025-08-13T18:30:00+02:00",
+      "link": "",
+      "slug": "saudi-arabia-masters-achtelfinale",
+      "related_events": [
+        {
+          "title": "Ding Junhui - Barry Hawkins",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "ding-junhui-barry-hawkins"
+        },
+        {
+          "title": "Snooker",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "snooker"
+        },
+        {
+          "title": "Snooker",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "snooker"
+        }
+      ]
+    },
+    {
+      "title": "Triathlon: T100 Triathlon World Tour in London",
+      "subtitle": "Highlights",
+      "sport": "Triathlon",
+      "sport_slug": "triathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2025-08-13T19:00:00+02:00",
+      "link": "",
+      "slug": "triathlon-t100-triathlon-world-tour-in-london",
+      "related_events": []
+    },
+    {
+      "title": "Discovery Golf",
+      "subtitle": "Golf-Magazin",
+      "sport": "Golf",
+      "sport_slug": "golf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2025-08-13T20:00:00+02:00",
+      "link": "",
+      "slug": "discovery-golf",
+      "related_events": []
+    },
+    {
+      "title": "Onboard | The Ocean Race Europe",
+      "subtitle": "Segel-Magazin | Folge 1",
+      "sport": "Segeln",
+      "sport_slug": "segeln",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:30",
+      "iso_time": "2025-08-13T20:30:00+02:00",
+      "link": "",
+      "slug": "onboard-the-ocean-race-europe",
+      "related_events": []
+    },
+    {
+      "title": "UTMB World Series | Eiger",
+      "subtitle": "Schweiz | Männer / Frauen",
+      "sport": "Trail Running",
+      "sport_slug": "trail-running",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2025-08-13T21:00:00+02:00",
+      "link": "",
+      "slug": "utmb-world-series-eiger",
+      "related_events": []
+    },
+    {
+      "title": "UTMB World Series | Eiger",
+      "subtitle": "Schweiz | Männer / Frauen",
+      "sport": "Trail Running",
+      "sport_slug": "trail-running",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2025-08-13T22:00:00+02:00",
+      "link": "",
+      "slug": "utmb-world-series-eiger",
+      "related_events": []
+    },
+    {
+      "title": "Madrid | Lead | Finale",
+      "subtitle": "Weltcup | Frauen / Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2025-08-13T22:00:00+02:00",
+      "link": "",
+      "slug": "madrid-lead-finale",
+      "related_events": []
+    },
+    {
+      "title": "Dänemark-Rundfahrt | 2. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Rødovre - Gladsaxe (110,5km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2025-08-13T23:00:00+02:00",
+      "link": "",
+      "slug": "danemark-rundfahrt-2-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Triathlon: T100 Triathlon World Tour in London",
+      "subtitle": "Highlights",
+      "sport": "Triathlon",
+      "sport_slug": "triathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2025-08-13T23:00:00+02:00",
+      "link": "",
+      "slug": "triathlon-t100-triathlon-world-tour-in-london",
+      "related_events": []
+    },
+    {
+      "title": "Saudi Arabia Masters | Achtelfinale",
+      "subtitle": "| Jeddah",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2025-08-14T00:00:00+02:00",
+      "link": "",
+      "slug": "saudi-arabia-masters-achtelfinale",
+      "related_events": []
+    },
+    {
+      "title": "Dänemark-Rundfahrt | 2. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Rødovre - Gladsaxe (110,5km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2025-08-14T00:00:00+02:00",
+      "link": "",
+      "slug": "danemark-rundfahrt-2-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Saudi Arabia Masters | Achtelfinale",
+      "subtitle": "| Jeddah",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:30",
+      "iso_time": "2025-08-14T01:30:00+02:00",
+      "link": "",
+      "slug": "saudi-arabia-masters-achtelfinale",
+      "related_events": []
+    }
+  ]
+}
