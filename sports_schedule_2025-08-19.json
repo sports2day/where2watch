@@ -1,0 +1,1425 @@
+{
+  "date": "2025-08-19",
+  "events": [
+    {
+      "title": "Borussia Dortmund vs Bor. Mönchengladbach",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-dfb-pokal-frauen/ma11191160/borussia-dortmund_bor-moenchengladbach/info",
+      "slug": "borussia-dortmund-vs-bor-monchengladbach",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Ferencvárosi TC vs Qarabağ FK",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-cl-quali/ma11483612/ferencvarosi-tc_qarabag-fk/info",
+      "slug": "ferencvarosi-tc-vs-qarabag-fk",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Roter Stern Belgrad vs Paphos FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "roter-stern-belgrad-vs-paphos-fc"
+        },
+        {
+          "title": "Rangers FC vs FC Brügge",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "rangers-fc-vs-fc-brugge"
+        },
+        {
+          "title": "Real Madrid vs CA Osasuna",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "real-madrid-vs-ca-osasuna"
+        }
+      ]
+    },
+    {
+      "title": "Roter Stern Belgrad vs Paphos FC",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-cl-quali/ma11483618/roter-stern-belgrad_paphos-fc/info",
+      "slug": "roter-stern-belgrad-vs-paphos-fc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ferencvárosi TC vs Qarabağ FK",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "ferencvarosi-tc-vs-qarabag-fk"
+        },
+        {
+          "title": "Rangers FC vs FC Brügge",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "rangers-fc-vs-fc-brugge"
+        },
+        {
+          "title": "Real Madrid vs CA Osasuna",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "real-madrid-vs-ca-osasuna"
+        }
+      ]
+    },
+    {
+      "title": "Rangers FC vs FC Brügge",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-cl-quali/ma11483648/rangers-fc_fc-bruegge/info",
+      "slug": "rangers-fc-vs-fc-brugge",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ferencvárosi TC vs Qarabağ FK",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "ferencvarosi-tc-vs-qarabag-fk"
+        },
+        {
+          "title": "Roter Stern Belgrad vs Paphos FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "roter-stern-belgrad-vs-paphos-fc"
+        },
+        {
+          "title": "Real Madrid vs CA Osasuna",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "real-madrid-vs-ca-osasuna"
+        }
+      ]
+    },
+    {
+      "title": "Eintracht Hildesheim vs HSG Nordhorn-Lingen",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-dhb-pokal/ma11456726/eintracht-hildesheim_hsg-nordhorn-lingen/info",
+      "slug": "eintracht-hildesheim-vs-hsg-nordhorn-lingen",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Real Madrid vs CA Osasuna",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-primera-division/ma11222888/real-madrid_ca-osasuna/info",
+      "slug": "real-madrid-vs-ca-osasuna",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ferencvárosi TC vs Qarabağ FK",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "ferencvarosi-tc-vs-qarabag-fk"
+        },
+        {
+          "title": "Roter Stern Belgrad vs Paphos FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "roter-stern-belgrad-vs-paphos-fc"
+        },
+        {
+          "title": "Rangers FC vs FC Brügge",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "rangers-fc-vs-fc-brugge"
+        }
+      ]
+    },
+    {
+      "title": "FK Mladá Boleslav vs Viktoria Pilsen",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/tschechien-1-fotbalova-liga/ma11162721/fk-mlada-boleslav_viktoria-pilsen/info",
+      "slug": "fk-mlada-boleslav-vs-viktoria-pilsen",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Anna Blinkova vs Elise Mertens",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-mexiko-monterrey-open/ma11539418/anna-blinkova_elise-mertens/info",
+      "slug": "anna-blinkova-vs-elise-mertens",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Stefan Dostanic vs Aleksandar Vukic",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "stefan-dostanic-vs-aleksandar-vukic"
+        }
+      ]
+    },
+    {
+      "title": "Marie Bouzkova vs Zeynep Sonmez",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-mexiko-monterrey-open/ma11539427/marie-bouzkova_zeynep-sonmez/info",
+      "slug": "marie-bouzkova-vs-zeynep-sonmez",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Maria Sakkari vs Donna Vekić",
+      "time": "03:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-mexiko-monterrey-open/ma11539415/maria-sakkari_donna-vekic/info",
+      "slug": "maria-sakkari-vs-donna-vekic",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Jaqueline Cristian vs Leylah Fernandez",
+      "time": "04:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-mexiko-monterrey-open/ma11539406/jaqueline-cristian_leylah-fernandez/info",
+      "slug": "jaqueline-cristian-vs-leylah-fernandez",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Rebecca Sramkova vs Victoria Rodriguez",
+      "time": "23:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-mexiko-monterrey-open/ma11539403/rebecca-sramkova_victoria-rodriguez/info",
+      "slug": "rebecca-sramkova-vs-victoria-rodriguez",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Iga Świątek vs Jasmine Paolini",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-western-southern-open/ma11542880/iga-swiatek_jasmine-paolini/info",
+      "slug": "iga-swiatek-vs-jasmine-paolini",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Francisco Comesana vs Mattia Bellucci",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "francisco-comesana-vs-mattia-bellucci"
+        }
+      ]
+    },
+    {
+      "title": "Peyton Stearns vs Yafan Wang",
+      "time": "00:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co6391/cleveland-open/ma11539118/peyton-stearns_yafan-wang/info",
+      "slug": "peyton-stearns-vs-yafan-wang",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Katie Boulter vs Yue Yuan",
+      "time": "02:55",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co6391/cleveland-open/ma11539151/katie-boulter_yue-yuan/info",
+      "slug": "katie-boulter-vs-yue-yuan",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Anastasia Zakharova vs Hailey Baptiste",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co6391/cleveland-open/ma11539172/anastasia-zakharova_hailey-baptiste/info",
+      "slug": "anastasia-zakharova-vs-hailey-baptiste",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Roland-Garros | Finale | Damen-Einzel",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-finale-damen-einzel"
+        }
+      ]
+    },
+    {
+      "title": "Eva Lys vs Polina Kudermetova",
+      "time": "18:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co6391/cleveland-open/ma11539169/eva-lys_polina-kudermetova/info",
+      "slug": "eva-lys-vs-polina-kudermetova",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Solana Sierra vs Elsa Jacquemot",
+      "time": "19:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co6391/cleveland-open/ma11539175/solana-sierra_elsa-jacquemot/info",
+      "slug": "solana-sierra-vs-elsa-jacquemot",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Francisco Comesana vs Mattia Bellucci",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-winston-salem-open/ma11539286/francisco-comesana_mattia-bellucci/info",
+      "slug": "francisco-comesana-vs-mattia-bellucci",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Iga Świątek vs Jasmine Paolini",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "iga-swiatek-vs-jasmine-paolini"
+        }
+      ]
+    },
+    {
+      "title": "Stefan Dostanic vs Aleksandar Vukic",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-winston-salem-open/ma11539283/stefan-dostanic_aleksandar-vukic/info",
+      "slug": "stefan-dostanic-vs-aleksandar-vukic",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Anna Blinkova vs Elise Mertens",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "anna-blinkova-vs-elise-mertens"
+        }
+      ]
+    },
+    {
+      "title": "Nuno Borges vs Kamil Majchrzak",
+      "time": "02:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-winston-salem-open/ma11539328/nuno-borges_kamil-majchrzak/info",
+      "slug": "nuno-borges-vs-kamil-majchrzak",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Marton Fucsovics vs Tallon Griekspoor",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-winston-salem-open/ma11539349/marton-fucsovics_tallon-griekspoor/info",
+      "slug": "marton-fucsovics-vs-tallon-griekspoor",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Roberto Bautista Agut vs Christopher O'Connell",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "roberto-bautista-agut-vs-christopher-o-connell"
+        },
+        {
+          "title": "Darwin Blanch vs Alexandre Muller",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "darwin-blanch-vs-alexandre-muller"
+        },
+        {
+          "title": "Giovanni Perricard vs Pedro Martinez Portero",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "giovanni-perricard-vs-pedro-martinez-portero"
+        }
+      ]
+    },
+    {
+      "title": "Roberto Bautista Agut vs Christopher O'Connell",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-winston-salem-open/ma11539346/roberto-bautista-agut_christopher-oconnell/info",
+      "slug": "roberto-bautista-agut-vs-christopher-o-connell",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Marton Fucsovics vs Tallon Griekspoor",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "marton-fucsovics-vs-tallon-griekspoor"
+        },
+        {
+          "title": "Darwin Blanch vs Alexandre Muller",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "darwin-blanch-vs-alexandre-muller"
+        },
+        {
+          "title": "Giovanni Perricard vs Pedro Martinez Portero",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "giovanni-perricard-vs-pedro-martinez-portero"
+        }
+      ]
+    },
+    {
+      "title": "Darwin Blanch vs Alexandre Muller",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-winston-salem-open/ma11539325/darwin-blanch_alexandre-muller/info",
+      "slug": "darwin-blanch-vs-alexandre-muller",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Marton Fucsovics vs Tallon Griekspoor",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "marton-fucsovics-vs-tallon-griekspoor"
+        },
+        {
+          "title": "Roberto Bautista Agut vs Christopher O'Connell",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "roberto-bautista-agut-vs-christopher-o-connell"
+        },
+        {
+          "title": "Giovanni Perricard vs Pedro Martinez Portero",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "giovanni-perricard-vs-pedro-martinez-portero"
+        }
+      ]
+    },
+    {
+      "title": "Giovanni Perricard vs Pedro Martinez Portero",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-winston-salem-open/ma11539322/giovanni-perricard_pedro-martinez-portero/info",
+      "slug": "giovanni-perricard-vs-pedro-martinez-portero",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Marton Fucsovics vs Tallon Griekspoor",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "marton-fucsovics-vs-tallon-griekspoor"
+        },
+        {
+          "title": "Roberto Bautista Agut vs Christopher O'Connell",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "roberto-bautista-agut-vs-christopher-o-connell"
+        },
+        {
+          "title": "Darwin Blanch vs Alexandre Muller",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "darwin-blanch-vs-alexandre-muller"
+        }
+      ]
+    },
+    {
+      "title": "Miomir Kecmanović vs Aleksandar Kovacevic",
+      "time": "21:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-winston-salem-open/ma11539334/miomir-kecmanovic_aleksandar-kovacevic/info",
+      "slug": "miomir-kecmanovic-vs-aleksandar-kovacevic",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Gabriel Diallo vs Nishesh Basavareddy",
+          "time": "21:10",
+          "sender": "Sportschau Live",
+          "slug": "gabriel-diallo-vs-nishesh-basavareddy"
+        }
+      ]
+    },
+    {
+      "title": "Gabriel Diallo vs Nishesh Basavareddy",
+      "time": "21:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-winston-salem-open/ma11539316/gabriel-diallo_nishesh-basavareddy/info",
+      "slug": "gabriel-diallo-vs-nishesh-basavareddy",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Miomir Kecmanović vs Aleksandar Kovacevic",
+          "time": "21:10",
+          "sender": "Sportschau Live",
+          "slug": "miomir-kecmanovic-vs-aleksandar-kovacevic"
+        }
+      ]
+    },
+    {
+      "title": "Mackenzie McDonald vs Luciano Darderi",
+      "time": "22:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-winston-salem-open/ma11539337/mackenzie-mcdonald_luciano-darderi/info",
+      "slug": "mackenzie-mcdonald-vs-luciano-darderi",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Hamad Medjedovic vs Jacob Fearnley",
+          "time": "22:00",
+          "sender": "Sportschau Live",
+          "slug": "hamad-medjedovic-vs-jacob-fearnley"
+        }
+      ]
+    },
+    {
+      "title": "Hamad Medjedovic vs Jacob Fearnley",
+      "time": "22:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-winston-salem-open/ma11539319/hamad-medjedovic_jacob-fearnley/info",
+      "slug": "hamad-medjedovic-vs-jacob-fearnley",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Mackenzie McDonald vs Luciano Darderi",
+          "time": "22:00",
+          "sender": "Sportschau Live",
+          "slug": "mackenzie-mcdonald-vs-luciano-darderi"
+        }
+      ]
+    },
+    {
+      "title": "Sebastian Baez vs Pablo Carreno Busta",
+      "time": "22:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-winston-salem-open/ma11539310/sebastian-baez_pablo-carreno-busta/info",
+      "slug": "sebastian-baez-vs-pablo-carreno-busta",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Mariano Navone vs Marcos Giron",
+          "time": "22:20",
+          "sender": "Sportschau Live",
+          "slug": "mariano-navone-vs-marcos-giron"
+        }
+      ]
+    },
+    {
+      "title": "Mariano Navone vs Marcos Giron",
+      "time": "22:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-winston-salem-open/ma11539307/mariano-navone_marcos-giron/info",
+      "slug": "mariano-navone-vs-marcos-giron",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Sebastian Baez vs Pablo Carreno Busta",
+          "time": "22:20",
+          "sender": "Sportschau Live",
+          "slug": "sebastian-baez-vs-pablo-carreno-busta"
+        }
+      ]
+    },
+    {
+      "title": "Botic van de Zandschulp vs Matteo Arnaldi",
+      "time": "23:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-winston-salem-open/ma11539313/botic-van-de-zandschulp_matteo-arnaldi/info",
+      "slug": "botic-van-de-zandschulp-vs-matteo-arnaldi",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Mattia Bellucci vs Jaume Munar",
+      "time": "23:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-winston-salem-open/ma11539343/mattia-bellucci_jaume-munar/info",
+      "slug": "mattia-bellucci-vs-jaume-munar",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Shanghai Masters | Finale",
+      "subtitle": "K. Wilson - A. Carter | 2. Session | Shanghai",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:57",
+      "iso_time": "2025-08-19T01:57:10.280000+02:00",
+      "link": "",
+      "slug": "shanghai-masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "Innsbruck | Bouldern | Finale",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:00",
+      "iso_time": "2025-08-19T04:00:04+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/mens-boulder-final-8640683",
+      "slug": "innsbruck-bouldern-finale",
+      "related_events": []
+    },
+    {
+      "title": "Vuelta a España | 10. Etappe",
+      "subtitle": "Ponteareas - Baiona (160km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:59",
+      "iso_time": "2025-08-19T04:59:27.240000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/la-vuelta-stage-10",
+      "slug": "vuelta-a-espana-10-etappe",
+      "related_events": [
+        {
+          "title": "Vuelta a España | 6. Etappe",
+          "time": "07:55",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-6-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Shanghai Masters | Finale",
+      "subtitle": "K. Wilson - A. Carter | 2. Session | Shanghai",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:59",
+      "iso_time": "2025-08-19T05:59:20.880000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/shanghai-masters-8640695",
+      "slug": "shanghai-masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "Vuelta a España | 6. Etappe",
+      "subtitle": "Carrefour Jerez Sur. Jerez de la Frontera - Yunquera (185,5km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:55",
+      "iso_time": "2025-08-19T07:55:14.240000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/la-vuelta-stage-6",
+      "slug": "vuelta-a-espana-6-etappe",
+      "related_events": [
+        {
+          "title": "Vuelta a España | 10. Etappe",
+          "time": "04:59",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-10-etappe"
+        },
+        {
+          "title": "Tour de Romandie Féminin | 2. Etappe",
+          "time": "09:26",
+          "sender": "Eurosport",
+          "slug": "tour-de-romandie-feminin-2-etappe"
+        },
+        {
+          "title": "Tour de Romandie Féminin | 3. Etappe",
+          "time": "10:09",
+          "sender": "Eurosport",
+          "slug": "tour-de-romandie-feminin-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Hall of Fame | Paris 2024",
+      "subtitle": "Olympia-Magazin",
+      "sport": "Olympia",
+      "sport_slug": "olympia",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:32",
+      "iso_time": "2025-08-19T08:32:14.360000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/hall-of-fame-paris-2024-8640904",
+      "slug": "hall-of-fame-paris-2024",
+      "related_events": []
+    },
+    {
+      "title": "Schweden | MXGP | 1. Rennen",
+      "subtitle": "WM | Uddevalla",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:56",
+      "iso_time": "2025-08-19T08:56:02.240000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/sweden-mxgp-race-1-8640852",
+      "slug": "schweden-mxgp-1-rennen",
+      "related_events": [
+        {
+          "title": "Schweden | MXGP | 2. Rennen",
+          "time": "09:23",
+          "sender": "Eurosport",
+          "slug": "schweden-mxgp-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Schweden | MXGP | 2. Rennen",
+      "subtitle": "WM | Uddevalla",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:23",
+      "iso_time": "2025-08-19T09:23:41.720000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/sweden-mxgp-race-2-8640845",
+      "slug": "schweden-mxgp-2-rennen",
+      "related_events": [
+        {
+          "title": "Schweden | MXGP | 1. Rennen",
+          "time": "08:56",
+          "sender": "Eurosport",
+          "slug": "schweden-mxgp-1-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Tour de Romandie Féminin | 2. Etappe",
+      "subtitle": "UCI World Tour | Frauen | Conthey - La Tzoumaz (123,2km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:26",
+      "iso_time": "2025-08-19T09:26:11.360000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/tour-de-romandie-feminin-2-etappe-8640882",
+      "slug": "tour-de-romandie-feminin-2-etappe",
+      "related_events": [
+        {
+          "title": "Vuelta a España | 6. Etappe",
+          "time": "07:55",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-6-etappe"
+        },
+        {
+          "title": "Tour de Romandie Féminin | 3. Etappe",
+          "time": "10:09",
+          "sender": "Eurosport",
+          "slug": "tour-de-romandie-feminin-3-etappe"
+        },
+        {
+          "title": "Vuelta a España | 10. Etappe",
+          "time": "10:56",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-10-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Golden Trail World Series | Pitztal | Highlights",
+      "subtitle": "Österreich | Männer / Frauen",
+      "sport": "Trail Running",
+      "sport_slug": "trail-running",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:56",
+      "iso_time": "2025-08-19T09:56:41.680000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/golden-trail-review-8643907",
+      "slug": "golden-trail-world-series-pitztal-highlights",
+      "related_events": [
+        {
+          "title": "Golden Trail World Series | Sierre Zinal | Highlights",
+          "time": "10:27",
+          "sender": "Eurosport",
+          "slug": "golden-trail-world-series-sierre-zinal-highlights"
+        }
+      ]
+    },
+    {
+      "title": "Tour de Romandie Féminin | 3. Etappe",
+      "subtitle": "UCI World Tour | Frauen | Aigle - Aigle (122,1km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:09",
+      "iso_time": "2025-08-19T10:09:58.120000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/tour-de-romandie-feminin-3-etappe-8643926",
+      "slug": "tour-de-romandie-feminin-3-etappe",
+      "related_events": [
+        {
+          "title": "Vuelta a España | 6. Etappe",
+          "time": "07:55",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-6-etappe"
+        },
+        {
+          "title": "Tour de Romandie Féminin | 2. Etappe",
+          "time": "09:26",
+          "sender": "Eurosport",
+          "slug": "tour-de-romandie-feminin-2-etappe"
+        },
+        {
+          "title": "Vuelta a España | 10. Etappe",
+          "time": "10:56",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-10-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Golden Trail World Series | Sierre Zinal | Highlights",
+      "subtitle": "Schweiz | Männer/Frauen",
+      "sport": "Trail Running",
+      "sport_slug": "trail-running",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:27",
+      "iso_time": "2025-08-19T10:27:02.320000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/golden-trail-review-8643905",
+      "slug": "golden-trail-world-series-sierre-zinal-highlights",
+      "related_events": [
+        {
+          "title": "Golden Trail World Series | Pitztal | Highlights",
+          "time": "09:56",
+          "sender": "Eurosport",
+          "slug": "golden-trail-world-series-pitztal-highlights"
+        }
+      ]
+    },
+    {
+      "title": "Vuelta a España | 10. Etappe",
+      "subtitle": "Ponteareas - Baiona (160km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:56",
+      "iso_time": "2025-08-19T10:56:46+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/la-vuelta-stage-10-8643925",
+      "slug": "vuelta-a-espana-10-etappe",
+      "related_events": [
+        {
+          "title": "Tour de Romandie Féminin | 2. Etappe",
+          "time": "09:26",
+          "sender": "Eurosport",
+          "slug": "tour-de-romandie-feminin-2-etappe"
+        },
+        {
+          "title": "Tour de Romandie Féminin | 3. Etappe",
+          "time": "10:09",
+          "sender": "Eurosport",
+          "slug": "tour-de-romandie-feminin-3-etappe"
+        },
+        {
+          "title": "Vuelta a España | 13. Etappe",
+          "time": "12:56",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-13-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Shanghai Masters | Finale",
+      "subtitle": "K. Wilson - A. Carter | 2. Session | Shanghai",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:58",
+      "iso_time": "2025-08-19T10:58:07.640000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/shanghai-masters-finale-8643923",
+      "slug": "shanghai-masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "Vuelta a España | 13. Etappe",
+      "subtitle": "Lugo - Puerto de Ancares (176km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:56",
+      "iso_time": "2025-08-19T12:56:14.480000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/vuelta-a-espana-13-etappe-8643984",
+      "slug": "vuelta-a-espana-13-etappe",
+      "related_events": [
+        {
+          "title": "Tour de Romandie Féminin | 3. Etappe",
+          "time": "10:09",
+          "sender": "Eurosport",
+          "slug": "tour-de-romandie-feminin-3-etappe"
+        },
+        {
+          "title": "Vuelta a España | 10. Etappe",
+          "time": "10:56",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-10-etappe"
+        },
+        {
+          "title": "Vuelta a España | 15. Etappe",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-15-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Shanghai Masters | Finale",
+      "subtitle": "K. Wilson - A. Carter | 2. Session | Shanghai",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:57",
+      "iso_time": "2025-08-19T12:57:20.320000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/shanghai-masters-8643991",
+      "slug": "shanghai-masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "Vuelta a España | 15. Etappe",
+      "subtitle": "Infiesto - Valgrande-Pajares. Cuitu Negru (143km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:00",
+      "iso_time": "2025-08-19T15:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/vuelta-a-espana-15-etappe-8644719",
+      "slug": "vuelta-a-espana-15-etappe",
+      "related_events": [
+        {
+          "title": "Vuelta a España | 13. Etappe",
+          "time": "12:56",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-13-etappe"
+        },
+        {
+          "title": "Tour du Limousin | 1. Etappe",
+          "time": "15:10",
+          "sender": "Eurosport",
+          "slug": "tour-du-limousin-1-etappe"
+        },
+        {
+          "title": "Tour de Romandie Féminin | 3. Etappe",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-romandie-feminin-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Innsbruck | Bouldern | Finale",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:00",
+      "iso_time": "2025-08-19T15:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/womens-boulder-final-8644372",
+      "slug": "innsbruck-bouldern-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tour du Limousin | 1. Etappe",
+      "subtitle": "UCI Europe Tour | Männer | Original Sound | Panazol - La Courtine (184,6km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:10",
+      "iso_time": "2025-08-19T15:10:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/tour-of-limousin-stage-1-8663362",
+      "slug": "tour-du-limousin-1-etappe",
+      "related_events": [
+        {
+          "title": "Vuelta a España | 13. Etappe",
+          "time": "12:56",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-13-etappe"
+        },
+        {
+          "title": "Vuelta a España | 15. Etappe",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-15-etappe"
+        },
+        {
+          "title": "Tour de Romandie Féminin | 3. Etappe",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-romandie-feminin-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Innsbruck | Bouldern | Finale",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2025-08-19T16:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/mens-boulder-final-8644379",
+      "slug": "innsbruck-bouldern-finale",
+      "related_events": []
+    },
+    {
+      "title": "Roland-Garros | Finale | Damen-Einzel",
+      "subtitle": "A. Sabalenka - C. Gauff | Paris",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2025-08-19T17:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/roland-garros-finale-damen-einzel-8644881",
+      "slug": "roland-garros-finale-damen-einzel",
+      "related_events": [
+        {
+          "title": "Anastasia Zakharova vs Hailey Baptiste",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "anastasia-zakharova-vs-hailey-baptiste"
+        },
+        {
+          "title": "Roland-Garros | Finale | Herren-Einzel",
+          "time": "19:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-finale-herren-einzel"
+        }
+      ]
+    },
+    {
+      "title": "Tour de Romandie Féminin | 3. Etappe",
+      "subtitle": "UCI World Tour | Frauen | Aigle - Aigle (122,1km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2025-08-19T17:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/tour-de-romandie-feminin-stage-3-8644375",
+      "slug": "tour-de-romandie-feminin-3-etappe",
+      "related_events": [
+        {
+          "title": "Vuelta a España | 15. Etappe",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-15-etappe"
+        },
+        {
+          "title": "Tour du Limousin | 1. Etappe",
+          "time": "15:10",
+          "sender": "Eurosport",
+          "slug": "tour-du-limousin-1-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Hard Knocks",
+      "subtitle": "NFL-Dokumentation | Folge 2",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2025-08-19T18:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/hard-knocks-8644377",
+      "slug": "hard-knocks",
+      "related_events": []
+    },
+    {
+      "title": "Roland-Garros | Finale | Herren-Einzel",
+      "subtitle": "J. Sinner - C. Alcaraz | Paris",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2025-08-19T19:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/roland-garros-finale-herren-einzel-8645485",
+      "slug": "roland-garros-finale-herren-einzel",
+      "related_events": [
+        {
+          "title": "Roland-Garros | Finale | Damen-Einzel",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-finale-damen-einzel"
+        },
+        {
+          "title": "Roland-Garros | Best Of",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-best-of"
+        }
+      ]
+    },
+    {
+      "title": "Shanghai Masters | Finale",
+      "subtitle": "K. Wilson - A. Carter | 2. Session | Shanghai",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:15",
+      "iso_time": "2025-08-19T19:15:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/shanghai-masters-8644713",
+      "slug": "shanghai-masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "Onboard | The Ocean Race Europe",
+      "subtitle": "Segel-Magazin | Folge 3",
+      "sport": "Segeln",
+      "sport_slug": "segeln",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2025-08-19T20:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/onboard-the-ocean-race-europe-8594858",
+      "slug": "onboard-the-ocean-race-europe",
+      "related_events": [
+        {
+          "title": "Onboard",
+          "time": "23:00",
+          "sender": "Eurosport",
+          "slug": "onboard"
+        }
+      ]
+    },
+    {
+      "title": "Onboard | The Ocean Race Europe",
+      "subtitle": "Segel-Magazin | Folge 3",
+      "sport": "Segeln",
+      "sport_slug": "segeln",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2025-08-19T20:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/onboard-the-ocean-race-europe",
+      "slug": "onboard-the-ocean-race-europe",
+      "related_events": [
+        {
+          "title": "Onboard",
+          "time": "23:00",
+          "sender": "Eurosport",
+          "slug": "onboard"
+        }
+      ]
+    },
+    {
+      "title": "Vuelta a España | 15. Etappe",
+      "subtitle": "Infiesto - Valgrande-Pajares. Cuitu Negru (143km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:30",
+      "iso_time": "2025-08-19T20:30:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/la-vuelta-stage-15-8644710",
+      "slug": "vuelta-a-espana-15-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Roland-Garros | Best Of",
+      "subtitle": "Grand Slam | Paris | Highlights",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2025-08-19T21:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/roland-garros-best-of-8645471",
+      "slug": "roland-garros-best-of",
+      "related_events": [
+        {
+          "title": "Roland-Garros | Finale | Herren-Einzel",
+          "time": "19:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-finale-herren-einzel"
+        }
+      ]
+    },
+    {
+      "title": "Shanghai Masters | Finale",
+      "subtitle": "K. Wilson - A. Carter | 2. Session | Shanghai",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2025-08-19T22:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/shanghai-masters-8645462",
+      "slug": "shanghai-masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "Golden Trail World Series | Pitztal | Highlights",
+      "subtitle": "Österreich | Männer / Frauen",
+      "sport": "Trail Running",
+      "sport_slug": "trail-running",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2025-08-19T22:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/golden-trail-world-series-pitztal-highlights-8645361",
+      "slug": "golden-trail-world-series-pitztal-highlights",
+      "related_events": [
+        {
+          "title": "Golden Trail World Series | Sierre Zinal | Highlights",
+          "time": "22:30",
+          "sender": "Eurosport",
+          "slug": "golden-trail-world-series-sierre-zinal-highlights"
+        }
+      ]
+    },
+    {
+      "title": "Golden Trail World Series | Sierre Zinal | Highlights",
+      "subtitle": "Schweiz | Männer/Frauen",
+      "sport": "Trail Running",
+      "sport_slug": "trail-running",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:30",
+      "iso_time": "2025-08-19T22:30:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/golden-trail-world-series-sierre-zinal-highlights-8645367",
+      "slug": "golden-trail-world-series-sierre-zinal-highlights",
+      "related_events": [
+        {
+          "title": "Golden Trail World Series | Pitztal | Highlights",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "golden-trail-world-series-pitztal-highlights"
+        }
+      ]
+    },
+    {
+      "title": "Onboard",
+      "subtitle": "",
+      "sport": "Segeln",
+      "sport_slug": "segeln",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2025-08-19T23:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/onboard-8683964",
+      "slug": "onboard",
+      "related_events": [
+        {
+          "title": "Onboard | The Ocean Race Europe",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "onboard-the-ocean-race-europe"
+        },
+        {
+          "title": "Onboard | The Ocean Race Europe",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "onboard-the-ocean-race-europe"
+        }
+      ]
+    },
+    {
+      "title": "Vuelta a España | 15. Etappe",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:30",
+      "iso_time": "2025-08-19T23:30:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/vuelta-a-espana-15-etappe-8683966",
+      "slug": "vuelta-a-espana-15-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Hard Knocks",
+      "subtitle": "NFL-Dokumentation | Folge 2",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2025-08-20T00:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/hard-knocks-8645463",
+      "slug": "hard-knocks",
+      "related_events": []
+    },
+    {
+      "title": "Vuelta a España | 15. Etappe",
+      "subtitle": "Infiesto - Valgrande-Pajares. Cuitu Negru (143km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2025-08-20T00:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/la-vuelta-stage-15-8645429",
+      "slug": "vuelta-a-espana-15-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Krakau | Speed | Finale",
+      "subtitle": "Weltcup | Frauen / Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:00",
+      "iso_time": "2025-08-20T01:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/mens-and-womens-speed-final",
+      "slug": "krakau-speed-finale",
+      "related_events": []
+    },
+    {
+      "title": "Unlock the Power of Sport",
+      "subtitle": "Sport-Magazin",
+      "sport": "Alle Sportarten",
+      "sport_slug": "alle-sportarten",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:15",
+      "iso_time": "2025-08-20T01:15:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/unlock-the-power-of-sport-8645406",
+      "slug": "unlock-the-power-of-sport",
+      "related_events": []
+    },
+    {
+      "title": "WM | Finale",
+      "subtitle": "Zhao X. - M. Williams | Sheffield | 4. Session",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:00",
+      "iso_time": "2025-08-20T02:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/world-championship-8647356",
+      "slug": "wm-finale",
+      "related_events": []
+    }
+  ]
+}
