@@ -1,0 +1,1329 @@
+{
+  "date": "2025-09-03",
+  "events": [
+    {
+      "title": "Estland vs Portugal",
+      "time": "13:45",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-em/ma11019446/estland_portugal/info",
+      "slug": "estland-vs-portugal",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Tschechien vs Lettland",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-em/ma11019455/tschechien_lettland/info",
+      "slug": "tschechien-vs-lettland",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Türkei vs Serbien",
+      "time": "20:15",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-em/ma11019458/tuerkei_serbien/info",
+      "slug": "turkei-vs-serbien",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Montenegro vs Großbritannien",
+      "time": "12:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-em/ma11019503/montenegro_grossbritannien/info",
+      "slug": "montenegro-vs-grossbritannien",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Litauen vs Schweden",
+      "time": "15:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-em/ma11019506/litauen_schweden/info",
+      "slug": "litauen-vs-schweden",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Finnland vs Deutschland",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-em/ma11019500/finnland_deutschland/info",
+      "slug": "finnland-vs-deutschland",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Niederlande vs Japan",
+      "time": "12:00",
+      "iso_time": "",
+      "sport": "Volleyball",
+      "sport_slug": "volleyball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/volleyball/volleyball-wm-frauen/ma11588216/niederlande_japan/info",
+      "slug": "niederlande-vs-japan",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Italien vs Polen",
+      "time": "15:30",
+      "iso_time": "",
+      "sport": "Volleyball",
+      "sport_slug": "volleyball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/volleyball/volleyball-wm-frauen/ma11588219/italien_polen/info",
+      "slug": "italien-vs-polen",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Rhein-Neckar Löwen vs TSV GWD Minden",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/ma11405192/rhein-neckar-loewen_tsv-gwd-minden/info",
+      "slug": "rhein-neckar-lowen-vs-tsv-gwd-minden",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "THW Kiel vs HSG Wetzlar",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "thw-kiel-vs-hsg-wetzlar"
+        },
+        {
+          "title": "Frisch Auf! Göppingen vs Füchse Berlin",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "frisch-auf-goppingen-vs-fuchse-berlin"
+        },
+        {
+          "title": "Bergischer HC vs HC Erlangen",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "bergischer-hc-vs-hc-erlangen"
+        }
+      ]
+    },
+    {
+      "title": "THW Kiel vs HSG Wetzlar",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/ma11405195/thw-kiel_hsg-wetzlar/info",
+      "slug": "thw-kiel-vs-hsg-wetzlar",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Rhein-Neckar Löwen vs TSV GWD Minden",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "rhein-neckar-lowen-vs-tsv-gwd-minden"
+        },
+        {
+          "title": "Frisch Auf! Göppingen vs Füchse Berlin",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "frisch-auf-goppingen-vs-fuchse-berlin"
+        },
+        {
+          "title": "Bergischer HC vs HC Erlangen",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "bergischer-hc-vs-hc-erlangen"
+        }
+      ]
+    },
+    {
+      "title": "Frisch Auf! Göppingen vs Füchse Berlin",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/ma11405198/frisch-auf-goeppingen_fuechse-berlin/info",
+      "slug": "frisch-auf-goppingen-vs-fuchse-berlin",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Rhein-Neckar Löwen vs TSV GWD Minden",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "rhein-neckar-lowen-vs-tsv-gwd-minden"
+        },
+        {
+          "title": "THW Kiel vs HSG Wetzlar",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "thw-kiel-vs-hsg-wetzlar"
+        },
+        {
+          "title": "Bergischer HC vs HC Erlangen",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "bergischer-hc-vs-hc-erlangen"
+        }
+      ]
+    },
+    {
+      "title": "Bergischer HC vs HC Erlangen",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/ma11405201/bergischer-hc_hc-erlangen/info",
+      "slug": "bergischer-hc-vs-hc-erlangen",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Rhein-Neckar Löwen vs TSV GWD Minden",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "rhein-neckar-lowen-vs-tsv-gwd-minden"
+        },
+        {
+          "title": "THW Kiel vs HSG Wetzlar",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "thw-kiel-vs-hsg-wetzlar"
+        },
+        {
+          "title": "Frisch Auf! Göppingen vs Füchse Berlin",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "frisch-auf-goppingen-vs-fuchse-berlin"
+        }
+      ]
+    },
+    {
+      "title": "SC Magdeburg vs ThSV Eisenach",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/ma11405204/sc-magdeburg_thsv-eisenach/info",
+      "slug": "sc-magdeburg-vs-thsv-eisenach",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Handball Sport Verein Hamburg vs TSV Hannover-Burgdorf",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "handball-sport-verein-hamburg-vs-tsv-hannover-burgdorf"
+        }
+      ]
+    },
+    {
+      "title": "Handball Sport Verein Hamburg vs TSV Hannover-Burgdorf",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/ma11405207/handball-sport-verein-hamburg_tsv-hannover-burgdorf/info",
+      "slug": "handball-sport-verein-hamburg-vs-tsv-hannover-burgdorf",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "SC Magdeburg vs ThSV Eisenach",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "sc-magdeburg-vs-thsv-eisenach"
+        }
+      ]
+    },
+    {
+      "title": "Seychellen vs Gabun",
+      "time": "15:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-wm-quali-afrika/ma9944682/seychellen_gabun/info",
+      "slug": "seychellen-vs-gabun",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Siniakova, K. / Townsend, T. vs Kudermetova, V. / Mertens, E.",
+      "time": "22:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1053/us-open-new-york/ma11543825/siniakova-k---townsend-t_kudermetova-v---mertens-e/info",
+      "slug": "siniakova-k-townsend-t-vs-kudermetova-v-mertens-e",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Dabrowski, G. / Routliffe, E. vs Errani, S. / Paolini, J.",
+      "time": "23:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1053/us-open-new-york/ma11543828/dabrowski-g---routliffe-e_errani-s---paolini-j/info",
+      "slug": "dabrowski-g-routliffe-e-vs-errani-s-paolini-j",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Aryna Sabalenka vs Markéta Vondroušová",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-us-open/ma11543624/aryna-sabalenka_marketa-vondrousova/info",
+      "slug": "aryna-sabalenka-vs-marketa-vondrousova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Frantzen, C. / Haase, R. vs Etcheverry, T. / Ugo Carabelli, C.",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "frantzen-c-haase-r-vs-etcheverry-t-ugo-carabelli-c"
+        }
+      ]
+    },
+    {
+      "title": "Amanda Anisimova vs Iga Świątek",
+      "time": "19:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-us-open/ma11543633/amanda-anisimova_iga-swiatek/info",
+      "slug": "amanda-anisimova-vs-iga-swiatek",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Drzewiecki, K. / Willis, M. vs Machac, T. / Vocel, M.",
+      "time": "00:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co945/us-open-new-york/ma11543999/drzewiecki-k---willis-m_machac-t---vocel-m/info",
+      "slug": "drzewiecki-k-willis-m-vs-machac-t-vocel-m",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Frantzen, C. / Haase, R. vs Etcheverry, T. / Ugo Carabelli, C.",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co945/us-open-new-york/ma11543984/frantzen-c---haase-r_etcheverry-t---ugo-carabelli-c/info",
+      "slug": "frantzen-c-haase-r-vs-etcheverry-t-ugo-carabelli-c",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Aryna Sabalenka vs Markéta Vondroušová",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "aryna-sabalenka-vs-marketa-vondrousova"
+        }
+      ]
+    },
+    {
+      "title": "Gonzalez, M. / Molteni, A. vs Cash, R. / Tracy, J.",
+      "time": "01:05",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co945/us-open-new-york/ma11543981/gonzalez-m---molteni-a_cash-r---tracy-j/info",
+      "slug": "gonzalez-m-molteni-a-vs-cash-r-tracy-j",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Pavlasek, A. / Zielinski, J. vs Granollers, M. / Zeballos, H.",
+      "time": "01:15",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co945/us-open-new-york/ma11543987/pavlasek-a---zielinski-j_granollers-m---zeballos-h/info",
+      "slug": "pavlasek-a-zielinski-j-vs-granollers-m-zeballos-h",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Mektic, N. / Ram, R. vs Bhambri, Y. / Venus, M.",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co945/us-open-new-york/ma11544008/mektic-n---ram-r_bhambri-y---venus-m/info",
+      "slug": "mektic-n-ram-r-vs-bhambri-y-venus-m",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Doumbia, S. / Reboul, F. vs Cash, R. / Tracy, J.",
+      "time": "21:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co945/us-open-new-york/ma11544002/doumbia-s---reboul-f_cash-r---tracy-j/info",
+      "slug": "doumbia-s-reboul-f-vs-cash-r-tracy-j",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Frantzen, C. / Haase, R. vs Granollers, M. / Zeballos, H.",
+      "time": "23:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co945/us-open-new-york/ma11544005/frantzen-c---haase-r_granollers-m---zeballos-h/info",
+      "slug": "frantzen-c-haase-r-vs-granollers-m-zeballos-h",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Novak Djokovic vs Taylor Fritz",
+      "time": "02:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-us-open/ma11543249/novak-djokovic_taylor-fritz/liveticker",
+      "slug": "novak-djokovic-vs-taylor-fritz",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Felix Auger-Aliassime vs Alex de Minaur",
+      "time": "17:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-us-open/ma11543246/felix-auger-aliassime_alex-de-minaur/info",
+      "slug": "felix-auger-aliassime-vs-alex-de-minaur",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "The Ocean Race Europe | 4. Etappe | Zielankunft",
+      "subtitle": "Genua | IMOCA 60",
+      "sport": "Segeln",
+      "sport_slug": "segeln",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:45",
+      "iso_time": "2025-09-03T01:45:05.724000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/the-ocean-race-europe-genoa-8717182",
+      "slug": "the-ocean-race-europe-4-etappe-zielankunft",
+      "related_events": []
+    },
+    {
+      "title": "UCI Weltcup | Haute-Savoie | Männer Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Olympic",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:57",
+      "iso_time": "2025-09-03T01:57:54.200000+02:00",
+      "link": "",
+      "slug": "uci-weltcup-haute-savoie-manner-elite",
+      "related_events": []
+    },
+    {
+      "title": "Porsche Supercup | Niederlande | Rennen",
+      "subtitle": "Zandvoort | 7. Saisonlauf",
+      "sport": "Motorsport",
+      "sport_slug": "motorsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:06",
+      "iso_time": "2025-09-03T03:06:03.040000+02:00",
+      "link": "",
+      "slug": "porsche-supercup-niederlande-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Vuelta a España | 10. Etappe",
+      "subtitle": "Parque de la Naturaleza Sendaviva - El Ferial Larra Belagua (175,3km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:52",
+      "iso_time": "2025-09-03T03:52:33.200000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/la-vuelta-stage-10-8691072",
+      "slug": "vuelta-a-espana-10-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Scottish Open | Finale",
+      "subtitle": "Lei P. - Wu Y. | Edinburgh | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:55",
+      "iso_time": "2025-09-03T05:55:04.480000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/scottish-open-8691154",
+      "slug": "scottish-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "UCI Weltcup | Haute-Savoie | Männer Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Olympic",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:01",
+      "iso_time": "2025-09-03T08:01:24.960000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/uci-weltcup-haute-savoie-manner-elite",
+      "slug": "uci-weltcup-haute-savoie-manner-elite",
+      "related_events": []
+    },
+    {
+      "title": "Vuelta a España | 10. Etappe",
+      "subtitle": "Parque de la Naturaleza Sendaviva - El Ferial Larra Belagua (175,3km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:26",
+      "iso_time": "2025-09-03T08:26:01.680000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/la-vuelta-stage-10-8691193",
+      "slug": "vuelta-a-espana-10-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Hard Knocks",
+      "subtitle": "NFL-Dokumentation",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:30",
+      "iso_time": "2025-09-03T09:30:10.800000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/hard-knocks-8691171",
+      "slug": "hard-knocks",
+      "related_events": []
+    },
+    {
+      "title": "Endurance Uncovered: Racing for Excellence",
+      "subtitle": "Motorsport-Magazin",
+      "sport": "MMA",
+      "sport_slug": "mma",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:52",
+      "iso_time": "2025-09-03T09:52:20.080000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/endurance-uncovered-racing-for-excellence-8691370",
+      "slug": "endurance-uncovered-racing-for-excellence",
+      "related_events": []
+    },
+    {
+      "title": "FIA WEC | 6h von Imola | Rennen",
+      "subtitle": "Langstrecken-WM | 2. Saisonlauf",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:17",
+      "iso_time": "2025-09-03T10:17:03.280000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/fia-wec-6-hours-of-imola",
+      "slug": "fia-wec-6h-von-imola-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Endurance Uncovered: Racing for Excellence",
+      "subtitle": "Motorsport-Magazin",
+      "sport": "MMA",
+      "sport_slug": "mma",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:36",
+      "iso_time": "2025-09-03T10:36:13.760000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/endurance-uncovered-racing-for-excellence-8691323",
+      "slug": "endurance-uncovered-racing-for-excellence",
+      "related_events": []
+    },
+    {
+      "title": "Pang Junxu - Wang Yuchen",
+      "subtitle": "Xi'An Grand Prix | Qualifikation | Leicester",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2025-09-03T11:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/pang-junxu-wang-yuchen",
+      "slug": "pang-junxu-wang-yuchen",
+      "related_events": [
+        {
+          "title": "Hossein Vafaei - Jiang Jun",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "hossein-vafaei-jiang-jun"
+        },
+        {
+          "title": "Barry Hawkins - Hatem Yassen",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "barry-hawkins-hatem-yassen"
+        },
+        {
+          "title": "Stephen Maguire - Bai Yulu",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "stephen-maguire-bai-yulu"
+        }
+      ]
+    },
+    {
+      "title": "Hossein Vafaei - Jiang Jun",
+      "subtitle": "Xi'An Grand Prix | Qualifikation | Leicester",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2025-09-03T11:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/hossein-vafaei-jiang-jun-8698318",
+      "slug": "hossein-vafaei-jiang-jun",
+      "related_events": [
+        {
+          "title": "Pang Junxu - Wang Yuchen",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "pang-junxu-wang-yuchen"
+        },
+        {
+          "title": "Barry Hawkins - Hatem Yassen",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "barry-hawkins-hatem-yassen"
+        },
+        {
+          "title": "Stephen Maguire - Bai Yulu",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "stephen-maguire-bai-yulu"
+        }
+      ]
+    },
+    {
+      "title": "Barry Hawkins - Hatem Yassen",
+      "subtitle": "Xi'An Grand Prix | Qualifikation | Leicester",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2025-09-03T11:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/barry-hawkins-hatem-yassen",
+      "slug": "barry-hawkins-hatem-yassen",
+      "related_events": [
+        {
+          "title": "Pang Junxu - Wang Yuchen",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "pang-junxu-wang-yuchen"
+        },
+        {
+          "title": "Hossein Vafaei - Jiang Jun",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "hossein-vafaei-jiang-jun"
+        },
+        {
+          "title": "Stephen Maguire - Bai Yulu",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "stephen-maguire-bai-yulu"
+        }
+      ]
+    },
+    {
+      "title": "Stephen Maguire - Bai Yulu",
+      "subtitle": "Xi'An Grand Prix | Qualifikation | Leicester",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2025-09-03T11:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/stephen-maguire-bai-yulu",
+      "slug": "stephen-maguire-bai-yulu",
+      "related_events": [
+        {
+          "title": "Pang Junxu - Wang Yuchen",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "pang-junxu-wang-yuchen"
+        },
+        {
+          "title": "Hossein Vafaei - Jiang Jun",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "hossein-vafaei-jiang-jun"
+        },
+        {
+          "title": "Barry Hawkins - Hatem Yassen",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "barry-hawkins-hatem-yassen"
+        }
+      ]
+    },
+    {
+      "title": "Vuelta a España | 10. Etappe",
+      "subtitle": "Parque de la Naturaleza Sendaviva - El Ferial Larra Belagua (175,3km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:06",
+      "iso_time": "2025-09-03T11:06:22.960000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/vuelta-a-espana-10-etappe-8691201",
+      "slug": "vuelta-a-espana-10-etappe",
+      "related_events": [
+        {
+          "title": "Tour of Britain | 2. Etappe",
+          "time": "11:55",
+          "sender": "Eurosport",
+          "slug": "tour-of-britain-2-etappe"
+        },
+        {
+          "title": "Vuelta a España | 11. Etappe",
+          "time": "13:07",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-11-etappe"
+        },
+        {
+          "title": "Vuelta a España | 11. Etappe",
+          "time": "13:15",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-11-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Vuelta a España | 10. Etappe",
+      "subtitle": "Parque de la Naturaleza Sendaviva - El Ferial Larra Belagua (175,3km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:51",
+      "iso_time": "2025-09-03T11:51:13.080000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/la-vuelta-stage-10-8691297",
+      "slug": "vuelta-a-espana-10-etappe",
+      "related_events": [
+        {
+          "title": "Tour of Britain | 2. Etappe",
+          "time": "11:55",
+          "sender": "Eurosport",
+          "slug": "tour-of-britain-2-etappe"
+        },
+        {
+          "title": "Vuelta a España | 11. Etappe",
+          "time": "13:07",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-11-etappe"
+        },
+        {
+          "title": "Vuelta a España | 11. Etappe",
+          "time": "13:15",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-11-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour of Britain | 2. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Stowmarket - Stowmarket (169,5km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:55",
+      "iso_time": "2025-09-03T11:55:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/tour-of-britain-stage-2-8732356",
+      "slug": "tour-of-britain-2-etappe",
+      "related_events": [
+        {
+          "title": "Vuelta a España | 10. Etappe",
+          "time": "11:06",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-10-etappe"
+        },
+        {
+          "title": "Vuelta a España | 10. Etappe",
+          "time": "11:51",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-10-etappe"
+        },
+        {
+          "title": "Vuelta a España | 10. Etappe",
+          "time": "12:29",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-10-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Onboard | The Ocean Race Europe",
+      "subtitle": "Segel-Magazin | Folge 7",
+      "sport": "Segeln",
+      "sport_slug": "segeln",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:58",
+      "iso_time": "2025-09-03T11:58:43.720000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/onboard-the-ocean-race-europe",
+      "slug": "onboard-the-ocean-race-europe",
+      "related_events": []
+    },
+    {
+      "title": "Vuelta a España | 10. Etappe",
+      "subtitle": "Parque de la Naturaleza Sendaviva - El Ferial Larra Belagua (175,3km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:29",
+      "iso_time": "2025-09-03T12:29:26.680000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/vuelta-a-espana-10-etappe-8691177",
+      "slug": "vuelta-a-espana-10-etappe",
+      "related_events": [
+        {
+          "title": "Tour of Britain | 2. Etappe",
+          "time": "11:55",
+          "sender": "Eurosport",
+          "slug": "tour-of-britain-2-etappe"
+        },
+        {
+          "title": "Vuelta a España | 11. Etappe",
+          "time": "13:07",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-11-etappe"
+        },
+        {
+          "title": "Vuelta a España | 11. Etappe",
+          "time": "13:15",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-11-etappe"
+        }
+      ]
+    },
+    {
+      "title": "UCI Weltcup | Haute-Savoie | Männer Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Olympic",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:54",
+      "iso_time": "2025-09-03T12:54:22.200000+02:00",
+      "link": "",
+      "slug": "uci-weltcup-haute-savoie-manner-elite",
+      "related_events": []
+    },
+    {
+      "title": "Vuelta a España | 11. Etappe",
+      "subtitle": "Bilbao - Bilbao (157,4km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:07",
+      "iso_time": "2025-09-03T13:07:54.680000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/vuelta-a-espana-11-etappe-8691269",
+      "slug": "vuelta-a-espana-11-etappe",
+      "related_events": [
+        {
+          "title": "Vuelta a España | 10. Etappe",
+          "time": "11:06",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-10-etappe"
+        },
+        {
+          "title": "Vuelta a España | 10. Etappe",
+          "time": "11:51",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-10-etappe"
+        },
+        {
+          "title": "Tour of Britain | 2. Etappe",
+          "time": "11:55",
+          "sender": "Eurosport",
+          "slug": "tour-of-britain-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Vuelta a España | 11. Etappe",
+      "subtitle": "Bilbao - Bilbao (157,4km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:15",
+      "iso_time": "2025-09-03T13:15:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/la-vuelta-stage-11-8617734",
+      "slug": "vuelta-a-espana-11-etappe",
+      "related_events": [
+        {
+          "title": "Vuelta a España | 10. Etappe",
+          "time": "11:06",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-10-etappe"
+        },
+        {
+          "title": "Vuelta a España | 10. Etappe",
+          "time": "11:51",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-10-etappe"
+        },
+        {
+          "title": "Tour of Britain | 2. Etappe",
+          "time": "11:55",
+          "sender": "Eurosport",
+          "slug": "tour-of-britain-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "FIA WEC | 6h von Imola | Rennen",
+      "subtitle": "Langstrecken-WM | 2. Saisonlauf",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:57",
+      "iso_time": "2025-09-03T13:57:20.600000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/fia-wec-6-hours-of-imola-8691294",
+      "slug": "fia-wec-6h-von-imola-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Simac Ladies Tour | 2. Etappe",
+      "subtitle": "UCI World Tour | Frauen | Gennep - Gennep (124,5km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:30",
+      "iso_time": "2025-09-03T14:30:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/simac-ladies-tour-stage-2-8706915",
+      "slug": "simac-ladies-tour-2-etappe",
+      "related_events": [
+        {
+          "title": "Vuelta a España | 10. Etappe",
+          "time": "11:51",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-10-etappe"
+        },
+        {
+          "title": "Tour of Britain | 2. Etappe",
+          "time": "11:55",
+          "sender": "Eurosport",
+          "slug": "tour-of-britain-2-etappe"
+        },
+        {
+          "title": "Vuelta a España | 10. Etappe",
+          "time": "12:29",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-10-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Ryan Day - Ross Muir",
+      "subtitle": "Xi'An Grand Prix | Qualifikation | Leicester",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:30",
+      "iso_time": "2025-09-03T15:30:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/ryan-day-ross-muir",
+      "slug": "ryan-day-ross-muir",
+      "related_events": [
+        {
+          "title": "Jackson Page - Sahil Nayyar",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "jackson-page-sahil-nayyar"
+        },
+        {
+          "title": "Daniel Wells - Ken Doherty",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "daniel-wells-ken-doherty"
+        },
+        {
+          "title": "Stuart Bingham - Duane Jones",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "stuart-bingham-duane-jones"
+        }
+      ]
+    },
+    {
+      "title": "Jackson Page - Sahil Nayyar",
+      "subtitle": "Xi'An Grand Prix | Qualifikation | Leicester",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:30",
+      "iso_time": "2025-09-03T15:30:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/jackson-page-sahil-nayyar",
+      "slug": "jackson-page-sahil-nayyar",
+      "related_events": [
+        {
+          "title": "Ryan Day - Ross Muir",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "ryan-day-ross-muir"
+        },
+        {
+          "title": "Daniel Wells - Ken Doherty",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "daniel-wells-ken-doherty"
+        },
+        {
+          "title": "Stuart Bingham - Duane Jones",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "stuart-bingham-duane-jones"
+        }
+      ]
+    },
+    {
+      "title": "Daniel Wells - Ken Doherty",
+      "subtitle": "Xi'An Grand Prix | Qualifikation | Leicester",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:30",
+      "iso_time": "2025-09-03T15:30:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/daniel-wells-ken-doherty",
+      "slug": "daniel-wells-ken-doherty",
+      "related_events": [
+        {
+          "title": "Ryan Day - Ross Muir",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "ryan-day-ross-muir"
+        },
+        {
+          "title": "Jackson Page - Sahil Nayyar",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "jackson-page-sahil-nayyar"
+        },
+        {
+          "title": "Stuart Bingham - Duane Jones",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "stuart-bingham-duane-jones"
+        }
+      ]
+    },
+    {
+      "title": "Stuart Bingham - Duane Jones",
+      "subtitle": "Xi'An Grand Prix | Qualifikation | Leicester",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:30",
+      "iso_time": "2025-09-03T15:30:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/stuart-bingham-duane-jones",
+      "slug": "stuart-bingham-duane-jones",
+      "related_events": [
+        {
+          "title": "Ryan Day - Ross Muir",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "ryan-day-ross-muir"
+        },
+        {
+          "title": "Jackson Page - Sahil Nayyar",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "jackson-page-sahil-nayyar"
+        },
+        {
+          "title": "Daniel Wells - Ken Doherty",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "daniel-wells-ken-doherty"
+        }
+      ]
+    },
+    {
+      "title": "Scottish Open | Finale",
+      "subtitle": "Lei P. - Wu Y. | Edinburgh | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2025-09-03T17:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/scottish-open-8691372",
+      "slug": "scottish-open-finale",
+      "related_events": [
+        {
+          "title": "Ryan Day - Ross Muir",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "ryan-day-ross-muir"
+        },
+        {
+          "title": "Jackson Page - Sahil Nayyar",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "jackson-page-sahil-nayyar"
+        },
+        {
+          "title": "Daniel Wells - Ken Doherty",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "daniel-wells-ken-doherty"
+        }
+      ]
+    },
+    {
+      "title": "French Riviera T100 | Highlights",
+      "subtitle": "T100 Triathlon World Tour | 5. Station",
+      "sport": "Triathlon",
+      "sport_slug": "triathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2025-09-03T18:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/t100-triathlon-world-tour-review-8691478",
+      "slug": "french-riviera-t100-highlights",
+      "related_events": []
+    },
+    {
+      "title": "Scottish Open | Finale",
+      "subtitle": "Lei P. - Wu Y. | Edinburgh | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2025-09-03T18:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/scottish-open-finale-8692469",
+      "slug": "scottish-open-finale",
+      "related_events": [
+        {
+          "title": "Ryan Day - Ross Muir",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "ryan-day-ross-muir"
+        },
+        {
+          "title": "Jackson Page - Sahil Nayyar",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "jackson-page-sahil-nayyar"
+        },
+        {
+          "title": "Daniel Wells - Ken Doherty",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "daniel-wells-ken-doherty"
+        }
+      ]
+    },
+    {
+      "title": "Scottish Open | Finale",
+      "subtitle": "Lei P. - Wu Y. | Edinburgh | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2025-09-03T19:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/scottish-open-finale-8692445",
+      "slug": "scottish-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "UCI Downhill Weltcup | Haute-Savoie | Männer Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2025-09-03T19:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/uci-downhill-world-cup-men-elite-haute-savoie-8692437",
+      "slug": "uci-downhill-weltcup-haute-savoie-manner-elite",
+      "related_events": []
+    },
+    {
+      "title": "Vuelta a España | 11. Etappe",
+      "subtitle": "Bilbao - Bilbao (157,4km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2025-09-03T20:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/la-vuelta-stage-11-8693545",
+      "slug": "vuelta-a-espana-11-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Vuelta a España | 11. Etappe",
+      "subtitle": "Bilbao - Bilbao (157,4km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2025-09-03T21:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/vuelta-a-espana-11-etappe-8693525",
+      "slug": "vuelta-a-espana-11-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Endurance Uncovered: Racing for Excellence",
+      "subtitle": "Motorsport-Magazin",
+      "sport": "MMA",
+      "sport_slug": "mma",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2025-09-03T21:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/endurance-uncovered-racing-for-excellence-8693529",
+      "slug": "endurance-uncovered-racing-for-excellence",
+      "related_events": []
+    },
+    {
+      "title": "FIA WEC | 6h von Imola | Rennen",
+      "subtitle": "Langstrecken-WM | 2. Saisonlauf",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:30",
+      "iso_time": "2025-09-03T21:30:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/fia-wec-6-hours-of-imola-8693523",
+      "slug": "fia-wec-6h-von-imola-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Vuelta a España | 11. Etappe",
+      "subtitle": "Bilbao - Bilbao (157,4km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2025-09-04T00:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/la-vuelta-stage-11",
+      "slug": "vuelta-a-espana-11-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Welsh Open | Finale",
+      "subtitle": "M. Selby - S. Maguire | 2. Session | Llandudno | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2025-09-04T00:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/welsh-open-finale-8693665",
+      "slug": "welsh-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "UCI XCO Weltcup | Haute-Savoie | Frauen Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Olympic",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:00",
+      "iso_time": "2025-09-04T02:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/uci-cross-country-olympic-world-cup-women-elite-haute-savoie-8693557",
+      "slug": "uci-xco-weltcup-haute-savoie-frauen-elite",
+      "related_events": []
+    }
+  ]
+}
