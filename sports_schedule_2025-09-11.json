@@ -1,0 +1,1648 @@
+{
+  "date": "2025-09-11",
+  "events": [
+    {
+      "title": "GKS Katowice vs FC Twente",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma11587943/gks-katowice_fc-twente/info",
+      "slug": "gks-katowice-vs-fc-twente",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Vålerenga IF vs Ferencvárosi TC",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma11587925/valerenga-if_ferencvarosi-tc/info",
+      "slug": "valerenga-if-vs-ferencvarosi-tc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "BK Häcken vs Atlético Madrid",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "bk-hacken-vs-atletico-madrid"
+        },
+        {
+          "title": "Paris FC vs Austria Wien",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "paris-fc-vs-austria-wien"
+        },
+        {
+          "title": "SK Brann vs Manchester United WFC",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "sk-brann-vs-manchester-united-wfc"
+        }
+      ]
+    },
+    {
+      "title": "BK Häcken vs Atlético Madrid",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma11587949/bk-haecken_atletico-madrid/info",
+      "slug": "bk-hacken-vs-atletico-madrid",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Vålerenga IF vs Ferencvárosi TC",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "valerenga-if-vs-ferencvarosi-tc"
+        },
+        {
+          "title": "Paris FC vs Austria Wien",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "paris-fc-vs-austria-wien"
+        },
+        {
+          "title": "SK Brann vs Manchester United WFC",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "sk-brann-vs-manchester-united-wfc"
+        }
+      ]
+    },
+    {
+      "title": "Paris FC vs Austria Wien",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma11587955/paris-fc_austria-wien/info",
+      "slug": "paris-fc-vs-austria-wien",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Vålerenga IF vs Ferencvárosi TC",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "valerenga-if-vs-ferencvarosi-tc"
+        },
+        {
+          "title": "BK Häcken vs Atlético Madrid",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "bk-hacken-vs-atletico-madrid"
+        },
+        {
+          "title": "SK Brann vs Manchester United WFC",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "sk-brann-vs-manchester-united-wfc"
+        }
+      ]
+    },
+    {
+      "title": "SK Brann vs Manchester United WFC",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma11587961/sk-brann_manchester-united-wfc/info",
+      "slug": "sk-brann-vs-manchester-united-wfc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Vålerenga IF vs Ferencvárosi TC",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "valerenga-if-vs-ferencvarosi-tc"
+        },
+        {
+          "title": "BK Häcken vs Atlético Madrid",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "bk-hacken-vs-atletico-madrid"
+        },
+        {
+          "title": "Paris FC vs Austria Wien",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "paris-fc-vs-austria-wien"
+        }
+      ]
+    },
+    {
+      "title": "Eintracht Frankfurt vs Real Madrid",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma11587967/eintracht-frankfurt_real-madrid/info",
+      "slug": "eintracht-frankfurt-vs-real-madrid",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Vålerenga IF vs Ferencvárosi TC",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "valerenga-if-vs-ferencvarosi-tc"
+        },
+        {
+          "title": "BK Häcken vs Atlético Madrid",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "bk-hacken-vs-atletico-madrid"
+        },
+        {
+          "title": "Paris FC vs Austria Wien",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "paris-fc-vs-austria-wien"
+        }
+      ]
+    },
+    {
+      "title": "Vorskla Poltava vs Oud-Heverlee Leuven Mä",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma11587931/vorskla-poltava_oud-heverlee-leuven-mae/info",
+      "slug": "vorskla-poltava-vs-oud-heverlee-leuven-ma",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "SKN St. Pölten vs Fortuna Hjørring",
+          "time": "19:30",
+          "sender": "Sportschau Live",
+          "slug": "skn-st-polten-vs-fortuna-hjorring"
+        }
+      ]
+    },
+    {
+      "title": "SKN St. Pölten vs Fortuna Hjørring",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma11587937/skn-st-poelten_fortuna-hjoerring/info",
+      "slug": "skn-st-polten-vs-fortuna-hjorring",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Vorskla Poltava vs Oud-Heverlee Leuven Mä",
+          "time": "19:30",
+          "sender": "Sportschau Live",
+          "slug": "vorskla-poltava-vs-oud-heverlee-leuven-ma"
+        }
+      ]
+    },
+    {
+      "title": "AS Roma vs Sporting CP",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma11587985/as-roma_sporting-cp/info",
+      "slug": "as-roma-vs-sporting-cp",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Frisch Auf! Göppingen vs SC DHfK Leipzig",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/ma11405243/frisch-auf-goeppingen_sc-dhfk-leipzig/info",
+      "slug": "frisch-auf-goppingen-vs-sc-dhfk-leipzig",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "HBC Nantes vs Füchse Berlin",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-champions-league/ma11390318/hbc-nantes_fuechse-berlin/info",
+      "slug": "hbc-nantes-vs-fuchse-berlin",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "KS Kielce vs Kolstad Håndball",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "ks-kielce-vs-kolstad-handball"
+        },
+        {
+          "title": "FC Barcelona vs GOG Håndbold",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "fc-barcelona-vs-gog-handbold"
+        }
+      ]
+    },
+    {
+      "title": "KS Kielce vs Kolstad Håndball",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-champions-league/ma11390309/ks-kielce_kolstad-handball/info",
+      "slug": "ks-kielce-vs-kolstad-handball",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "HBC Nantes vs Füchse Berlin",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "hbc-nantes-vs-fuchse-berlin"
+        },
+        {
+          "title": "FC Barcelona vs GOG Håndbold",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "fc-barcelona-vs-gog-handbold"
+        }
+      ]
+    },
+    {
+      "title": "SC Pick Szeged vs Wisła Płock",
+      "time": "18:45",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-champions-league/ma11390321/sc-pick-szeged_wisla-plock/info",
+      "slug": "sc-pick-szeged-vs-wisla-plock",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "FC Barcelona vs GOG Håndbold",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-champions-league/ma11390327/fc-barcelona_gog-handbold/info",
+      "slug": "fc-barcelona-vs-gog-handbold",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "HBC Nantes vs Füchse Berlin",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "hbc-nantes-vs-fuchse-berlin"
+        },
+        {
+          "title": "KS Kielce vs Kolstad Håndball",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "ks-kielce-vs-kolstad-handball"
+        }
+      ]
+    },
+    {
+      "title": "Berfu Cengiz vs Renata Zarazúa",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co16571/sao-paulo-open/ma11598515/berfu-cengiz_renata-zarazua/info",
+      "slug": "berfu-cengiz-vs-renata-zarazua",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Ana Candiotto vs Panna Udvardy",
+      "time": "22:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co16571/sao-paulo-open/ma11598521/ana-candiotto_panna-udvardy/info",
+      "slug": "ana-candiotto-vs-panna-udvardy",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Beatriz Haddad Maia vs Laura Pigossi",
+      "time": "23:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co16571/sao-paulo-open/ma11598512/beatriz-haddad-maia_laura-pigossi/info",
+      "slug": "beatriz-haddad-maia-vs-laura-pigossi",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Rebecca Marino vs Tatjana Maria",
+      "time": "00:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co8524/guadalajara-open-akron/ma11574920/rebecca-marino_tatjana-maria/info",
+      "slug": "rebecca-marino-vs-tatjana-maria",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Elise Mertens vs Elsa Jacquemot",
+      "time": "02:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co8524/guadalajara-open-akron/ma11574917/elise-mertens_elsa-jacquemot/info",
+      "slug": "elise-mertens-vs-elsa-jacquemot",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Victoria Jimenez Kasintseva vs Veronika Kudermetova",
+      "time": "04:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co8524/guadalajara-open-akron/ma11574938/victoria-jimenez-kasintseva_veronika-kudermetova/info",
+      "slug": "victoria-jimenez-kasintseva-vs-veronika-kudermetova",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Storm Hunter vs Emiliana Arango",
+      "time": "22:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co8524/guadalajara-open-akron/ma11574926/storm-hunter_emiliana-arango/info",
+      "slug": "storm-hunter-vs-emiliana-arango",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Camila Osorio vs Iva Jovic",
+      "time": "23:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co8524/guadalajara-open-akron/ma11574935/camila-osorio_iva-jovic/info",
+      "slug": "camila-osorio-vs-iva-jovic",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Saudi Arabia Masters | Finale",
+      "subtitle": "Neil Robertson - Ronnie O'Sullivan | 2. Session | Jeddah",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:25",
+      "iso_time": "2025-09-11T01:25:36.480000+02:00",
+      "link": "",
+      "slug": "saudi-arabia-masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "Vuelta a España | 17. Etappe",
+      "subtitle": "O Barco de Valdeorras - Alto de El Morredero (143,2km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:58",
+      "iso_time": "2025-09-11T02:58:54.440000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/la-vuelta-stage-17-8716384",
+      "slug": "vuelta-a-espana-17-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Saudi Arabia Masters | Finale",
+      "subtitle": "Neil Robertson - Ronnie O'Sullivan | 2. Session | Jeddah",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:59",
+      "iso_time": "2025-09-11T04:59:58.440000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/saudi-arabia-snooker-masters-8729619",
+      "slug": "saudi-arabia-masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "FIM Speedway GP | Prag | Highlights",
+      "subtitle": "Tschechien | 3. Station",
+      "sport": "Speedway",
+      "sport_slug": "speedway",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:08",
+      "iso_time": "2025-09-11T06:08:07.360000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/fim-speedway-gp-prague",
+      "slug": "fim-speedway-gp-prag-highlights",
+      "related_events": [
+        {
+          "title": "FIM Speedway GP | Manchester | Highlights",
+          "time": "07:03",
+          "sender": "Eurosport",
+          "slug": "fim-speedway-gp-manchester-highlights"
+        },
+        {
+          "title": "FIM Speedway GP | Manchester | Highlights",
+          "time": "08:31",
+          "sender": "Eurosport",
+          "slug": "fim-speedway-gp-manchester-highlights"
+        }
+      ]
+    },
+    {
+      "title": "FIM Speedway GP | Manchester | Highlights",
+      "subtitle": "Highlights | 4. Station",
+      "sport": "Speedway",
+      "sport_slug": "speedway",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:03",
+      "iso_time": "2025-09-11T07:03:19.600000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/fim-speedway-gp-manchester",
+      "slug": "fim-speedway-gp-manchester-highlights",
+      "related_events": [
+        {
+          "title": "FIM Speedway GP | Prag | Highlights",
+          "time": "06:08",
+          "sender": "Eurosport",
+          "slug": "fim-speedway-gp-prag-highlights"
+        }
+      ]
+    },
+    {
+      "title": "Unlock the Power of Sport",
+      "subtitle": "Sport-Magazin",
+      "sport": "Alle Sportarten",
+      "sport_slug": "alle-sportarten",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:01",
+      "iso_time": "2025-09-11T08:01:56.200000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/the-power-of-sport-8716837",
+      "slug": "unlock-the-power-of-sport",
+      "related_events": []
+    },
+    {
+      "title": "Vuelta a España | 17. Etappe",
+      "subtitle": "O Barco de Valdeorras - Alto de El Morredero (143,2km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:25",
+      "iso_time": "2025-09-11T08:25:25.760000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/la-vuelta-stage-17-8716831",
+      "slug": "vuelta-a-espana-17-etappe",
+      "related_events": []
+    },
+    {
+      "title": "FIM Speedway GP | Manchester | Highlights",
+      "subtitle": "Highlights | 4. Station",
+      "sport": "Speedway",
+      "sport_slug": "speedway",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:31",
+      "iso_time": "2025-09-11T08:31:21.400000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/fim-speedway-gp-manchester-highlights-8716838",
+      "slug": "fim-speedway-gp-manchester-highlights",
+      "related_events": [
+        {
+          "title": "FIM Speedway GP | Prag | Highlights",
+          "time": "06:08",
+          "sender": "Eurosport",
+          "slug": "fim-speedway-gp-prag-highlights"
+        }
+      ]
+    },
+    {
+      "title": "Saudi Arabia Masters | Finale",
+      "subtitle": "Neil Robertson - Ronnie O'Sullivan | 2. Session | Jeddah",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:22",
+      "iso_time": "2025-09-11T09:22:54.680000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/saudi-arabia-snooker-masters-8717274",
+      "slug": "saudi-arabia-masters-finale",
+      "related_events": [
+        {
+          "title": "Zhao Hanyang - Connor Benzey",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "zhao-hanyang-connor-benzey"
+        },
+        {
+          "title": "Sunny Akani - Oliver Brown",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "sunny-akani-oliver-brown"
+        },
+        {
+          "title": "Cheung Ka Wai - Jimmy White",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "cheung-ka-wai-jimmy-white"
+        }
+      ]
+    },
+    {
+      "title": "Vuelta a España | 17. Etappe",
+      "subtitle": "O Barco de Valdeorras - Alto de El Morredero (143,2km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:26",
+      "iso_time": "2025-09-11T09:26:31.320000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/vuelta-a-espana-17-etappe-8717311",
+      "slug": "vuelta-a-espana-17-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Racing on the Edge",
+      "subtitle": "SailGP-Magazin",
+      "sport": "Segeln",
+      "sport_slug": "segeln",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:25",
+      "iso_time": "2025-09-11T10:25:39.240000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/racing-on-the-edge-8717413",
+      "slug": "racing-on-the-edge",
+      "related_events": []
+    },
+    {
+      "title": "Vuelta a España | 17. Etappe",
+      "subtitle": "O Barco de Valdeorras - Alto de El Morredero (143,2km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:56",
+      "iso_time": "2025-09-11T10:56:42.640000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/la-vuelta-stage-17-8717319",
+      "slug": "vuelta-a-espana-17-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Spruce Meadows Masters | CN International",
+      "subtitle": "Springreiten | Grand Slam | Highlights",
+      "sport": "Reitsport",
+      "sport_slug": "reitsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:58",
+      "iso_time": "2025-09-11T10:58:30.640000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/spruce-meadows-masters-cn-international-8717440",
+      "slug": "spruce-meadows-masters-cn-international",
+      "related_events": []
+    },
+    {
+      "title": "Zhao Hanyang - Connor Benzey",
+      "subtitle": "English Open | Qualifikation | Original Sound",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2025-09-11T11:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/zhao-hanyang-connor-benzey",
+      "slug": "zhao-hanyang-connor-benzey",
+      "related_events": [
+        {
+          "title": "Saudi Arabia Masters | Finale",
+          "time": "09:22",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-finale"
+        },
+        {
+          "title": "Sunny Akani - Oliver Brown",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "sunny-akani-oliver-brown"
+        },
+        {
+          "title": "Cheung Ka Wai - Jimmy White",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "cheung-ka-wai-jimmy-white"
+        }
+      ]
+    },
+    {
+      "title": "Sunny Akani - Oliver Brown",
+      "subtitle": "English Open | Qualifikation | Original Sound",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2025-09-11T11:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/sunny-akani-oliver-brown",
+      "slug": "sunny-akani-oliver-brown",
+      "related_events": [
+        {
+          "title": "Saudi Arabia Masters | Finale",
+          "time": "09:22",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-finale"
+        },
+        {
+          "title": "Zhao Hanyang - Connor Benzey",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "zhao-hanyang-connor-benzey"
+        },
+        {
+          "title": "Cheung Ka Wai - Jimmy White",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "cheung-ka-wai-jimmy-white"
+        }
+      ]
+    },
+    {
+      "title": "Cheung Ka Wai - Jimmy White",
+      "subtitle": "English Open | Qualifikation | Original Sound",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2025-09-11T11:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/cheung-ka-wai-jimmy-white",
+      "slug": "cheung-ka-wai-jimmy-white",
+      "related_events": [
+        {
+          "title": "Saudi Arabia Masters | Finale",
+          "time": "09:22",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-finale"
+        },
+        {
+          "title": "Zhao Hanyang - Connor Benzey",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "zhao-hanyang-connor-benzey"
+        },
+        {
+          "title": "Sunny Akani - Oliver Brown",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "sunny-akani-oliver-brown"
+        }
+      ]
+    },
+    {
+      "title": "Huang Jiahao - Oliver Sykes",
+      "subtitle": "English Open | Qualifikation | Original Sound",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2025-09-11T11:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/huang-jiahao-oliver-sykes",
+      "slug": "huang-jiahao-oliver-sykes",
+      "related_events": [
+        {
+          "title": "Saudi Arabia Masters | Finale",
+          "time": "09:22",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-finale"
+        },
+        {
+          "title": "Zhao Hanyang - Connor Benzey",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "zhao-hanyang-connor-benzey"
+        },
+        {
+          "title": "Sunny Akani - Oliver Brown",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "sunny-akani-oliver-brown"
+        }
+      ]
+    },
+    {
+      "title": "WM | Finale",
+      "subtitle": "Zhao X. - M. Williams | 4. Session | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:55",
+      "iso_time": "2025-09-11T11:55:34.280000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/wm-finale-8717442",
+      "slug": "wm-finale",
+      "related_events": [
+        {
+          "title": "Saudi Arabia Masters | Finale",
+          "time": "09:22",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-finale"
+        },
+        {
+          "title": "Zhao Hanyang - Connor Benzey",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "zhao-hanyang-connor-benzey"
+        },
+        {
+          "title": "Sunny Akani - Oliver Brown",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "sunny-akani-oliver-brown"
+        }
+      ]
+    },
+    {
+      "title": "FIM Speedway GP | Prag | Highlights",
+      "subtitle": "Tschechien | 3. Station",
+      "sport": "Speedway",
+      "sport_slug": "speedway",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:47",
+      "iso_time": "2025-09-11T12:47:11.480000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/fim-speedway-gp-prague-8717352",
+      "slug": "fim-speedway-gp-prag-highlights",
+      "related_events": [
+        {
+          "title": "FIM Speedway GP | Manchester | Highlights",
+          "time": "13:45",
+          "sender": "Eurosport",
+          "slug": "fim-speedway-gp-manchester-highlights"
+        }
+      ]
+    },
+    {
+      "title": "Vuelta a España | 17. Etappe",
+      "subtitle": "O Barco de Valdeorras - Alto de El Morredero (143,2km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:24",
+      "iso_time": "2025-09-11T13:24:20.160000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/vuelta-a-espana-17-etappe-8717343",
+      "slug": "vuelta-a-espana-17-etappe",
+      "related_events": [
+        {
+          "title": "Vuelta a España | 18. Etappe",
+          "time": "14:45",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-18-etappe"
+        },
+        {
+          "title": "Vuelta a España | 18. Etappe",
+          "time": "14:45",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-18-etappe"
+        },
+        {
+          "title": "Coppa Sabatini",
+          "time": "15:10",
+          "sender": "Eurosport",
+          "slug": "coppa-sabatini"
+        }
+      ]
+    },
+    {
+      "title": "FIM Speedway GP | Manchester | Highlights",
+      "subtitle": "Highlights | 4. Station",
+      "sport": "Speedway",
+      "sport_slug": "speedway",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:45",
+      "iso_time": "2025-09-11T13:45:32.200000+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/fim-speedway-gp-manchester-8717427",
+      "slug": "fim-speedway-gp-manchester-highlights",
+      "related_events": [
+        {
+          "title": "FIM Speedway GP | Prag | Highlights",
+          "time": "12:47",
+          "sender": "Eurosport",
+          "slug": "fim-speedway-gp-prag-highlights"
+        }
+      ]
+    },
+    {
+      "title": "Liam Highfield - Ng On-Yee",
+      "subtitle": "English Open | Qualifikation | Original Sound",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:00",
+      "iso_time": "2025-09-11T14:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/liam-highfield-ng-on-yee",
+      "slug": "liam-highfield-ng-on-yee",
+      "related_events": [
+        {
+          "title": "Zhao Hanyang - Connor Benzey",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "zhao-hanyang-connor-benzey"
+        },
+        {
+          "title": "Sunny Akani - Oliver Brown",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "sunny-akani-oliver-brown"
+        },
+        {
+          "title": "Cheung Ka Wai - Jimmy White",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "cheung-ka-wai-jimmy-white"
+        }
+      ]
+    },
+    {
+      "title": "Marco Fu - Gao Yang",
+      "subtitle": "English Open | Qualifikation | Original Sound",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:00",
+      "iso_time": "2025-09-11T14:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/marco-fu-gao-yang",
+      "slug": "marco-fu-gao-yang",
+      "related_events": [
+        {
+          "title": "Zhao Hanyang - Connor Benzey",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "zhao-hanyang-connor-benzey"
+        },
+        {
+          "title": "Sunny Akani - Oliver Brown",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "sunny-akani-oliver-brown"
+        },
+        {
+          "title": "Cheung Ka Wai - Jimmy White",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "cheung-ka-wai-jimmy-white"
+        }
+      ]
+    },
+    {
+      "title": "Wang Yuchen - Florian Nuessle",
+      "subtitle": "English Open | Qualifikation | Original Sound",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:00",
+      "iso_time": "2025-09-11T14:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/wang-yuchen-florian-nuessle",
+      "slug": "wang-yuchen-florian-nuessle",
+      "related_events": [
+        {
+          "title": "Zhao Hanyang - Connor Benzey",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "zhao-hanyang-connor-benzey"
+        },
+        {
+          "title": "Sunny Akani - Oliver Brown",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "sunny-akani-oliver-brown"
+        },
+        {
+          "title": "Cheung Ka Wai - Jimmy White",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "cheung-ka-wai-jimmy-white"
+        }
+      ]
+    },
+    {
+      "title": "Antoni Kowalski - Liam Graham",
+      "subtitle": "English Open | Qualifikation | Original Sound",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:00",
+      "iso_time": "2025-09-11T14:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/antoni-kowalski-liam-graham",
+      "slug": "antoni-kowalski-liam-graham",
+      "related_events": [
+        {
+          "title": "Zhao Hanyang - Connor Benzey",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "zhao-hanyang-connor-benzey"
+        },
+        {
+          "title": "Sunny Akani - Oliver Brown",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "sunny-akani-oliver-brown"
+        },
+        {
+          "title": "Cheung Ka Wai - Jimmy White",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "cheung-ka-wai-jimmy-white"
+        }
+      ]
+    },
+    {
+      "title": "Vuelta a España | 18. Etappe",
+      "subtitle": "Valladolid - Valladolid (27,2km / EZF) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:45",
+      "iso_time": "2025-09-11T14:45:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/la-vuelta-stage-18-8617845",
+      "slug": "vuelta-a-espana-18-etappe",
+      "related_events": [
+        {
+          "title": "Vuelta a España | 17. Etappe",
+          "time": "13:24",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-17-etappe"
+        },
+        {
+          "title": "Coppa Sabatini",
+          "time": "15:10",
+          "sender": "Eurosport",
+          "slug": "coppa-sabatini"
+        }
+      ]
+    },
+    {
+      "title": "Vuelta a España | 18. Etappe",
+      "subtitle": "Valladolid - Valladolid (27,2km / EZF) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:45",
+      "iso_time": "2025-09-11T14:45:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/vuelta-a-espana-18-etappe-8717424",
+      "slug": "vuelta-a-espana-18-etappe",
+      "related_events": [
+        {
+          "title": "Vuelta a España | 17. Etappe",
+          "time": "13:24",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-17-etappe"
+        },
+        {
+          "title": "Coppa Sabatini",
+          "time": "15:10",
+          "sender": "Eurosport",
+          "slug": "coppa-sabatini"
+        }
+      ]
+    },
+    {
+      "title": "Saudi Arabia Masters | Finale",
+      "subtitle": "Neil Robertson - Ronnie O'Sullivan | 2. Session | Jeddah",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:00",
+      "iso_time": "2025-09-11T15:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/saudi-arabia-snooker-masters-8717356",
+      "slug": "saudi-arabia-masters-finale",
+      "related_events": [
+        {
+          "title": "Liam Highfield - Ng On-Yee",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "liam-highfield-ng-on-yee"
+        },
+        {
+          "title": "Marco Fu - Gao Yang",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "marco-fu-gao-yang"
+        },
+        {
+          "title": "Wang Yuchen - Florian Nuessle",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "wang-yuchen-florian-nuessle"
+        }
+      ]
+    },
+    {
+      "title": "Coppa Sabatini",
+      "subtitle": "UCI Pro Series | Männer | Englischer Kommentar",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:10",
+      "iso_time": "2025-09-11T15:10:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/coppa-sabatini-8714178",
+      "slug": "coppa-sabatini",
+      "related_events": [
+        {
+          "title": "Vuelta a España | 17. Etappe",
+          "time": "13:24",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-17-etappe"
+        },
+        {
+          "title": "Vuelta a España | 18. Etappe",
+          "time": "14:45",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-18-etappe"
+        },
+        {
+          "title": "Vuelta a España | 18. Etappe",
+          "time": "14:45",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-espana-18-etappe"
+        }
+      ]
+    },
+    {
+      "title": "David Grace - Jonas Luz",
+      "subtitle": "English Open | Qualifikation | Original Sound",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2025-09-11T17:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/david-grace-jonas-luz",
+      "slug": "david-grace-jonas-luz",
+      "related_events": [
+        {
+          "title": "Liam Highfield - Ng On-Yee",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "liam-highfield-ng-on-yee"
+        },
+        {
+          "title": "Marco Fu - Gao Yang",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "marco-fu-gao-yang"
+        },
+        {
+          "title": "Wang Yuchen - Florian Nuessle",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "wang-yuchen-florian-nuessle"
+        }
+      ]
+    },
+    {
+      "title": "Duane Jones - Patrick Whelan",
+      "subtitle": "English Open | Qualifikation | Original Sound",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2025-09-11T17:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/duane-jones-patrick-whelan",
+      "slug": "duane-jones-patrick-whelan",
+      "related_events": [
+        {
+          "title": "Liam Highfield - Ng On-Yee",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "liam-highfield-ng-on-yee"
+        },
+        {
+          "title": "Marco Fu - Gao Yang",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "marco-fu-gao-yang"
+        },
+        {
+          "title": "Wang Yuchen - Florian Nuessle",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "wang-yuchen-florian-nuessle"
+        }
+      ]
+    },
+    {
+      "title": "Amir Sarkhosh - Sahil Nayyar",
+      "subtitle": "English Open | Qualifikation | Original Sound",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2025-09-11T17:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/amir-sarkhosh-sahil-nayyar",
+      "slug": "amir-sarkhosh-sahil-nayyar",
+      "related_events": [
+        {
+          "title": "Liam Highfield - Ng On-Yee",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "liam-highfield-ng-on-yee"
+        },
+        {
+          "title": "Marco Fu - Gao Yang",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "marco-fu-gao-yang"
+        },
+        {
+          "title": "Wang Yuchen - Florian Nuessle",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "wang-yuchen-florian-nuessle"
+        }
+      ]
+    },
+    {
+      "title": "Louis Heathcote - Mahmoud El Hareedy",
+      "subtitle": "English Open | Qualifikation | Original Sound",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2025-09-11T17:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/louis-heathcote-mahmoud-el-hareedy",
+      "slug": "louis-heathcote-mahmoud-el-hareedy",
+      "related_events": [
+        {
+          "title": "Liam Highfield - Ng On-Yee",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "liam-highfield-ng-on-yee"
+        },
+        {
+          "title": "Marco Fu - Gao Yang",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "marco-fu-gao-yang"
+        },
+        {
+          "title": "Wang Yuchen - Florian Nuessle",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "wang-yuchen-florian-nuessle"
+        }
+      ]
+    },
+    {
+      "title": "The Ocean Race Europe | 5. Etappe | Onboard Live",
+      "subtitle": "Genua - Boka Bay | IMOCA 60",
+      "sport": "Segeln",
+      "sport_slug": "segeln",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2025-09-11T17:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/onboard-live-the-ocean-race-europe-8717188",
+      "slug": "the-ocean-race-europe-5-etappe-onboard-live",
+      "related_events": []
+    },
+    {
+      "title": "WM | Downhill | Männer Elite",
+      "subtitle": "Wallis | Champéry",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2025-09-11T18:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/wm-downhill-manner-elite-8718591",
+      "slug": "wm-downhill-manner-elite",
+      "related_events": [
+        {
+          "title": "WM | Downhill | Frauen Elite",
+          "time": "19:00",
+          "sender": "Eurosport",
+          "slug": "wm-downhill-frauen-elite"
+        }
+      ]
+    },
+    {
+      "title": "FIM Speedway GP | Prag | Highlights",
+      "subtitle": "Tschechien | 3. Station",
+      "sport": "Speedway",
+      "sport_slug": "speedway",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2025-09-11T18:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/fim-speedway-gp-prague-8717748",
+      "slug": "fim-speedway-gp-prag-highlights",
+      "related_events": [
+        {
+          "title": "FIM Speedway GP | Manchester | Highlights",
+          "time": "19:00",
+          "sender": "Eurosport",
+          "slug": "fim-speedway-gp-manchester-highlights"
+        }
+      ]
+    },
+    {
+      "title": "FIM Speedway GP | Manchester | Highlights",
+      "subtitle": "Highlights | 4. Station",
+      "sport": "Speedway",
+      "sport_slug": "speedway",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2025-09-11T19:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/fim-speedway-gp-manchester-8751114",
+      "slug": "fim-speedway-gp-manchester-highlights",
+      "related_events": [
+        {
+          "title": "FIM Speedway GP | Prag | Highlights",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "fim-speedway-gp-prag-highlights"
+        }
+      ]
+    },
+    {
+      "title": "WM | Downhill | Frauen Elite",
+      "subtitle": "Wallis | Champéry",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2025-09-11T19:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/wm-downhill-frauen-elite-8736453",
+      "slug": "wm-downhill-frauen-elite",
+      "related_events": [
+        {
+          "title": "WM | Downhill | Männer Elite",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "wm-downhill-manner-elite"
+        }
+      ]
+    },
+    {
+      "title": "Julien Leclercq - Aidan Murphy",
+      "subtitle": "English Open | Qualifikation | Original Sound",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2025-09-11T20:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/julien-leclercq-aidan-murphy",
+      "slug": "julien-leclercq-aidan-murphy",
+      "related_events": [
+        {
+          "title": "David Grace - Jonas Luz",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "david-grace-jonas-luz"
+        },
+        {
+          "title": "Duane Jones - Patrick Whelan",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "duane-jones-patrick-whelan"
+        },
+        {
+          "title": "Amir Sarkhosh - Sahil Nayyar",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "amir-sarkhosh-sahil-nayyar"
+        }
+      ]
+    },
+    {
+      "title": "Sam Craigie - Chatchapong Nasa",
+      "subtitle": "English Open | Qualifikation | Original Sound",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2025-09-11T20:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/sam-craigie-chatchapong-nasa",
+      "slug": "sam-craigie-chatchapong-nasa",
+      "related_events": [
+        {
+          "title": "David Grace - Jonas Luz",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "david-grace-jonas-luz"
+        },
+        {
+          "title": "Duane Jones - Patrick Whelan",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "duane-jones-patrick-whelan"
+        },
+        {
+          "title": "Amir Sarkhosh - Sahil Nayyar",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "amir-sarkhosh-sahil-nayyar"
+        }
+      ]
+    },
+    {
+      "title": "Reanne Evans - Jiang Jun",
+      "subtitle": "English Open | Qualifikation | Original Sound",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2025-09-11T20:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/reanne-evans-jiang-jun",
+      "slug": "reanne-evans-jiang-jun",
+      "related_events": [
+        {
+          "title": "David Grace - Jonas Luz",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "david-grace-jonas-luz"
+        },
+        {
+          "title": "Duane Jones - Patrick Whelan",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "duane-jones-patrick-whelan"
+        },
+        {
+          "title": "Amir Sarkhosh - Sahil Nayyar",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "amir-sarkhosh-sahil-nayyar"
+        }
+      ]
+    },
+    {
+      "title": "Haris Tahir - Michal Szubarczyk",
+      "subtitle": "English Open | Qualifikation | Original Sound",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2025-09-11T20:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/dplus-sport-dplus-sport-sport/haris-tahir-michal-szubarczyk",
+      "slug": "haris-tahir-michal-szubarczyk",
+      "related_events": [
+        {
+          "title": "David Grace - Jonas Luz",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "david-grace-jonas-luz"
+        },
+        {
+          "title": "Duane Jones - Patrick Whelan",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "duane-jones-patrick-whelan"
+        },
+        {
+          "title": "Amir Sarkhosh - Sahil Nayyar",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "amir-sarkhosh-sahil-nayyar"
+        }
+      ]
+    },
+    {
+      "title": "Vuelta a España | 18. Etappe",
+      "subtitle": "Valladolid - Valladolid (27,2km / EZF) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2025-09-11T20:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/la-vuelta-stage-18-8751097",
+      "slug": "vuelta-a-espana-18-etappe",
+      "related_events": []
+    },
+    {
+      "title": "E-Sports World Cup",
+      "subtitle": "E-Sports Show",
+      "sport": "GP2",
+      "sport_slug": "gp2",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2025-09-11T20:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/e-sports-world-cup-8719290",
+      "slug": "e-sports-world-cup",
+      "related_events": []
+    },
+    {
+      "title": "Saudi Arabia Masters | Finale",
+      "subtitle": "Neil Robertson - Ronnie O'Sullivan | 2. Session | Jeddah",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:30",
+      "iso_time": "2025-09-11T20:30:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/saudi-arabia-masters-finale-8719346",
+      "slug": "saudi-arabia-masters-finale",
+      "related_events": [
+        {
+          "title": "Julien Leclercq - Aidan Murphy",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "julien-leclercq-aidan-murphy"
+        },
+        {
+          "title": "Sam Craigie - Chatchapong Nasa",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "sam-craigie-chatchapong-nasa"
+        },
+        {
+          "title": "Reanne Evans - Jiang Jun",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "reanne-evans-jiang-jun"
+        }
+      ]
+    },
+    {
+      "title": "Vuelta a España | 18. Etappe",
+      "subtitle": "Valladolid - Valladolid (27,2km / EZF) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2025-09-11T22:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/vuelta-a-espana-18-etappe-8719316",
+      "slug": "vuelta-a-espana-18-etappe",
+      "related_events": []
+    },
+    {
+      "title": "E-Sports World Cup",
+      "subtitle": "E-Sports Show",
+      "sport": "GP2",
+      "sport_slug": "gp2",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2025-09-11T22:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/esports-show-8751124",
+      "slug": "e-sports-world-cup",
+      "related_events": []
+    },
+    {
+      "title": "Saudi Arabia Masters | Finale",
+      "subtitle": "Neil Robertson - Ronnie O'Sullivan | 2. Session | Jeddah",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:30",
+      "iso_time": "2025-09-11T22:30:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/saudi-arabia-snooker-masters-8751096",
+      "slug": "saudi-arabia-masters-finale",
+      "related_events": [
+        {
+          "title": "Julien Leclercq - Aidan Murphy",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "julien-leclercq-aidan-murphy"
+        },
+        {
+          "title": "Sam Craigie - Chatchapong Nasa",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "sam-craigie-chatchapong-nasa"
+        },
+        {
+          "title": "Reanne Evans - Jiang Jun",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "reanne-evans-jiang-jun"
+        }
+      ]
+    },
+    {
+      "title": "WM | Finale",
+      "subtitle": "Zhao X. - M. Williams | 4. Session | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2025-09-12T00:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-1-germany-eurosport-1-germany-sport/wm-finale-8719323",
+      "slug": "wm-finale",
+      "related_events": [
+        {
+          "title": "Saudi Arabia Masters | Finale",
+          "time": "22:30",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-finale"
+        }
+      ]
+    },
+    {
+      "title": "Vuelta a España | 18. Etappe",
+      "subtitle": "Valladolid - Valladolid (27,2km / EZF) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2025-09-12T00:00:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/la-vuelta-stage-18-8751109",
+      "slug": "vuelta-a-espana-18-etappe",
+      "related_events": []
+    },
+    {
+      "title": "WM | Finale",
+      "subtitle": "Zhao X. - M. Williams | 4. Session | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:30",
+      "iso_time": "2025-09-12T01:30:00+02:00",
+      "link": "https://discoveryplus.com/de/video/sport/eurosport-2-germany-eurosport-2-germany-sport/world-championship-8751116",
+      "slug": "wm-finale",
+      "related_events": [
+        {
+          "title": "Saudi Arabia Masters | Finale",
+          "time": "22:30",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-finale"
+        }
+      ]
+    }
+  ]
+}
