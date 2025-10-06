@@ -1,0 +1,925 @@
+{
+  "date": "2025-10-06",
+  "events": [
+    {
+      "title": "Hamburger SV vs 1899 Hoffenheim",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga-frauen/ma11376119/hamburger-sv_1899-hoffenheim/info",
+      "slug": "hamburger-sv-vs-1899-hoffenheim",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Nigeria vs Kolumbien",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-u20-wm/ma11108328/nigeria_kolumbien/liveticker",
+      "slug": "nigeria-vs-kolumbien",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Saudi-Arabien vs Norwegen",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "saudi-arabien-vs-norwegen"
+        }
+      ]
+    },
+    {
+      "title": "Saudi-Arabien vs Norwegen",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-u20-wm/ma11108331/saudi-arabien_norwegen/liveticker",
+      "slug": "saudi-arabien-vs-norwegen",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Nigeria vs Kolumbien",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "nigeria-vs-kolumbien"
+        }
+      ]
+    },
+    {
+      "title": "Buffalo Bills vs New England Patriots",
+      "time": "02:20",
+      "iso_time": "",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/football/usa-nfl/ma11091362/buffalo-bills_new-england-patriots/info",
+      "slug": "buffalo-bills-vs-new-england-patriots",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Camila Osorio vs Marie Bouzkova",
+      "time": "05:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-wuhan-tennis-open/ma11637496/camila-osorio_marie-bouzkova/info",
+      "slug": "camila-osorio-vs-marie-bouzkova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dayana Yastremska vs Laura Siegemund",
+          "time": "05:00",
+          "sender": "Sportschau Live",
+          "slug": "dayana-yastremska-vs-laura-siegemund"
+        },
+        {
+          "title": "Ashlyn Krueger vs Hailey Baptiste",
+          "time": "05:00",
+          "sender": "Sportschau Live",
+          "slug": "ashlyn-krueger-vs-hailey-baptiste"
+        }
+      ]
+    },
+    {
+      "title": "Dayana Yastremska vs Laura Siegemund",
+      "time": "05:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-wuhan-tennis-open/ma11637475/dayana-yastremska_laura-siegemund/info",
+      "slug": "dayana-yastremska-vs-laura-siegemund",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Camila Osorio vs Marie Bouzkova",
+          "time": "05:00",
+          "sender": "Sportschau Live",
+          "slug": "camila-osorio-vs-marie-bouzkova"
+        },
+        {
+          "title": "Ashlyn Krueger vs Hailey Baptiste",
+          "time": "05:00",
+          "sender": "Sportschau Live",
+          "slug": "ashlyn-krueger-vs-hailey-baptiste"
+        }
+      ]
+    },
+    {
+      "title": "Ashlyn Krueger vs Hailey Baptiste",
+      "time": "05:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-wuhan-tennis-open/ma11637472/ashlyn-krueger_hailey-baptiste/info",
+      "slug": "ashlyn-krueger-vs-hailey-baptiste",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Camila Osorio vs Marie Bouzkova",
+          "time": "05:00",
+          "sender": "Sportschau Live",
+          "slug": "camila-osorio-vs-marie-bouzkova"
+        },
+        {
+          "title": "Dayana Yastremska vs Laura Siegemund",
+          "time": "05:00",
+          "sender": "Sportschau Live",
+          "slug": "dayana-yastremska-vs-laura-siegemund"
+        }
+      ]
+    },
+    {
+      "title": "Elise Mertens vs Polina Kudermetova",
+      "time": "06:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-wuhan-tennis-open/ma11637493/elise-mertens_polina-kudermetova/info",
+      "slug": "elise-mertens-vs-polina-kudermetova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Varvara Gracheva vs Jessica Bouzas Maneiro",
+          "time": "06:10",
+          "sender": "Sportschau Live",
+          "slug": "varvara-gracheva-vs-jessica-bouzas-maneiro"
+        }
+      ]
+    },
+    {
+      "title": "Varvara Gracheva vs Jessica Bouzas Maneiro",
+      "time": "06:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-wuhan-tennis-open/ma11637463/varvara-gracheva_jessica-bouzas-maneiro/info",
+      "slug": "varvara-gracheva-vs-jessica-bouzas-maneiro",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Elise Mertens vs Polina Kudermetova",
+          "time": "06:10",
+          "sender": "Sportschau Live",
+          "slug": "elise-mertens-vs-polina-kudermetova"
+        }
+      ]
+    },
+    {
+      "title": "Antonia Ruzic vs Magda Linette",
+      "time": "07:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-wuhan-tennis-open/ma11637490/antonia-ruzic_magda-linette/info",
+      "slug": "antonia-ruzic-vs-magda-linette",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Lin Zhu vs Maya Joint",
+          "time": "07:20",
+          "sender": "Sportschau Live",
+          "slug": "lin-zhu-vs-maya-joint"
+        }
+      ]
+    },
+    {
+      "title": "Lin Zhu vs Maya Joint",
+      "time": "07:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-wuhan-tennis-open/ma11637466/lin-zhu_maya-joint/info",
+      "slug": "lin-zhu-vs-maya-joint",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Antonia Ruzic vs Magda Linette",
+          "time": "07:20",
+          "sender": "Sportschau Live",
+          "slug": "antonia-ruzic-vs-magda-linette"
+        }
+      ]
+    },
+    {
+      "title": "Lucia Bronzetti vs Yue Yuan",
+      "time": "10:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-wuhan-tennis-open/ma11637487/lucia-bronzetti_yue-yuan/info",
+      "slug": "lucia-bronzetti-vs-yue-yuan",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Learner Tien vs Cameron Norrie",
+          "time": "10:00",
+          "sender": "Sportschau Live",
+          "slug": "learner-tien-vs-cameron-norrie"
+        }
+      ]
+    },
+    {
+      "title": "Moyuka Uchijima vs Xinyu Wang",
+      "time": "13:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-wuhan-tennis-open/ma11637484/moyuka-uchijima_xinyu-wang/info",
+      "slug": "moyuka-uchijima-vs-xinyu-wang",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Ekaterina Alexandrova vs Victoria Mboko",
+      "time": "14:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-wuhan-tennis-open/ma11637469/ekaterina-alexandrova_victoria-mboko/info",
+      "slug": "ekaterina-alexandrova-vs-victoria-mboko",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Felix Auger-Aliassime vs Jesper De Jong",
+      "time": "06:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-china-shanghai-atp-masters-1000/ma11637280/felix-auger-aliassime_jesper-de-jong/info",
+      "slug": "felix-auger-aliassime-vs-jesper-de-jong",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Kamil Majchrzak vs Alex de Minaur",
+          "time": "06:30",
+          "sender": "Sportschau Live",
+          "slug": "kamil-majchrzak-vs-alex-de-minaur"
+        }
+      ]
+    },
+    {
+      "title": "Kamil Majchrzak vs Alex de Minaur",
+      "time": "06:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-china-shanghai-atp-masters-1000/ma11637271/kamil-majchrzak_alex-de-minaur/info",
+      "slug": "kamil-majchrzak-vs-alex-de-minaur",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Felix Auger-Aliassime vs Jesper De Jong",
+          "time": "06:30",
+          "sender": "Sportschau Live",
+          "slug": "felix-auger-aliassime-vs-jesper-de-jong"
+        }
+      ]
+    },
+    {
+      "title": "Denis Shapovalov vs Jiří Lehečka",
+      "time": "07:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-china-shanghai-atp-masters-1000/ma11637277/denis-shapovalov_jiri-lehecka/info",
+      "slug": "denis-shapovalov-vs-jiri-lehecka",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Juncheng Shang vs Nuno Borges",
+          "time": "07:40",
+          "sender": "Sportschau Live",
+          "slug": "juncheng-shang-vs-nuno-borges"
+        }
+      ]
+    },
+    {
+      "title": "Juncheng Shang vs Nuno Borges",
+      "time": "07:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-china-shanghai-atp-masters-1000/ma11637268/juncheng-shang_nuno-borges/info",
+      "slug": "juncheng-shang-vs-nuno-borges",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Denis Shapovalov vs Jiří Lehečka",
+          "time": "07:40",
+          "sender": "Sportschau Live",
+          "slug": "denis-shapovalov-vs-jiri-lehecka"
+        }
+      ]
+    },
+    {
+      "title": "Luciano Darderi vs Lorenzo Musetti",
+      "time": "08:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-china-shanghai-atp-masters-1000/ma11637283/luciano-darderi_lorenzo-musetti/info",
+      "slug": "luciano-darderi-vs-lorenzo-musetti",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Learner Tien vs Cameron Norrie",
+      "time": "10:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-china-shanghai-atp-masters-1000/ma11637262/learner-tien_cameron-norrie/info",
+      "slug": "learner-tien-vs-cameron-norrie",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Lucia Bronzetti vs Yue Yuan",
+          "time": "10:00",
+          "sender": "Sportschau Live",
+          "slug": "lucia-bronzetti-vs-yue-yuan"
+        }
+      ]
+    },
+    {
+      "title": "Alexander Zverev vs Arthur Rinderknech",
+      "time": "12:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-china-shanghai-atp-masters-1000/ma11637274/alexander-zverev_arthur-rinderknech/info",
+      "slug": "alexander-zverev-vs-arthur-rinderknech",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alejandro Davidovich Fokina vs Daniil Medvedev",
+      "time": "13:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-china-shanghai-atp-masters-1000/ma11637265/alejandro-davidovich-fokina_daniil-medvedev/info",
+      "slug": "alejandro-davidovich-fokina-vs-daniil-medvedev",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "FIM Speedway of Nations | Finale",
+      "subtitle": "Torun | Englischer Kommentar",
+      "sport": "Speedway",
+      "sport_slug": "speedway",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:55",
+      "iso_time": "2025-10-06T01:55:28.840000+02:00",
+      "link": "",
+      "slug": "fim-speedway-of-nations-finale",
+      "related_events": []
+    },
+    {
+      "title": "Global Champions Tour | Wien",
+      "subtitle": "Springreiten | 13. Station",
+      "sport": "Reitsport",
+      "sport_slug": "reitsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:27",
+      "iso_time": "2025-10-06T03:27:31.040000+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/6a4dc108-5dd7-5a4f-b6b0-e0389abdc91f?utm_source=universal_search",
+      "slug": "global-champions-tour-wien",
+      "related_events": []
+    },
+    {
+      "title": "WM | Bouldern | Finale",
+      "subtitle": "Seoul | Frauen",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:59",
+      "iso_time": "2025-10-06T04:59:55.320000+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/8d5b9382-98a6-5501-bf79-23561bbc23f5?utm_source=universal_search",
+      "slug": "wm-bouldern-finale",
+      "related_events": [
+        {
+          "title": "Seoul | Bouldern | Finale",
+          "time": "06:22",
+          "sender": "Eurosport",
+          "slug": "seoul-bouldern-finale"
+        }
+      ]
+    },
+    {
+      "title": "Seoul | Bouldern | Finale",
+      "subtitle": "WM | Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:22",
+      "iso_time": "2025-10-06T06:22:36.600000+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/6ad1138b-4565-587e-b37f-171025f2ce6d?utm_source=universal_search",
+      "slug": "seoul-bouldern-finale",
+      "related_events": [
+        {
+          "title": "WM | Bouldern | Finale",
+          "time": "04:59",
+          "sender": "Eurosport",
+          "slug": "wm-bouldern-finale"
+        }
+      ]
+    },
+    {
+      "title": "Shanghai Masters | Finale",
+      "subtitle": "",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:22",
+      "iso_time": "2025-10-06T08:22:32.040000+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/cc9c0b18-20f5-58b1-9828-ecbedcc59155?utm_source=universal_search",
+      "slug": "shanghai-masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "WM | Highlights",
+      "subtitle": "Tokio",
+      "sport": "Leichtathletik",
+      "sport_slug": "leichtathletik",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:31",
+      "iso_time": "2025-10-06T08:31:30.680000+02:00",
+      "link": "",
+      "slug": "wm-highlights",
+      "related_events": []
+    },
+    {
+      "title": "FIM Motocross of Nations | 2. Rennen",
+      "subtitle": "WM | Crawfordsville",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:25",
+      "iso_time": "2025-10-06T09:25:47.960000+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/a5168055-733f-505d-a32b-0e5e34a2445c?utm_source=universal_search",
+      "slug": "fim-motocross-of-nations-2-rennen",
+      "related_events": [
+        {
+          "title": "FIM Motocross of Nations | 3. Rennen",
+          "time": "10:20",
+          "sender": "Eurosport",
+          "slug": "fim-motocross-of-nations-3-rennen"
+        }
+      ]
+    },
+    {
+      "title": "UCI XCO Weltcup | Lake Placid | Frauen Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Olympic",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:35",
+      "iso_time": "2025-10-06T09:35:13.440000+02:00",
+      "link": "",
+      "slug": "uci-xco-weltcup-lake-placid-frauen-elite",
+      "related_events": [
+        {
+          "title": "UCI XCO Weltcup | Lake Placid | Männer Elite",
+          "time": "10:29",
+          "sender": "Eurosport",
+          "slug": "uci-xco-weltcup-lake-placid-manner-elite"
+        }
+      ]
+    },
+    {
+      "title": "FIM Motocross of Nations | 3. Rennen",
+      "subtitle": "WM | Crawfordsville",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:20",
+      "iso_time": "2025-10-06T10:20:35.440000+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/9954e9c8-34b6-51b6-bcf9-91db60d00b4f?utm_source=universal_search",
+      "slug": "fim-motocross-of-nations-3-rennen",
+      "related_events": [
+        {
+          "title": "FIM Motocross of Nations | 2. Rennen",
+          "time": "09:25",
+          "sender": "Eurosport",
+          "slug": "fim-motocross-of-nations-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "UCI XCO Weltcup | Lake Placid | Männer Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Olympic",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:29",
+      "iso_time": "2025-10-06T10:29:37.680000+02:00",
+      "link": "",
+      "slug": "uci-xco-weltcup-lake-placid-manner-elite",
+      "related_events": [
+        {
+          "title": "UCI XCO Weltcup | Lake Placid | Frauen Elite",
+          "time": "09:35",
+          "sender": "Eurosport",
+          "slug": "uci-xco-weltcup-lake-placid-frauen-elite"
+        }
+      ]
+    },
+    {
+      "title": "FIM Speedway of Nations | Finale",
+      "subtitle": "Torun | Englischer Kommentar",
+      "sport": "Speedway",
+      "sport_slug": "speedway",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:26",
+      "iso_time": "2025-10-06T11:26:51.440000+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/c2be06fd-1f72-568e-bc9f-010f844b73c9?utm_source=universal_search",
+      "slug": "fim-speedway-of-nations-finale",
+      "related_events": []
+    },
+    {
+      "title": "EM | Straßenrennen | Frauen Elite",
+      "subtitle": "Drôme-Ardèche | Privas – Guilherand-Granges (116,1km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:54",
+      "iso_time": "2025-10-06T11:54:53.360000+02:00",
+      "link": "",
+      "slug": "em-strassenrennen-frauen-elite",
+      "related_events": [
+        {
+          "title": "EM | Straßenrennen | Männer Elite",
+          "time": "13:24",
+          "sender": "Eurosport",
+          "slug": "em-strassenrennen-manner-elite"
+        }
+      ]
+    },
+    {
+      "title": "Shanghai Masters | Finale",
+      "subtitle": "K. Wilson - A. Carter | 2. Session | Shanghai",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:55",
+      "iso_time": "2025-10-06T12:55:23.920000+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/7856a388-a0f9-5966-bc08-8c794c491359?utm_source=universal_search",
+      "slug": "shanghai-masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "EM | Straßenrennen | Männer Elite",
+      "subtitle": "Drôme-Ardèche | Privas – Guilherand-Granges (202,5km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:24",
+      "iso_time": "2025-10-06T13:24:16.440000+02:00",
+      "link": "",
+      "slug": "em-strassenrennen-manner-elite",
+      "related_events": [
+        {
+          "title": "EM | Straßenrennen | Frauen Elite",
+          "time": "11:54",
+          "sender": "Eurosport",
+          "slug": "em-strassenrennen-frauen-elite"
+        },
+        {
+          "title": "Coppa Bernocchi",
+          "time": "15:25",
+          "sender": "Eurosport",
+          "slug": "coppa-bernocchi"
+        },
+        {
+          "title": "Coppa Bernocchi",
+          "time": "15:25",
+          "sender": "Eurosport",
+          "slug": "coppa-bernocchi"
+        }
+      ]
+    },
+    {
+      "title": "WM | Bouldern | Finale",
+      "subtitle": "Seoul | Frauen",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:00",
+      "iso_time": "2025-10-06T15:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/58ce47d4-40c9-56d8-bf22-239a527f519a?utm_source=universal_search",
+      "slug": "wm-bouldern-finale",
+      "related_events": []
+    },
+    {
+      "title": "Coppa Bernocchi",
+      "subtitle": "UCI Pro Series | Männer | Legnano - Legnano (192km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:25",
+      "iso_time": "2025-10-06T15:25:00+02:00",
+      "link": "",
+      "slug": "coppa-bernocchi",
+      "related_events": [
+        {
+          "title": "EM | Straßenrennen | Männer Elite",
+          "time": "13:24",
+          "sender": "Eurosport",
+          "slug": "em-strassenrennen-manner-elite"
+        }
+      ]
+    },
+    {
+      "title": "Coppa Bernocchi",
+      "subtitle": "UCI Pro Series | Männer | Legnano - Legnano (192km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:25",
+      "iso_time": "2025-10-06T15:25:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/7fa16e6a-df07-5b6f-bad7-d6b2b42f0972?utm_source=universal_search",
+      "slug": "coppa-bernocchi",
+      "related_events": [
+        {
+          "title": "EM | Straßenrennen | Männer Elite",
+          "time": "13:24",
+          "sender": "Eurosport",
+          "slug": "em-strassenrennen-manner-elite"
+        }
+      ]
+    },
+    {
+      "title": "Global Champions Tour | Wien",
+      "subtitle": "Springreiten | 13. Station",
+      "sport": "Reitsport",
+      "sport_slug": "reitsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:30",
+      "iso_time": "2025-10-06T16:30:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/707e5ff4-2940-56b0-b882-a8e7eaa0bc71?utm_source=universal_search",
+      "slug": "global-champions-tour-wien",
+      "related_events": []
+    },
+    {
+      "title": "UCI XCO Weltcup | Lake Placid | Männer Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Olympic",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2025-10-06T17:00:00+02:00",
+      "link": "",
+      "slug": "uci-xco-weltcup-lake-placid-manner-elite",
+      "related_events": []
+    },
+    {
+      "title": "Supertri | Toulouse",
+      "subtitle": "4. Station | Männer / Frauen",
+      "sport": "Triathlon",
+      "sport_slug": "triathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:30",
+      "iso_time": "2025-10-06T17:30:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/906d8ccd-2a57-54ce-8724-625ddb3f8e45?utm_source=universal_search",
+      "slug": "supertri-toulouse",
+      "related_events": []
+    },
+    {
+      "title": "WM | Bouldern | Finale",
+      "subtitle": "Seoul | Frauen",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:30",
+      "iso_time": "2025-10-06T17:30:00+02:00",
+      "link": "",
+      "slug": "wm-bouldern-finale",
+      "related_events": []
+    },
+    {
+      "title": "WM | Highlights",
+      "subtitle": "Tokio",
+      "sport": "Leichtathletik",
+      "sport_slug": "leichtathletik",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2025-10-06T19:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/be4f61ac-5141-5c4f-88f1-63c295ad90c1?utm_source=universal_search",
+      "slug": "wm-highlights",
+      "related_events": []
+    },
+    {
+      "title": "Coppa Bernocchi",
+      "subtitle": "UCI Pro Series | Männer | Legnano - Legnano (192km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2025-10-06T19:00:00+02:00",
+      "link": "",
+      "slug": "coppa-bernocchi",
+      "related_events": []
+    },
+    {
+      "title": "League of Nations | Barcelona",
+      "subtitle": "Springreiten | 5. Station",
+      "sport": "Reitsport",
+      "sport_slug": "reitsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2025-10-06T20:00:00+02:00",
+      "link": "",
+      "slug": "league-of-nations-barcelona",
+      "related_events": []
+    },
+    {
+      "title": "Coppa Bernocchi",
+      "subtitle": "UCI Pro Series | Männer | Legnano - Legnano (192km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2025-10-06T20:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/46f04f09-5353-5127-bb8a-644accb2033d?utm_source=universal_search",
+      "slug": "coppa-bernocchi",
+      "related_events": []
+    },
+    {
+      "title": "FIA WEC | 6h von Fuji | Highlights",
+      "subtitle": "Langstrecken-WM | 7. Station",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2025-10-06T21:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/ac1d16e2-0df1-5c77-8698-35180ae6848a?utm_source=universal_search",
+      "slug": "fia-wec-6h-von-fuji-highlights",
+      "related_events": []
+    },
+    {
+      "title": "Coppa Bernocchi",
+      "subtitle": "UCI Pro Series | Männer | Legnano - Legnano (192km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:30",
+      "iso_time": "2025-10-06T21:30:00+02:00",
+      "link": "",
+      "slug": "coppa-bernocchi",
+      "related_events": []
+    },
+    {
+      "title": "WM | Highlights",
+      "subtitle": "Tokio",
+      "sport": "Leichtathletik",
+      "sport_slug": "leichtathletik",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2025-10-06T22:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/f19c133d-6ed9-5437-944a-b52dffb5961c?utm_source=universal_search",
+      "slug": "wm-highlights",
+      "related_events": []
+    },
+    {
+      "title": "Shanghai Masters | Finale",
+      "subtitle": "K. Wilson - A. Carter | 2. Session | Shanghai",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:30",
+      "iso_time": "2025-10-06T22:30:00+02:00",
+      "link": "",
+      "slug": "shanghai-masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "Coppa Bernocchi",
+      "subtitle": "UCI Pro Series | Männer | Legnano - Legnano (192km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2025-10-06T23:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/d3d0044c-efe3-5762-942a-10c14f1b82f7?utm_source=universal_search",
+      "slug": "coppa-bernocchi",
+      "related_events": []
+    },
+    {
+      "title": "WM | Bouldern | Finale",
+      "subtitle": "Seoul | Frauen",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2025-10-07T00:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/77b94df3-c46d-55f8-9fc8-947f0d2d1e89?utm_source=universal_search",
+      "slug": "wm-bouldern-finale",
+      "related_events": []
+    },
+    {
+      "title": "Coppa Bernocchi",
+      "subtitle": "UCI Pro Series | Männer | Legnano - Legnano (192km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:30",
+      "iso_time": "2025-10-07T00:30:00+02:00",
+      "link": "",
+      "slug": "coppa-bernocchi",
+      "related_events": []
+    },
+    {
+      "title": "Coppa Bernocchi",
+      "subtitle": "UCI Pro Series | Männer | Legnano - Legnano (192km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:30",
+      "iso_time": "2025-10-07T01:30:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/702c2eba-3963-5b84-a6cd-8f4b234abe25?utm_source=universal_search",
+      "slug": "coppa-bernocchi",
+      "related_events": []
+    }
+  ]
+}
