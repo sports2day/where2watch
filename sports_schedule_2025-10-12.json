@@ -1,0 +1,3159 @@
+{
+  "date": "2025-10-12",
+  "events": [
+    {
+      "title": "SC Freiburg vs Eintracht Frankfurt",
+      "time": "14:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga-frauen/ma11376185/sc-freiburg_eintracht-frankfurt/info",
+      "slug": "sc-freiburg-vs-eintracht-frankfurt",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "1899 Hoffenheim vs Bayer Leverkusen",
+      "time": "16:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga-frauen/ma11376158/1899-hoffenheim_bayer-leverkusen/info",
+      "slug": "1899-hoffenheim-vs-bayer-leverkusen",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "1. FC Köln vs 1. FC Union Berlin",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga-frauen/ma11376173/1-fc-koeln_1-fc-union-berlin/info",
+      "slug": "1-fc-koln-vs-1-fc-union-berlin",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Schottland vs Belarus",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-wm-quali-europa/ma10798304/schottland_belarus/info",
+      "slug": "schottland-vs-belarus",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Niederlande vs Finnland",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "niederlande-vs-finnland"
+        },
+        {
+          "title": "Färöer vs Tschechien",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "faroer-vs-tschechien"
+        },
+        {
+          "title": "Tschad vs Zentralafr. Republik",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "tschad-vs-zentralafr-republik"
+        }
+      ]
+    },
+    {
+      "title": "Dänemark vs Griechenland",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-wm-quali-europa/ma10798310/daenemark_griechenland/info",
+      "slug": "danemark-vs-griechenland",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Litauen vs Polen",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "litauen-vs-polen"
+        },
+        {
+          "title": "Rumänien vs Österreich",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "rumanien-vs-osterreich"
+        },
+        {
+          "title": "Kroatien vs Gibraltar",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "kroatien-vs-gibraltar"
+        }
+      ]
+    },
+    {
+      "title": "Niederlande vs Finnland",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-wm-quali-europa/ma10798478/niederlande_finnland/info",
+      "slug": "niederlande-vs-finnland",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Schottland vs Belarus",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "schottland-vs-belarus"
+        },
+        {
+          "title": "Färöer vs Tschechien",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "faroer-vs-tschechien"
+        },
+        {
+          "title": "Tschad vs Zentralafr. Republik",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "tschad-vs-zentralafr-republik"
+        }
+      ]
+    },
+    {
+      "title": "Litauen vs Polen",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-wm-quali-europa/ma10798454/litauen_polen/info",
+      "slug": "litauen-vs-polen",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dänemark vs Griechenland",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "danemark-vs-griechenland"
+        },
+        {
+          "title": "Rumänien vs Österreich",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "rumanien-vs-osterreich"
+        },
+        {
+          "title": "Kroatien vs Gibraltar",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "kroatien-vs-gibraltar"
+        }
+      ]
+    },
+    {
+      "title": "San Marino vs Zypern",
+      "time": "15:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-wm-quali-europa/ma10799258/san-marino_zypern/info",
+      "slug": "san-marino-vs-zypern",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Sambia vs Niger",
+          "time": "15:00",
+          "sender": "Sportschau Live",
+          "slug": "sambia-vs-niger"
+        }
+      ]
+    },
+    {
+      "title": "Rumänien vs Österreich",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-wm-quali-europa/ma10799261/rumaenien_oesterreich/info",
+      "slug": "rumanien-vs-osterreich",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dänemark vs Griechenland",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "danemark-vs-griechenland"
+        },
+        {
+          "title": "Litauen vs Polen",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "litauen-vs-polen"
+        },
+        {
+          "title": "Kroatien vs Gibraltar",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "kroatien-vs-gibraltar"
+        }
+      ]
+    },
+    {
+      "title": "Färöer vs Tschechien",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-wm-quali-europa/ma10799516/faeroeer_tschechien/info",
+      "slug": "faroer-vs-tschechien",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Schottland vs Belarus",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "schottland-vs-belarus"
+        },
+        {
+          "title": "Niederlande vs Finnland",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "niederlande-vs-finnland"
+        },
+        {
+          "title": "Tschad vs Zentralafr. Republik",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "tschad-vs-zentralafr-republik"
+        }
+      ]
+    },
+    {
+      "title": "Kroatien vs Gibraltar",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-wm-quali-europa/ma10799519/kroatien_gibraltar/info",
+      "slug": "kroatien-vs-gibraltar",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dänemark vs Griechenland",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "danemark-vs-griechenland"
+        },
+        {
+          "title": "Litauen vs Polen",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "litauen-vs-polen"
+        },
+        {
+          "title": "Rumänien vs Österreich",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "rumanien-vs-osterreich"
+        }
+      ]
+    },
+    {
+      "title": "Mexiko vs Argentinien",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-u20-wm/ma11108361/mexiko_argentinien/liveticker",
+      "slug": "mexiko-vs-argentinien",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "USA vs Marokko",
+      "time": "22:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-u20-wm/ma11108364/usa_marokko/info",
+      "slug": "usa-vs-marokko",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "SC Magdeburg vs Bergischer HC",
+      "time": "15:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/ma11405372/sc-magdeburg_bergischer-hc/info",
+      "slug": "sc-magdeburg-vs-bergischer-hc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Viljandi HC vs IL Runar",
+          "time": "15:00",
+          "sender": "Sportschau Live",
+          "slug": "viljandi-hc-vs-il-runar"
+        }
+      ]
+    },
+    {
+      "title": "Füchse Berlin vs TSV GWD Minden",
+      "time": "16:30",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/ma11405375/fuechse-berlin_tsv-gwd-minden/info",
+      "slug": "fuchse-berlin-vs-tsv-gwd-minden",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "TBV Lemgo Lippe vs TVB 1898 Stuttgart",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "tbv-lemgo-lippe-vs-tvb-1898-stuttgart"
+        },
+        {
+          "title": "VfL Oldenburg vs Buxtehuder SV",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "vfl-oldenburg-vs-buxtehuder-sv"
+        }
+      ]
+    },
+    {
+      "title": "TBV Lemgo Lippe vs TVB 1898 Stuttgart",
+      "time": "16:30",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/ma11405378/tbv-lemgo-lippe_tvb-1898-stuttgart/info",
+      "slug": "tbv-lemgo-lippe-vs-tvb-1898-stuttgart",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Füchse Berlin vs TSV GWD Minden",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "fuchse-berlin-vs-tsv-gwd-minden"
+        },
+        {
+          "title": "VfL Oldenburg vs Buxtehuder SV",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "vfl-oldenburg-vs-buxtehuder-sv"
+        }
+      ]
+    },
+    {
+      "title": "HSG Wetzlar vs Handball Sport Verein Hamburg",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/ma11405381/hsg-wetzlar_handball-sport-verein-hamburg/info",
+      "slug": "hsg-wetzlar-vs-handball-sport-verein-hamburg",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Frisch Auf! Göppingen vs VfL Gummersbach",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "frisch-auf-goppingen-vs-vfl-gummersbach"
+        },
+        {
+          "title": "Nærbø IL vs Tatabanya KC",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "naerbo-il-vs-tatabanya-kc"
+        },
+        {
+          "title": "GRK Ohrid vs HC Baki",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "grk-ohrid-vs-hc-baki"
+        }
+      ]
+    },
+    {
+      "title": "Frisch Auf! Göppingen vs VfL Gummersbach",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/ma11405384/frisch-auf-goeppingen_vfl-gummersbach/info",
+      "slug": "frisch-auf-goppingen-vs-vfl-gummersbach",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "HSG Wetzlar vs Handball Sport Verein Hamburg",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "hsg-wetzlar-vs-handball-sport-verein-hamburg"
+        },
+        {
+          "title": "Nærbø IL vs Tatabanya KC",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "naerbo-il-vs-tatabanya-kc"
+        },
+        {
+          "title": "GRK Ohrid vs HC Baki",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "grk-ohrid-vs-hc-baki"
+        }
+      ]
+    },
+    {
+      "title": "VfL Oldenburg vs Buxtehuder SV",
+      "time": "16:30",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbf-frauen/ma11403353/vfl-oldenburg_buxtehuder-sv/info",
+      "slug": "vfl-oldenburg-vs-buxtehuder-sv",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Füchse Berlin vs TSV GWD Minden",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "fuchse-berlin-vs-tsv-gwd-minden"
+        },
+        {
+          "title": "TBV Lemgo Lippe vs TVB 1898 Stuttgart",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "tbv-lemgo-lippe-vs-tvb-1898-stuttgart"
+        }
+      ]
+    },
+    {
+      "title": "Viljandi HC vs IL Runar",
+      "time": "15:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-european-cup/ma11402966/viljandi-hc_il-runar/info",
+      "slug": "viljandi-hc-vs-il-runar",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "SC Magdeburg vs Bergischer HC",
+          "time": "15:00",
+          "sender": "Sportschau Live",
+          "slug": "sc-magdeburg-vs-bergischer-hc"
+        }
+      ]
+    },
+    {
+      "title": "European University Cyprus vs Pölva Serviti",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-european-cup/ma11403215/european-university-cyprus_poelva-serviti/info",
+      "slug": "european-university-cyprus-vs-polva-serviti",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "RK Izviđač vs KH Besa Famgas",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "rk-izvidac-vs-kh-besa-famgas"
+        },
+        {
+          "title": "HC Dobrogea Sud Constanta vs HC Dukla Praha",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "hc-dobrogea-sud-constanta-vs-hc-dukla-praha"
+        },
+        {
+          "title": "SKKP Handball Brno vs Pallamano Conversano",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "skkp-handball-brno-vs-pallamano-conversano"
+        }
+      ]
+    },
+    {
+      "title": "RK Izviđač vs KH Besa Famgas",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-european-cup/ma11640553/rk-izvidjac_kh-besa-famgas/info",
+      "slug": "rk-izvidac-vs-kh-besa-famgas",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "European University Cyprus vs Pölva Serviti",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "european-university-cyprus-vs-polva-serviti"
+        },
+        {
+          "title": "HC Dobrogea Sud Constanta vs HC Dukla Praha",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "hc-dobrogea-sud-constanta-vs-hc-dukla-praha"
+        },
+        {
+          "title": "SKKP Handball Brno vs Pallamano Conversano",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "skkp-handball-brno-vs-pallamano-conversano"
+        }
+      ]
+    },
+    {
+      "title": "HC Dobrogea Sud Constanta vs HC Dukla Praha",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-european-cup/ma11640652/hc-dobrogea-sud-constanta_hc-dukla-praha/info",
+      "slug": "hc-dobrogea-sud-constanta-vs-hc-dukla-praha",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "European University Cyprus vs Pölva Serviti",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "european-university-cyprus-vs-polva-serviti"
+        },
+        {
+          "title": "RK Izviđač vs KH Besa Famgas",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "rk-izvidac-vs-kh-besa-famgas"
+        },
+        {
+          "title": "SKKP Handball Brno vs Pallamano Conversano",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "skkp-handball-brno-vs-pallamano-conversano"
+        }
+      ]
+    },
+    {
+      "title": "SKKP Handball Brno vs Pallamano Conversano",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-european-cup/ma11403017/skkp-handball-brno_pallamano-conversano/info",
+      "slug": "skkp-handball-brno-vs-pallamano-conversano",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "European University Cyprus vs Pölva Serviti",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "european-university-cyprus-vs-polva-serviti"
+        },
+        {
+          "title": "RK Izviđač vs KH Besa Famgas",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "rk-izvidac-vs-kh-besa-famgas"
+        },
+        {
+          "title": "HC Dobrogea Sud Constanta vs HC Dukla Praha",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "hc-dobrogea-sud-constanta-vs-hc-dukla-praha"
+        }
+      ]
+    },
+    {
+      "title": "Nærbø IL vs Tatabanya KC",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-european-cup/ma11403026/naerboe-il_tatabanya-kc/info",
+      "slug": "naerbo-il-vs-tatabanya-kc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "HSG Wetzlar vs Handball Sport Verein Hamburg",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "hsg-wetzlar-vs-handball-sport-verein-hamburg"
+        },
+        {
+          "title": "Frisch Auf! Göppingen vs VfL Gummersbach",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "frisch-auf-goppingen-vs-vfl-gummersbach"
+        },
+        {
+          "title": "GRK Ohrid vs HC Baki",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "grk-ohrid-vs-hc-baki"
+        }
+      ]
+    },
+    {
+      "title": "GRK Ohrid vs HC Baki",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-european-cup/ma11403032/grk-ohrid_hc-baki/info",
+      "slug": "grk-ohrid-vs-hc-baki",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "HSG Wetzlar vs Handball Sport Verein Hamburg",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "hsg-wetzlar-vs-handball-sport-verein-hamburg"
+        },
+        {
+          "title": "Frisch Auf! Göppingen vs VfL Gummersbach",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "frisch-auf-goppingen-vs-vfl-gummersbach"
+        },
+        {
+          "title": "Nærbø IL vs Tatabanya KC",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "naerbo-il-vs-tatabanya-kc"
+        }
+      ]
+    },
+    {
+      "title": "VET-CONCEPT Gladiators Trier vs Basketball Löwen Braunschweig",
+      "time": "15:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/deutschland-bbl/ma11487347/vet-concept-gladiators-trier_basketball-loewen-braunschweig/info",
+      "slug": "vet-concept-gladiators-trier-vs-basketball-lowen-braunschweig",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "ROSTOCK SEAWOLVES vs MLP Academics Heidelberg",
+          "time": "15:00",
+          "sender": "Sportschau Live",
+          "slug": "rostock-seawolves-vs-mlp-academics-heidelberg"
+        }
+      ]
+    },
+    {
+      "title": "ROSTOCK SEAWOLVES vs MLP Academics Heidelberg",
+      "time": "15:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/deutschland-bbl/ma11487353/rostock-seawolves_mlp-academics-heidelberg/info",
+      "slug": "rostock-seawolves-vs-mlp-academics-heidelberg",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "VET-CONCEPT Gladiators Trier vs Basketball Löwen Braunschweig",
+          "time": "15:00",
+          "sender": "Sportschau Live",
+          "slug": "vet-concept-gladiators-trier-vs-basketball-lowen-braunschweig"
+        }
+      ]
+    },
+    {
+      "title": "FC Bayern München vs Bamberg Baskets",
+      "time": "16:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/deutschland-bbl/ma11487344/fc-bayern-muenchen_bamberg-baskets/info",
+      "slug": "fc-bayern-munchen-vs-bamberg-baskets",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Hamburg Towers vs Telekom Baskets Bonn",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/deutschland-bbl/ma11487350/hamburg-towers_telekom-baskets-bonn/info",
+      "slug": "hamburg-towers-vs-telekom-baskets-bonn",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Schwenninger Wild Wings vs Augsburger Panther",
+      "time": "14:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma11211656/schwenninger-wild-wings_augsburger-panther/info",
+      "slug": "schwenninger-wild-wings-vs-augsburger-panther",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Eisbären Berlin vs Nürnberg Ice Tigers",
+          "time": "14:00",
+          "sender": "Sportschau Live",
+          "slug": "eisbaren-berlin-vs-nurnberg-ice-tigers"
+        },
+        {
+          "title": "Dresdner Eislöwen vs Fischtown Pinguins",
+          "time": "14:00",
+          "sender": "Sportschau Live",
+          "slug": "dresdner-eislowen-vs-fischtown-pinguins"
+        }
+      ]
+    },
+    {
+      "title": "Eisbären Berlin vs Nürnberg Ice Tigers",
+      "time": "14:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma11211659/eisbaeren-berlin_nuernberg-ice-tigers/info",
+      "slug": "eisbaren-berlin-vs-nurnberg-ice-tigers",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Schwenninger Wild Wings vs Augsburger Panther",
+          "time": "14:00",
+          "sender": "Sportschau Live",
+          "slug": "schwenninger-wild-wings-vs-augsburger-panther"
+        },
+        {
+          "title": "Dresdner Eislöwen vs Fischtown Pinguins",
+          "time": "14:00",
+          "sender": "Sportschau Live",
+          "slug": "dresdner-eislowen-vs-fischtown-pinguins"
+        }
+      ]
+    },
+    {
+      "title": "Dresdner Eislöwen vs Fischtown Pinguins",
+      "time": "14:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma11211662/dresdner-eisloewen_fischtown-pinguins/info",
+      "slug": "dresdner-eislowen-vs-fischtown-pinguins",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Schwenninger Wild Wings vs Augsburger Panther",
+          "time": "14:00",
+          "sender": "Sportschau Live",
+          "slug": "schwenninger-wild-wings-vs-augsburger-panther"
+        },
+        {
+          "title": "Eisbären Berlin vs Nürnberg Ice Tigers",
+          "time": "14:00",
+          "sender": "Sportschau Live",
+          "slug": "eisbaren-berlin-vs-nurnberg-ice-tigers"
+        }
+      ]
+    },
+    {
+      "title": "Grizzlys Wolfsburg vs Straubing Tigers",
+      "time": "16:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma11211665/grizzlys-wolfsburg_straubing-tigers/info",
+      "slug": "grizzlys-wolfsburg-vs-straubing-tigers",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "ERC Ingolstadt vs Löwen Frankfurt",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "erc-ingolstadt-vs-lowen-frankfurt"
+        },
+        {
+          "title": "Adler Mannheim vs EHC München",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "adler-mannheim-vs-ehc-munchen"
+        }
+      ]
+    },
+    {
+      "title": "ERC Ingolstadt vs Löwen Frankfurt",
+      "time": "16:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma11211668/erc-ingolstadt_loewen-frankfurt/info",
+      "slug": "erc-ingolstadt-vs-lowen-frankfurt",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Grizzlys Wolfsburg vs Straubing Tigers",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "grizzlys-wolfsburg-vs-straubing-tigers"
+        },
+        {
+          "title": "Adler Mannheim vs EHC München",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "adler-mannheim-vs-ehc-munchen"
+        }
+      ]
+    },
+    {
+      "title": "Adler Mannheim vs EHC München",
+      "time": "16:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma11211671/adler-mannheim_ehc-muenchen/info",
+      "slug": "adler-mannheim-vs-ehc-munchen",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Grizzlys Wolfsburg vs Straubing Tigers",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "grizzlys-wolfsburg-vs-straubing-tigers"
+        },
+        {
+          "title": "ERC Ingolstadt vs Löwen Frankfurt",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "erc-ingolstadt-vs-lowen-frankfurt"
+        }
+      ]
+    },
+    {
+      "title": "Kölner Haie vs Iserlohn Roosters",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma11211674/koelner-haie_iserlohn-roosters/info",
+      "slug": "kolner-haie-vs-iserlohn-roosters",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Eisbären Regensburg vs Bietigheim Steelers",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del-2/ma11210360/eisbaeren-regensburg_bietigheim-steelers/info",
+      "slug": "eisbaren-regensburg-vs-bietigheim-steelers",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Düsseldorfer EG vs Eispiraten Crimmitschau",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "dusseldorfer-eg-vs-eispiraten-crimmitschau"
+        },
+        {
+          "title": "Starbulls Rosenheim vs ESV Kaufbeuren",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "starbulls-rosenheim-vs-esv-kaufbeuren"
+        },
+        {
+          "title": "EV Landshut vs Krefeld Pinguine",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "ev-landshut-vs-krefeld-pinguine"
+        }
+      ]
+    },
+    {
+      "title": "Düsseldorfer EG vs Eispiraten Crimmitschau",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del-2/ma11210363/duesseldorfer-eg_eispiraten-crimmitschau/info",
+      "slug": "dusseldorfer-eg-vs-eispiraten-crimmitschau",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Eisbären Regensburg vs Bietigheim Steelers",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "eisbaren-regensburg-vs-bietigheim-steelers"
+        },
+        {
+          "title": "Starbulls Rosenheim vs ESV Kaufbeuren",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "starbulls-rosenheim-vs-esv-kaufbeuren"
+        },
+        {
+          "title": "EV Landshut vs Krefeld Pinguine",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "ev-landshut-vs-krefeld-pinguine"
+        }
+      ]
+    },
+    {
+      "title": "Starbulls Rosenheim vs ESV Kaufbeuren",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del-2/ma11210366/starbulls-rosenheim_esv-kaufbeuren/info",
+      "slug": "starbulls-rosenheim-vs-esv-kaufbeuren",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Eisbären Regensburg vs Bietigheim Steelers",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "eisbaren-regensburg-vs-bietigheim-steelers"
+        },
+        {
+          "title": "Düsseldorfer EG vs Eispiraten Crimmitschau",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "dusseldorfer-eg-vs-eispiraten-crimmitschau"
+        },
+        {
+          "title": "EV Landshut vs Krefeld Pinguine",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "ev-landshut-vs-krefeld-pinguine"
+        }
+      ]
+    },
+    {
+      "title": "EV Landshut vs Krefeld Pinguine",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del-2/ma11210369/ev-landshut_krefeld-pinguine/info",
+      "slug": "ev-landshut-vs-krefeld-pinguine",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Eisbären Regensburg vs Bietigheim Steelers",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "eisbaren-regensburg-vs-bietigheim-steelers"
+        },
+        {
+          "title": "Düsseldorfer EG vs Eispiraten Crimmitschau",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "dusseldorfer-eg-vs-eispiraten-crimmitschau"
+        },
+        {
+          "title": "Starbulls Rosenheim vs ESV Kaufbeuren",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "starbulls-rosenheim-vs-esv-kaufbeuren"
+        }
+      ]
+    },
+    {
+      "title": "EC Bad Nauheim vs Blue Devils Weiden",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del-2/ma11210372/ec-bad-nauheim_blue-devils-weiden/info",
+      "slug": "ec-bad-nauheim-vs-blue-devils-weiden",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "EHC Freiburg vs Lausitzer Füchse",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "ehc-freiburg-vs-lausitzer-fuchse"
+        },
+        {
+          "title": "Ravensburg Towerstars vs EC Kassel Huskies",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "ravensburg-towerstars-vs-ec-kassel-huskies"
+        }
+      ]
+    },
+    {
+      "title": "EHC Freiburg vs Lausitzer Füchse",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del-2/ma11210375/ehc-freiburg_lausitzer-fuechse/info",
+      "slug": "ehc-freiburg-vs-lausitzer-fuchse",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "EC Bad Nauheim vs Blue Devils Weiden",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "ec-bad-nauheim-vs-blue-devils-weiden"
+        },
+        {
+          "title": "Ravensburg Towerstars vs EC Kassel Huskies",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "ravensburg-towerstars-vs-ec-kassel-huskies"
+        }
+      ]
+    },
+    {
+      "title": "Ravensburg Towerstars vs EC Kassel Huskies",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del-2/ma11210378/ravensburg-towerstars_ec-kassel-huskies/info",
+      "slug": "ravensburg-towerstars-vs-ec-kassel-huskies",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "EC Bad Nauheim vs Blue Devils Weiden",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "ec-bad-nauheim-vs-blue-devils-weiden"
+        },
+        {
+          "title": "EHC Freiburg vs Lausitzer Füchse",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "ehc-freiburg-vs-lausitzer-fuchse"
+        }
+      ]
+    },
+    {
+      "title": "Mexiko vs Kolumbien",
+      "time": "03:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-freundschaft/ma11476937/mexiko_kolumbien/liveticker",
+      "slug": "mexiko-vs-kolumbien",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Malta vs Bosnien-Herzegowina",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-freundschaft/ma10979693/malta_bosnien-herzegowina/info",
+      "slug": "malta-vs-bosnien-herzegowina",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Burkina Faso vs Äthiopien",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-wm-quali-afrika/ma9943707/burkina-faso_aethiopien/info",
+      "slug": "burkina-faso-vs-athiopien",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Djibouti vs Sierra Leone",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "djibouti-vs-sierra-leone"
+        },
+        {
+          "title": "Ägypten vs Guinea-Bissau",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "agypten-vs-guinea-bissau"
+        },
+        {
+          "title": "Ghana vs Komoren",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "ghana-vs-komoren"
+        }
+      ]
+    },
+    {
+      "title": "Djibouti vs Sierra Leone",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-wm-quali-afrika/ma9943710/djibouti_sierra-leone/info",
+      "slug": "djibouti-vs-sierra-leone",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Burkina Faso vs Äthiopien",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "burkina-faso-vs-athiopien"
+        },
+        {
+          "title": "Ägypten vs Guinea-Bissau",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "agypten-vs-guinea-bissau"
+        },
+        {
+          "title": "Ghana vs Komoren",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "ghana-vs-komoren"
+        }
+      ]
+    },
+    {
+      "title": "Ägypten vs Guinea-Bissau",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-wm-quali-afrika/ma9943713/aegypten_guinea-bissau/info",
+      "slug": "agypten-vs-guinea-bissau",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Burkina Faso vs Äthiopien",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "burkina-faso-vs-athiopien"
+        },
+        {
+          "title": "Djibouti vs Sierra Leone",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "djibouti-vs-sierra-leone"
+        },
+        {
+          "title": "Ghana vs Komoren",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "ghana-vs-komoren"
+        }
+      ]
+    },
+    {
+      "title": "Sambia vs Niger",
+      "time": "15:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-wm-quali-afrika/ma9944484/sambia_niger/info",
+      "slug": "sambia-vs-niger",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "San Marino vs Zypern",
+          "time": "15:00",
+          "sender": "Sportschau Live",
+          "slug": "san-marino-vs-zypern"
+        }
+      ]
+    },
+    {
+      "title": "Tschad vs Zentralafr. Republik",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-wm-quali-afrika/ma9945000/tschad_zentralafr-republik/info",
+      "slug": "tschad-vs-zentralafr-republik",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Schottland vs Belarus",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "schottland-vs-belarus"
+        },
+        {
+          "title": "Niederlande vs Finnland",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "niederlande-vs-finnland"
+        },
+        {
+          "title": "Färöer vs Tschechien",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "faroer-vs-tschechien"
+        }
+      ]
+    },
+    {
+      "title": "Ghana vs Komoren",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-wm-quali-afrika/ma9944994/ghana_komoren/info",
+      "slug": "ghana-vs-komoren",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Burkina Faso vs Äthiopien",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "burkina-faso-vs-athiopien"
+        },
+        {
+          "title": "Djibouti vs Sierra Leone",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "djibouti-vs-sierra-leone"
+        },
+        {
+          "title": "Ägypten vs Guinea-Bissau",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "agypten-vs-guinea-bissau"
+        }
+      ]
+    },
+    {
+      "title": "Mali vs Madagaskar",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-wm-quali-afrika/ma9945003/mali_madagaskar/info",
+      "slug": "mali-vs-madagaskar",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Burkina Faso vs Äthiopien",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "burkina-faso-vs-athiopien"
+        },
+        {
+          "title": "Djibouti vs Sierra Leone",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "djibouti-vs-sierra-leone"
+        },
+        {
+          "title": "Ägypten vs Guinea-Bissau",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "agypten-vs-guinea-bissau"
+        }
+      ]
+    },
+    {
+      "title": "New York Jets vs Denver Broncos",
+      "time": "15:30",
+      "iso_time": "",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/football/usa-nfl/ma11089409/new-york-jets_denver-broncos/info",
+      "slug": "new-york-jets-vs-denver-broncos",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Indianapolis Colts vs Arizona Cardinals",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/football/usa-nfl/ma11091377/indianapolis-colts_arizona-cardinals/info",
+      "slug": "indianapolis-colts-vs-arizona-cardinals",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Jacksonville Jaguars vs Seattle Seahawks",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "jacksonville-jaguars-vs-seattle-seahawks"
+        },
+        {
+          "title": "New Orleans Saints vs New England Patriots",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "new-orleans-saints-vs-new-england-patriots"
+        },
+        {
+          "title": "Baltimore Ravens vs Los Angeles Rams",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "baltimore-ravens-vs-los-angeles-rams"
+        }
+      ]
+    },
+    {
+      "title": "Jacksonville Jaguars vs Seattle Seahawks",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/football/usa-nfl/ma11091380/jacksonville-jaguars_seattle-seahawks/info",
+      "slug": "jacksonville-jaguars-vs-seattle-seahawks",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Indianapolis Colts vs Arizona Cardinals",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "indianapolis-colts-vs-arizona-cardinals"
+        },
+        {
+          "title": "New Orleans Saints vs New England Patriots",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "new-orleans-saints-vs-new-england-patriots"
+        },
+        {
+          "title": "Baltimore Ravens vs Los Angeles Rams",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "baltimore-ravens-vs-los-angeles-rams"
+        }
+      ]
+    },
+    {
+      "title": "New Orleans Saints vs New England Patriots",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/football/usa-nfl/ma11091398/new-orleans-saints_new-england-patriots/info",
+      "slug": "new-orleans-saints-vs-new-england-patriots",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Indianapolis Colts vs Arizona Cardinals",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "indianapolis-colts-vs-arizona-cardinals"
+        },
+        {
+          "title": "Jacksonville Jaguars vs Seattle Seahawks",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "jacksonville-jaguars-vs-seattle-seahawks"
+        },
+        {
+          "title": "Baltimore Ravens vs Los Angeles Rams",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "baltimore-ravens-vs-los-angeles-rams"
+        }
+      ]
+    },
+    {
+      "title": "Baltimore Ravens vs Los Angeles Rams",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/football/usa-nfl/ma11091371/baltimore-ravens_los-angeles-rams/info",
+      "slug": "baltimore-ravens-vs-los-angeles-rams",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Indianapolis Colts vs Arizona Cardinals",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "indianapolis-colts-vs-arizona-cardinals"
+        },
+        {
+          "title": "Jacksonville Jaguars vs Seattle Seahawks",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "jacksonville-jaguars-vs-seattle-seahawks"
+        },
+        {
+          "title": "New Orleans Saints vs New England Patriots",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "new-orleans-saints-vs-new-england-patriots"
+        }
+      ]
+    },
+    {
+      "title": "Carolina Panthers vs Dallas Cowboys",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/football/usa-nfl/ma11091374/carolina-panthers_dallas-cowboys/info",
+      "slug": "carolina-panthers-vs-dallas-cowboys",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Indianapolis Colts vs Arizona Cardinals",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "indianapolis-colts-vs-arizona-cardinals"
+        },
+        {
+          "title": "Jacksonville Jaguars vs Seattle Seahawks",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "jacksonville-jaguars-vs-seattle-seahawks"
+        },
+        {
+          "title": "New Orleans Saints vs New England Patriots",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "new-orleans-saints-vs-new-england-patriots"
+        }
+      ]
+    },
+    {
+      "title": "Miami Dolphins vs Los Angeles Chargers",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/football/usa-nfl/ma11091383/miami-dolphins_los-angeles-chargers/info",
+      "slug": "miami-dolphins-vs-los-angeles-chargers",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Indianapolis Colts vs Arizona Cardinals",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "indianapolis-colts-vs-arizona-cardinals"
+        },
+        {
+          "title": "Jacksonville Jaguars vs Seattle Seahawks",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "jacksonville-jaguars-vs-seattle-seahawks"
+        },
+        {
+          "title": "New Orleans Saints vs New England Patriots",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "new-orleans-saints-vs-new-england-patriots"
+        }
+      ]
+    },
+    {
+      "title": "Pittsburgh Steelers vs Cleveland Browns",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/football/usa-nfl/ma11091386/pittsburgh-steelers_cleveland-browns/info",
+      "slug": "pittsburgh-steelers-vs-cleveland-browns",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Indianapolis Colts vs Arizona Cardinals",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "indianapolis-colts-vs-arizona-cardinals"
+        },
+        {
+          "title": "Jacksonville Jaguars vs Seattle Seahawks",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "jacksonville-jaguars-vs-seattle-seahawks"
+        },
+        {
+          "title": "New Orleans Saints vs New England Patriots",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "new-orleans-saints-vs-new-england-patriots"
+        }
+      ]
+    },
+    {
+      "title": "Las Vegas Raiders vs Tennessee Titans",
+      "time": "22:05",
+      "iso_time": "",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/football/usa-nfl/ma11091392/las-vegas-raiders_tennessee-titans/info",
+      "slug": "las-vegas-raiders-vs-tennessee-titans",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Tampa Bay Buccaneers vs San Francisco 49ers",
+      "time": "22:25",
+      "iso_time": "",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/football/usa-nfl/ma11091389/tampa-bay-buccaneers_san-francisco-49ers/info",
+      "slug": "tampa-bay-buccaneers-vs-san-francisco-49ers",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Green Bay Packers vs Cincinnati Bengals",
+          "time": "22:25",
+          "sender": "Sportschau Live",
+          "slug": "green-bay-packers-vs-cincinnati-bengals"
+        }
+      ]
+    },
+    {
+      "title": "Green Bay Packers vs Cincinnati Bengals",
+      "time": "22:25",
+      "iso_time": "",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/football/usa-nfl/ma11091395/green-bay-packers_cincinnati-bengals/info",
+      "slug": "green-bay-packers-vs-cincinnati-bengals",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Tampa Bay Buccaneers vs San Francisco 49ers",
+          "time": "22:25",
+          "sender": "Sportschau Live",
+          "slug": "tampa-bay-buccaneers-vs-san-francisco-49ers"
+        }
+      ]
+    },
+    {
+      "title": "Chicago Blackhawks vs Montréal Canadiens",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11412359/chicago-blackhawks_montreal-canadiens/info",
+      "slug": "chicago-blackhawks-vs-montreal-canadiens",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Boston Bruins vs Buffalo Sabres",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "boston-bruins-vs-buffalo-sabres"
+        },
+        {
+          "title": "Carolina Hurricanes vs Philadelphia Flyers",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "carolina-hurricanes-vs-philadelphia-flyers"
+        },
+        {
+          "title": "Detroit Red Wings vs Toronto Maple Leafs",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "detroit-red-wings-vs-toronto-maple-leafs"
+        }
+      ]
+    },
+    {
+      "title": "Boston Bruins vs Buffalo Sabres",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11412362/boston-bruins_buffalo-sabres/info",
+      "slug": "boston-bruins-vs-buffalo-sabres",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Chicago Blackhawks vs Montréal Canadiens",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "chicago-blackhawks-vs-montreal-canadiens"
+        },
+        {
+          "title": "Carolina Hurricanes vs Philadelphia Flyers",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "carolina-hurricanes-vs-philadelphia-flyers"
+        },
+        {
+          "title": "Detroit Red Wings vs Toronto Maple Leafs",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "detroit-red-wings-vs-toronto-maple-leafs"
+        }
+      ]
+    },
+    {
+      "title": "Carolina Hurricanes vs Philadelphia Flyers",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11412365/carolina-hurricanes_philadelphia-flyers/info",
+      "slug": "carolina-hurricanes-vs-philadelphia-flyers",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Chicago Blackhawks vs Montréal Canadiens",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "chicago-blackhawks-vs-montreal-canadiens"
+        },
+        {
+          "title": "Boston Bruins vs Buffalo Sabres",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "boston-bruins-vs-buffalo-sabres"
+        },
+        {
+          "title": "Detroit Red Wings vs Toronto Maple Leafs",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "detroit-red-wings-vs-toronto-maple-leafs"
+        }
+      ]
+    },
+    {
+      "title": "Detroit Red Wings vs Toronto Maple Leafs",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11412368/detroit-red-wings_toronto-maple-leafs/info",
+      "slug": "detroit-red-wings-vs-toronto-maple-leafs",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Chicago Blackhawks vs Montréal Canadiens",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "chicago-blackhawks-vs-montreal-canadiens"
+        },
+        {
+          "title": "Boston Bruins vs Buffalo Sabres",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "boston-bruins-vs-buffalo-sabres"
+        },
+        {
+          "title": "Carolina Hurricanes vs Philadelphia Flyers",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "carolina-hurricanes-vs-philadelphia-flyers"
+        }
+      ]
+    },
+    {
+      "title": "Florida Panthers vs Ottawa Senators",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11412371/florida-panthers_ottawa-senators/info",
+      "slug": "florida-panthers-vs-ottawa-senators",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Chicago Blackhawks vs Montréal Canadiens",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "chicago-blackhawks-vs-montreal-canadiens"
+        },
+        {
+          "title": "Boston Bruins vs Buffalo Sabres",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "boston-bruins-vs-buffalo-sabres"
+        },
+        {
+          "title": "Carolina Hurricanes vs Philadelphia Flyers",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "carolina-hurricanes-vs-philadelphia-flyers"
+        }
+      ]
+    },
+    {
+      "title": "New York Islanders vs Washington Capitals",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11412374/new-york-islanders_washington-capitals/info",
+      "slug": "new-york-islanders-vs-washington-capitals",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Chicago Blackhawks vs Montréal Canadiens",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "chicago-blackhawks-vs-montreal-canadiens"
+        },
+        {
+          "title": "Boston Bruins vs Buffalo Sabres",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "boston-bruins-vs-buffalo-sabres"
+        },
+        {
+          "title": "Carolina Hurricanes vs Philadelphia Flyers",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "carolina-hurricanes-vs-philadelphia-flyers"
+        }
+      ]
+    },
+    {
+      "title": "Pittsburgh Penguins vs New York Rangers",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11412377/pittsburgh-penguins_new-york-rangers/info",
+      "slug": "pittsburgh-penguins-vs-new-york-rangers",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Chicago Blackhawks vs Montréal Canadiens",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "chicago-blackhawks-vs-montreal-canadiens"
+        },
+        {
+          "title": "Boston Bruins vs Buffalo Sabres",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "boston-bruins-vs-buffalo-sabres"
+        },
+        {
+          "title": "Carolina Hurricanes vs Philadelphia Flyers",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "carolina-hurricanes-vs-philadelphia-flyers"
+        }
+      ]
+    },
+    {
+      "title": "Tampa Bay Lightning vs New Jersey Devils",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11412380/tampa-bay-lightning_new-jersey-devils/info",
+      "slug": "tampa-bay-lightning-vs-new-jersey-devils",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Chicago Blackhawks vs Montréal Canadiens",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "chicago-blackhawks-vs-montreal-canadiens"
+        },
+        {
+          "title": "Boston Bruins vs Buffalo Sabres",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "boston-bruins-vs-buffalo-sabres"
+        },
+        {
+          "title": "Carolina Hurricanes vs Philadelphia Flyers",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "carolina-hurricanes-vs-philadelphia-flyers"
+        }
+      ]
+    },
+    {
+      "title": "Minnesota Wild vs Columbus Blue Jackets",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11412383/minnesota-wild_columbus-blue-jackets/info",
+      "slug": "minnesota-wild-vs-columbus-blue-jackets",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Nashville Predators vs Utah Mammoth",
+          "time": "02:00",
+          "sender": "Sportschau Live",
+          "slug": "nashville-predators-vs-utah-mammoth"
+        }
+      ]
+    },
+    {
+      "title": "Nashville Predators vs Utah Mammoth",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11412386/nashville-predators_utah-mammoth/info",
+      "slug": "nashville-predators-vs-utah-mammoth",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Minnesota Wild vs Columbus Blue Jackets",
+          "time": "02:00",
+          "sender": "Sportschau Live",
+          "slug": "minnesota-wild-vs-columbus-blue-jackets"
+        }
+      ]
+    },
+    {
+      "title": "Colorado Avalanche vs Dallas Stars",
+      "time": "03:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11412389/colorado-avalanche_dallas-stars/info",
+      "slug": "colorado-avalanche-vs-dallas-stars",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "San Jose Sharks vs Anaheim Ducks",
+      "time": "04:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11412392/san-jose-sharks_anaheim-ducks/info",
+      "slug": "san-jose-sharks-vs-anaheim-ducks",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Seattle Kraken vs Vegas Golden Knights",
+          "time": "04:00",
+          "sender": "Sportschau Live",
+          "slug": "seattle-kraken-vs-vegas-golden-knights"
+        },
+        {
+          "title": "Edmonton Oilers vs Vancouver Canucks",
+          "time": "04:00",
+          "sender": "Sportschau Live",
+          "slug": "edmonton-oilers-vs-vancouver-canucks"
+        }
+      ]
+    },
+    {
+      "title": "Seattle Kraken vs Vegas Golden Knights",
+      "time": "04:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11412395/seattle-kraken_vegas-golden-knights/info",
+      "slug": "seattle-kraken-vs-vegas-golden-knights",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "San Jose Sharks vs Anaheim Ducks",
+          "time": "04:00",
+          "sender": "Sportschau Live",
+          "slug": "san-jose-sharks-vs-anaheim-ducks"
+        },
+        {
+          "title": "Edmonton Oilers vs Vancouver Canucks",
+          "time": "04:00",
+          "sender": "Sportschau Live",
+          "slug": "edmonton-oilers-vs-vancouver-canucks"
+        }
+      ]
+    },
+    {
+      "title": "Edmonton Oilers vs Vancouver Canucks",
+      "time": "04:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11412398/edmonton-oilers_vancouver-canucks/info",
+      "slug": "edmonton-oilers-vs-vancouver-canucks",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "San Jose Sharks vs Anaheim Ducks",
+          "time": "04:00",
+          "sender": "Sportschau Live",
+          "slug": "san-jose-sharks-vs-anaheim-ducks"
+        },
+        {
+          "title": "Seattle Kraken vs Vegas Golden Knights",
+          "time": "04:00",
+          "sender": "Sportschau Live",
+          "slug": "seattle-kraken-vs-vegas-golden-knights"
+        }
+      ]
+    },
+    {
+      "title": "Jessica Pegula vs Coco Gauff",
+      "time": "12:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-wuhan-tennis-open/ma11637541/jessica-pegula_coco-gauff/info",
+      "slug": "jessica-pegula-vs-coco-gauff",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Arthur Rinderknech vs Valentin Vacherot",
+      "time": "10:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-china-shanghai-atp-masters-1000/ma11637352/arthur-rinderknech_valentin-vacherot/info",
+      "slug": "arthur-rinderknech-vs-valentin-vacherot",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Xi'An Grand Prix | Viertelfinale",
+      "subtitle": "Mit Ronnie O'Sullivan u.a. | Xi'An",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:29",
+      "iso_time": "2025-10-12T01:29:24+02:00",
+      "link": "",
+      "slug": "xi-an-grand-prix-viertelfinale",
+      "related_events": []
+    },
+    {
+      "title": "Eurosport News",
+      "subtitle": "WM | Frauen",
+      "sport": "Gravel",
+      "sport_slug": "gravel",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:01",
+      "iso_time": "2025-10-12T03:01:46.680000+02:00",
+      "link": "",
+      "slug": "eurosport-news",
+      "related_events": []
+    },
+    {
+      "title": "Lombardei-Rundfahrt",
+      "subtitle": "UCI World Tour | Männer | Como - Bergamo (238km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:29",
+      "iso_time": "2025-10-12T03:29:37.440000+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/91aba66d-5ec7-51a2-83b1-f3bb4c7d08df?utm_source=universal_search",
+      "slug": "lombardei-rundfahrt",
+      "related_events": []
+    },
+    {
+      "title": "Großer Preis von Zhengzhou | Rennen",
+      "subtitle": "WM | Zhengzhou | Englischer Kommentar",
+      "sport": "Powerboat racing",
+      "sport_slug": "powerboat-racing",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:00",
+      "iso_time": "2025-10-12T04:00:05.280000+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/e6a00a0d-6ae9-5d42-8a27-53a94c3e1098?utm_source=universal_search",
+      "slug": "grosser-preis-von-zhengzhou-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Golden Trail World Series Final | Trentino",
+      "subtitle": "Italien | Frauen",
+      "sport": "Trail Running",
+      "sport_slug": "trail-running",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:55",
+      "iso_time": "2025-10-12T04:55:38.440000+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/9e0e82bd-f911-53bf-91e9-35aeb4bb663f?utm_source=universal_search",
+      "slug": "golden-trail-world-series-final-trentino",
+      "related_events": []
+    },
+    {
+      "title": "WM | Highlights",
+      "subtitle": "Tokio",
+      "sport": "Leichtathletik",
+      "sport_slug": "leichtathletik",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:55",
+      "iso_time": "2025-10-12T05:55:10.200000+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/b6b12c32-6fbf-5c2c-b9b5-b021b7310b71?utm_source=universal_search",
+      "slug": "wm-highlights",
+      "related_events": []
+    },
+    {
+      "title": "FIA WEC | 6h von Fuji | Highlights",
+      "subtitle": "Langstrecken-WM | 7. Station",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:48",
+      "iso_time": "2025-10-12T06:48:21.840000+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/76796cb2-3fe7-5dea-824e-47cc44795dc4?utm_source=universal_search",
+      "slug": "fia-wec-6h-von-fuji-highlights",
+      "related_events": []
+    },
+    {
+      "title": "UCI Downhill Weltcup | Mont-Sainte-Anne | Männer Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:41",
+      "iso_time": "2025-10-12T07:41:39.520000+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/30e7edf1-ceec-5ed1-9d56-05e87765e1c1?utm_source=universal_search",
+      "slug": "uci-downhill-weltcup-mont-sainte-anne-manner-elite",
+      "related_events": [
+        {
+          "title": "Roc d'Azur",
+          "time": "08:25",
+          "sender": "Eurosport",
+          "slug": "roc-d-azur"
+        }
+      ]
+    },
+    {
+      "title": "Unlock the Power of Sport",
+      "subtitle": "Magazin | Deutscher Kommentar",
+      "sport": "Alle Sportarten",
+      "sport_slug": "alle-sportarten",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:45",
+      "iso_time": "2025-10-12T07:45:52+02:00",
+      "link": "",
+      "slug": "unlock-the-power-of-sport",
+      "related_events": []
+    },
+    {
+      "title": "Xi'an Grand Prix | Halbfinale",
+      "subtitle": "| Xi'an",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:55",
+      "iso_time": "2025-10-12T07:55:38.400000+02:00",
+      "link": "",
+      "slug": "xi-an-grand-prix-halbfinale",
+      "related_events": [
+        {
+          "title": "Mark Williams - Daniel Wells",
+          "time": "08:00",
+          "sender": "Eurosport",
+          "slug": "mark-williams-daniel-wells"
+        }
+      ]
+    },
+    {
+      "title": "Mark Williams - Daniel Wells",
+      "subtitle": "Xi'an Grand Prix | Halbfinale | Xi'an",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:00",
+      "iso_time": "2025-10-12T08:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/5f72efc3-4aef-567d-9cad-a45531b93cad?utm_source=universal_search",
+      "slug": "mark-williams-daniel-wells",
+      "related_events": [
+        {
+          "title": "Xi'an Grand Prix | Halbfinale",
+          "time": "07:55",
+          "sender": "Eurosport",
+          "slug": "xi-an-grand-prix-halbfinale"
+        }
+      ]
+    },
+    {
+      "title": "Roc d'Azur",
+      "subtitle": "Fréjus | Männer / Frauen | Englischer Kommentar",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:25",
+      "iso_time": "2025-10-12T08:25:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/e794eead-bdfc-5001-be6e-f14126a3bd57?utm_source=universal_search",
+      "slug": "roc-d-azur",
+      "related_events": [
+        {
+          "title": "UCI Downhill Weltcup | Mont-Sainte-Anne | Männer Elite",
+          "time": "07:41",
+          "sender": "Eurosport",
+          "slug": "uci-downhill-weltcup-mont-sainte-anne-manner-elite"
+        },
+        {
+          "title": "Grit and Glory",
+          "time": "10:56",
+          "sender": "Eurosport",
+          "slug": "grit-and-glory"
+        }
+      ]
+    },
+    {
+      "title": "Lombardei-Rundfahrt",
+      "subtitle": "UCI World Tour | Männer | Como - Bergamo (238km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:45",
+      "iso_time": "2025-10-12T08:45:49.280000+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/a2683a32-05c0-5a86-9f0a-1008a06f0513?utm_source=universal_search",
+      "slug": "lombardei-rundfahrt",
+      "related_events": []
+    },
+    {
+      "title": "Yamaha R3 FIM World Cup | Portugal | 2. Rennen",
+      "subtitle": "Markenpokal | Estoril | Englischer Kommentar",
+      "sport": "Motorrad",
+      "sport_slug": "motorrad",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:55",
+      "iso_time": "2025-10-12T10:55:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/b4a51342-cfff-500c-b0ad-86894d195588?utm_source=universal_search",
+      "slug": "yamaha-r3-fim-world-cup-portugal-2-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Grit and Glory",
+      "subtitle": "Enduro-Mountainbike-Magazin | Folge 1",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:56",
+      "iso_time": "2025-10-12T10:56:45.520000+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/4120a554-8195-5ed9-8aab-a4be3759825f?utm_source=universal_search",
+      "slug": "grit-and-glory",
+      "related_events": [
+        {
+          "title": "Roc d'Azur",
+          "time": "08:25",
+          "sender": "Eurosport",
+          "slug": "roc-d-azur"
+        },
+        {
+          "title": "UCI Downhill Weltcup | Mont-Sainte-Anne | Frauen Elite",
+          "time": "11:26",
+          "sender": "Eurosport",
+          "slug": "uci-downhill-weltcup-mont-sainte-anne-frauen-elite"
+        },
+        {
+          "title": "UCI Downhill Weltcup | Mont-Sainte-Anne | Männer Elite",
+          "time": "12:28",
+          "sender": "Eurosport",
+          "slug": "uci-downhill-weltcup-mont-sainte-anne-manner-elite"
+        }
+      ]
+    },
+    {
+      "title": "Lombardei-Rundfahrt",
+      "subtitle": "UCI World Tour | Männer | Como - Bergamo (238km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:25",
+      "iso_time": "2025-10-12T11:25:04.280000+02:00",
+      "link": "",
+      "slug": "lombardei-rundfahrt",
+      "related_events": [
+        {
+          "title": "Trofeo Tessile & Moda - Valdengo Oropa",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "trofeo-tessile-moda-valdengo-oropa"
+        }
+      ]
+    },
+    {
+      "title": "UCI Downhill Weltcup | Mont-Sainte-Anne | Frauen Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:26",
+      "iso_time": "2025-10-12T11:26:01.760000+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/80788703-323e-5f94-8737-1144c9c78cc3?utm_source=universal_search",
+      "slug": "uci-downhill-weltcup-mont-sainte-anne-frauen-elite",
+      "related_events": [
+        {
+          "title": "Grit and Glory",
+          "time": "10:56",
+          "sender": "Eurosport",
+          "slug": "grit-and-glory"
+        },
+        {
+          "title": "UCI Downhill Weltcup | Mont-Sainte-Anne | Männer Elite",
+          "time": "12:28",
+          "sender": "Eurosport",
+          "slug": "uci-downhill-weltcup-mont-sainte-anne-manner-elite"
+        }
+      ]
+    },
+    {
+      "title": "WorldSBK | Portugal | Superpole",
+      "subtitle": "Superbike-WM | Estoril | Englischer Kommentar",
+      "sport": "Superbike",
+      "sport_slug": "superbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:45",
+      "iso_time": "2025-10-12T11:45:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/95d42317-87e1-53de-889f-2cfc36f4ed12?utm_source=universal_search",
+      "slug": "worldsbk-portugal-superpole",
+      "related_events": [
+        {
+          "title": "WorldSSP | Portugal | 2. Rennen",
+          "time": "13:20",
+          "sender": "Eurosport",
+          "slug": "worldssp-portugal-2-rennen"
+        },
+        {
+          "title": "WorldSBK | Portugal | 2. Rennen",
+          "time": "14:35",
+          "sender": "Eurosport",
+          "slug": "worldsbk-portugal-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Golden Trail World Series Final | Trentino",
+      "subtitle": "Italien | Männer",
+      "sport": "Trail Running",
+      "sport_slug": "trail-running",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:48",
+      "iso_time": "2025-10-12T11:48:04.280000+02:00",
+      "link": "",
+      "slug": "golden-trail-world-series-final-trentino",
+      "related_events": []
+    },
+    {
+      "title": "Golden Trail World Series Final | Trentino",
+      "subtitle": "Italien | Männer",
+      "sport": "Trail Running",
+      "sport_slug": "trail-running",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:50",
+      "iso_time": "2025-10-12T11:50:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/8b753589-936c-52bb-939d-e3a327a48f35?utm_source=universal_search",
+      "slug": "golden-trail-world-series-final-trentino",
+      "related_events": []
+    },
+    {
+      "title": "UCI Downhill Weltcup | Mont-Sainte-Anne | Männer Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:28",
+      "iso_time": "2025-10-12T12:28:56.920000+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/c5dcfbdc-e5f6-5a60-85d5-b940df791fd3?utm_source=universal_search",
+      "slug": "uci-downhill-weltcup-mont-sainte-anne-manner-elite",
+      "related_events": [
+        {
+          "title": "Grit and Glory",
+          "time": "10:56",
+          "sender": "Eurosport",
+          "slug": "grit-and-glory"
+        },
+        {
+          "title": "UCI Downhill Weltcup | Mont-Sainte-Anne | Frauen Elite",
+          "time": "11:26",
+          "sender": "Eurosport",
+          "slug": "uci-downhill-weltcup-mont-sainte-anne-frauen-elite"
+        }
+      ]
+    },
+    {
+      "title": "WorldSSP | Portugal | 2. Rennen",
+      "subtitle": "Supersport-WM | Estoril",
+      "sport": "Superbike",
+      "sport_slug": "superbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:20",
+      "iso_time": "2025-10-12T13:20:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/10925618-6519-5755-a3ac-817006084d55?utm_source=universal_search",
+      "slug": "worldssp-portugal-2-rennen",
+      "related_events": [
+        {
+          "title": "WorldSBK | Portugal | Superpole",
+          "time": "11:45",
+          "sender": "Eurosport",
+          "slug": "worldsbk-portugal-superpole"
+        },
+        {
+          "title": "WorldSBK | Portugal | 2. Rennen",
+          "time": "14:35",
+          "sender": "Eurosport",
+          "slug": "worldsbk-portugal-2-rennen"
+        },
+        {
+          "title": "WorldSSP300 | Portugal | 2. Rennen",
+          "time": "16:05",
+          "sender": "Eurosport",
+          "slug": "worldssp300-portugal-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "WM | Frauen Elite",
+      "subtitle": "Zuid-Limburg | Beek - Maastricht (131km)",
+      "sport": "Gravel",
+      "sport_slug": "gravel",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:27",
+      "iso_time": "2025-10-12T13:27:19.240000+02:00",
+      "link": "",
+      "slug": "wm-frauen-elite",
+      "related_events": [
+        {
+          "title": "WM | Männer Elite",
+          "time": "14:13",
+          "sender": "Eurosport",
+          "slug": "wm-manner-elite"
+        },
+        {
+          "title": "WM | Männer Elite",
+          "time": "14:15",
+          "sender": "Eurosport",
+          "slug": "wm-manner-elite"
+        }
+      ]
+    },
+    {
+      "title": "Shaun Murphy - Gary Wilson",
+      "subtitle": "Xi'an Grand Prix | Halbfinale | Xi'an",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:30",
+      "iso_time": "2025-10-12T13:30:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/f28d6833-572a-58ca-b7de-443cfc196e28?utm_source=universal_search",
+      "slug": "shaun-murphy-gary-wilson",
+      "related_events": [
+        {
+          "title": "Xi'an Grand Prix | Halbfinale",
+          "time": "14:20",
+          "sender": "Eurosport",
+          "slug": "xi-an-grand-prix-halbfinale"
+        }
+      ]
+    },
+    {
+      "title": "Global Champions Tour | Rom",
+      "subtitle": "Springreiten | 14. Station | Englischer Kommentar",
+      "sport": "Reitsport",
+      "sport_slug": "reitsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:32",
+      "iso_time": "2025-10-12T13:32:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/da056bae-2659-5a55-a189-2c5af5aa8bfb?utm_source=universal_search",
+      "slug": "global-champions-tour-rom",
+      "related_events": []
+    },
+    {
+      "title": "Trofeo Tessile & Moda - Valdengo Oropa",
+      "subtitle": "UCI Europe Tour | Männer | Englischer Kommentar",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:00",
+      "iso_time": "2025-10-12T14:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/c8bae4c6-9ca7-5f20-a3da-ad604cece05f?utm_source=universal_search",
+      "slug": "trofeo-tessile-moda-valdengo-oropa",
+      "related_events": [
+        {
+          "title": "Lombardei-Rundfahrt",
+          "time": "11:25",
+          "sender": "Eurosport",
+          "slug": "lombardei-rundfahrt"
+        },
+        {
+          "title": "Paris-Tours",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "paris-tours"
+        },
+        {
+          "title": "Trofeo Tessile & Moda Donne - Comune di Valdengo",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "trofeo-tessile-moda-donne-comune-di-valdengo"
+        }
+      ]
+    },
+    {
+      "title": "WM | Männer Elite",
+      "subtitle": "Zuid-Limburg | Beek - Maastricht (180km)",
+      "sport": "Gravel",
+      "sport_slug": "gravel",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:13",
+      "iso_time": "2025-10-12T14:13:13.920000+02:00",
+      "link": "",
+      "slug": "wm-manner-elite",
+      "related_events": [
+        {
+          "title": "WM | Frauen Elite",
+          "time": "13:27",
+          "sender": "Eurosport",
+          "slug": "wm-frauen-elite"
+        }
+      ]
+    },
+    {
+      "title": "Chicago-Marathon",
+      "subtitle": "47. Austragung | Original Sound",
+      "sport": "Leichtathletik",
+      "sport_slug": "leichtathletik",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:15",
+      "iso_time": "2025-10-12T14:15:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/8c7cad89-5cf7-58e7-9b92-fc09261dd076?utm_source=universal_search",
+      "slug": "chicago-marathon",
+      "related_events": []
+    },
+    {
+      "title": "WM | Männer Elite",
+      "subtitle": "Zuid-Limburg | Beek - Maastricht (180km)",
+      "sport": "Gravel",
+      "sport_slug": "gravel",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:15",
+      "iso_time": "2025-10-12T14:15:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/0cb11508-151e-51e5-8702-1111ecdbd13c?utm_source=universal_search",
+      "slug": "wm-manner-elite",
+      "related_events": [
+        {
+          "title": "WM | Frauen Elite",
+          "time": "13:27",
+          "sender": "Eurosport",
+          "slug": "wm-frauen-elite"
+        }
+      ]
+    },
+    {
+      "title": "Xi'an Grand Prix | Halbfinale",
+      "subtitle": "| Xi'an",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:20",
+      "iso_time": "2025-10-12T14:20:00+02:00",
+      "link": "",
+      "slug": "xi-an-grand-prix-halbfinale",
+      "related_events": [
+        {
+          "title": "Shaun Murphy - Gary Wilson",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "shaun-murphy-gary-wilson"
+        }
+      ]
+    },
+    {
+      "title": "WorldSBK | Portugal | 2. Rennen",
+      "subtitle": "Superbike-WM | Estoril",
+      "sport": "Superbike",
+      "sport_slug": "superbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:35",
+      "iso_time": "2025-10-12T14:35:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/179ed4b9-1634-57da-a1ad-3cfb1eb4ba41?utm_source=universal_search",
+      "slug": "worldsbk-portugal-2-rennen",
+      "related_events": [
+        {
+          "title": "WorldSBK | Portugal | Superpole",
+          "time": "11:45",
+          "sender": "Eurosport",
+          "slug": "worldsbk-portugal-superpole"
+        },
+        {
+          "title": "WorldSSP | Portugal | 2. Rennen",
+          "time": "13:20",
+          "sender": "Eurosport",
+          "slug": "worldssp-portugal-2-rennen"
+        },
+        {
+          "title": "WorldSSP300 | Portugal | 2. Rennen",
+          "time": "16:05",
+          "sender": "Eurosport",
+          "slug": "worldssp300-portugal-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Paris-Tours",
+      "subtitle": "UCI Pro Series | Männer | Chartres - Tours (212km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:00",
+      "iso_time": "2025-10-12T15:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/40a3b883-be54-590d-bd73-f266d9726cf4?utm_source=universal_search",
+      "slug": "paris-tours",
+      "related_events": [
+        {
+          "title": "Trofeo Tessile & Moda - Valdengo Oropa",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "trofeo-tessile-moda-valdengo-oropa"
+        },
+        {
+          "title": "Trofeo Tessile & Moda Donne - Comune di Valdengo",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "trofeo-tessile-moda-donne-comune-di-valdengo"
+        },
+        {
+          "title": "Lombardei-Rundfahrt",
+          "time": "17:15",
+          "sender": "Eurosport",
+          "slug": "lombardei-rundfahrt"
+        }
+      ]
+    },
+    {
+      "title": "Trofeo Tessile & Moda Donne - Comune di Valdengo",
+      "subtitle": "UCI Women Elite | Frauen | Englischer Kommentar",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2025-10-12T16:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/3dc2098f-b290-5e7a-941e-d70ba98c61c6?utm_source=universal_search",
+      "slug": "trofeo-tessile-moda-donne-comune-di-valdengo",
+      "related_events": [
+        {
+          "title": "Trofeo Tessile & Moda - Valdengo Oropa",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "trofeo-tessile-moda-valdengo-oropa"
+        },
+        {
+          "title": "Paris-Tours",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "paris-tours"
+        },
+        {
+          "title": "Paris-Tours",
+          "time": "16:15",
+          "sender": "Eurosport",
+          "slug": "paris-tours"
+        }
+      ]
+    },
+    {
+      "title": "WorldSSP300 | Portugal | 2. Rennen",
+      "subtitle": "Supersport-300-WM | Estoril | Englischer Kommentar",
+      "sport": "Superbike",
+      "sport_slug": "superbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:05",
+      "iso_time": "2025-10-12T16:05:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/56cfba00-0a34-586b-b86c-b88db6dae8fd?utm_source=universal_search",
+      "slug": "worldssp300-portugal-2-rennen",
+      "related_events": [
+        {
+          "title": "WorldSSP | Portugal | 2. Rennen",
+          "time": "13:20",
+          "sender": "Eurosport",
+          "slug": "worldssp-portugal-2-rennen"
+        },
+        {
+          "title": "WorldSBK | Portugal | 2. Rennen",
+          "time": "14:35",
+          "sender": "Eurosport",
+          "slug": "worldsbk-portugal-2-rennen"
+        },
+        {
+          "title": "WorldSSP | Portugal | 2. Rennen",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "worldssp-portugal-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Paris-Tours",
+      "subtitle": "UCI Pro Series | Männer | Chartres - Tours (212km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:15",
+      "iso_time": "2025-10-12T16:15:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/d46f8fca-a9de-5c9b-b8fe-4d79b2a100b6?utm_source=universal_search",
+      "slug": "paris-tours",
+      "related_events": [
+        {
+          "title": "Trofeo Tessile & Moda - Valdengo Oropa",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "trofeo-tessile-moda-valdengo-oropa"
+        },
+        {
+          "title": "Trofeo Tessile & Moda Donne - Comune di Valdengo",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "trofeo-tessile-moda-donne-comune-di-valdengo"
+        },
+        {
+          "title": "Lombardei-Rundfahrt",
+          "time": "17:15",
+          "sender": "Eurosport",
+          "slug": "lombardei-rundfahrt"
+        }
+      ]
+    },
+    {
+      "title": "Xi'an Grand Prix | Halbfinale",
+      "subtitle": "| Xi'an",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2025-10-12T17:00:00+02:00",
+      "link": "",
+      "slug": "xi-an-grand-prix-halbfinale",
+      "related_events": []
+    },
+    {
+      "title": "Lombardei-Rundfahrt",
+      "subtitle": "UCI World Tour | Männer | Como - Bergamo (238km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:15",
+      "iso_time": "2025-10-12T17:15:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/8ee97e5d-7b55-5477-afb4-07de35a72dcb?utm_source=universal_search",
+      "slug": "lombardei-rundfahrt",
+      "related_events": [
+        {
+          "title": "Paris-Tours",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "paris-tours"
+        },
+        {
+          "title": "Trofeo Tessile & Moda Donne - Comune di Valdengo",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "trofeo-tessile-moda-donne-comune-di-valdengo"
+        },
+        {
+          "title": "Paris-Tours",
+          "time": "16:15",
+          "sender": "Eurosport",
+          "slug": "paris-tours"
+        }
+      ]
+    },
+    {
+      "title": "WorldSSP | Portugal | 2. Rennen",
+      "subtitle": "Supersport-WM | Estoril",
+      "sport": "Superbike",
+      "sport_slug": "superbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2025-10-12T18:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/283cb145-e340-5ae5-87a0-71157997d7e5?utm_source=universal_search",
+      "slug": "worldssp-portugal-2-rennen",
+      "related_events": [
+        {
+          "title": "WorldSSP300 | Portugal | 2. Rennen",
+          "time": "16:05",
+          "sender": "Eurosport",
+          "slug": "worldssp300-portugal-2-rennen"
+        },
+        {
+          "title": "WorldSBK | Portugal | 2. Rennen",
+          "time": "19:00",
+          "sender": "Eurosport",
+          "slug": "worldsbk-portugal-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "WM | Männer Elite",
+      "subtitle": "Zuid-Limburg | Beek - Maastricht (180km)",
+      "sport": "Gravel",
+      "sport_slug": "gravel",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:15",
+      "iso_time": "2025-10-12T18:15:00+02:00",
+      "link": "",
+      "slug": "wm-manner-elite",
+      "related_events": []
+    },
+    {
+      "title": "WorldSBK | Portugal | 2. Rennen",
+      "subtitle": "Superbike-WM | Estoril",
+      "sport": "Superbike",
+      "sport_slug": "superbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2025-10-12T19:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/5171cd74-54b9-5fca-a4dd-ed97c0f9855b?utm_source=universal_search",
+      "slug": "worldsbk-portugal-2-rennen",
+      "related_events": [
+        {
+          "title": "WorldSSP300 | Portugal | 2. Rennen",
+          "time": "16:05",
+          "sender": "Eurosport",
+          "slug": "worldssp300-portugal-2-rennen"
+        },
+        {
+          "title": "WorldSSP | Portugal | 2. Rennen",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "worldssp-portugal-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "UCI XCO Weltcup | Mont-Sainte-Anne | Frauen Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Olympic",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:15",
+      "iso_time": "2025-10-12T19:15:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/bbbaebf9-b304-502e-b344-68f514c93963?utm_source=universal_search",
+      "slug": "uci-xco-weltcup-mont-sainte-anne-frauen-elite",
+      "related_events": [
+        {
+          "title": "UCI Downhill Weltcup | Mont-Sainte-Anne | Männer Elite",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "uci-downhill-weltcup-mont-sainte-anne-manner-elite"
+        },
+        {
+          "title": "UCI XCO Weltcup | Mont-Sainte-Anne | Männer Elite",
+          "time": "21:15",
+          "sender": "Eurosport",
+          "slug": "uci-xco-weltcup-mont-sainte-anne-manner-elite"
+        },
+        {
+          "title": "UCI XCO Weltcup | Mont-Sainte-Anne | Männer Elite",
+          "time": "21:15",
+          "sender": "Eurosport",
+          "slug": "uci-xco-weltcup-mont-sainte-anne-manner-elite"
+        }
+      ]
+    },
+    {
+      "title": "UCI XCO Weltcup | Mont-Sainte-Anne | Frauen Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Olympic",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:15",
+      "iso_time": "2025-10-12T19:15:00+02:00",
+      "link": "",
+      "slug": "uci-xco-weltcup-mont-sainte-anne-frauen-elite",
+      "related_events": [
+        {
+          "title": "UCI Downhill Weltcup | Mont-Sainte-Anne | Männer Elite",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "uci-downhill-weltcup-mont-sainte-anne-manner-elite"
+        },
+        {
+          "title": "UCI XCO Weltcup | Mont-Sainte-Anne | Männer Elite",
+          "time": "21:15",
+          "sender": "Eurosport",
+          "slug": "uci-xco-weltcup-mont-sainte-anne-manner-elite"
+        },
+        {
+          "title": "UCI XCO Weltcup | Mont-Sainte-Anne | Männer Elite",
+          "time": "21:15",
+          "sender": "Eurosport",
+          "slug": "uci-xco-weltcup-mont-sainte-anne-manner-elite"
+        }
+      ]
+    },
+    {
+      "title": "World Tour | Montreal",
+      "subtitle": "1. Station | Tag 2 | Original Sound",
+      "sport": "Shorttrack",
+      "sport_slug": "shorttrack",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:30",
+      "iso_time": "2025-10-12T19:30:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/87e5c53e-079e-5c1e-890e-26efef0cb6d0?utm_source=universal_search",
+      "slug": "world-tour-montreal",
+      "related_events": []
+    },
+    {
+      "title": "Global Champions Tour | Rom",
+      "subtitle": "Springreiten | 14. Station",
+      "sport": "Reitsport",
+      "sport_slug": "reitsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2025-10-12T20:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/828ae8a3-4a16-5bd0-8c08-81a7e6224874?utm_source=universal_search",
+      "slug": "global-champions-tour-rom",
+      "related_events": []
+    },
+    {
+      "title": "UCI Downhill Weltcup | Mont-Sainte-Anne | Männer Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2025-10-12T21:00:00+02:00",
+      "link": "",
+      "slug": "uci-downhill-weltcup-mont-sainte-anne-manner-elite",
+      "related_events": [
+        {
+          "title": "UCI XCO Weltcup | Mont-Sainte-Anne | Frauen Elite",
+          "time": "19:15",
+          "sender": "Eurosport",
+          "slug": "uci-xco-weltcup-mont-sainte-anne-frauen-elite"
+        },
+        {
+          "title": "UCI XCO Weltcup | Mont-Sainte-Anne | Frauen Elite",
+          "time": "19:15",
+          "sender": "Eurosport",
+          "slug": "uci-xco-weltcup-mont-sainte-anne-frauen-elite"
+        },
+        {
+          "title": "UCI XCO Weltcup | Mont-Sainte-Anne | Männer Elite",
+          "time": "21:15",
+          "sender": "Eurosport",
+          "slug": "uci-xco-weltcup-mont-sainte-anne-manner-elite"
+        }
+      ]
+    },
+    {
+      "title": "UCI XCO Weltcup | Mont-Sainte-Anne | Männer Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Olympic",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:15",
+      "iso_time": "2025-10-12T21:15:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/db570ff5-9af2-553d-945a-b1feed2f4897?utm_source=universal_search",
+      "slug": "uci-xco-weltcup-mont-sainte-anne-manner-elite",
+      "related_events": [
+        {
+          "title": "UCI XCO Weltcup | Mont-Sainte-Anne | Frauen Elite",
+          "time": "19:15",
+          "sender": "Eurosport",
+          "slug": "uci-xco-weltcup-mont-sainte-anne-frauen-elite"
+        },
+        {
+          "title": "UCI XCO Weltcup | Mont-Sainte-Anne | Frauen Elite",
+          "time": "19:15",
+          "sender": "Eurosport",
+          "slug": "uci-xco-weltcup-mont-sainte-anne-frauen-elite"
+        },
+        {
+          "title": "UCI Downhill Weltcup | Mont-Sainte-Anne | Männer Elite",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "uci-downhill-weltcup-mont-sainte-anne-manner-elite"
+        }
+      ]
+    },
+    {
+      "title": "UCI XCO Weltcup | Mont-Sainte-Anne | Männer Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Olympic",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:15",
+      "iso_time": "2025-10-12T21:15:00+02:00",
+      "link": "",
+      "slug": "uci-xco-weltcup-mont-sainte-anne-manner-elite",
+      "related_events": [
+        {
+          "title": "UCI XCO Weltcup | Mont-Sainte-Anne | Frauen Elite",
+          "time": "19:15",
+          "sender": "Eurosport",
+          "slug": "uci-xco-weltcup-mont-sainte-anne-frauen-elite"
+        },
+        {
+          "title": "UCI XCO Weltcup | Mont-Sainte-Anne | Frauen Elite",
+          "time": "19:15",
+          "sender": "Eurosport",
+          "slug": "uci-xco-weltcup-mont-sainte-anne-frauen-elite"
+        },
+        {
+          "title": "UCI Downhill Weltcup | Mont-Sainte-Anne | Männer Elite",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "uci-downhill-weltcup-mont-sainte-anne-manner-elite"
+        }
+      ]
+    },
+    {
+      "title": "Chicago-Marathon",
+      "subtitle": "47. Austragung | Original Sound",
+      "sport": "Leichtathletik",
+      "sport_slug": "leichtathletik",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2025-10-12T22:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/b946bca9-883e-5a81-a080-0b9aa3ae1a92?utm_source=universal_search",
+      "slug": "chicago-marathon",
+      "related_events": []
+    },
+    {
+      "title": "Paris-Tours",
+      "subtitle": "UCI Pro Series | Männer | Chartres - Tours (212km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:15",
+      "iso_time": "2025-10-12T23:15:00+02:00",
+      "link": "",
+      "slug": "paris-tours",
+      "related_events": []
+    },
+    {
+      "title": "Paris-Tours",
+      "subtitle": "UCI Pro Series | Männer | Chartres - Tours (212km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2025-10-13T00:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/1ef24295-355a-56d2-96db-b00815a3b973?utm_source=universal_search",
+      "slug": "paris-tours",
+      "related_events": []
+    },
+    {
+      "title": "Xi'an Grand Prix | Halbfinale",
+      "subtitle": "| Xi'an",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2025-10-13T00:00:00+02:00",
+      "link": "",
+      "slug": "xi-an-grand-prix-halbfinale",
+      "related_events": []
+    },
+    {
+      "title": "Xi'an Grand Prix | Halbfinale",
+      "subtitle": "| Xi'an",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:30",
+      "iso_time": "2025-10-13T01:30:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/27b45d36-e281-5fe5-a59f-cb23f09c7e7c?utm_source=universal_search",
+      "slug": "xi-an-grand-prix-halbfinale",
+      "related_events": []
+    }
+  ]
+}
