@@ -1,0 +1,2044 @@
+{
+  "date": "2025-10-16",
+  "events": [
+    {
+      "title": "1. FC Köln vs Bayer Leverkusen",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga-frauen/ma11376125/1-fc-koeln_bayer-leverkusen/info",
+      "slug": "1-fc-koln-vs-bayer-leverkusen",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Atlético Madrid vs Manchester United WFC",
+      "time": "18:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-frauen/ma11623463/atletico-madrid_manchester-united-wfc/info",
+      "slug": "atletico-madrid-vs-manchester-united-wfc",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Bayern München vs Juventus",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-frauen/ma11623256/bayern-muenchen_juventus/info",
+      "slug": "bayern-munchen-vs-juventus",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "SL Benfica vs Arsenal WFC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "sl-benfica-vs-arsenal-wfc"
+        },
+        {
+          "title": "Paris Saint-Germain vs Real Madrid",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "paris-saint-germain-vs-real-madrid"
+        }
+      ]
+    },
+    {
+      "title": "SL Benfica vs Arsenal WFC",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-frauen/ma11623322/sl-benfica_arsenal-wfc/info",
+      "slug": "sl-benfica-vs-arsenal-wfc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Bayern München vs Juventus",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "bayern-munchen-vs-juventus"
+        },
+        {
+          "title": "Paris Saint-Germain vs Real Madrid",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "paris-saint-germain-vs-real-madrid"
+        }
+      ]
+    },
+    {
+      "title": "Paris Saint-Germain vs Real Madrid",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-frauen/ma11623358/paris-saint-germain_real-madrid/info",
+      "slug": "paris-saint-germain-vs-real-madrid",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Bayern München vs Juventus",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "bayern-munchen-vs-juventus"
+        },
+        {
+          "title": "SL Benfica vs Arsenal WFC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "sl-benfica-vs-arsenal-wfc"
+        }
+      ]
+    },
+    {
+      "title": "Argentinien vs Kolumbien",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-u20-wm/ma11108373/argentinien_kolumbien/liveticker",
+      "slug": "argentinien-vs-kolumbien",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "TBV Lemgo Lippe vs Rhein-Neckar Löwen",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/ma11405387/tbv-lemgo-lippe_rhein-neckar-loewen/info",
+      "slug": "tbv-lemgo-lippe-vs-rhein-neckar-lowen",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "ThSV Eisenach vs SG Flensburg-Handewitt",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "thsv-eisenach-vs-sg-flensburg-handewitt"
+        },
+        {
+          "title": "RK Konjuh vs H71",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "rk-konjuh-vs-h71"
+        }
+      ]
+    },
+    {
+      "title": "ThSV Eisenach vs SG Flensburg-Handewitt",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/ma11405390/thsv-eisenach_sg-flensburg-handewitt/info",
+      "slug": "thsv-eisenach-vs-sg-flensburg-handewitt",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "TBV Lemgo Lippe vs Rhein-Neckar Löwen",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "tbv-lemgo-lippe-vs-rhein-neckar-lowen"
+        },
+        {
+          "title": "RK Konjuh vs H71",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "rk-konjuh-vs-h71"
+        }
+      ]
+    },
+    {
+      "title": "Füchse Berlin vs Kolstad Håndball",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-champions-league/ma11390405/fuechse-berlin_kolstad-handball/info",
+      "slug": "fuchse-berlin-vs-kolstad-handball",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Sporting CP vs Veszprém KC",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "sporting-cp-vs-veszprem-kc"
+        }
+      ]
+    },
+    {
+      "title": "Sporting CP vs Veszprém KC",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-champions-league/ma11390408/sporting-cp_veszprem-kc/info",
+      "slug": "sporting-cp-vs-veszprem-kc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Füchse Berlin vs Kolstad Håndball",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "fuchse-berlin-vs-kolstad-handball"
+        }
+      ]
+    },
+    {
+      "title": "RK Zagreb vs GOG Håndbold",
+      "time": "18:45",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-champions-league/ma11390426/rk-zagreb_gog-handbold/info",
+      "slug": "rk-zagreb-vs-gog-handbold",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "RK Vogošća vs BK-46",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-european-cup/ma11640520/rk-vogosca_bk-46/info",
+      "slug": "rk-vogosca-vs-bk-46",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "RK Konjuh vs H71",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-european-cup/ma11403224/rk-konjuh_h71/info",
+      "slug": "rk-konjuh-vs-h71",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "TBV Lemgo Lippe vs Rhein-Neckar Löwen",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "tbv-lemgo-lippe-vs-rhein-neckar-lowen"
+        },
+        {
+          "title": "ThSV Eisenach vs SG Flensburg-Handewitt",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "thsv-eisenach-vs-sg-flensburg-handewitt"
+        }
+      ]
+    },
+    {
+      "title": "Dubai Basketball vs FC Barcelona",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493818/dubai-basketball_fc-barcelona/info",
+      "slug": "dubai-basketball-vs-fc-barcelona",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Žalgiris Kaunas vs Olimpia Milano",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11492795/zalgiris-kaunas_olimpia-milano/info",
+      "slug": "zalgiris-kaunas-vs-olimpia-milano",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Fenerbahçe vs FC Bayern München",
+      "time": "19:45",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11492798/fenerbahce_fc-bayern-muenchen/info",
+      "slug": "fenerbahce-vs-fc-bayern-munchen",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Maccabi Tel Aviv vs Olympiakos Piraeus",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11492801/maccabi-tel-aviv_olympiakos-piraeus/info",
+      "slug": "maccabi-tel-aviv-vs-olympiakos-piraeus",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "London Lions vs Aquila Trento",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/uleb-euro-cup/ma11313704/london-lions_aquila-trento/info",
+      "slug": "london-lions-vs-aquila-trento",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Dresdner Eislöwen vs Kölner Haie",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma11211677/dresdner-eisloewen_koelner-haie/info",
+      "slug": "dresdner-eislowen-vs-kolner-haie",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Buffalo Sabres vs Ottawa Senators",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11412458/buffalo-sabres_ottawa-senators/info",
+      "slug": "buffalo-sabres-vs-ottawa-senators",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Detroit Red Wings vs Florida Panthers",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "detroit-red-wings-vs-florida-panthers"
+        }
+      ]
+    },
+    {
+      "title": "Detroit Red Wings vs Florida Panthers",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11412461/detroit-red-wings_florida-panthers/info",
+      "slug": "detroit-red-wings-vs-florida-panthers",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Buffalo Sabres vs Ottawa Senators",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "buffalo-sabres-vs-ottawa-senators"
+        }
+      ]
+    },
+    {
+      "title": "Utah Mammoth vs Calgary Flames",
+      "time": "03:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11412464/utah-mammoth_calgary-flames/info",
+      "slug": "utah-mammoth-vs-calgary-flames",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "St. Louis Blues vs Chicago Blackhawks",
+          "time": "03:30",
+          "sender": "Sportschau Live",
+          "slug": "st-louis-blues-vs-chicago-blackhawks"
+        }
+      ]
+    },
+    {
+      "title": "St. Louis Blues vs Chicago Blackhawks",
+      "time": "03:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11412467/st-louis-blues_chicago-blackhawks/info",
+      "slug": "st-louis-blues-vs-chicago-blackhawks",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Utah Mammoth vs Calgary Flames",
+          "time": "03:30",
+          "sender": "Sportschau Live",
+          "slug": "utah-mammoth-vs-calgary-flames"
+        }
+      ]
+    },
+    {
+      "title": "Dalma Galfi vs Leylah Fernandez",
+      "time": "04:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-japan-japan-womens-open/ma11638102/dalma-galfi_leylah-fernandez/info",
+      "slug": "dalma-galfi-vs-leylah-fernandez",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ann Li vs Rebecca Sramkova",
+          "time": "04:30",
+          "sender": "Sportschau Live",
+          "slug": "ann-li-vs-rebecca-sramkova"
+        }
+      ]
+    },
+    {
+      "title": "Ann Li vs Rebecca Sramkova",
+      "time": "04:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-japan-japan-womens-open/ma11638099/ann-li_rebecca-sramkova/info",
+      "slug": "ann-li-vs-rebecca-sramkova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dalma Galfi vs Leylah Fernandez",
+          "time": "04:30",
+          "sender": "Sportschau Live",
+          "slug": "dalma-galfi-vs-leylah-fernandez"
+        }
+      ]
+    },
+    {
+      "title": "Elise Mertens vs Tereza Valentová",
+      "time": "05:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-japan-japan-womens-open/ma11638093/elise-mertens_tereza-valentova/info",
+      "slug": "elise-mertens-vs-tereza-valentova",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Marie Bouzkova vs Viktorija Golubic",
+      "time": "06:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-japan-japan-womens-open/ma11638105/marie-bouzkova_viktorija-golubic/info",
+      "slug": "marie-bouzkova-vs-viktorija-golubic",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Nikoloz Basilashvili vs Giovanni Mpetshi Perricard",
+      "time": "13:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co3833/european-open-bruessel/ma11638369/nikoloz-basilashvili_giovanni-mpetshi-perricard/info",
+      "slug": "nikoloz-basilashvili-vs-giovanni-mpetshi-perricard",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Damir Džumhur vs Felix Auger-Aliassime",
+      "time": "15:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co3833/european-open-bruessel/ma11638387/damir-dzumhur_felix-auger-aliassime/info",
+      "slug": "damir-dzumhur-vs-felix-auger-aliassime",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Lorenzo Musetti vs Yannick Hanfmann",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co3833/european-open-bruessel/ma11638366/lorenzo-musetti_yannick-hanfmann/info",
+      "slug": "lorenzo-musetti-vs-yannick-hanfmann",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Holger Rune vs Marton Fucsovics",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "holger-rune-vs-marton-fucsovics"
+        }
+      ]
+    },
+    {
+      "title": "Botic van de Zandschulp vs Eliot Spizzirri",
+      "time": "19:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co3833/european-open-bruessel/ma11638384/botic-van-de-zandschulp_eliot-spizzirri/info",
+      "slug": "botic-van-de-zandschulp-vs-eliot-spizzirri",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Jacob Fearnley vs Elias Ymer",
+          "time": "19:10",
+          "sender": "Sportschau Live",
+          "slug": "jacob-fearnley-vs-elias-ymer"
+        }
+      ]
+    },
+    {
+      "title": "Aleksandar Vukic vs Alex Michelsen",
+      "time": "08:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co6099/almaty-open/ma11638468/aleksandar-vukic_alex-michelsen/info",
+      "slug": "aleksandar-vukic-vs-alex-michelsen",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Luciano Darderi vs Shintaro Mochizuki",
+      "time": "09:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co6099/almaty-open/ma11638465/luciano-darderi_shintaro-mochizuki/info",
+      "slug": "luciano-darderi-vs-shintaro-mochizuki",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Adam Walton vs Daniil Medvedev",
+      "time": "10:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co6099/almaty-open/ma11638480/adam-walton_daniil-medvedev/info",
+      "slug": "adam-walton-vs-daniil-medvedev",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Karen Khachanov vs Jan-Lennard Struff",
+      "time": "16:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co6099/almaty-open/ma11638459/karen-khachanov_jan-lennard-struff/info",
+      "slug": "karen-khachanov-vs-jan-lennard-struff",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "James Duckworth vs Flavio Cobolli",
+      "time": "11:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co6099/almaty-open/ma11638489/james-duckworth_flavio-cobolli/info",
+      "slug": "james-duckworth-vs-flavio-cobolli",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Lorenzo Sonego vs Aleksandar Kovacevic",
+      "time": "13:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-schweden-if-stockholm-open/ma11638282/lorenzo-sonego_aleksandar-kovacevic/info",
+      "slug": "lorenzo-sonego-vs-aleksandar-kovacevic",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Tomas Martin Etcheverry vs Miomir Kecmanović",
+      "time": "14:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-schweden-if-stockholm-open/ma11638276/tomas-martin-etcheverry_miomir-kecmanovic/info",
+      "slug": "tomas-martin-etcheverry-vs-miomir-kecmanovic",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Ugo Humbert vs Matteo Berrettini",
+      "time": "15:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-schweden-if-stockholm-open/ma11638279/ugo-humbert_matteo-berrettini/info",
+      "slug": "ugo-humbert-vs-matteo-berrettini",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Holger Rune vs Marton Fucsovics",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-schweden-if-stockholm-open/ma11638273/holger-rune_marton-fucsovics/info",
+      "slug": "holger-rune-vs-marton-fucsovics",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Lorenzo Musetti vs Yannick Hanfmann",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "lorenzo-musetti-vs-yannick-hanfmann"
+        }
+      ]
+    },
+    {
+      "title": "Jacob Fearnley vs Elias Ymer",
+      "time": "19:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-schweden-if-stockholm-open/ma11638285/jacob-fearnley_elias-ymer/info",
+      "slug": "jacob-fearnley-vs-elias-ymer",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Botic van de Zandschulp vs Eliot Spizzirri",
+          "time": "19:10",
+          "sender": "Sportschau Live",
+          "slug": "botic-van-de-zandschulp-vs-eliot-spizzirri"
+        }
+      ]
+    },
+    {
+      "title": "Saudi Arabia Masters | Finale",
+      "subtitle": "Neil Robertson - Ronnie O'Sullivan | 2. Session | Jeddah",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:24",
+      "iso_time": "2025-10-16T01:24:21.640000+02:00",
+      "link": "",
+      "slug": "saudi-arabia-masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tour of Holland | 1. Etappe",
+      "subtitle": "UCI Europe Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:58",
+      "iso_time": "2025-10-16T02:58:25.680000+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/523a79ff-6c3e-52ae-9b8e-da590e8176df?utm_source=universal_search",
+      "slug": "tour-of-holland-1-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Saudi Arabia Masters | Finale",
+      "subtitle": "Neil Robertson - Ronnie O'Sullivan | 2. Session | Jeddah",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:26",
+      "iso_time": "2025-10-16T04:26:50.680000+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/d19013c4-cb28-531c-94aa-b6656228b1b9?utm_source=universal_search",
+      "slug": "saudi-arabia-masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "Paris-Tours",
+      "subtitle": "UCI Pro Series | Männer | Chartres - Tours (212km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:23",
+      "iso_time": "2025-10-16T06:23:50.880000+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/7f3c676f-bcd7-5049-b2fa-549ccdcd664b?utm_source=universal_search",
+      "slug": "paris-tours",
+      "related_events": [
+        {
+          "title": "Tour of Chongming Island | 3. Etappe",
+          "time": "07:05",
+          "sender": "Eurosport",
+          "slug": "tour-of-chongming-island-3-etappe"
+        },
+        {
+          "title": "Tour of Holland | 1. Etappe",
+          "time": "07:26",
+          "sender": "Eurosport",
+          "slug": "tour-of-holland-1-etappe"
+        },
+        {
+          "title": "Tour of Guangxi | 3. Etappe",
+          "time": "07:35",
+          "sender": "Eurosport",
+          "slug": "tour-of-guangxi-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour of Chongming Island | 3. Etappe",
+      "subtitle": "UCI World Tour | Frauen | Chongming - Chongming (111,4km) | Englischer Kommentar",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:05",
+      "iso_time": "2025-10-16T07:05:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/f24da05f-5dbc-5976-9372-90120c2c7831?utm_source=universal_search",
+      "slug": "tour-of-chongming-island-3-etappe",
+      "related_events": [
+        {
+          "title": "Paris-Tours",
+          "time": "06:23",
+          "sender": "Eurosport",
+          "slug": "paris-tours"
+        },
+        {
+          "title": "Tour of Holland | 1. Etappe",
+          "time": "07:26",
+          "sender": "Eurosport",
+          "slug": "tour-of-holland-1-etappe"
+        },
+        {
+          "title": "Tour of Guangxi | 3. Etappe",
+          "time": "07:35",
+          "sender": "Eurosport",
+          "slug": "tour-of-guangxi-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour of Holland | 1. Etappe",
+      "subtitle": "UCI Europe Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:26",
+      "iso_time": "2025-10-16T07:26:54.800000+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/47aa64f4-2787-5501-bdb0-220c14fb3402?utm_source=universal_search",
+      "slug": "tour-of-holland-1-etappe",
+      "related_events": [
+        {
+          "title": "Paris-Tours",
+          "time": "06:23",
+          "sender": "Eurosport",
+          "slug": "paris-tours"
+        },
+        {
+          "title": "Tour of Chongming Island | 3. Etappe",
+          "time": "07:05",
+          "sender": "Eurosport",
+          "slug": "tour-of-chongming-island-3-etappe"
+        },
+        {
+          "title": "Tour of Guangxi | 3. Etappe",
+          "time": "07:35",
+          "sender": "Eurosport",
+          "slug": "tour-of-guangxi-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour of Guangxi | 3. Etappe",
+      "subtitle": "UCI World Tour | Männer | Jingxi - Bama (214km) | Englischer Kommentar",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:35",
+      "iso_time": "2025-10-16T07:35:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/cf974aa0-cf44-545a-88ce-fdea4653c89d?utm_source=universal_search",
+      "slug": "tour-of-guangxi-3-etappe",
+      "related_events": [
+        {
+          "title": "Paris-Tours",
+          "time": "06:23",
+          "sender": "Eurosport",
+          "slug": "paris-tours"
+        },
+        {
+          "title": "Tour of Chongming Island | 3. Etappe",
+          "time": "07:05",
+          "sender": "Eurosport",
+          "slug": "tour-of-chongming-island-3-etappe"
+        },
+        {
+          "title": "Tour of Holland | 1. Etappe",
+          "time": "07:26",
+          "sender": "Eurosport",
+          "slug": "tour-of-holland-1-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Saudi Arabia Masters | Finale",
+      "subtitle": "Neil Robertson - Ronnie O'Sullivan | 2. Session | Jeddah",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:28",
+      "iso_time": "2025-10-16T08:28:09.720000+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/a4b4509d-fd91-5680-87a7-f315cd9722c6?utm_source=universal_search",
+      "slug": "saudi-arabia-masters-finale",
+      "related_events": [
+        {
+          "title": "David Grace - Sahil Nayyar",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "david-grace-sahil-nayyar"
+        },
+        {
+          "title": "Gao Yang - Connor Benzey",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "gao-yang-connor-benzey"
+        },
+        {
+          "title": "Bai Yulu - Kreishh Gurbaxani",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "bai-yulu-kreishh-gurbaxani"
+        }
+      ]
+    },
+    {
+      "title": "Chicago-Marathon",
+      "subtitle": "47. Austragung",
+      "sport": "Leichtathletik",
+      "sport_slug": "leichtathletik",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:31",
+      "iso_time": "2025-10-16T08:31:32.160000+02:00",
+      "link": "",
+      "slug": "chicago-marathon",
+      "related_events": []
+    },
+    {
+      "title": "UTMB World Series | Wildstrubel | Highlights",
+      "subtitle": "Schweiz | Männer / Frauen",
+      "sport": "Trail Running",
+      "sport_slug": "trail-running",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:28",
+      "iso_time": "2025-10-16T09:28:04.960000+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/593d3b41-f029-566c-bfcc-600ab4601459?utm_source=universal_search",
+      "slug": "utmb-world-series-wildstrubel-highlights",
+      "related_events": []
+    },
+    {
+      "title": "Paris-Tours",
+      "subtitle": "UCI Pro Series | Männer | Chartres - Tours (212km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:23",
+      "iso_time": "2025-10-16T10:23:03.320000+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/a6aeb40f-4c2f-59a7-9fa3-32299c01e33a?utm_source=universal_search",
+      "slug": "paris-tours",
+      "related_events": [
+        {
+          "title": "Tour of Holland | 1. Etappe",
+          "time": "07:26",
+          "sender": "Eurosport",
+          "slug": "tour-of-holland-1-etappe"
+        },
+        {
+          "title": "Tour of Guangxi | 3. Etappe",
+          "time": "07:35",
+          "sender": "Eurosport",
+          "slug": "tour-of-guangxi-3-etappe"
+        },
+        {
+          "title": "Tour of Holland | 1. Etappe",
+          "time": "11:27",
+          "sender": "Eurosport",
+          "slug": "tour-of-holland-1-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Saudi Arabia Masters | Finale",
+      "subtitle": "Neil Robertson - Ronnie O'Sullivan | 2. Session | Jeddah",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:31",
+      "iso_time": "2025-10-16T10:31:23.120000+02:00",
+      "link": "",
+      "slug": "saudi-arabia-masters-finale",
+      "related_events": [
+        {
+          "title": "David Grace - Sahil Nayyar",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "david-grace-sahil-nayyar"
+        },
+        {
+          "title": "Gao Yang - Connor Benzey",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "gao-yang-connor-benzey"
+        },
+        {
+          "title": "Bai Yulu - Kreishh Gurbaxani",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "bai-yulu-kreishh-gurbaxani"
+        }
+      ]
+    },
+    {
+      "title": "David Grace - Sahil Nayyar",
+      "subtitle": "Scottish Open | Qualifikation | Wigan | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2025-10-16T11:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/c939facf-b951-5585-8dfb-33b8070dbb63?utm_source=universal_search",
+      "slug": "david-grace-sahil-nayyar",
+      "related_events": [
+        {
+          "title": "Saudi Arabia Masters | Finale",
+          "time": "08:28",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-finale"
+        },
+        {
+          "title": "Saudi Arabia Masters | Finale",
+          "time": "10:31",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-finale"
+        },
+        {
+          "title": "Gao Yang - Connor Benzey",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "gao-yang-connor-benzey"
+        }
+      ]
+    },
+    {
+      "title": "Gao Yang - Connor Benzey",
+      "subtitle": "Scottish Open | Qualifikation | Wigan | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2025-10-16T11:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/bd84a960-e665-5094-970e-23948a7e6a16?utm_source=universal_search",
+      "slug": "gao-yang-connor-benzey",
+      "related_events": [
+        {
+          "title": "Saudi Arabia Masters | Finale",
+          "time": "08:28",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-finale"
+        },
+        {
+          "title": "Saudi Arabia Masters | Finale",
+          "time": "10:31",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-finale"
+        },
+        {
+          "title": "David Grace - Sahil Nayyar",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "david-grace-sahil-nayyar"
+        }
+      ]
+    },
+    {
+      "title": "Bai Yulu - Kreishh Gurbaxani",
+      "subtitle": "Scottish Open | Qualifikation | Wigan | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2025-10-16T11:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/320d6031-5206-55bc-be00-a2d37d3d6245?utm_source=universal_search",
+      "slug": "bai-yulu-kreishh-gurbaxani",
+      "related_events": [
+        {
+          "title": "Saudi Arabia Masters | Finale",
+          "time": "08:28",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-finale"
+        },
+        {
+          "title": "Saudi Arabia Masters | Finale",
+          "time": "10:31",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-finale"
+        },
+        {
+          "title": "David Grace - Sahil Nayyar",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "david-grace-sahil-nayyar"
+        }
+      ]
+    },
+    {
+      "title": "Chang Bingyu - Xu Yichen",
+      "subtitle": "Scottish Open | Qualifikation | Wigan | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2025-10-16T11:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/08f3accd-ceed-57f4-ac3c-07a02c11141a?utm_source=universal_search",
+      "slug": "chang-bingyu-xu-yichen",
+      "related_events": [
+        {
+          "title": "Saudi Arabia Masters | Finale",
+          "time": "08:28",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-finale"
+        },
+        {
+          "title": "Saudi Arabia Masters | Finale",
+          "time": "10:31",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-finale"
+        },
+        {
+          "title": "David Grace - Sahil Nayyar",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "david-grace-sahil-nayyar"
+        }
+      ]
+    },
+    {
+      "title": "Tour of Holland | 1. Etappe",
+      "subtitle": "UCI Europe Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:27",
+      "iso_time": "2025-10-16T11:27:55.240000+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/92379ce8-b80d-5dfb-8a33-71e183333938?utm_source=universal_search",
+      "slug": "tour-of-holland-1-etappe",
+      "related_events": [
+        {
+          "title": "Paris-Tours",
+          "time": "10:23",
+          "sender": "Eurosport",
+          "slug": "paris-tours"
+        },
+        {
+          "title": "Tour of Holland | 2. Etappe",
+          "time": "13:46",
+          "sender": "Eurosport",
+          "slug": "tour-of-holland-2-etappe"
+        },
+        {
+          "title": "Tour of Holland | 2. Etappe",
+          "time": "13:50",
+          "sender": "Eurosport",
+          "slug": "tour-of-holland-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "UCI Downhill Weltcup | Mont-Sainte-Anne | Frauen Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:22",
+      "iso_time": "2025-10-16T12:22:29.120000+02:00",
+      "link": "",
+      "slug": "uci-downhill-weltcup-mont-sainte-anne-frauen-elite",
+      "related_events": []
+    },
+    {
+      "title": "Saudi Arabia Masters | Finale",
+      "subtitle": "Neil Robertson - Ronnie O'Sullivan | 2. Session | Jeddah",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:30",
+      "iso_time": "2025-10-16T12:30:10.160000+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/13547a90-ded2-5979-add6-e9950cdfbdaf?utm_source=universal_search",
+      "slug": "saudi-arabia-masters-finale",
+      "related_events": [
+        {
+          "title": "David Grace - Sahil Nayyar",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "david-grace-sahil-nayyar"
+        },
+        {
+          "title": "Gao Yang - Connor Benzey",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "gao-yang-connor-benzey"
+        },
+        {
+          "title": "Bai Yulu - Kreishh Gurbaxani",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "bai-yulu-kreishh-gurbaxani"
+        }
+      ]
+    },
+    {
+      "title": "Tour of Holland | 1. Etappe",
+      "subtitle": "UCI Europe Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:59",
+      "iso_time": "2025-10-16T12:59:50.080000+02:00",
+      "link": "",
+      "slug": "tour-of-holland-1-etappe",
+      "related_events": [
+        {
+          "title": "Paris-Tours",
+          "time": "10:23",
+          "sender": "Eurosport",
+          "slug": "paris-tours"
+        },
+        {
+          "title": "Tour of Holland | 2. Etappe",
+          "time": "13:46",
+          "sender": "Eurosport",
+          "slug": "tour-of-holland-2-etappe"
+        },
+        {
+          "title": "Tour of Holland | 2. Etappe",
+          "time": "13:50",
+          "sender": "Eurosport",
+          "slug": "tour-of-holland-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour of Holland | 2. Etappe",
+      "subtitle": "UCI Europe Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:46",
+      "iso_time": "2025-10-16T13:46:11.520000+02:00",
+      "link": "",
+      "slug": "tour-of-holland-2-etappe",
+      "related_events": [
+        {
+          "title": "Tour of Holland | 1. Etappe",
+          "time": "11:27",
+          "sender": "Eurosport",
+          "slug": "tour-of-holland-1-etappe"
+        },
+        {
+          "title": "Tour of Holland | 1. Etappe",
+          "time": "12:59",
+          "sender": "Eurosport",
+          "slug": "tour-of-holland-1-etappe"
+        },
+        {
+          "title": "Lombardei-Rundfahrt",
+          "time": "16:15",
+          "sender": "Eurosport",
+          "slug": "lombardei-rundfahrt"
+        }
+      ]
+    },
+    {
+      "title": "Tour of Holland | 2. Etappe",
+      "subtitle": "UCI Europe Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:50",
+      "iso_time": "2025-10-16T13:50:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/47c258f6-062a-5a49-bec4-b385ef8f2099?utm_source=universal_search",
+      "slug": "tour-of-holland-2-etappe",
+      "related_events": [
+        {
+          "title": "Tour of Holland | 1. Etappe",
+          "time": "11:27",
+          "sender": "Eurosport",
+          "slug": "tour-of-holland-1-etappe"
+        },
+        {
+          "title": "Tour of Holland | 1. Etappe",
+          "time": "12:59",
+          "sender": "Eurosport",
+          "slug": "tour-of-holland-1-etappe"
+        },
+        {
+          "title": "Lombardei-Rundfahrt",
+          "time": "16:15",
+          "sender": "Eurosport",
+          "slug": "lombardei-rundfahrt"
+        }
+      ]
+    },
+    {
+      "title": "WM | Bouldern | Finale",
+      "subtitle": "Seoul | Frauen",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:59",
+      "iso_time": "2025-10-16T13:59:28.680000+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/d6ccc0be-94fb-5f02-be0f-3b547c502d2d?utm_source=universal_search",
+      "slug": "wm-bouldern-finale",
+      "related_events": []
+    },
+    {
+      "title": "Antoni Kowalski - Leone Crowley",
+      "subtitle": "Scottish Open | Qualifikation | Wigan | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:00",
+      "iso_time": "2025-10-16T14:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/6b951699-7d12-5c5a-83b4-d25a6190b603?utm_source=universal_search",
+      "slug": "antoni-kowalski-leone-crowley",
+      "related_events": [
+        {
+          "title": "David Grace - Sahil Nayyar",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "david-grace-sahil-nayyar"
+        },
+        {
+          "title": "Gao Yang - Connor Benzey",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "gao-yang-connor-benzey"
+        },
+        {
+          "title": "Bai Yulu - Kreishh Gurbaxani",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "bai-yulu-kreishh-gurbaxani"
+        }
+      ]
+    },
+    {
+      "title": "Dylan Emery - Jack Borwick",
+      "subtitle": "Scottish Open | Qualifikation | Wigan | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:00",
+      "iso_time": "2025-10-16T14:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/6abb0ece-8d81-5ab5-a8e3-a7c108639ab1?utm_source=universal_search",
+      "slug": "dylan-emery-jack-borwick",
+      "related_events": [
+        {
+          "title": "David Grace - Sahil Nayyar",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "david-grace-sahil-nayyar"
+        },
+        {
+          "title": "Gao Yang - Connor Benzey",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "gao-yang-connor-benzey"
+        },
+        {
+          "title": "Bai Yulu - Kreishh Gurbaxani",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "bai-yulu-kreishh-gurbaxani"
+        }
+      ]
+    },
+    {
+      "title": "Farakh Ajaib - Liam Pullen",
+      "subtitle": "Scottish Open | Qualifikation | Wigan | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:00",
+      "iso_time": "2025-10-16T14:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/37474946-2d5b-5121-891d-9ec1bb0ed58d?utm_source=universal_search",
+      "slug": "farakh-ajaib-liam-pullen",
+      "related_events": [
+        {
+          "title": "David Grace - Sahil Nayyar",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "david-grace-sahil-nayyar"
+        },
+        {
+          "title": "Gao Yang - Connor Benzey",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "gao-yang-connor-benzey"
+        },
+        {
+          "title": "Bai Yulu - Kreishh Gurbaxani",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "bai-yulu-kreishh-gurbaxani"
+        }
+      ]
+    },
+    {
+      "title": "Robbie McGuigan - Oliver Brown",
+      "subtitle": "Scottish Open | Qualifikation | Wigan | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:00",
+      "iso_time": "2025-10-16T14:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/0493077d-a451-5399-b250-0fd4bee398b3?utm_source=universal_search",
+      "slug": "robbie-mcguigan-oliver-brown",
+      "related_events": [
+        {
+          "title": "David Grace - Sahil Nayyar",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "david-grace-sahil-nayyar"
+        },
+        {
+          "title": "Gao Yang - Connor Benzey",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "gao-yang-connor-benzey"
+        },
+        {
+          "title": "Bai Yulu - Kreishh Gurbaxani",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "bai-yulu-kreishh-gurbaxani"
+        }
+      ]
+    },
+    {
+      "title": "WM | Bouldern | Finale",
+      "subtitle": "Seoul | Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:00",
+      "iso_time": "2025-10-16T15:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/47ea0441-6f9b-5a8a-ba4e-d527d79c7eb7?utm_source=universal_search",
+      "slug": "wm-bouldern-finale",
+      "related_events": []
+    },
+    {
+      "title": "Saudi Arabia Masters | Finale",
+      "subtitle": "Neil Robertson - Ronnie O'Sullivan | 2. Session | Jeddah",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2025-10-16T16:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/33b30da4-dd6a-5330-b815-14b0c81d0a25?utm_source=universal_search",
+      "slug": "saudi-arabia-masters-finale",
+      "related_events": [
+        {
+          "title": "Antoni Kowalski - Leone Crowley",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "antoni-kowalski-leone-crowley"
+        },
+        {
+          "title": "Dylan Emery - Jack Borwick",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "dylan-emery-jack-borwick"
+        },
+        {
+          "title": "Farakh Ajaib - Liam Pullen",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "farakh-ajaib-liam-pullen"
+        }
+      ]
+    },
+    {
+      "title": "Lombardei-Rundfahrt",
+      "subtitle": "UCI World Tour | Männer | Como - Bergamo (238km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:15",
+      "iso_time": "2025-10-16T16:15:00+02:00",
+      "link": "",
+      "slug": "lombardei-rundfahrt",
+      "related_events": [
+        {
+          "title": "Tour of Holland | 2. Etappe",
+          "time": "13:46",
+          "sender": "Eurosport",
+          "slug": "tour-of-holland-2-etappe"
+        },
+        {
+          "title": "Tour of Holland | 2. Etappe",
+          "time": "13:50",
+          "sender": "Eurosport",
+          "slug": "tour-of-holland-2-etappe"
+        },
+        {
+          "title": "Tour of Holland | 2. Etappe",
+          "time": "17:30",
+          "sender": "Eurosport",
+          "slug": "tour-of-holland-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Cheung Ka Wai - Fergal Quinn",
+      "subtitle": "Scottish Open | Qualifikation | Wigan | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2025-10-16T17:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/96abadc6-ee22-544a-a1fd-8992ed14e178?utm_source=universal_search",
+      "slug": "cheung-ka-wai-fergal-quinn",
+      "related_events": [
+        {
+          "title": "Antoni Kowalski - Leone Crowley",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "antoni-kowalski-leone-crowley"
+        },
+        {
+          "title": "Dylan Emery - Jack Borwick",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "dylan-emery-jack-borwick"
+        },
+        {
+          "title": "Farakh Ajaib - Liam Pullen",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "farakh-ajaib-liam-pullen"
+        }
+      ]
+    },
+    {
+      "title": "Wang Yuchen - Jonas Luz",
+      "subtitle": "Scottish Open | Qualifikation | Wigan | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2025-10-16T17:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/1b8b7eb7-c7ea-5b73-bb5a-235f362c529e?utm_source=universal_search",
+      "slug": "wang-yuchen-jonas-luz",
+      "related_events": [
+        {
+          "title": "Antoni Kowalski - Leone Crowley",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "antoni-kowalski-leone-crowley"
+        },
+        {
+          "title": "Dylan Emery - Jack Borwick",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "dylan-emery-jack-borwick"
+        },
+        {
+          "title": "Farakh Ajaib - Liam Pullen",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "farakh-ajaib-liam-pullen"
+        }
+      ]
+    },
+    {
+      "title": "Steven Hallworth - Mahmoud El Hareedy",
+      "subtitle": "Scottish Open | Qualifikation | Wigan | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2025-10-16T17:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/05411e18-a4b5-5d6a-87c9-f9217211dcbc?utm_source=universal_search",
+      "slug": "steven-hallworth-mahmoud-el-hareedy",
+      "related_events": [
+        {
+          "title": "Antoni Kowalski - Leone Crowley",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "antoni-kowalski-leone-crowley"
+        },
+        {
+          "title": "Dylan Emery - Jack Borwick",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "dylan-emery-jack-borwick"
+        },
+        {
+          "title": "Farakh Ajaib - Liam Pullen",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "farakh-ajaib-liam-pullen"
+        }
+      ]
+    },
+    {
+      "title": "Tour of Holland | 2. Etappe",
+      "subtitle": "UCI Europe Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:30",
+      "iso_time": "2025-10-16T17:30:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/8d640311-eb06-5a08-b7fd-b53530e8c5b2?utm_source=universal_search",
+      "slug": "tour-of-holland-2-etappe",
+      "related_events": [
+        {
+          "title": "Lombardei-Rundfahrt",
+          "time": "16:15",
+          "sender": "Eurosport",
+          "slug": "lombardei-rundfahrt"
+        }
+      ]
+    },
+    {
+      "title": "Saudi Arabia Masters | Finale",
+      "subtitle": "Neil Robertson - Ronnie O'Sullivan | 2. Session | Jeddah",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:30",
+      "iso_time": "2025-10-16T17:30:00+02:00",
+      "link": "",
+      "slug": "saudi-arabia-masters-finale",
+      "related_events": [
+        {
+          "title": "Cheung Ka Wai - Fergal Quinn",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "cheung-ka-wai-fergal-quinn"
+        },
+        {
+          "title": "Wang Yuchen - Jonas Luz",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "wang-yuchen-jonas-luz"
+        },
+        {
+          "title": "Steven Hallworth - Mahmoud El Hareedy",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "steven-hallworth-mahmoud-el-hareedy"
+        }
+      ]
+    },
+    {
+      "title": "Saudi Arabia Masters | Finale",
+      "subtitle": "Neil Robertson - Ronnie O'Sullivan | 2. Session | Jeddah",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2025-10-16T19:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/cbc29b5c-a791-5471-b2a2-7512b86d5056?utm_source=universal_search",
+      "slug": "saudi-arabia-masters-finale",
+      "related_events": [
+        {
+          "title": "Cheung Ka Wai - Fergal Quinn",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "cheung-ka-wai-fergal-quinn"
+        },
+        {
+          "title": "Wang Yuchen - Jonas Luz",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "wang-yuchen-jonas-luz"
+        },
+        {
+          "title": "Steven Hallworth - Mahmoud El Hareedy",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "steven-hallworth-mahmoud-el-hareedy"
+        }
+      ]
+    },
+    {
+      "title": "Eurosport News",
+      "subtitle": "",
+      "sport": "Trail Running",
+      "sport_slug": "trail-running",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2025-10-16T19:00:00+02:00",
+      "link": "",
+      "slug": "eurosport-news",
+      "related_events": []
+    },
+    {
+      "title": "Eurosport News",
+      "subtitle": "",
+      "sport": "Trail Running",
+      "sport_slug": "trail-running",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:30",
+      "iso_time": "2025-10-16T19:30:00+02:00",
+      "link": "",
+      "slug": "eurosport-news",
+      "related_events": []
+    },
+    {
+      "title": "Duane Jones - Patrick Whelan",
+      "subtitle": "Scottish Open | Qualifikation | Wigan | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2025-10-16T20:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/752f338f-9e40-53a5-aa77-268afce8f06d?utm_source=universal_search",
+      "slug": "duane-jones-patrick-whelan",
+      "related_events": [
+        {
+          "title": "Cheung Ka Wai - Fergal Quinn",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "cheung-ka-wai-fergal-quinn"
+        },
+        {
+          "title": "Wang Yuchen - Jonas Luz",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "wang-yuchen-jonas-luz"
+        },
+        {
+          "title": "Steven Hallworth - Mahmoud El Hareedy",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "steven-hallworth-mahmoud-el-hareedy"
+        }
+      ]
+    },
+    {
+      "title": "Allan Taylor - Liam Graham",
+      "subtitle": "Scottish Open | Qualifikation | Wigan | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2025-10-16T20:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/41c87d3b-6db1-5381-8fa0-de541b05364a?utm_source=universal_search",
+      "slug": "allan-taylor-liam-graham",
+      "related_events": [
+        {
+          "title": "Cheung Ka Wai - Fergal Quinn",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "cheung-ka-wai-fergal-quinn"
+        },
+        {
+          "title": "Wang Yuchen - Jonas Luz",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "wang-yuchen-jonas-luz"
+        },
+        {
+          "title": "Steven Hallworth - Mahmoud El Hareedy",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "steven-hallworth-mahmoud-el-hareedy"
+        }
+      ]
+    },
+    {
+      "title": "Bulcsu Revesz - Alexander Ursenbacher",
+      "subtitle": "Scottish Open | Qualifikation | Wigan | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2025-10-16T20:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/19c652d0-b168-523b-b267-53bafdb40a9c?utm_source=universal_search",
+      "slug": "bulcsu-revesz-alexander-ursenbacher",
+      "related_events": [
+        {
+          "title": "Cheung Ka Wai - Fergal Quinn",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "cheung-ka-wai-fergal-quinn"
+        },
+        {
+          "title": "Wang Yuchen - Jonas Luz",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "wang-yuchen-jonas-luz"
+        },
+        {
+          "title": "Steven Hallworth - Mahmoud El Hareedy",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "steven-hallworth-mahmoud-el-hareedy"
+        }
+      ]
+    },
+    {
+      "title": "Tour of Holland | 2. Etappe",
+      "subtitle": "UCI Europe Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2025-10-16T20:00:00+02:00",
+      "link": "",
+      "slug": "tour-of-holland-2-etappe",
+      "related_events": [
+        {
+          "title": "Lombardei-Rundfahrt",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "lombardei-rundfahrt"
+        }
+      ]
+    },
+    {
+      "title": "English Open | Finale",
+      "subtitle": "Y. Zhou – M. Allen | 2. Session | Brentwood | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2025-10-16T21:00:00+02:00",
+      "link": "",
+      "slug": "english-open-finale",
+      "related_events": [
+        {
+          "title": "Saudi Arabia Masters | Finale",
+          "time": "19:00",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-finale"
+        },
+        {
+          "title": "Duane Jones - Patrick Whelan",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "duane-jones-patrick-whelan"
+        },
+        {
+          "title": "Allan Taylor - Liam Graham",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "allan-taylor-liam-graham"
+        }
+      ]
+    },
+    {
+      "title": "Tour of Holland | 2. Etappe",
+      "subtitle": "UCI Europe Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2025-10-16T21:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/2ff84c5d-1967-5fd5-a8ea-fd1d94eb99d2?utm_source=universal_search",
+      "slug": "tour-of-holland-2-etappe",
+      "related_events": [
+        {
+          "title": "Lombardei-Rundfahrt",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "lombardei-rundfahrt"
+        }
+      ]
+    },
+    {
+      "title": "Lombardei-Rundfahrt",
+      "subtitle": "UCI World Tour | Männer | Como - Bergamo (238km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2025-10-16T22:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/73bcabd4-2343-55da-ba62-d1f9b2929186?utm_source=universal_search",
+      "slug": "lombardei-rundfahrt",
+      "related_events": [
+        {
+          "title": "Tour of Holland | 2. Etappe",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "tour-of-holland-2-etappe"
+        },
+        {
+          "title": "Tour of Holland | 2. Etappe",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "tour-of-holland-2-etappe"
+        },
+        {
+          "title": "Tour of Holland | 2. Etappe",
+          "time": "23:00",
+          "sender": "Eurosport",
+          "slug": "tour-of-holland-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "English Open | Finale",
+      "subtitle": "Y. Zhou – M. Allen | 2. Session | Brentwood | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2025-10-16T23:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/1f100bc6-03c4-54d7-8d45-bbad727bd9e9?utm_source=universal_search",
+      "slug": "english-open-finale",
+      "related_events": [
+        {
+          "title": "Duane Jones - Patrick Whelan",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "duane-jones-patrick-whelan"
+        },
+        {
+          "title": "Allan Taylor - Liam Graham",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "allan-taylor-liam-graham"
+        },
+        {
+          "title": "Bulcsu Revesz - Alexander Ursenbacher",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "bulcsu-revesz-alexander-ursenbacher"
+        }
+      ]
+    },
+    {
+      "title": "Tour of Holland | 2. Etappe",
+      "subtitle": "UCI Europe Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2025-10-16T23:00:00+02:00",
+      "link": "",
+      "slug": "tour-of-holland-2-etappe",
+      "related_events": [
+        {
+          "title": "Lombardei-Rundfahrt",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "lombardei-rundfahrt"
+        }
+      ]
+    },
+    {
+      "title": "Tour of Holland | 2. Etappe",
+      "subtitle": "UCI Europe Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2025-10-17T00:00:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/e163fd48-bc8b-5cfc-bbaf-d33dba8058e2?utm_source=universal_search",
+      "slug": "tour-of-holland-2-etappe",
+      "related_events": [
+        {
+          "title": "Lombardei-Rundfahrt",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "lombardei-rundfahrt"
+        }
+      ]
+    },
+    {
+      "title": "Saudi Arabia Masters | Finale",
+      "subtitle": "Neil Robertson - Ronnie O'Sullivan | 2. Session | Jeddah",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2025-10-17T00:00:00+02:00",
+      "link": "",
+      "slug": "saudi-arabia-masters-finale",
+      "related_events": [
+        {
+          "title": "English Open | Finale",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "english-open-finale"
+        },
+        {
+          "title": "English Open | Finale",
+          "time": "23:00",
+          "sender": "Eurosport",
+          "slug": "english-open-finale"
+        },
+        {
+          "title": "Shanghai Masters | Finale",
+          "time": "01:30",
+          "sender": "Eurosport",
+          "slug": "shanghai-masters-finale"
+        }
+      ]
+    },
+    {
+      "title": "Shanghai Masters | Finale",
+      "subtitle": "K. Wilson - A. Carter | 2. Session | Shanghai",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:30",
+      "iso_time": "2025-10-17T01:30:00+02:00",
+      "link": "https://play.discoveryplus.com/video/watch/23cb341e-5853-5da4-9933-61ad9e8a5e9c?utm_source=universal_search",
+      "slug": "shanghai-masters-finale",
+      "related_events": [
+        {
+          "title": "English Open | Finale",
+          "time": "23:00",
+          "sender": "Eurosport",
+          "slug": "english-open-finale"
+        },
+        {
+          "title": "Saudi Arabia Masters | Finale",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "saudi-arabia-masters-finale"
+        }
+      ]
+    }
+  ]
+}
