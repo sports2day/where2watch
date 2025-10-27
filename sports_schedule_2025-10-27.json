@@ -1,0 +1,1457 @@
+{
+  "date": "2025-10-27",
+  "events": [
+    {
+      "title": "Betis Sevilla vs Atlético Madrid",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-primera-division/ma11223152/betis-sevilla_atletico-madrid/info",
+      "slug": "betis-sevilla-vs-atletico-madrid",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Samsunspor vs Çaykur Rizespor",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/tuerkei-sueper-lig/ma11303015/samsunspor_caykur-rizespor/info",
+      "slug": "samsunspor-vs-caykur-rizespor",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Gaziantep FK vs Fenerbahçe",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "gaziantep-fk-vs-fenerbahce"
+        }
+      ]
+    },
+    {
+      "title": "Gaziantep FK vs Fenerbahçe",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/tuerkei-sueper-lig/ma11303021/gaziantep-fk_fenerbahce/info",
+      "slug": "gaziantep-fk-vs-fenerbahce",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Samsunspor vs Çaykur Rizespor",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "samsunspor-vs-caykur-rizespor"
+        }
+      ]
+    },
+    {
+      "title": "Radomiak Radom vs Wisła Płock",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/polen-ekstraklasa/ma11128014/radomiak-radom_wisla-plock/info",
+      "slug": "radomiak-radom-vs-wisla-plock",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Odense BK vs Brøndby IF",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "odense-bk-vs-brondby-if"
+        }
+      ]
+    },
+    {
+      "title": "Odense BK vs Brøndby IF",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/daenemark-superliga/ma11137500/odense-bk_broendby-if/info",
+      "slug": "odense-bk-vs-brondby-if",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Radomiak Radom vs Wisła Płock",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "radomiak-radom-vs-wisla-plock"
+        }
+      ]
+    },
+    {
+      "title": "Moreirense FC vs FC Porto",
+      "time": "21:15",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/portugal-primeira-liga/ma11305538/moreirense-fc_fc-porto/info",
+      "slug": "moreirense-fc-vs-fc-porto",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Indien vs Nepal",
+      "time": "13:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-freundschaft-frauen/ma11673458/indien_nepal/info",
+      "slug": "indien-vs-nepal",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Slowenien vs Serbien",
+      "time": "14:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-freundschaft-frauen/ma11673464/slowenien_serbien/info",
+      "slug": "slowenien-vs-serbien",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Georgien vs Moldau",
+      "time": "15:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-freundschaft-frauen/ma11569325/georgien_moldau/info",
+      "slug": "georgien-vs-moldau",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Minnesota Timberwolves vs Indiana Pacers",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11548424/minnesota-timberwolves_indiana-pacers/info",
+      "slug": "minnesota-timberwolves-vs-indiana-pacers",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Dallas Mavericks vs Toronto Raptors",
+      "time": "00:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11548427/dallas-mavericks_toronto-raptors/info",
+      "slug": "dallas-mavericks-vs-toronto-raptors",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Los Angeles Clippers vs Portland Trail Blazers",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11548430/los-angeles-clippers_portland-trail-blazers/info",
+      "slug": "los-angeles-clippers-vs-portland-trail-blazers",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Sacramento Kings vs Los Angeles Lakers",
+          "time": "02:00",
+          "sender": "Sportschau Live",
+          "slug": "sacramento-kings-vs-los-angeles-lakers"
+        }
+      ]
+    },
+    {
+      "title": "Sacramento Kings vs Los Angeles Lakers",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11548433/sacramento-kings_los-angeles-lakers/info",
+      "slug": "sacramento-kings-vs-los-angeles-lakers",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Los Angeles Clippers vs Portland Trail Blazers",
+          "time": "02:00",
+          "sender": "Sportschau Live",
+          "slug": "los-angeles-clippers-vs-portland-trail-blazers"
+        }
+      ]
+    },
+    {
+      "title": "Pittsburgh Steelers vs Green Bay Packers",
+      "time": "01:20",
+      "iso_time": "",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/football/usa-nfl/ma11091485/pittsburgh-steelers_green-bay-packers/info",
+      "slug": "pittsburgh-steelers-vs-green-bay-packers",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Chicago Blackhawks vs Los Angeles Kings",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11412719/chicago-blackhawks_los-angeles-kings/info",
+      "slug": "chicago-blackhawks-vs-los-angeles-kings",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Nashville Predators vs Dallas Stars",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "nashville-predators-vs-dallas-stars"
+        }
+      ]
+    },
+    {
+      "title": "Nashville Predators vs Dallas Stars",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11412722/nashville-predators_dallas-stars/info",
+      "slug": "nashville-predators-vs-dallas-stars",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Chicago Blackhawks vs Los Angeles Kings",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "chicago-blackhawks-vs-los-angeles-kings"
+        }
+      ]
+    },
+    {
+      "title": "Calgary Flames vs New York Rangers",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11412725/calgary-flames_new-york-rangers/info",
+      "slug": "calgary-flames-vs-new-york-rangers",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Vancouver Canucks vs Edmonton Oilers",
+      "time": "03:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11412728/vancouver-canucks_edmonton-oilers/info",
+      "slug": "vancouver-canucks-vs-edmonton-oilers",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Sijia Wei vs Anna Bondar",
+      "time": "04:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-jiangxi-open/ma11637751/sijia-wei_anna-bondar/info",
+      "slug": "sijia-wei-vs-anna-bondar",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Hanyu Guo vs Alina Korneeva",
+          "time": "04:00",
+          "sender": "Sportschau Live",
+          "slug": "hanyu-guo-vs-alina-korneeva"
+        }
+      ]
+    },
+    {
+      "title": "Hanyu Guo vs Alina Korneeva",
+      "time": "04:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-jiangxi-open/ma11637733/hanyu-guo_alina-korneeva/info",
+      "slug": "hanyu-guo-vs-alina-korneeva",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Sijia Wei vs Anna Bondar",
+          "time": "04:00",
+          "sender": "Sportschau Live",
+          "slug": "sijia-wei-vs-anna-bondar"
+        }
+      ]
+    },
+    {
+      "title": "Dominika Salkova vs Aliona Falei",
+      "time": "05:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-jiangxi-open/ma11637736/dominika-salkova_aliona-falei/info",
+      "slug": "dominika-salkova-vs-aliona-falei",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Yulia Putintseva vs Victoria Jimenez Kasintseva",
+      "time": "05:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-jiangxi-open/ma11637766/yulia-putintseva_victoria-jimenez-kasintseva/info",
+      "slug": "yulia-putintseva-vs-victoria-jimenez-kasintseva",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Tamara Korpatsch vs Polina Kudermetova",
+          "time": "05:10",
+          "sender": "Sportschau Live",
+          "slug": "tamara-korpatsch-vs-polina-kudermetova"
+        }
+      ]
+    },
+    {
+      "title": "Tamara Korpatsch vs Polina Kudermetova",
+      "time": "05:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-jiangxi-open/ma11637763/tamara-korpatsch_polina-kudermetova/info",
+      "slug": "tamara-korpatsch-vs-polina-kudermetova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Yulia Putintseva vs Victoria Jimenez Kasintseva",
+          "time": "05:10",
+          "sender": "Sportschau Live",
+          "slug": "yulia-putintseva-vs-victoria-jimenez-kasintseva"
+        }
+      ]
+    },
+    {
+      "title": "Ena Shibahara vs Anastasia Zakharova",
+      "time": "06:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-jiangxi-open/ma11637739/ena-shibahara_anastasia-zakharova/info",
+      "slug": "ena-shibahara-vs-anastasia-zakharova",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Ella Seidel vs Tiantsoa Rakotomanga Rajaonah",
+      "time": "06:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-jiangxi-open/ma11637760/ella-seidel_tiantsoa-rakotomanga-rajaonah/info",
+      "slug": "ella-seidel-vs-tiantsoa-rakotomanga-rajaonah",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Wushuang Zheng vs Yulia Starodubtseva",
+      "time": "11:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-jiangxi-open/ma11637769/wushuang-zheng_yulia-starodubtseva/info",
+      "slug": "wushuang-zheng-vs-yulia-starodubtseva",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Hong Wong vs Viktoria Morvayova",
+          "time": "11:30",
+          "sender": "Sportschau Live",
+          "slug": "hong-wong-vs-viktoria-morvayova"
+        }
+      ]
+    },
+    {
+      "title": "Cristina Bucsa vs Yexin Ma",
+      "time": "07:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-hongkong-hongkong-open/ma11637952/cristina-bucsa_yexin-ma/info",
+      "slug": "cristina-bucsa-vs-yexin-ma",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Maddison Inglis vs Yafan Wang",
+          "time": "07:00",
+          "sender": "Sportschau Live",
+          "slug": "maddison-inglis-vs-yafan-wang"
+        }
+      ]
+    },
+    {
+      "title": "Maddison Inglis vs Yafan Wang",
+      "time": "07:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-hongkong-hongkong-open/ma11637949/maddison-inglis_yafan-wang/info",
+      "slug": "maddison-inglis-vs-yafan-wang",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Cristina Bucsa vs Yexin Ma",
+          "time": "07:00",
+          "sender": "Sportschau Live",
+          "slug": "cristina-bucsa-vs-yexin-ma"
+        }
+      ]
+    },
+    {
+      "title": "N.N. vs Eva Lys",
+      "time": "08:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": null,
+      "slug": "n-n-vs-eva-lys",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Momoko Kobori vs Ajla Tomljanović",
+          "time": "08:10",
+          "sender": "Sportschau Live",
+          "slug": "momoko-kobori-vs-ajla-tomljanovic"
+        }
+      ]
+    },
+    {
+      "title": "Momoko Kobori vs Ajla Tomljanović",
+      "time": "08:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-hongkong-hongkong-open/ma11637985/momoko-kobori_ajla-tomljanovic/info",
+      "slug": "momoko-kobori-vs-ajla-tomljanovic",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "N.N. vs Eva Lys",
+          "time": "08:10",
+          "sender": "Sportschau Live",
+          "slug": "n-n-vs-eva-lys"
+        }
+      ]
+    },
+    {
+      "title": "Hong Wong vs Viktoria Morvayova",
+      "time": "11:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-hongkong-hongkong-open/ma11637964/hong-wong_viktoria-morvayova/info",
+      "slug": "hong-wong-vs-viktoria-morvayova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Wushuang Zheng vs Yulia Starodubtseva",
+          "time": "11:30",
+          "sender": "Sportschau Live",
+          "slug": "wushuang-zheng-vs-yulia-starodubtseva"
+        }
+      ]
+    },
+    {
+      "title": "Anastasija Sevastova vs Maya Joint",
+      "time": "12:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-hongkong-hongkong-open/ma11637967/anastasija-sevastova_maya-joint/info",
+      "slug": "anastasija-sevastova-vs-maya-joint",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Mei Yamaguchi vs Francesca Jones",
+      "time": "10:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co8312/chennai-open/ma11637589/mei-yamaguchi_francesca-jones/info",
+      "slug": "mei-yamaguchi-vs-francesca-jones",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Mai Hontama vs Storm Hunter",
+          "time": "10:30",
+          "sender": "Sportschau Live",
+          "slug": "mai-hontama-vs-storm-hunter"
+        },
+        {
+          "title": "Polina Iatcenko vs Alina Charaeva",
+          "time": "10:30",
+          "sender": "Sportschau Live",
+          "slug": "polina-iatcenko-vs-alina-charaeva"
+        }
+      ]
+    },
+    {
+      "title": "Mai Hontama vs Storm Hunter",
+      "time": "10:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co8312/chennai-open/ma11637583/mai-hontama_storm-hunter/info",
+      "slug": "mai-hontama-vs-storm-hunter",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Mei Yamaguchi vs Francesca Jones",
+          "time": "10:30",
+          "sender": "Sportschau Live",
+          "slug": "mei-yamaguchi-vs-francesca-jones"
+        },
+        {
+          "title": "Polina Iatcenko vs Alina Charaeva",
+          "time": "10:30",
+          "sender": "Sportschau Live",
+          "slug": "polina-iatcenko-vs-alina-charaeva"
+        }
+      ]
+    },
+    {
+      "title": "Polina Iatcenko vs Alina Charaeva",
+      "time": "10:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co8312/chennai-open/ma11637550/polina-iatcenko_alina-charaeva/info",
+      "slug": "polina-iatcenko-vs-alina-charaeva",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Mei Yamaguchi vs Francesca Jones",
+          "time": "10:30",
+          "sender": "Sportschau Live",
+          "slug": "mei-yamaguchi-vs-francesca-jones"
+        },
+        {
+          "title": "Mai Hontama vs Storm Hunter",
+          "time": "10:30",
+          "sender": "Sportschau Live",
+          "slug": "mai-hontama-vs-storm-hunter"
+        }
+      ]
+    },
+    {
+      "title": "Arianne Hartono vs Joanna Garland",
+      "time": "11:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co8312/chennai-open/ma11637586/arianne-hartono_joanna-garland/info",
+      "slug": "arianne-hartono-vs-joanna-garland",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Thasaporn Naklo vs Diane Parry",
+          "time": "11:40",
+          "sender": "Sportschau Live",
+          "slug": "thasaporn-naklo-vs-diane-parry"
+        },
+        {
+          "title": "Astrid Lew Yan Foon vs Linda Fruhvirtová",
+          "time": "11:40",
+          "sender": "Sportschau Live",
+          "slug": "astrid-lew-yan-foon-vs-linda-fruhvirtova"
+        }
+      ]
+    },
+    {
+      "title": "Thasaporn Naklo vs Diane Parry",
+      "time": "11:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co8312/chennai-open/ma11637565/thasaporn-naklo_diane-parry/info",
+      "slug": "thasaporn-naklo-vs-diane-parry",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Arianne Hartono vs Joanna Garland",
+          "time": "11:40",
+          "sender": "Sportschau Live",
+          "slug": "arianne-hartono-vs-joanna-garland"
+        },
+        {
+          "title": "Astrid Lew Yan Foon vs Linda Fruhvirtová",
+          "time": "11:40",
+          "sender": "Sportschau Live",
+          "slug": "astrid-lew-yan-foon-vs-linda-fruhvirtova"
+        }
+      ]
+    },
+    {
+      "title": "Astrid Lew Yan Foon vs Linda Fruhvirtová",
+      "time": "11:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co8312/chennai-open/ma11637559/astrid-lew-yan-foon_linda-fruhvirtova/info",
+      "slug": "astrid-lew-yan-foon-vs-linda-fruhvirtova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Arianne Hartono vs Joanna Garland",
+          "time": "11:40",
+          "sender": "Sportschau Live",
+          "slug": "arianne-hartono-vs-joanna-garland"
+        },
+        {
+          "title": "Thasaporn Naklo vs Diane Parry",
+          "time": "11:40",
+          "sender": "Sportschau Live",
+          "slug": "thasaporn-naklo-vs-diane-parry"
+        }
+      ]
+    },
+    {
+      "title": "N.N. vs Donna Vekić",
+      "time": "12:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": null,
+      "slug": "n-n-vs-donna-vekic",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Sahaja Yamalapalli vs Priska Nugroho",
+      "time": "14:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co8312/chennai-open/ma11637574/sahaja-yamalapalli_priska-nugroho/info",
+      "slug": "sahaja-yamalapalli-vs-priska-nugroho",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Flavio Cobolli vs Tomas Machac",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-frankreich-bnp-paribas-masters/ma11638765/flavio-cobolli_tomas-machac/info",
+      "slug": "flavio-cobolli-vs-tomas-machac",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Luciano Darderi vs Arthur Cazaux",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "luciano-darderi-vs-arthur-cazaux"
+        },
+        {
+          "title": "Daniel Altmaier vs Marcos Giron",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "daniel-altmaier-vs-marcos-giron"
+        }
+      ]
+    },
+    {
+      "title": "Luciano Darderi vs Arthur Cazaux",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-frankreich-bnp-paribas-masters/ma11638753/luciano-darderi_arthur-cazaux/info",
+      "slug": "luciano-darderi-vs-arthur-cazaux",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Flavio Cobolli vs Tomas Machac",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "flavio-cobolli-vs-tomas-machac"
+        },
+        {
+          "title": "Daniel Altmaier vs Marcos Giron",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "daniel-altmaier-vs-marcos-giron"
+        }
+      ]
+    },
+    {
+      "title": "Daniel Altmaier vs Marcos Giron",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-frankreich-bnp-paribas-masters/ma11638708/daniel-altmaier_marcos-giron/info",
+      "slug": "daniel-altmaier-vs-marcos-giron",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Flavio Cobolli vs Tomas Machac",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "flavio-cobolli-vs-tomas-machac"
+        },
+        {
+          "title": "Luciano Darderi vs Arthur Cazaux",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "luciano-darderi-vs-arthur-cazaux"
+        }
+      ]
+    },
+    {
+      "title": "Learner Tien vs Nuno Borges",
+      "time": "12:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-frankreich-bnp-paribas-masters/ma11638768/learner-tien_nuno-borges/info",
+      "slug": "learner-tien-vs-nuno-borges",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Fabian Marozsan vs Arthur Rinderknech",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "fabian-marozsan-vs-arthur-rinderknech"
+        },
+        {
+          "title": "Cameron Norrie vs Sebastian Baez",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "cameron-norrie-vs-sebastian-baez"
+        }
+      ]
+    },
+    {
+      "title": "Fabian Marozsan vs Arthur Rinderknech",
+      "time": "12:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-frankreich-bnp-paribas-masters/ma11638696/fabian-marozsan_arthur-rinderknech/info",
+      "slug": "fabian-marozsan-vs-arthur-rinderknech",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Learner Tien vs Nuno Borges",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "learner-tien-vs-nuno-borges"
+        },
+        {
+          "title": "Cameron Norrie vs Sebastian Baez",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "cameron-norrie-vs-sebastian-baez"
+        }
+      ]
+    },
+    {
+      "title": "Cameron Norrie vs Sebastian Baez",
+      "time": "12:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-frankreich-bnp-paribas-masters/ma11638693/cameron-norrie_sebastian-baez/info",
+      "slug": "cameron-norrie-vs-sebastian-baez",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Learner Tien vs Nuno Borges",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "learner-tien-vs-nuno-borges"
+        },
+        {
+          "title": "Fabian Marozsan vs Arthur Rinderknech",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "fabian-marozsan-vs-arthur-rinderknech"
+        }
+      ]
+    },
+    {
+      "title": "Francisco Cerúndolo vs Damir Džumhur",
+      "time": "13:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-frankreich-bnp-paribas-masters/ma11638774/francisco-cerundolo_damir-dzumhur/info",
+      "slug": "francisco-cerundolo-vs-damir-dzumhur",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Jacob Fearnley vs Andrey Rublev",
+          "time": "13:20",
+          "sender": "Sportschau Live",
+          "slug": "jacob-fearnley-vs-andrey-rublev"
+        },
+        {
+          "title": "Aleksandar Vukic vs Terence Atmane",
+          "time": "13:20",
+          "sender": "Sportschau Live",
+          "slug": "aleksandar-vukic-vs-terence-atmane"
+        }
+      ]
+    },
+    {
+      "title": "Jacob Fearnley vs Andrey Rublev",
+      "time": "13:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-frankreich-bnp-paribas-masters/ma11638771/jacob-fearnley_andrey-rublev/info",
+      "slug": "jacob-fearnley-vs-andrey-rublev",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Francisco Cerúndolo vs Damir Džumhur",
+          "time": "13:20",
+          "sender": "Sportschau Live",
+          "slug": "francisco-cerundolo-vs-damir-dzumhur"
+        },
+        {
+          "title": "Aleksandar Vukic vs Terence Atmane",
+          "time": "13:20",
+          "sender": "Sportschau Live",
+          "slug": "aleksandar-vukic-vs-terence-atmane"
+        }
+      ]
+    },
+    {
+      "title": "Aleksandar Vukic vs Terence Atmane",
+      "time": "13:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-frankreich-bnp-paribas-masters/ma11638717/aleksandar-vukic_terence-atmane/info",
+      "slug": "aleksandar-vukic-vs-terence-atmane",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Francisco Cerúndolo vs Damir Džumhur",
+          "time": "13:20",
+          "sender": "Sportschau Live",
+          "slug": "francisco-cerundolo-vs-damir-dzumhur"
+        },
+        {
+          "title": "Jacob Fearnley vs Andrey Rublev",
+          "time": "13:20",
+          "sender": "Sportschau Live",
+          "slug": "jacob-fearnley-vs-andrey-rublev"
+        }
+      ]
+    },
+    {
+      "title": "Aleksandar Kovacevic vs Miomir Kecmanović",
+      "time": "14:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-frankreich-bnp-paribas-masters/ma11638777/aleksandar-kovacevic_miomir-kecmanovic/info",
+      "slug": "aleksandar-kovacevic-vs-miomir-kecmanovic",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alex Michelsen vs Zizou Bergs",
+      "time": "14:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-frankreich-bnp-paribas-masters/ma11638780/alex-michelsen_zizou-bergs/info",
+      "slug": "alex-michelsen-vs-zizou-bergs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Lorenzo Sonego vs Sebastian Korda",
+      "time": "15:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-frankreich-bnp-paribas-masters/ma11638741/lorenzo-sonego_sebastian-korda/info",
+      "slug": "lorenzo-sonego-vs-sebastian-korda",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alexei Popyrin vs Alexander Bublik",
+      "time": "15:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-frankreich-bnp-paribas-masters/ma11638723/alexei-popyrin_alexander-bublik/info",
+      "slug": "alexei-popyrin-vs-alexander-bublik",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alexandre Muller vs Brandon Nakashima",
+      "time": "16:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-frankreich-bnp-paribas-masters/ma11638705/alexandre-muller_brandon-nakashima/info",
+      "slug": "alexandre-muller-vs-brandon-nakashima",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Giovanni Mpetshi Perricard vs Grigor Dimitrov",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-frankreich-bnp-paribas-masters/ma11638744/giovanni-mpetshi-perricard_grigor-dimitrov/info",
+      "slug": "giovanni-mpetshi-perricard-vs-grigor-dimitrov",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Karen Khachanov vs Ethan Quinn",
+      "time": "20:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-frankreich-bnp-paribas-masters/ma11638726/karen-khachanov_ethan-quinn/info",
+      "slug": "karen-khachanov-vs-ethan-quinn",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "WM | Tag 5 | Finals",
+      "subtitle": "Santiago de Chile | Mit Sprint Männer u.a.",
+      "sport": "Bahnradsport",
+      "sport_slug": "bahnradsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:13",
+      "iso_time": "2025-10-27T00:13:57.560000+01:00",
+      "link": "",
+      "slug": "wm-tag-5-finals",
+      "related_events": []
+    },
+    {
+      "title": "Sölden | Riesenslalom | 2. Lauf",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:55",
+      "iso_time": "2025-10-27T00:55:08.560000+01:00",
+      "link": "",
+      "slug": "solden-riesenslalom-2-lauf",
+      "related_events": []
+    },
+    {
+      "title": "Northern Ireland Open | Finale",
+      "subtitle": "Jack Lisowski - Judd Trump | Belfast | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:28",
+      "iso_time": "2025-10-27T01:28:18.840000+01:00",
+      "link": "",
+      "slug": "northern-ireland-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "WM | Tag 5 | Finals",
+      "subtitle": "Santiago de Chile | Mit Sprint Männer u.a.",
+      "sport": "Bahnradsport",
+      "sport_slug": "bahnradsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:00",
+      "iso_time": "2025-10-27T03:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/cdad522c-ff20-5ee8-a87a-365ccc9e83b0?utm_source=universal_search",
+      "slug": "wm-tag-5-finals",
+      "related_events": []
+    },
+    {
+      "title": "Northern Ireland Open | Finale",
+      "subtitle": "Jack Lisowski - Judd Trump | Belfast | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:29",
+      "iso_time": "2025-10-27T05:29:55.600000+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/3c63f161-8eef-5b1e-ac8a-b9f567a83cd5?utm_source=universal_search",
+      "slug": "northern-ireland-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "WM | Tag 5 | Finals",
+      "subtitle": "Santiago de Chile | Mit Sprint Männer u.a.",
+      "sport": "Bahnradsport",
+      "sport_slug": "bahnradsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:25",
+      "iso_time": "2025-10-27T08:25:43.920000+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/96f2d360-6973-5e15-94d4-a845d9995fd0?utm_source=universal_search",
+      "slug": "wm-tag-5-finals",
+      "related_events": []
+    },
+    {
+      "title": "Northern Ireland Open | Finale",
+      "subtitle": "Jack Lisowski - Judd Trump | Belfast | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:31",
+      "iso_time": "2025-10-27T08:31:40.040000+01:00",
+      "link": "",
+      "slug": "northern-ireland-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Sölden | Riesenslalom | 2. Lauf",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:55",
+      "iso_time": "2025-10-27T10:55:50.720000+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/267e8aec-d6e2-5831-a948-b9e8ab7082f1?utm_source=universal_search",
+      "slug": "solden-riesenslalom-2-lauf",
+      "related_events": []
+    },
+    {
+      "title": "WM | Tag 5 | Finals",
+      "subtitle": "Santiago de Chile | Mit Sprint Männer u.a.",
+      "sport": "Bahnradsport",
+      "sport_slug": "bahnradsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:59",
+      "iso_time": "2025-10-27T10:59:56.840000+01:00",
+      "link": "",
+      "slug": "wm-tag-5-finals",
+      "related_events": []
+    },
+    {
+      "title": "Sölden | Riesenslalom | 2. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:00",
+      "iso_time": "2025-10-27T12:00:23.840000+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/b8b86ffe-8ab2-501c-9103-f1a7b925b5bc?utm_source=universal_search",
+      "slug": "solden-riesenslalom-2-lauf",
+      "related_events": []
+    },
+    {
+      "title": "WM | Tag 5 | Finals",
+      "subtitle": "Santiago de Chile | Mit Sprint Männer u.a.",
+      "sport": "Bahnradsport",
+      "sport_slug": "bahnradsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:57",
+      "iso_time": "2025-10-27T12:57:19.880000+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/3320fbd9-0f78-5d52-b6fe-c3c38497a6be?utm_source=universal_search",
+      "slug": "wm-tag-5-finals",
+      "related_events": []
+    },
+    {
+      "title": "Northern Ireland Open | Finale",
+      "subtitle": "Jack Lisowski - Judd Trump | Belfast | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:02",
+      "iso_time": "2025-10-27T13:02:05.800000+01:00",
+      "link": "",
+      "slug": "northern-ireland-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Northern Ireland Open | Finale",
+      "subtitle": "Jack Lisowski - Judd Trump | Belfast | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:00",
+      "iso_time": "2025-10-27T15:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/51fdc15d-9e84-5a66-9cbf-85d8bf9e8fca?utm_source=universal_search",
+      "slug": "northern-ireland-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Sölden | Riesenslalom | 2. Lauf",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:00",
+      "iso_time": "2025-10-27T15:00:00+01:00",
+      "link": "",
+      "slug": "solden-riesenslalom-2-lauf",
+      "related_events": []
+    },
+    {
+      "title": "Sölden | Riesenslalom | 2. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2025-10-27T16:00:00+01:00",
+      "link": "",
+      "slug": "solden-riesenslalom-2-lauf",
+      "related_events": []
+    },
+    {
+      "title": "WM | Tag 5 | Finals",
+      "subtitle": "Santiago de Chile | Mit Sprint Männer u.a.",
+      "sport": "Bahnradsport",
+      "sport_slug": "bahnradsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2025-10-27T17:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/8597e67e-04a3-5c0b-9cd9-7d6371e0b0bb?utm_source=universal_search",
+      "slug": "wm-tag-5-finals",
+      "related_events": []
+    },
+    {
+      "title": "Northern Ireland Open | Finale",
+      "subtitle": "Jack Lisowski - Judd Trump | Belfast | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2025-10-27T17:00:00+01:00",
+      "link": "",
+      "slug": "northern-ireland-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Wollongong T100 | Highlights",
+      "subtitle": "T100 Triathlon World Tour | 7. Station",
+      "sport": "Triathlon",
+      "sport_slug": "triathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2025-10-27T19:00:00+01:00",
+      "link": "",
+      "slug": "wollongong-t100-highlights",
+      "related_events": []
+    },
+    {
+      "title": "Northern Ireland Open | Finale",
+      "subtitle": "Jack Lisowski - Judd Trump | Belfast | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2025-10-27T20:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/7e5c1240-a24b-54d1-9362-a3bddd06b9bd?utm_source=universal_search",
+      "slug": "northern-ireland-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Sölden | Riesenslalom | 1. Lauf",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2025-10-27T20:00:00+01:00",
+      "link": "",
+      "slug": "solden-riesenslalom-1-lauf",
+      "related_events": [
+        {
+          "title": "Sölden | Riesenslalom | 2. Lauf",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "solden-riesenslalom-2-lauf"
+        },
+        {
+          "title": "Sölden | Riesenslalom | 2. Lauf",
+          "time": "23:00",
+          "sender": "Eurosport",
+          "slug": "solden-riesenslalom-2-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Sölden | Riesenslalom | 2. Lauf",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2025-10-27T21:00:00+01:00",
+      "link": "",
+      "slug": "solden-riesenslalom-2-lauf",
+      "related_events": [
+        {
+          "title": "Sölden | Riesenslalom | 1. Lauf",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "solden-riesenslalom-1-lauf"
+        },
+        {
+          "title": "Sölden | Riesenslalom | 1. Lauf",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "solden-riesenslalom-1-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Wollongong T100 | Highlights",
+      "subtitle": "T100 Triathlon World Tour | 7. Station",
+      "sport": "Triathlon",
+      "sport_slug": "triathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2025-10-27T22:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/9c4c20e1-006b-514c-ae43-2f0fe8783968?utm_source=universal_search",
+      "slug": "wollongong-t100-highlights",
+      "related_events": []
+    },
+    {
+      "title": "Sölden | Riesenslalom | 1. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2025-10-27T22:00:00+01:00",
+      "link": "",
+      "slug": "solden-riesenslalom-1-lauf",
+      "related_events": [
+        {
+          "title": "Sölden | Riesenslalom | 2. Lauf",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "solden-riesenslalom-2-lauf"
+        },
+        {
+          "title": "Sölden | Riesenslalom | 2. Lauf",
+          "time": "23:00",
+          "sender": "Eurosport",
+          "slug": "solden-riesenslalom-2-lauf"
+        }
+      ]
+    },
+    {
+      "title": "WM | Tag 5 | Finals",
+      "subtitle": "Santiago de Chile | Mit Sprint Männer u.a.",
+      "sport": "Bahnradsport",
+      "sport_slug": "bahnradsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2025-10-27T23:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/4e8923bc-2437-5be9-9043-10fbc6394798?utm_source=universal_search",
+      "slug": "wm-tag-5-finals",
+      "related_events": []
+    },
+    {
+      "title": "Sölden | Riesenslalom | 2. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2025-10-27T23:00:00+01:00",
+      "link": "",
+      "slug": "solden-riesenslalom-2-lauf",
+      "related_events": [
+        {
+          "title": "Sölden | Riesenslalom | 1. Lauf",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "solden-riesenslalom-1-lauf"
+        },
+        {
+          "title": "Sölden | Riesenslalom | 1. Lauf",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "solden-riesenslalom-1-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Xi'an Grand Prix | Finale",
+      "subtitle": "S. Murphy - M. Williams | 2. Session | Xi’an",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2025-10-28T00:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/737525f5-48bf-52cc-9b30-9e0febb02acf?utm_source=universal_search",
+      "slug": "xi-an-grand-prix-finale",
+      "related_events": []
+    },
+    {
+      "title": "FIA WEC | 1812km von Katar | Rennen",
+      "subtitle": "Langstrecken-WM | 1. Saisonlauf",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2025-10-28T00:00:00+01:00",
+      "link": "",
+      "slug": "fia-wec-1812km-von-katar-rennen",
+      "related_events": []
+    }
+  ]
+}
