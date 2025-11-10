@@ -1,0 +1,750 @@
+{
+  "date": "2025-11-10",
+  "events": [
+    {
+      "title": "SC Freiburg vs Bayer Leverkusen",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga-frauen/ma11376416/sc-freiburg_bayer-leverkusen/info",
+      "slug": "sc-freiburg-vs-bayer-leverkusen",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Orlando Magic vs Boston Celtics",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11548676/orlando-magic_boston-celtics/info",
+      "slug": "orlando-magic-vs-boston-celtics",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Memphis Grizzlies vs Oklahoma City Thunder",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "memphis-grizzlies-vs-oklahoma-city-thunder"
+        },
+        {
+          "title": "New York Knicks vs Brooklyn Nets",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "new-york-knicks-vs-brooklyn-nets"
+        }
+      ]
+    },
+    {
+      "title": "Memphis Grizzlies vs Oklahoma City Thunder",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11548679/memphis-grizzlies_oklahoma-city-thunder/info",
+      "slug": "memphis-grizzlies-vs-oklahoma-city-thunder",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Orlando Magic vs Boston Celtics",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "orlando-magic-vs-boston-celtics"
+        },
+        {
+          "title": "New York Knicks vs Brooklyn Nets",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "new-york-knicks-vs-brooklyn-nets"
+        }
+      ]
+    },
+    {
+      "title": "New York Knicks vs Brooklyn Nets",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11548682/new-york-knicks_brooklyn-nets/info",
+      "slug": "new-york-knicks-vs-brooklyn-nets",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Orlando Magic vs Boston Celtics",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "orlando-magic-vs-boston-celtics"
+        },
+        {
+          "title": "Memphis Grizzlies vs Oklahoma City Thunder",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "memphis-grizzlies-vs-oklahoma-city-thunder"
+        }
+      ]
+    },
+    {
+      "title": "Philadelphia 76ers vs Detroit Pistons",
+      "time": "01:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11548685/philadelphia-76ers_detroit-pistons/info",
+      "slug": "philadelphia-76ers-vs-detroit-pistons",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Golden State Warriors vs Indiana Pacers",
+      "time": "02:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11548688/golden-state-warriors_indiana-pacers/info",
+      "slug": "golden-state-warriors-vs-indiana-pacers",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Sacramento Kings vs Minnesota Timberwolves",
+      "time": "03:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11548691/sacramento-kings_minnesota-timberwolves/info",
+      "slug": "sacramento-kings-vs-minnesota-timberwolves",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Los Angeles Chargers vs Pittsburgh Steelers",
+      "time": "02:20",
+      "iso_time": "",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/football/usa-nfl/ma11091566/los-angeles-chargers_pittsburgh-steelers/info",
+      "slug": "los-angeles-chargers-vs-pittsburgh-steelers",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Dallas Stars vs Seattle Kraken",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11413025/dallas-stars_seattle-kraken/info",
+      "slug": "dallas-stars-vs-seattle-kraken",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ottawa Senators vs Utah Mammoth",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "ottawa-senators-vs-utah-mammoth"
+        },
+        {
+          "title": "Toronto Maple Leafs vs Carolina Hurricanes",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "toronto-maple-leafs-vs-carolina-hurricanes"
+        }
+      ]
+    },
+    {
+      "title": "Ottawa Senators vs Utah Mammoth",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11413028/ottawa-senators_utah-mammoth/info",
+      "slug": "ottawa-senators-vs-utah-mammoth",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dallas Stars vs Seattle Kraken",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "dallas-stars-vs-seattle-kraken"
+        },
+        {
+          "title": "Toronto Maple Leafs vs Carolina Hurricanes",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "toronto-maple-leafs-vs-carolina-hurricanes"
+        }
+      ]
+    },
+    {
+      "title": "Toronto Maple Leafs vs Carolina Hurricanes",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11413031/toronto-maple-leafs_carolina-hurricanes/info",
+      "slug": "toronto-maple-leafs-vs-carolina-hurricanes",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dallas Stars vs Seattle Kraken",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "dallas-stars-vs-seattle-kraken"
+        },
+        {
+          "title": "Ottawa Senators vs Utah Mammoth",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "ottawa-senators-vs-utah-mammoth"
+        }
+      ]
+    },
+    {
+      "title": "Minnesota Wild vs Calgary Flames",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11413034/minnesota-wild_calgary-flames/info",
+      "slug": "minnesota-wild-vs-calgary-flames",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Anaheim Ducks vs Winnipeg Jets",
+      "time": "04:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11413037/anaheim-ducks_winnipeg-jets/info",
+      "slug": "anaheim-ducks-vs-winnipeg-jets",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Vancouver Canucks vs Colorado Avalanche",
+          "time": "04:00",
+          "sender": "Sportschau Live",
+          "slug": "vancouver-canucks-vs-colorado-avalanche"
+        }
+      ]
+    },
+    {
+      "title": "Vancouver Canucks vs Colorado Avalanche",
+      "time": "04:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11413040/vancouver-canucks_colorado-avalanche/info",
+      "slug": "vancouver-canucks-vs-colorado-avalanche",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Anaheim Ducks vs Winnipeg Jets",
+          "time": "04:00",
+          "sender": "Sportschau Live",
+          "slug": "anaheim-ducks-vs-winnipeg-jets"
+        }
+      ]
+    },
+    {
+      "title": "Jannik Sinner vs Felix Auger-Aliassime",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-barclays-atp-world-tour-finals/ma11704978/jannik-sinner_felix-auger-aliassime/info",
+      "slug": "jannik-sinner-vs-felix-auger-aliassime",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Lorenzo Musetti vs Taylor Fritz",
+      "time": "14:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-barclays-atp-world-tour-finals/ma11704930/lorenzo-musetti_taylor-fritz/info",
+      "slug": "lorenzo-musetti-vs-taylor-fritz",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Arevalo, M. / Pavic, M. vs Salisbury, J. / Skupski, N.",
+      "time": "11:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co964/atp-finals-turin/ma11704837/arevalo-m---pavic-m_salisbury-j---skupski-n/info",
+      "slug": "arevalo-m-pavic-m-vs-salisbury-j-skupski-n",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Heliovaara, H. / Patten H. vs Harrison, C. / King, E.",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co964/atp-finals-turin/ma11704840/heliovaara-h---patten-h_harrison-c---king-e/info",
+      "slug": "heliovaara-h-patten-h-vs-harrison-c-king-e",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "FIA WEC | 8h von Bahrain | Rennen",
+      "subtitle": "Langstrecken-WM | 8. Station",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:55",
+      "iso_time": "2025-11-09T23:55:36.400000+01:00",
+      "link": "",
+      "slug": "fia-wec-8h-von-bahrain-rennen",
+      "related_events": []
+    },
+    {
+      "title": "WM | Freestyle Park | Finale",
+      "subtitle": "Riad | Frauen",
+      "sport": "BMX",
+      "sport_slug": "bmx",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:57",
+      "iso_time": "2025-11-10T00:57:11.120000+01:00",
+      "link": "",
+      "slug": "wm-freestyle-park-finale",
+      "related_events": []
+    },
+    {
+      "title": "FIA WEC | 8h von Bahrain | Rennen",
+      "subtitle": "Langstrecken-WM | 8. Station",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:26",
+      "iso_time": "2025-11-10T01:26:14.040000+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/0c9b63a2-f9b9-5acb-9724-fa1a8410a316?utm_source=universal_search",
+      "slug": "fia-wec-8h-von-bahrain-rennen",
+      "related_events": []
+    },
+    {
+      "title": "WM | Abfahrt",
+      "subtitle": "Saalbach-Hinterglemm | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:59",
+      "iso_time": "2025-11-10T03:59:51.040000+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/e9d1d619-3e48-5b33-bbf3-095d9292fec5?utm_source=universal_search",
+      "slug": "wm-abfahrt",
+      "related_events": []
+    },
+    {
+      "title": "Hall Of Fame - Athen 2004",
+      "subtitle": "",
+      "sport": "Olympia",
+      "sport_slug": "olympia",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:00",
+      "iso_time": "2025-11-10T05:00:22.920000+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/58b911f7-5a77-550d-b929-ae59d13a7219?utm_source=universal_search",
+      "slug": "hall-of-fame-athen-2004",
+      "related_events": []
+    },
+    {
+      "title": "International Championship | Finale",
+      "subtitle": "J. Higgins - W. Yize | 2. Session | Nanjing",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:49",
+      "iso_time": "2025-11-10T05:49:19.440000+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/2bed5e4a-0a03-5579-9460-0fba9d18e39e?utm_source=universal_search",
+      "slug": "international-championship-finale",
+      "related_events": []
+    },
+    {
+      "title": "FIA WEC | 8h von Bahrain | Rennen",
+      "subtitle": "Langstrecken-WM | 8. Station",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:25",
+      "iso_time": "2025-11-10T08:25:14.080000+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/1dd68421-26e9-5ea4-9fa2-a616014d6828?utm_source=universal_search",
+      "slug": "fia-wec-8h-von-bahrain-rennen",
+      "related_events": []
+    },
+    {
+      "title": "International Championship | Finale",
+      "subtitle": "J. Higgins - W. Yize | 2. Session | Nanjing",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:31",
+      "iso_time": "2025-11-10T08:31:32.640000+01:00",
+      "link": "",
+      "slug": "international-championship-finale",
+      "related_events": []
+    },
+    {
+      "title": "WM | Abfahrt",
+      "subtitle": "Saalbach-Hinterglemm | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:49",
+      "iso_time": "2025-11-10T10:49:18.640000+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/0b565b2c-8545-5fd5-8678-709146a8fd9a?utm_source=universal_search",
+      "slug": "wm-abfahrt",
+      "related_events": []
+    },
+    {
+      "title": "Hall of Fame - Peking 2008",
+      "subtitle": "",
+      "sport": "Olympia",
+      "sport_slug": "olympia",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:58",
+      "iso_time": "2025-11-10T10:58:12.200000+01:00",
+      "link": "",
+      "slug": "hall-of-fame-peking-2008",
+      "related_events": []
+    },
+    {
+      "title": "International Championship | Finale",
+      "subtitle": "J. Higgins - W. Yize | 2. Session | Nanjing",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:54",
+      "iso_time": "2025-11-10T11:54:45.360000+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/d22a9ebb-19a9-5d85-8077-1df28ae45048?utm_source=universal_search",
+      "slug": "international-championship-finale",
+      "related_events": []
+    },
+    {
+      "title": "FIA WEC | 8h von Bahrain | Rennen",
+      "subtitle": "Langstrecken-WM | 8. Station",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:55",
+      "iso_time": "2025-11-10T11:55:07.680000+01:00",
+      "link": "",
+      "slug": "fia-wec-8h-von-bahrain-rennen",
+      "related_events": []
+    },
+    {
+      "title": "EM | Frauen Elite",
+      "subtitle": "Middelkerke",
+      "sport": "Cyclocross",
+      "sport_slug": "cyclocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:25",
+      "iso_time": "2025-11-10T13:25:34.920000+01:00",
+      "link": "",
+      "slug": "em-frauen-elite",
+      "related_events": [
+        {
+          "title": "EM | Männer Elite",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "em-manner-elite"
+        }
+      ]
+    },
+    {
+      "title": "FIA WEC | 8h von Bahrain | Rennen",
+      "subtitle": "Langstrecken-WM | 8. Station",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:30",
+      "iso_time": "2025-11-10T14:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/4e910c70-eeb0-5f71-9a2a-f6192b37893a?utm_source=universal_search",
+      "slug": "fia-wec-8h-von-bahrain-rennen",
+      "related_events": []
+    },
+    {
+      "title": "EM | Männer Elite",
+      "subtitle": "Middelkerke",
+      "sport": "Cyclocross",
+      "sport_slug": "cyclocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:30",
+      "iso_time": "2025-11-10T14:30:00+01:00",
+      "link": "",
+      "slug": "em-manner-elite",
+      "related_events": [
+        {
+          "title": "EM | Frauen Elite",
+          "time": "13:25",
+          "sender": "Eurosport",
+          "slug": "em-frauen-elite"
+        },
+        {
+          "title": "EM | Frauen Elite",
+          "time": "16:30",
+          "sender": "Eurosport",
+          "slug": "em-frauen-elite"
+        }
+      ]
+    },
+    {
+      "title": "International Championship | Finale",
+      "subtitle": "J. Higgins - W. Yize | 2. Session | Nanjing",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:30",
+      "iso_time": "2025-11-10T15:30:00+01:00",
+      "link": "",
+      "slug": "international-championship-finale",
+      "related_events": []
+    },
+    {
+      "title": "EM | Frauen Elite",
+      "subtitle": "Middelkerke",
+      "sport": "Cyclocross",
+      "sport_slug": "cyclocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:30",
+      "iso_time": "2025-11-10T16:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/98c23dd1-e2a0-5828-9852-d4e29660bafc?utm_source=universal_search",
+      "slug": "em-frauen-elite",
+      "related_events": [
+        {
+          "title": "EM | Männer Elite",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "em-manner-elite"
+        },
+        {
+          "title": "EM | Männer Elite",
+          "time": "17:30",
+          "sender": "Eurosport",
+          "slug": "em-manner-elite"
+        }
+      ]
+    },
+    {
+      "title": "EM | Männer Elite",
+      "subtitle": "Middelkerke",
+      "sport": "Cyclocross",
+      "sport_slug": "cyclocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:30",
+      "iso_time": "2025-11-10T17:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/5d670cef-4176-5dc8-a4ce-ef44a6dd936c?utm_source=universal_search",
+      "slug": "em-manner-elite",
+      "related_events": [
+        {
+          "title": "EM | Frauen Elite",
+          "time": "16:30",
+          "sender": "Eurosport",
+          "slug": "em-frauen-elite"
+        }
+      ]
+    },
+    {
+      "title": "Hall of Fame - Peking 2008",
+      "subtitle": "",
+      "sport": "Olympia",
+      "sport_slug": "olympia",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:30",
+      "iso_time": "2025-11-10T17:30:00+01:00",
+      "link": "",
+      "slug": "hall-of-fame-peking-2008",
+      "related_events": []
+    },
+    {
+      "title": "WM | Abfahrt",
+      "subtitle": "Saalbach-Hinterglemm | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2025-11-10T18:30:00+01:00",
+      "link": "",
+      "slug": "wm-abfahrt",
+      "related_events": []
+    },
+    {
+      "title": "Hall of Fame - Peking 2008",
+      "subtitle": "",
+      "sport": "Olympia",
+      "sport_slug": "olympia",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2025-11-10T18:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/60d69f0d-310a-5571-8b37-73d16be45a1f?utm_source=universal_search",
+      "slug": "hall-of-fame-peking-2008",
+      "related_events": []
+    },
+    {
+      "title": "International Championship | Finale",
+      "subtitle": "J. Higgins - W. Yize | 2. Session | Nanjing",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:30",
+      "iso_time": "2025-11-10T19:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/71cf8066-e2e3-5b18-aa2b-a244490b02e6?utm_source=universal_search",
+      "slug": "international-championship-finale",
+      "related_events": []
+    },
+    {
+      "title": "FIA WEC | 8h von Bahrain | Rennen",
+      "subtitle": "Langstrecken-WM | 8. Station",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2025-11-10T20:00:00+01:00",
+      "link": "",
+      "slug": "fia-wec-8h-von-bahrain-rennen",
+      "related_events": []
+    },
+    {
+      "title": "FIA WEC | 8h von Bahrain | Rennen",
+      "subtitle": "Langstrecken-WM | 8. Station",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2025-11-10T22:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/f94ae372-c0f4-5410-868e-f36507ef09cb?utm_source=universal_search",
+      "slug": "fia-wec-8h-von-bahrain-rennen",
+      "related_events": [
+        {
+          "title": "FIA WEC | 6h von Spa | Rennen",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "fia-wec-6h-von-spa-rennen"
+        }
+      ]
+    },
+    {
+      "title": "International Championship | Finale",
+      "subtitle": "J. Higgins - W. Yize | 2. Session | Nanjing",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2025-11-10T22:00:00+01:00",
+      "link": "",
+      "slug": "international-championship-finale",
+      "related_events": [
+        {
+          "title": "Shanghai Masters | Finale",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "shanghai-masters-finale"
+        }
+      ]
+    },
+    {
+      "title": "Shanghai Masters | Finale",
+      "subtitle": "",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2025-11-11T00:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/f7d4f618-b6db-5922-bafb-e321c28ed8d3?utm_source=universal_search",
+      "slug": "shanghai-masters-finale",
+      "related_events": [
+        {
+          "title": "International Championship | Finale",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "international-championship-finale"
+        }
+      ]
+    },
+    {
+      "title": "FIA WEC | 6h von Spa | Rennen",
+      "subtitle": "Langstrecken-WM | 3. Saisonlauf",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2025-11-11T00:00:00+01:00",
+      "link": "",
+      "slug": "fia-wec-6h-von-spa-rennen",
+      "related_events": [
+        {
+          "title": "FIA WEC | 8h von Bahrain | Rennen",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "fia-wec-8h-von-bahrain-rennen"
+        }
+      ]
+    }
+  ]
+}
