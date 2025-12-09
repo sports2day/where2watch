@@ -1,0 +1,1583 @@
+{
+  "date": "2025-12-09",
+  "events": [
+    {
+      "title": "FK Kairat vs Olympiakos Piraeus",
+      "time": "16:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league/ma11585423/fk-kairat_olympiakos-piraeus/info",
+      "slug": "fk-kairat-vs-olympiakos-piraeus",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Bayern München vs Sporting CP",
+      "time": "18:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league/ma11585039/bayern-muenchen_sporting-cp/info",
+      "slug": "bayern-munchen-vs-sporting-cp",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "SKN St. Pölten vs Juventus",
+          "time": "18:45",
+          "sender": "Sportschau Live",
+          "slug": "skn-st-polten-vs-juventus"
+        }
+      ]
+    },
+    {
+      "title": "FC Barcelona vs Eintracht Frankfurt",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league/ma11585162/fc-barcelona_eintracht-frankfurt/info",
+      "slug": "fc-barcelona-vs-eintracht-frankfurt",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Atalanta vs Chelsea FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "atalanta-vs-chelsea-fc"
+        },
+        {
+          "title": "Inter Mailand vs Liverpool FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "inter-mailand-vs-liverpool-fc"
+        },
+        {
+          "title": "PSV Eindhoven vs Atlético Madrid",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "psv-eindhoven-vs-atletico-madrid"
+        }
+      ]
+    },
+    {
+      "title": "Atalanta vs Chelsea FC",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league/ma11585057/atalanta_chelsea-fc/info",
+      "slug": "atalanta-vs-chelsea-fc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Barcelona vs Eintracht Frankfurt",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-barcelona-vs-eintracht-frankfurt"
+        },
+        {
+          "title": "Inter Mailand vs Liverpool FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "inter-mailand-vs-liverpool-fc"
+        },
+        {
+          "title": "PSV Eindhoven vs Atlético Madrid",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "psv-eindhoven-vs-atletico-madrid"
+        }
+      ]
+    },
+    {
+      "title": "Inter Mailand vs Liverpool FC",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league/ma11585096/inter-mailand_liverpool-fc/info",
+      "slug": "inter-mailand-vs-liverpool-fc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Barcelona vs Eintracht Frankfurt",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-barcelona-vs-eintracht-frankfurt"
+        },
+        {
+          "title": "Atalanta vs Chelsea FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "atalanta-vs-chelsea-fc"
+        },
+        {
+          "title": "PSV Eindhoven vs Atlético Madrid",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "psv-eindhoven-vs-atletico-madrid"
+        }
+      ]
+    },
+    {
+      "title": "PSV Eindhoven vs Atlético Madrid",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league/ma11585339/psv-eindhoven_atletico-madrid/info",
+      "slug": "psv-eindhoven-vs-atletico-madrid",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Barcelona vs Eintracht Frankfurt",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-barcelona-vs-eintracht-frankfurt"
+        },
+        {
+          "title": "Atalanta vs Chelsea FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "atalanta-vs-chelsea-fc"
+        },
+        {
+          "title": "Inter Mailand vs Liverpool FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "inter-mailand-vs-liverpool-fc"
+        }
+      ]
+    },
+    {
+      "title": "Union Saint-Gilloise vs Olympique Marseille",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league/ma11585369/union-saint-gilloise_olympique-marseille/info",
+      "slug": "union-saint-gilloise-vs-olympique-marseille",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Barcelona vs Eintracht Frankfurt",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-barcelona-vs-eintracht-frankfurt"
+        },
+        {
+          "title": "Atalanta vs Chelsea FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "atalanta-vs-chelsea-fc"
+        },
+        {
+          "title": "Inter Mailand vs Liverpool FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "inter-mailand-vs-liverpool-fc"
+        }
+      ]
+    },
+    {
+      "title": "Tottenham Hotspur vs Slavia Praha",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league/ma11585372/tottenham-hotspur_slavia-praha/info",
+      "slug": "tottenham-hotspur-vs-slavia-praha",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Barcelona vs Eintracht Frankfurt",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-barcelona-vs-eintracht-frankfurt"
+        },
+        {
+          "title": "Atalanta vs Chelsea FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "atalanta-vs-chelsea-fc"
+        },
+        {
+          "title": "Inter Mailand vs Liverpool FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "inter-mailand-vs-liverpool-fc"
+        }
+      ]
+    },
+    {
+      "title": "AS Monaco vs Galatasaray",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league/ma11585459/as-monaco_galatasaray/info",
+      "slug": "as-monaco-vs-galatasaray",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Barcelona vs Eintracht Frankfurt",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-barcelona-vs-eintracht-frankfurt"
+        },
+        {
+          "title": "Atalanta vs Chelsea FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "atalanta-vs-chelsea-fc"
+        },
+        {
+          "title": "Inter Mailand vs Liverpool FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "inter-mailand-vs-liverpool-fc"
+        }
+      ]
+    },
+    {
+      "title": "SKN St. Pölten vs Juventus",
+      "time": "18:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-frauen/ma11623370/skn-st-poelten_juventus/info",
+      "slug": "skn-st-polten-vs-juventus",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Bayern München vs Sporting CP",
+          "time": "18:45",
+          "sender": "Sportschau Live",
+          "slug": "bayern-munchen-vs-sporting-cp"
+        }
+      ]
+    },
+    {
+      "title": "Real Madrid vs VfL Wolfsburg",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-frauen/ma11623298/real-madrid_vfl-wolfsburg/info",
+      "slug": "real-madrid-vs-vfl-wolfsburg",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Barcelona vs Eintracht Frankfurt",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-barcelona-vs-eintracht-frankfurt"
+        },
+        {
+          "title": "Atalanta vs Chelsea FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "atalanta-vs-chelsea-fc"
+        },
+        {
+          "title": "Inter Mailand vs Liverpool FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "inter-mailand-vs-liverpool-fc"
+        }
+      ]
+    },
+    {
+      "title": "Arsenal WFC vs FC Twente",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-frauen/ma11623325/arsenal-wfc_fc-twente/info",
+      "slug": "arsenal-wfc-vs-fc-twente",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Barcelona vs Eintracht Frankfurt",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-barcelona-vs-eintracht-frankfurt"
+        },
+        {
+          "title": "Atalanta vs Chelsea FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "atalanta-vs-chelsea-fc"
+        },
+        {
+          "title": "Inter Mailand vs Liverpool FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "inter-mailand-vs-liverpool-fc"
+        }
+      ]
+    },
+    {
+      "title": "Paris Saint-Germain vs Oud-Heverlee Leuven",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-frauen/ma11623466/paris-saint-germain_oud-heverlee-leuven/info",
+      "slug": "paris-saint-germain-vs-oud-heverlee-leuven",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Barcelona vs Eintracht Frankfurt",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-barcelona-vs-eintracht-frankfurt"
+        },
+        {
+          "title": "Atalanta vs Chelsea FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "atalanta-vs-chelsea-fc"
+        },
+        {
+          "title": "Inter Mailand vs Liverpool FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "inter-mailand-vs-liverpool-fc"
+        }
+      ]
+    },
+    {
+      "title": "Deutschland vs Brasilien",
+      "time": "17:15",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ihf-wm-frauen/ma11101865/deutschland_brasilien/info",
+      "slug": "deutschland-vs-brasilien",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Norwegen vs Montenegro",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ihf-wm-frauen/ma11756782/norwegen_montenegro/info",
+      "slug": "norwegen-vs-montenegro",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Beşiktaş JK vs Lietkabelis Panevėžys",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/uleb-euro-cup/ma11313905/besiktas-jk_lietkabelis-panevezys/info",
+      "slug": "besiktas-jk-vs-lietkabelis-panevezys",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "NINERS Chemnitz vs Panionios",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/uleb-euro-cup/ma11313908/niners-chemnitz_panionios/info",
+      "slug": "niners-chemnitz-vs-panionios",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Hapoel Jerusalem vs Hamburg Towers",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "hapoel-jerusalem-vs-hamburg-towers"
+        }
+      ]
+    },
+    {
+      "title": "Hapoel Jerusalem vs Hamburg Towers",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/uleb-euro-cup/ma11313923/hapoel-jerusalem_hamburg-towers/info",
+      "slug": "hapoel-jerusalem-vs-hamburg-towers",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "NINERS Chemnitz vs Panionios",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "niners-chemnitz-vs-panionios"
+        }
+      ]
+    },
+    {
+      "title": "JL Bourg vs Aquila Trento",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/uleb-euro-cup/ma11313911/jl-bourg_aquila-trento/info",
+      "slug": "jl-bourg-vs-aquila-trento",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "LKPS Lublin vs Halkbank Ankara",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Volleyball",
+      "sport_slug": "volleyball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/volleyball/volleyball-champions-league/ma11687668/lkps-lublin_halkbank-ankara/info",
+      "slug": "lkps-lublin-vs-halkbank-ankara",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "AS Volley Lube vs Montpellier Volley",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Volleyball",
+      "sport_slug": "volleyball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/volleyball/volleyball-champions-league/ma11687671/as-volley-lube_montpellier-volley/info",
+      "slug": "as-volley-lube-vs-montpellier-volley",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Indiana Pacers vs Sacramento Kings",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11549192/indiana-pacers_sacramento-kings/info",
+      "slug": "indiana-pacers-vs-sacramento-kings",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Minnesota Timberwolves vs Phoenix Suns",
+      "time": "01:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11549195/minnesota-timberwolves_phoenix-suns/info",
+      "slug": "minnesota-timberwolves-vs-phoenix-suns",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "New Orleans Pelicans vs San Antonio Spurs",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11549198/new-orleans-pelicans_san-antonio-spurs/info",
+      "slug": "new-orleans-pelicans-vs-san-antonio-spurs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Los Angeles Chargers vs Philadelphia Eagles",
+      "time": "02:15",
+      "iso_time": "",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/football/usa-nfl/ma11091737/los-angeles-chargers_philadelphia-eagles/info",
+      "slug": "los-angeles-chargers-vs-philadelphia-eagles",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Toronto Maple Leafs vs Tampa Bay Lightning",
+      "time": "01:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11413670/toronto-maple-leafs_tampa-bay-lightning/info",
+      "slug": "toronto-maple-leafs-vs-tampa-bay-lightning",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Calgary Flames vs Buffalo Sabres",
+      "time": "03:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11413673/calgary-flames_buffalo-sabres/info",
+      "slug": "calgary-flames-vs-buffalo-sabres",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Utah Mammoth vs Los Angeles Kings",
+          "time": "03:00",
+          "sender": "Sportschau Live",
+          "slug": "utah-mammoth-vs-los-angeles-kings"
+        }
+      ]
+    },
+    {
+      "title": "Utah Mammoth vs Los Angeles Kings",
+      "time": "03:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11413676/utah-mammoth_los-angeles-kings/info",
+      "slug": "utah-mammoth-vs-los-angeles-kings",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Calgary Flames vs Buffalo Sabres",
+          "time": "03:00",
+          "sender": "Sportschau Live",
+          "slug": "calgary-flames-vs-buffalo-sabres"
+        }
+      ]
+    },
+    {
+      "title": "Seattle Kraken vs Minnesota Wild",
+      "time": "04:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11413679/seattle-kraken_minnesota-wild/info",
+      "slug": "seattle-kraken-vs-minnesota-wild",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Vancouver Canucks vs Detroit Red Wings",
+          "time": "04:00",
+          "sender": "Sportschau Live",
+          "slug": "vancouver-canucks-vs-detroit-red-wings"
+        }
+      ]
+    },
+    {
+      "title": "Vancouver Canucks vs Detroit Red Wings",
+      "time": "04:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11413682/vancouver-canucks_detroit-red-wings/info",
+      "slug": "vancouver-canucks-vs-detroit-red-wings",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Seattle Kraken vs Minnesota Wild",
+          "time": "04:00",
+          "sender": "Sportschau Live",
+          "slug": "seattle-kraken-vs-minnesota-wild"
+        }
+      ]
+    },
+    {
+      "title": "Wisla | Einzelspringen",
+      "subtitle": "Weltcup | Männer | HS 134",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:07",
+      "iso_time": "2025-12-09T00:07:43+01:00",
+      "link": "",
+      "slug": "wisla-einzelspringen",
+      "related_events": [
+        {
+          "title": "Wisla | Einzel | 1. Durchgang",
+          "time": "01:06",
+          "sender": "Eurosport",
+          "slug": "wisla-einzel-1-durchgang"
+        },
+        {
+          "title": "Wisla | Einzel | 2. Durchgang",
+          "time": "01:36",
+          "sender": "Eurosport",
+          "slug": "wisla-einzel-2-durchgang"
+        }
+      ]
+    },
+    {
+      "title": "Östersund | 12,5km Verfolgung",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:04",
+      "iso_time": "2025-12-09T01:04:27+01:00",
+      "link": "",
+      "slug": "ostersund-125km-verfolgung",
+      "related_events": []
+    },
+    {
+      "title": "Wisla | Einzel | 1. Durchgang",
+      "subtitle": "Weltcup | Männer | HS 134",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:06",
+      "iso_time": "2025-12-09T01:06:23+01:00",
+      "link": "",
+      "slug": "wisla-einzel-1-durchgang",
+      "related_events": [
+        {
+          "title": "Wisla | Einzelspringen",
+          "time": "00:07",
+          "sender": "Eurosport",
+          "slug": "wisla-einzelspringen"
+        },
+        {
+          "title": "Wisla | Einzel | 2. Durchgang",
+          "time": "01:36",
+          "sender": "Eurosport",
+          "slug": "wisla-einzel-2-durchgang"
+        }
+      ]
+    },
+    {
+      "title": "Wisla | Einzel | 2. Durchgang",
+      "subtitle": "Weltcup | Männer | HS 134",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:36",
+      "iso_time": "2025-12-09T01:36:06+01:00",
+      "link": "",
+      "slug": "wisla-einzel-2-durchgang",
+      "related_events": [
+        {
+          "title": "Wisla | Einzelspringen",
+          "time": "00:07",
+          "sender": "Eurosport",
+          "slug": "wisla-einzelspringen"
+        },
+        {
+          "title": "Wisla | Einzel | 1. Durchgang",
+          "time": "01:06",
+          "sender": "Eurosport",
+          "slug": "wisla-einzel-1-durchgang"
+        }
+      ]
+    },
+    {
+      "title": "Uk Championship | Finale",
+      "subtitle": "2. Session | York",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:06",
+      "iso_time": "2025-12-09T02:06:13+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/803c72ce-f02e-5515-865f-c5a0c7b44eca?utm_source=universal_search",
+      "slug": "uk-championship-finale",
+      "related_events": []
+    },
+    {
+      "title": "Beaver Creek | Abfahrt",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:01",
+      "iso_time": "2025-12-09T04:01:37+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/78a8a1d6-0ec7-5274-b0b2-80b88f05cf4b?utm_source=universal_search",
+      "slug": "beaver-creek-abfahrt",
+      "related_events": [
+        {
+          "title": "Beaver Creek | Super-G",
+          "time": "05:08",
+          "sender": "Eurosport",
+          "slug": "beaver-creek-super-g"
+        }
+      ]
+    },
+    {
+      "title": "Beaver Creek | Super-G",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:08",
+      "iso_time": "2025-12-09T05:08:38+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/35307cbf-b262-5d01-9328-81696f2d921c?utm_source=universal_search",
+      "slug": "beaver-creek-super-g",
+      "related_events": [
+        {
+          "title": "Beaver Creek | Abfahrt",
+          "time": "04:01",
+          "sender": "Eurosport",
+          "slug": "beaver-creek-abfahrt"
+        }
+      ]
+    },
+    {
+      "title": "Trondheim | Klassik-Sprint | Finals",
+      "subtitle": "Weltcup | Frauen / Männer",
+      "sport": "Skilanglauf",
+      "sport_slug": "skilanglauf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:00",
+      "iso_time": "2025-12-09T06:00:15+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/df1b771c-0ef8-54c2-bc6d-7fd3916c7620?utm_source=universal_search",
+      "slug": "trondheim-klassik-sprint-finals",
+      "related_events": [
+        {
+          "title": "Trondheim | Skiathlon",
+          "time": "06:58",
+          "sender": "Eurosport",
+          "slug": "trondheim-skiathlon"
+        },
+        {
+          "title": "Trondheim | 10km Freistil",
+          "time": "07:31",
+          "sender": "Eurosport",
+          "slug": "trondheim-10km-freistil"
+        }
+      ]
+    },
+    {
+      "title": "Trondheim | Skiathlon",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Skilanglauf",
+      "sport_slug": "skilanglauf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:58",
+      "iso_time": "2025-12-09T06:58:44+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/d84f47ea-4a99-5783-8c4b-fc2b1260ef2b?utm_source=universal_search",
+      "slug": "trondheim-skiathlon",
+      "related_events": [
+        {
+          "title": "Trondheim | Klassik-Sprint | Finals",
+          "time": "06:00",
+          "sender": "Eurosport",
+          "slug": "trondheim-klassik-sprint-finals"
+        },
+        {
+          "title": "Trondheim | 10km Freistil",
+          "time": "07:31",
+          "sender": "Eurosport",
+          "slug": "trondheim-10km-freistil"
+        }
+      ]
+    },
+    {
+      "title": "Trondheim | 10km Freistil",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Skilanglauf",
+      "sport_slug": "skilanglauf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:31",
+      "iso_time": "2025-12-09T07:31:11+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/ebc92054-c271-551d-a63c-2356c28938f2?utm_source=universal_search",
+      "slug": "trondheim-10km-freistil",
+      "related_events": [
+        {
+          "title": "Trondheim | Klassik-Sprint | Finals",
+          "time": "06:00",
+          "sender": "Eurosport",
+          "slug": "trondheim-klassik-sprint-finals"
+        },
+        {
+          "title": "Trondheim | Skiathlon",
+          "time": "06:58",
+          "sender": "Eurosport",
+          "slug": "trondheim-skiathlon"
+        }
+      ]
+    },
+    {
+      "title": "Uk Championship | Finale",
+      "subtitle": "2. Session | York",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:31",
+      "iso_time": "2025-12-09T08:31:02+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/3d36a546-f68a-5e85-bd8c-aa437dfb27e2?utm_source=universal_search",
+      "slug": "uk-championship-finale",
+      "related_events": []
+    },
+    {
+      "title": "Valencia-Marathon",
+      "subtitle": "44. Ausgabe",
+      "sport": "Leichtathletik",
+      "sport_slug": "leichtathletik",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:34",
+      "iso_time": "2025-12-09T08:34:57+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/71de24d9-97a7-5df8-afc0-3d79812b55b3?utm_source=universal_search",
+      "slug": "valencia-marathon",
+      "related_events": []
+    },
+    {
+      "title": "Uk Championship | Finale",
+      "subtitle": "2. Session | York",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:58",
+      "iso_time": "2025-12-09T09:58:42+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/bb5af1c7-a868-5932-affe-4fe8b72d290b?utm_source=universal_search",
+      "slug": "uk-championship-finale",
+      "related_events": []
+    },
+    {
+      "title": "Beaver Creek | Abfahrt",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:00",
+      "iso_time": "2025-12-09T10:00:35+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/23520fe8-de1d-5cdd-829f-802a7352a7d8?utm_source=universal_search",
+      "slug": "beaver-creek-abfahrt",
+      "related_events": [
+        {
+          "title": "Beaver Creek | Super-G",
+          "time": "11:02",
+          "sender": "Eurosport",
+          "slug": "beaver-creek-super-g"
+        }
+      ]
+    },
+    {
+      "title": "Beaver Creek | Super-G",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:02",
+      "iso_time": "2025-12-09T11:02:03+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/f3db98ec-8eea-5255-8446-7ded54d65d67?utm_source=universal_search",
+      "slug": "beaver-creek-super-g",
+      "related_events": [
+        {
+          "title": "Beaver Creek | Abfahrt",
+          "time": "10:00",
+          "sender": "Eurosport",
+          "slug": "beaver-creek-abfahrt"
+        },
+        {
+          "title": "Beaver Creek | Riesenslalom | 1. Lauf",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "beaver-creek-riesenslalom-1-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Uk Championship | Finale",
+      "subtitle": "2. Session | York",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:56",
+      "iso_time": "2025-12-09T11:56:49+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/fb65e3ef-0714-5bc1-86f9-9f8416a0b906?utm_source=universal_search",
+      "slug": "uk-championship-finale",
+      "related_events": []
+    },
+    {
+      "title": "Östersund | 15km Einzel",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:59",
+      "iso_time": "2025-12-09T11:59:30+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/f4aff438-fd39-5638-a34f-03392a26a2ce?utm_source=universal_search",
+      "slug": "ostersund-15km-einzel",
+      "related_events": [
+        {
+          "title": "Östersund | 7,5km Sprint",
+          "time": "12:58",
+          "sender": "Eurosport",
+          "slug": "ostersund-75km-sprint"
+        },
+        {
+          "title": "Östersund | 10km Verfolgung",
+          "time": "13:32",
+          "sender": "Eurosport",
+          "slug": "ostersund-10km-verfolgung"
+        }
+      ]
+    },
+    {
+      "title": "Östersund | 7,5km Sprint",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:58",
+      "iso_time": "2025-12-09T12:58:46+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/49acafeb-5fef-5651-969a-0fa02e28f01e?utm_source=universal_search",
+      "slug": "ostersund-75km-sprint",
+      "related_events": [
+        {
+          "title": "Östersund | 15km Einzel",
+          "time": "11:59",
+          "sender": "Eurosport",
+          "slug": "ostersund-15km-einzel"
+        },
+        {
+          "title": "Östersund | 10km Verfolgung",
+          "time": "13:32",
+          "sender": "Eurosport",
+          "slug": "ostersund-10km-verfolgung"
+        }
+      ]
+    },
+    {
+      "title": "Östersund | 10km Verfolgung",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:32",
+      "iso_time": "2025-12-09T13:32:48+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/d818b47b-f2e3-584f-8244-13b282e954c8?utm_source=universal_search",
+      "slug": "ostersund-10km-verfolgung",
+      "related_events": [
+        {
+          "title": "Östersund | 15km Einzel",
+          "time": "11:59",
+          "sender": "Eurosport",
+          "slug": "ostersund-15km-einzel"
+        },
+        {
+          "title": "Östersund | 7,5km Sprint",
+          "time": "12:58",
+          "sender": "Eurosport",
+          "slug": "ostersund-75km-sprint"
+        },
+        {
+          "title": "Östersund | 20km Einzel",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "ostersund-20km-einzel"
+        }
+      ]
+    },
+    {
+      "title": "Uk Championship | Finale",
+      "subtitle": "2. Session | York",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:00",
+      "iso_time": "2025-12-09T14:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/7bc1d65b-cdc3-5c1d-8ec6-d6062f98eb36?utm_source=universal_search",
+      "slug": "uk-championship-finale",
+      "related_events": []
+    },
+    {
+      "title": "Beaver Creek | Riesenslalom | 1. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:00",
+      "iso_time": "2025-12-09T14:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/98cb0829-149d-572b-9c3b-e318a9c5fa07?utm_source=universal_search",
+      "slug": "beaver-creek-riesenslalom-1-lauf",
+      "related_events": [
+        {
+          "title": "Beaver Creek | Super-G",
+          "time": "11:02",
+          "sender": "Eurosport",
+          "slug": "beaver-creek-super-g"
+        },
+        {
+          "title": "Beaver Creek | Riesenslalom | 2. Lauf",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "beaver-creek-riesenslalom-2-lauf"
+        },
+        {
+          "title": "Tremblant | Riesenslalom | 1. Durchgang",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "tremblant-riesenslalom-1-durchgang"
+        }
+      ]
+    },
+    {
+      "title": "Beaver Creek | Riesenslalom | 2. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:30",
+      "iso_time": "2025-12-09T14:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/776fbaf3-76c0-57cc-97ef-4d73795da511?utm_source=universal_search",
+      "slug": "beaver-creek-riesenslalom-2-lauf",
+      "related_events": [
+        {
+          "title": "Beaver Creek | Riesenslalom | 1. Lauf",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "beaver-creek-riesenslalom-1-lauf"
+        },
+        {
+          "title": "Tremblant | Riesenslalom | 1. Durchgang",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "tremblant-riesenslalom-1-durchgang"
+        },
+        {
+          "title": "Tremblant | Riesenslalom | 2. Lauf",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "tremblant-riesenslalom-2-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Tremblant | Riesenslalom | 1. Durchgang",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:00",
+      "iso_time": "2025-12-09T15:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/d9de06ce-ad78-5a6f-baae-baf44a739f34?utm_source=universal_search",
+      "slug": "tremblant-riesenslalom-1-durchgang",
+      "related_events": [
+        {
+          "title": "Beaver Creek | Riesenslalom | 1. Lauf",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "beaver-creek-riesenslalom-1-lauf"
+        },
+        {
+          "title": "Beaver Creek | Riesenslalom | 2. Lauf",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "beaver-creek-riesenslalom-2-lauf"
+        },
+        {
+          "title": "Tremblant | Riesenslalom | 2. Lauf",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "tremblant-riesenslalom-2-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Tremblant | Riesenslalom | 2. Lauf",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:30",
+      "iso_time": "2025-12-09T15:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/ba533add-7121-56f5-ae3f-29fd8f0760da?utm_source=universal_search",
+      "slug": "tremblant-riesenslalom-2-lauf",
+      "related_events": [
+        {
+          "title": "Beaver Creek | Riesenslalom | 1. Lauf",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "beaver-creek-riesenslalom-1-lauf"
+        },
+        {
+          "title": "Beaver Creek | Riesenslalom | 2. Lauf",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "beaver-creek-riesenslalom-2-lauf"
+        },
+        {
+          "title": "Tremblant | Riesenslalom | 1. Durchgang",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "tremblant-riesenslalom-1-durchgang"
+        }
+      ]
+    },
+    {
+      "title": "Östersund | 20km Einzel",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2025-12-09T16:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/8aa56389-9d26-554a-b37c-79526d3913ff?utm_source=universal_search",
+      "slug": "ostersund-20km-einzel",
+      "related_events": [
+        {
+          "title": "Östersund | 10km Verfolgung",
+          "time": "13:32",
+          "sender": "Eurosport",
+          "slug": "ostersund-10km-verfolgung"
+        },
+        {
+          "title": "Östersund | 10km Sprint",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "ostersund-10km-sprint"
+        },
+        {
+          "title": "Östersund | 12,5km Verfolgung",
+          "time": "17:30",
+          "sender": "Eurosport",
+          "slug": "ostersund-125km-verfolgung"
+        }
+      ]
+    },
+    {
+      "title": "Wisla | Einzelspringen",
+      "subtitle": "Weltcup | Männer | HS 134",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2025-12-09T16:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/6a7367e4-893c-5f41-b0a8-a34f1ec6820a?utm_source=universal_search",
+      "slug": "wisla-einzelspringen",
+      "related_events": [
+        {
+          "title": "Wisla | Einzel | 1. Durchgang",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "wisla-einzel-1-durchgang"
+        },
+        {
+          "title": "Wisla | Einzel | 2. Durchgang",
+          "time": "17:30",
+          "sender": "Eurosport",
+          "slug": "wisla-einzel-2-durchgang"
+        }
+      ]
+    },
+    {
+      "title": "Östersund | 10km Sprint",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2025-12-09T17:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/c737cec6-34dc-51f7-b21c-68ad5f8230b4?utm_source=universal_search",
+      "slug": "ostersund-10km-sprint",
+      "related_events": [
+        {
+          "title": "Östersund | 20km Einzel",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "ostersund-20km-einzel"
+        },
+        {
+          "title": "Östersund | 12,5km Verfolgung",
+          "time": "17:30",
+          "sender": "Eurosport",
+          "slug": "ostersund-125km-verfolgung"
+        }
+      ]
+    },
+    {
+      "title": "Wisla | Einzel | 1. Durchgang",
+      "subtitle": "Weltcup | Männer | HS 134",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2025-12-09T17:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/a240ebec-877f-55d2-86ca-a4331ab9ef79?utm_source=universal_search",
+      "slug": "wisla-einzel-1-durchgang",
+      "related_events": [
+        {
+          "title": "Wisla | Einzelspringen",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "wisla-einzelspringen"
+        },
+        {
+          "title": "Wisla | Einzel | 2. Durchgang",
+          "time": "17:30",
+          "sender": "Eurosport",
+          "slug": "wisla-einzel-2-durchgang"
+        }
+      ]
+    },
+    {
+      "title": "Wisla | Einzel | 2. Durchgang",
+      "subtitle": "Weltcup | Männer | HS 134",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:30",
+      "iso_time": "2025-12-09T17:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/d8bfc4cb-6bbb-5b50-ab7c-ad35b2226773?utm_source=universal_search",
+      "slug": "wisla-einzel-2-durchgang",
+      "related_events": [
+        {
+          "title": "Wisla | Einzelspringen",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "wisla-einzelspringen"
+        },
+        {
+          "title": "Wisla | Einzel | 1. Durchgang",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "wisla-einzel-1-durchgang"
+        }
+      ]
+    },
+    {
+      "title": "Östersund | 12,5km Verfolgung",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:30",
+      "iso_time": "2025-12-09T17:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/21259130-1b52-585e-b209-f52b8c655e7b?utm_source=universal_search",
+      "slug": "ostersund-125km-verfolgung",
+      "related_events": [
+        {
+          "title": "Östersund | 20km Einzel",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "ostersund-20km-einzel"
+        },
+        {
+          "title": "Östersund | 10km Sprint",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "ostersund-10km-sprint"
+        }
+      ]
+    },
+    {
+      "title": "Uk Championship | Finale",
+      "subtitle": "2. Session | York",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2025-12-09T18:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/0ecec604-4b31-5007-9f70-b12c6507321e?utm_source=universal_search",
+      "slug": "uk-championship-finale",
+      "related_events": []
+    },
+    {
+      "title": "Beaver Creek | Abfahrt",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2025-12-09T18:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/94fd5437-23ca-5bdb-b922-cb00d0b11b86?utm_source=universal_search",
+      "slug": "beaver-creek-abfahrt",
+      "related_events": [
+        {
+          "title": "Tremblant | Riesenslalom | 1. Durchgang",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "tremblant-riesenslalom-1-durchgang"
+        },
+        {
+          "title": "Tremblant | Riesenslalom | 2. Lauf",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "tremblant-riesenslalom-2-lauf"
+        },
+        {
+          "title": "Beaver Creek | Super-G",
+          "time": "19:00",
+          "sender": "Eurosport",
+          "slug": "beaver-creek-super-g"
+        }
+      ]
+    },
+    {
+      "title": "Beaver Creek | Super-G",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2025-12-09T19:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/fb3dd5ad-84a5-5f5f-b58d-ab7433ca2c39?utm_source=universal_search",
+      "slug": "beaver-creek-super-g",
+      "related_events": [
+        {
+          "title": "Beaver Creek | Abfahrt",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "beaver-creek-abfahrt"
+        }
+      ]
+    },
+    {
+      "title": "American Football",
+      "subtitle": "",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:15",
+      "iso_time": "2025-12-09T19:15:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/e3afcc41-0575-5ea1-868e-edd5a4349485?utm_source=universal_search",
+      "slug": "american-football",
+      "related_events": []
+    },
+    {
+      "title": "Trondheim | 10km Freistil",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Skilanglauf",
+      "sport_slug": "skilanglauf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2025-12-09T20:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/ea36d76f-e905-556b-948d-170568d21685?utm_source=universal_search",
+      "slug": "trondheim-10km-freistil",
+      "related_events": []
+    },
+    {
+      "title": "Großer Preis von Saudi-Arabien",
+      "subtitle": "WM | Saudi-Arabien | Englischer Kommentar",
+      "sport": "Powerboat racing",
+      "sport_slug": "powerboat-racing",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:30",
+      "iso_time": "2025-12-09T20:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/4f667599-39fe-52bb-9d5a-b26744e1b1da?utm_source=universal_search",
+      "slug": "grosser-preis-von-saudi-arabien",
+      "related_events": []
+    },
+    {
+      "title": "Trondheim | 10km Freistil",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Skilanglauf",
+      "sport_slug": "skilanglauf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:45",
+      "iso_time": "2025-12-09T20:45:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/38b491dc-132f-51fb-bea9-7c66ea0b4dfc?utm_source=universal_search",
+      "slug": "trondheim-10km-freistil",
+      "related_events": []
+    },
+    {
+      "title": "Sandriders",
+      "subtitle": "",
+      "sport": "Cross Country Rallye",
+      "sport_slug": "cross-country-rallye",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2025-12-09T21:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/d022fb47-4469-5138-b093-f523ece6947f?utm_source=universal_search",
+      "slug": "sandriders",
+      "related_events": []
+    },
+    {
+      "title": "Uk Championship | Finale",
+      "subtitle": "2. Session | York",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:30",
+      "iso_time": "2025-12-09T21:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/6e5a1b2e-7c13-548f-8322-ccbcf166b7cc?utm_source=universal_search",
+      "slug": "uk-championship-finale",
+      "related_events": []
+    },
+    {
+      "title": "São Paulo | Highlights",
+      "subtitle": "WM",
+      "sport": "Formel E",
+      "sport_slug": "formel-e",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:30",
+      "iso_time": "2025-12-09T21:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/6d7bf163-cc9d-5a01-b705-475e9d33fcf5?utm_source=universal_search",
+      "slug": "sao-paulo-highlights",
+      "related_events": []
+    },
+    {
+      "title": "Handball",
+      "subtitle": "WM | Viertelfinale | Frauen",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:30",
+      "iso_time": "2025-12-09T22:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/6320b427-9624-5a5b-ae3b-f57e318f9751?utm_source=universal_search",
+      "slug": "handball",
+      "related_events": []
+    },
+    {
+      "title": "American Football",
+      "subtitle": "",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:45",
+      "iso_time": "2025-12-09T22:45:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/1572543b-565a-5ff2-b0ac-a3b00aa07d32?utm_source=universal_search",
+      "slug": "american-football",
+      "related_events": []
+    },
+    {
+      "title": "Uk Championship | Finale",
+      "subtitle": "2. Session | York",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:30",
+      "iso_time": "2025-12-09T23:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/5233fd91-7058-5fc4-83c0-e40bfc1c4837?utm_source=universal_search",
+      "slug": "uk-championship-finale",
+      "related_events": []
+    },
+    {
+      "title": "Beaver Creek | Abfahrt",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2025-12-10T00:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/7eef33c4-cf28-5ccf-9490-c54006d8ecfe?utm_source=universal_search",
+      "slug": "beaver-creek-abfahrt",
+      "related_events": [
+        {
+          "title": "Beaver Creek | Super-G",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "beaver-creek-super-g"
+        }
+      ]
+    },
+    {
+      "title": "Beaver Creek | Super-G",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:00",
+      "iso_time": "2025-12-10T01:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/d3c81215-011b-5c55-ac7d-71bc466a5c14?utm_source=universal_search",
+      "slug": "beaver-creek-super-g",
+      "related_events": [
+        {
+          "title": "Beaver Creek | Abfahrt",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "beaver-creek-abfahrt"
+        }
+      ]
+    }
+  ]
+}
