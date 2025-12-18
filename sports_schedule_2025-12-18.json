@@ -1,0 +1,1849 @@
+{
+  "date": "2025-12-18",
+  "events": [
+    {
+      "title": " vs ",
+      "time": "14:15",
+      "iso_time": "",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/biathlon/co2593/annecy/ma11436938/ergebnisse",
+      "slug": "vs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": " vs ",
+      "time": "11:45",
+      "iso_time": "",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/ski-alpin/co793/val-gardena---groeden/ma11755756/ergebnisse",
+      "slug": "vs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "1. FSV Mainz 05 vs Samsunspor",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma11586899/1-fsv-mainz-05_samsunspor/info",
+      "slug": "1-fsv-mainz-05-vs-samsunspor",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Lausanne-Sport vs AC Florenz",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-lausanne-sport-vs-ac-florenz"
+        },
+        {
+          "title": "AZ Alkmaar vs Jagiellonia Białystok",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "az-alkmaar-vs-jagiellonia-bialystok"
+        },
+        {
+          "title": "Schachtar Donezk vs HNK Rijeka",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "schachtar-donezk-vs-hnk-rijeka"
+        }
+      ]
+    },
+    {
+      "title": "FC Lausanne-Sport vs AC Florenz",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma11586617/fc-lausanne-sport_ac-florenz/info",
+      "slug": "fc-lausanne-sport-vs-ac-florenz",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "1. FSV Mainz 05 vs Samsunspor",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "1-fsv-mainz-05-vs-samsunspor"
+        },
+        {
+          "title": "AZ Alkmaar vs Jagiellonia Białystok",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "az-alkmaar-vs-jagiellonia-bialystok"
+        },
+        {
+          "title": "Schachtar Donezk vs HNK Rijeka",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "schachtar-donezk-vs-hnk-rijeka"
+        }
+      ]
+    },
+    {
+      "title": "AZ Alkmaar vs Jagiellonia Białystok",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma11586632/az-alkmaar_jagiellonia-bialystok/info",
+      "slug": "az-alkmaar-vs-jagiellonia-bialystok",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "1. FSV Mainz 05 vs Samsunspor",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "1-fsv-mainz-05-vs-samsunspor"
+        },
+        {
+          "title": "FC Lausanne-Sport vs AC Florenz",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-lausanne-sport-vs-ac-florenz"
+        },
+        {
+          "title": "Schachtar Donezk vs HNK Rijeka",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "schachtar-donezk-vs-hnk-rijeka"
+        }
+      ]
+    },
+    {
+      "title": "Schachtar Donezk vs HNK Rijeka",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma11586674/schachtar-donezk_hnk-rijeka/info",
+      "slug": "schachtar-donezk-vs-hnk-rijeka",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "1. FSV Mainz 05 vs Samsunspor",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "1-fsv-mainz-05-vs-samsunspor"
+        },
+        {
+          "title": "FC Lausanne-Sport vs AC Florenz",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-lausanne-sport-vs-ac-florenz"
+        },
+        {
+          "title": "AZ Alkmaar vs Jagiellonia Białystok",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "az-alkmaar-vs-jagiellonia-bialystok"
+        }
+      ]
+    },
+    {
+      "title": "Slovan Bratislava vs BK Häcken",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma11586713/slovan-bratislava_bk-haecken/info",
+      "slug": "slovan-bratislava-vs-bk-hacken",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "1. FSV Mainz 05 vs Samsunspor",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "1-fsv-mainz-05-vs-samsunspor"
+        },
+        {
+          "title": "FC Lausanne-Sport vs AC Florenz",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-lausanne-sport-vs-ac-florenz"
+        },
+        {
+          "title": "AZ Alkmaar vs Jagiellonia Białystok",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "az-alkmaar-vs-jagiellonia-bialystok"
+        }
+      ]
+    },
+    {
+      "title": "Zrinjski Mostar vs Rapid Wien",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma11586731/zrinjski-mostar_rapid-wien/info",
+      "slug": "zrinjski-mostar-vs-rapid-wien",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "1. FSV Mainz 05 vs Samsunspor",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "1-fsv-mainz-05-vs-samsunspor"
+        },
+        {
+          "title": "FC Lausanne-Sport vs AC Florenz",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-lausanne-sport-vs-ac-florenz"
+        },
+        {
+          "title": "AZ Alkmaar vs Jagiellonia Białystok",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "az-alkmaar-vs-jagiellonia-bialystok"
+        }
+      ]
+    },
+    {
+      "title": "Legia Warschau vs Lincoln Red Imps",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma11586752/legia-warschau_lincoln-red-imps/info",
+      "slug": "legia-warschau-vs-lincoln-red-imps",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "1. FSV Mainz 05 vs Samsunspor",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "1-fsv-mainz-05-vs-samsunspor"
+        },
+        {
+          "title": "FC Lausanne-Sport vs AC Florenz",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-lausanne-sport-vs-ac-florenz"
+        },
+        {
+          "title": "AZ Alkmaar vs Jagiellonia Białystok",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "az-alkmaar-vs-jagiellonia-bialystok"
+        }
+      ]
+    },
+    {
+      "title": "Sparta Prag vs Aberdeen FC",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma11586779/sparta-prag_aberdeen-fc/info",
+      "slug": "sparta-prag-vs-aberdeen-fc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "1. FSV Mainz 05 vs Samsunspor",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "1-fsv-mainz-05-vs-samsunspor"
+        },
+        {
+          "title": "FC Lausanne-Sport vs AC Florenz",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-lausanne-sport-vs-ac-florenz"
+        },
+        {
+          "title": "AZ Alkmaar vs Jagiellonia Białystok",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "az-alkmaar-vs-jagiellonia-bialystok"
+        }
+      ]
+    },
+    {
+      "title": "Dynamo Kiew vs FC Noah",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma11586809/dynamo-kiew_fc-noah/info",
+      "slug": "dynamo-kiew-vs-fc-noah",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "1. FSV Mainz 05 vs Samsunspor",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "1-fsv-mainz-05-vs-samsunspor"
+        },
+        {
+          "title": "FC Lausanne-Sport vs AC Florenz",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-lausanne-sport-vs-ac-florenz"
+        },
+        {
+          "title": "AZ Alkmaar vs Jagiellonia Białystok",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "az-alkmaar-vs-jagiellonia-bialystok"
+        }
+      ]
+    },
+    {
+      "title": "Crystal Palace vs Kuopion PS",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma11586818/crystal-palace_kuopion-ps/info",
+      "slug": "crystal-palace-vs-kuopion-ps",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "1. FSV Mainz 05 vs Samsunspor",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "1-fsv-mainz-05-vs-samsunspor"
+        },
+        {
+          "title": "FC Lausanne-Sport vs AC Florenz",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-lausanne-sport-vs-ac-florenz"
+        },
+        {
+          "title": "AZ Alkmaar vs Jagiellonia Białystok",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "az-alkmaar-vs-jagiellonia-bialystok"
+        }
+      ]
+    },
+    {
+      "title": "Sigma Olomouc vs Lech Poznań",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma11586848/sigma-olomouc_lech-poznan/info",
+      "slug": "sigma-olomouc-vs-lech-poznan",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "1. FSV Mainz 05 vs Samsunspor",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "1-fsv-mainz-05-vs-samsunspor"
+        },
+        {
+          "title": "FC Lausanne-Sport vs AC Florenz",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-lausanne-sport-vs-ac-florenz"
+        },
+        {
+          "title": "AZ Alkmaar vs Jagiellonia Białystok",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "az-alkmaar-vs-jagiellonia-bialystok"
+        }
+      ]
+    },
+    {
+      "title": "Rayo Vallecano vs KF Drita",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma11586860/rayo-vallecano_kf-drita/info",
+      "slug": "rayo-vallecano-vs-kf-drita",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "1. FSV Mainz 05 vs Samsunspor",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "1-fsv-mainz-05-vs-samsunspor"
+        },
+        {
+          "title": "FC Lausanne-Sport vs AC Florenz",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-lausanne-sport-vs-ac-florenz"
+        },
+        {
+          "title": "AZ Alkmaar vs Jagiellonia Białystok",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "az-alkmaar-vs-jagiellonia-bialystok"
+        }
+      ]
+    },
+    {
+      "title": "Omonia Nikosia vs Raków Częstochowa",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma11586884/omonia-nikosia_rakow-czestochowa/info",
+      "slug": "omonia-nikosia-vs-rakow-czestochowa",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "1. FSV Mainz 05 vs Samsunspor",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "1-fsv-mainz-05-vs-samsunspor"
+        },
+        {
+          "title": "FC Lausanne-Sport vs AC Florenz",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-lausanne-sport-vs-ac-florenz"
+        },
+        {
+          "title": "AZ Alkmaar vs Jagiellonia Białystok",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "az-alkmaar-vs-jagiellonia-bialystok"
+        }
+      ]
+    },
+    {
+      "title": "RC Strasbourg vs Breiðablik",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma11586917/rc-strasbourg_breidablik/info",
+      "slug": "rc-strasbourg-vs-breidablik",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "1. FSV Mainz 05 vs Samsunspor",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "1-fsv-mainz-05-vs-samsunspor"
+        },
+        {
+          "title": "FC Lausanne-Sport vs AC Florenz",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-lausanne-sport-vs-ac-florenz"
+        },
+        {
+          "title": "AZ Alkmaar vs Jagiellonia Białystok",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "az-alkmaar-vs-jagiellonia-bialystok"
+        }
+      ]
+    },
+    {
+      "title": "NK Celje vs Shelbourne FC",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma11586959/nk-celje_shelbourne-fc/info",
+      "slug": "nk-celje-vs-shelbourne-fc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "1. FSV Mainz 05 vs Samsunspor",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "1-fsv-mainz-05-vs-samsunspor"
+        },
+        {
+          "title": "FC Lausanne-Sport vs AC Florenz",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-lausanne-sport-vs-ac-florenz"
+        },
+        {
+          "title": "AZ Alkmaar vs Jagiellonia Białystok",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "az-alkmaar-vs-jagiellonia-bialystok"
+        }
+      ]
+    },
+    {
+      "title": "AEK Athen vs CS Universitatea Craiova",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma11587034/aek-athen_cs-universitatea-craiova/info",
+      "slug": "aek-athen-vs-cs-universitatea-craiova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "1. FSV Mainz 05 vs Samsunspor",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "1-fsv-mainz-05-vs-samsunspor"
+        },
+        {
+          "title": "FC Lausanne-Sport vs AC Florenz",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-lausanne-sport-vs-ac-florenz"
+        },
+        {
+          "title": "AZ Alkmaar vs Jagiellonia Białystok",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "az-alkmaar-vs-jagiellonia-bialystok"
+        }
+      ]
+    },
+    {
+      "title": "AEK Larnaca vs KF Shkëndija 79",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma11587091/aek-larnaca_kf-shkendija-79/info",
+      "slug": "aek-larnaca-vs-kf-shkendija-79",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "1. FSV Mainz 05 vs Samsunspor",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "1-fsv-mainz-05-vs-samsunspor"
+        },
+        {
+          "title": "FC Lausanne-Sport vs AC Florenz",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-lausanne-sport-vs-ac-florenz"
+        },
+        {
+          "title": "AZ Alkmaar vs Jagiellonia Białystok",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "az-alkmaar-vs-jagiellonia-bialystok"
+        }
+      ]
+    },
+    {
+      "title": "Shamrock Rovers vs Hamrun Spartans",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma11587139/shamrock-rovers_hamrun-spartans/info",
+      "slug": "shamrock-rovers-vs-hamrun-spartans",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "1. FSV Mainz 05 vs Samsunspor",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "1-fsv-mainz-05-vs-samsunspor"
+        },
+        {
+          "title": "FC Lausanne-Sport vs AC Florenz",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-lausanne-sport-vs-ac-florenz"
+        },
+        {
+          "title": "AZ Alkmaar vs Jagiellonia Białystok",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "az-alkmaar-vs-jagiellonia-bialystok"
+        }
+      ]
+    },
+    {
+      "title": "Füchse Berlin vs THW Kiel",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-dhb-pokal/ma11714092/fuechse-berlin_thw-kiel/info",
+      "slug": "fuchse-berlin-vs-thw-kiel",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Bergischer HC vs MT Melsungen",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "bergischer-hc-vs-mt-melsungen"
+        }
+      ]
+    },
+    {
+      "title": "Bergischer HC vs MT Melsungen",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-dhb-pokal/ma11714095/bergischer-hc_mt-melsungen/info",
+      "slug": "bergischer-hc-vs-mt-melsungen",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Füchse Berlin vs THW Kiel",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "fuchse-berlin-vs-thw-kiel"
+        }
+      ]
+    },
+    {
+      "title": "SC Magdeburg vs SG Flensburg-Handewitt",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-dhb-pokal/ma11714098/sc-magdeburg_sg-flensburg-handewitt/info",
+      "slug": "sc-magdeburg-vs-sg-flensburg-handewitt",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Maccabi Tel Aviv vs Valencia Basket",
+      "time": "20:05",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493146/maccabi-tel-aviv_valencia-basket/info",
+      "slug": "maccabi-tel-aviv-vs-valencia-basket",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Panathinaikos vs Hapoel Tel Aviv",
+      "time": "20:15",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493149/panathinaikos_hapoel-tel-aviv/info",
+      "slug": "panathinaikos-vs-hapoel-tel-aviv",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Olimpia Milano vs Fenerbahçe",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493152/olimpia-milano_fenerbahce/info",
+      "slug": "olimpia-milano-vs-fenerbahce",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Real Madrid vs Paris Basketball",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493155/real-madrid_paris-basketball/info",
+      "slug": "real-madrid-vs-paris-basketball",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "ERC Ingolstadt vs Eisbären Berlin",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma11212142/erc-ingolstadt_eisbaeren-berlin/info",
+      "slug": "erc-ingolstadt-vs-eisbaren-berlin",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Kölner Haie vs Grizzlys Wolfsburg",
+          "time": "19:30",
+          "sender": "Sportschau Live",
+          "slug": "kolner-haie-vs-grizzlys-wolfsburg"
+        },
+        {
+          "title": "EHC München vs Schwenninger Wild Wings",
+          "time": "19:30",
+          "sender": "Sportschau Live",
+          "slug": "ehc-munchen-vs-schwenninger-wild-wings"
+        }
+      ]
+    },
+    {
+      "title": "Kölner Haie vs Grizzlys Wolfsburg",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma11212145/koelner-haie_grizzlys-wolfsburg/info",
+      "slug": "kolner-haie-vs-grizzlys-wolfsburg",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "ERC Ingolstadt vs Eisbären Berlin",
+          "time": "19:30",
+          "sender": "Sportschau Live",
+          "slug": "erc-ingolstadt-vs-eisbaren-berlin"
+        },
+        {
+          "title": "EHC München vs Schwenninger Wild Wings",
+          "time": "19:30",
+          "sender": "Sportschau Live",
+          "slug": "ehc-munchen-vs-schwenninger-wild-wings"
+        }
+      ]
+    },
+    {
+      "title": "EHC München vs Schwenninger Wild Wings",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma11212169/ehc-muenchen_schwenninger-wild-wings/info",
+      "slug": "ehc-munchen-vs-schwenninger-wild-wings",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "ERC Ingolstadt vs Eisbären Berlin",
+          "time": "19:30",
+          "sender": "Sportschau Live",
+          "slug": "erc-ingolstadt-vs-eisbaren-berlin"
+        },
+        {
+          "title": "Kölner Haie vs Grizzlys Wolfsburg",
+          "time": "19:30",
+          "sender": "Sportschau Live",
+          "slug": "kolner-haie-vs-grizzlys-wolfsburg"
+        }
+      ]
+    },
+    {
+      "title": " vs ",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Skeleton",
+      "sport_slug": "skeleton",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/skeleton/co4664/sigulda/ma11755585/ergebnisse",
+      "slug": "vs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Burgos CF vs Getafe CF",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-copa-del-rey/ma11758912/burgos-cf_getafe-cf/info",
+      "slug": "burgos-cf-vs-getafe-cf",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ourense CF vs Athletic Club",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "ourense-cf-vs-athletic-club"
+        }
+      ]
+    },
+    {
+      "title": "Ourense CF vs Athletic Club",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-copa-del-rey/ma11758939/ourense-cf_athletic-club/info",
+      "slug": "ourense-cf-vs-athletic-club",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Burgos CF vs Getafe CF",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "burgos-cf-vs-getafe-cf"
+        }
+      ]
+    },
+    {
+      "title": "Real Murcia vs Betis Sevilla",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-copa-del-rey/ma11758936/real-murcia_betis-sevilla/info",
+      "slug": "real-murcia-vs-betis-sevilla",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "1. FSV Mainz 05 vs Samsunspor",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "1-fsv-mainz-05-vs-samsunspor"
+        },
+        {
+          "title": "FC Lausanne-Sport vs AC Florenz",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-lausanne-sport-vs-ac-florenz"
+        },
+        {
+          "title": "AZ Alkmaar vs Jagiellonia Białystok",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "az-alkmaar-vs-jagiellonia-bialystok"
+        }
+      ]
+    },
+    {
+      "title": "Chicago Bulls vs Cleveland Cavaliers",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11549201/chicago-bulls_cleveland-cavaliers/info",
+      "slug": "chicago-bulls-vs-cleveland-cavaliers",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Minnesota Timberwolves vs Memphis Grizzlies",
+          "time": "02:00",
+          "sender": "Sportschau Live",
+          "slug": "minnesota-timberwolves-vs-memphis-grizzlies"
+        }
+      ]
+    },
+    {
+      "title": "Minnesota Timberwolves vs Memphis Grizzlies",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11549207/minnesota-timberwolves_memphis-grizzlies/info",
+      "slug": "minnesota-timberwolves-vs-memphis-grizzlies",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Chicago Bulls vs Cleveland Cavaliers",
+          "time": "02:00",
+          "sender": "Sportschau Live",
+          "slug": "chicago-bulls-vs-cleveland-cavaliers"
+        }
+      ]
+    },
+    {
+      "title": "Florida Panthers vs Los Angeles Kings",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11413874/florida-panthers_los-angeles-kings/info",
+      "slug": "florida-panthers-vs-los-angeles-kings",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Detroit Red Wings vs Utah Mammoth",
+      "time": "01:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11413877/detroit-red-wings_utah-mammoth/info",
+      "slug": "detroit-red-wings-vs-utah-mammoth",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Nashville Predators vs Carolina Hurricanes",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11413880/nashville-predators_carolina-hurricanes/info",
+      "slug": "nashville-predators-vs-carolina-hurricanes",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "St. Louis Blues vs Winnipeg Jets",
+          "time": "02:00",
+          "sender": "Sportschau Live",
+          "slug": "st-louis-blues-vs-winnipeg-jets"
+        }
+      ]
+    },
+    {
+      "title": "St. Louis Blues vs Winnipeg Jets",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11413883/st-louis-blues_winnipeg-jets/info",
+      "slug": "st-louis-blues-vs-winnipeg-jets",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Nashville Predators vs Carolina Hurricanes",
+          "time": "02:00",
+          "sender": "Sportschau Live",
+          "slug": "nashville-predators-vs-carolina-hurricanes"
+        }
+      ]
+    },
+    {
+      "title": "Vegas Golden Knights vs New Jersey Devils",
+      "time": "04:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11413886/vegas-golden-knights_new-jersey-devils/info",
+      "slug": "vegas-golden-knights-vs-new-jersey-devils",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Nicolai Budkov vs Rafael Jodar",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co4264/next-gen-atp-finals-mailand/ma11777533/nicolai-budkov_rafael-jodar/info",
+      "slug": "nicolai-budkov-vs-rafael-jodar",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Learner Tien vs Martín Landaluce",
+      "time": "18:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co4264/next-gen-atp-finals-mailand/ma11772679/learner-tien_martin-landaluce/info",
+      "slug": "learner-tien-vs-martin-landaluce",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Dino Prižmić vs Justin Engel",
+      "time": "12:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co4264/next-gen-atp-finals-mailand/ma11772664/dino-prizmic_justin-engel/info",
+      "slug": "dino-prizmic-vs-justin-engel",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alexander Blockx vs Nishesh Basavareddy",
+      "time": "13:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co4264/next-gen-atp-finals-mailand/ma11772670/alexander-blockx_nishesh-basavareddy/info",
+      "slug": "alexander-blockx-vs-nishesh-basavareddy",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Courchevel | Slalom | 2. Lauf",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:32",
+      "iso_time": "2025-12-18T00:32:24+01:00",
+      "link": "",
+      "slug": "courchevel-slalom-2-lauf",
+      "related_events": []
+    },
+    {
+      "title": "Davos | 10km Freistil",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Skilanglauf",
+      "sport_slug": "skilanglauf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:33",
+      "iso_time": "2025-12-18T00:33:55+01:00",
+      "link": "",
+      "slug": "davos-10km-freistil",
+      "related_events": []
+    },
+    {
+      "title": "Val Thorens | Skicross",
+      "subtitle": "Weltcup | Frauen / Männer",
+      "sport": "Ski Freestyle",
+      "sport_slug": "ski-freestyle",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:05",
+      "iso_time": "2025-12-18T01:05:47+01:00",
+      "link": "",
+      "slug": "val-thorens-skicross",
+      "related_events": []
+    },
+    {
+      "title": "Davos | 10km Freistil",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Skilanglauf",
+      "sport_slug": "skilanglauf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:05",
+      "iso_time": "2025-12-18T01:05:59+01:00",
+      "link": "",
+      "slug": "davos-10km-freistil",
+      "related_events": []
+    },
+    {
+      "title": "Davos | 10km Freistil",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Skilanglauf",
+      "sport_slug": "skilanglauf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:02",
+      "iso_time": "2025-12-18T02:02:34+01:00",
+      "link": "",
+      "slug": "davos-10km-freistil",
+      "related_events": []
+    },
+    {
+      "title": "Davos | 10km Freistil",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Skilanglauf",
+      "sport_slug": "skilanglauf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:02",
+      "iso_time": "2025-12-18T03:02:01+01:00",
+      "link": "",
+      "slug": "davos-10km-freistil",
+      "related_events": []
+    },
+    {
+      "title": "Klingenthal | Einzelspringen",
+      "subtitle": "Weltcup | Männer | HS 140",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:34",
+      "iso_time": "2025-12-18T03:34:01+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/798ba2cb-252c-5c4d-90aa-1cc06cd6200c?utm_source=universal_search",
+      "slug": "klingenthal-einzelspringen",
+      "related_events": []
+    },
+    {
+      "title": "Scottish Open | 2. Runde",
+      "subtitle": "Mit Zhao Xintong u.a. | Edinburgh | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:00",
+      "iso_time": "2025-12-18T05:00:04+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/08030c80-bca9-579d-a007-c27bf36cde19?utm_source=universal_search",
+      "slug": "scottish-open-2-runde",
+      "related_events": []
+    },
+    {
+      "title": "T100 Triathlon World Tour | Doha T100",
+      "subtitle": "Männer | 9. Station",
+      "sport": "Triathlon",
+      "sport_slug": "triathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:01",
+      "iso_time": "2025-12-18T08:01:59+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/47f8351b-b155-5d87-af2f-6d07efd15d04?utm_source=universal_search",
+      "slug": "t100-triathlon-world-tour-doha-t100",
+      "related_events": []
+    },
+    {
+      "title": "Scottish Open | 2. Runde",
+      "subtitle": "Mit Zhao Xintong u.a. | Edinburgh | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:35",
+      "iso_time": "2025-12-18T08:35:36+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/3aec9653-6a85-5e5b-81ff-c3292dd6e9d3?utm_source=universal_search",
+      "slug": "scottish-open-2-runde",
+      "related_events": []
+    },
+    {
+      "title": "CHI de Genève | Der Große Preis von Genf",
+      "subtitle": "Springreiten | Grand Slam",
+      "sport": "Reitsport",
+      "sport_slug": "reitsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:16",
+      "iso_time": "2025-12-18T09:16:58+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/8695852a-d354-566b-ac73-6664c0f64b15?utm_source=universal_search",
+      "slug": "chi-de-geneve-der-grosse-preis-von-genf",
+      "related_events": []
+    },
+    {
+      "title": "Hard Knocks",
+      "subtitle": "NFL-Dokumentation",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:13",
+      "iso_time": "2025-12-18T10:13:41+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/114e9c15-ded3-50f4-8644-a54e41eb31db?utm_source=universal_search",
+      "slug": "hard-knocks",
+      "related_events": []
+    },
+    {
+      "title": "CHI de Genève | Der Große Preis von Genf",
+      "subtitle": "Springreiten | Grand Slam",
+      "sport": "Reitsport",
+      "sport_slug": "reitsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:30",
+      "iso_time": "2025-12-18T10:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/8de3f035-5ab6-53d2-8383-eae36d3f371b?utm_source=universal_search",
+      "slug": "chi-de-geneve-der-grosse-preis-von-genf",
+      "related_events": []
+    },
+    {
+      "title": "Scottish Open | 2. Runde",
+      "subtitle": "Mit Zhao Xintong u.a. | Edinburgh | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:31",
+      "iso_time": "2025-12-18T10:31:01+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/e3f3dbfd-9000-5d91-ae74-00d48b15c6e6?utm_source=universal_search",
+      "slug": "scottish-open-2-runde",
+      "related_events": []
+    },
+    {
+      "title": "The Power of Sport",
+      "subtitle": "",
+      "sport": "Alle Sportarten",
+      "sport_slug": "alle-sportarten",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:11",
+      "iso_time": "2025-12-18T11:11:35+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/ca16559d-1f2d-5aaf-b570-be91e2f92e14?utm_source=universal_search",
+      "slug": "the-power-of-sport",
+      "related_events": []
+    },
+    {
+      "title": "Gröden | Abfahrt",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:30",
+      "iso_time": "2025-12-18T11:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/653782c4-dee3-569e-8cbc-73ade4d9d70d?utm_source=universal_search",
+      "slug": "groden-abfahrt",
+      "related_events": []
+    },
+    {
+      "title": "Gröden | Abfahrt",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:30",
+      "iso_time": "2025-12-18T11:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/c4522e9a-f5f8-517e-901f-5feceee7e1dc?utm_source=universal_search",
+      "slug": "groden-abfahrt",
+      "related_events": []
+    },
+    {
+      "title": "Arosa | Skicross",
+      "subtitle": "Weltcup | Frauen / Männer",
+      "sport": "Ski Freestyle",
+      "sport_slug": "ski-freestyle",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:45",
+      "iso_time": "2025-12-18T11:45:50+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/ab5fbccd-e1c2-5dc7-8478-ab1439750ff8?utm_source=universal_search",
+      "slug": "arosa-skicross",
+      "related_events": []
+    },
+    {
+      "title": "Carezza | Parallel-Riesenslalom",
+      "subtitle": "Weltcup | Frauen / Männer | Englischer Kommentar",
+      "sport": "Snowboard",
+      "sport_slug": "snowboard",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:35",
+      "iso_time": "2025-12-18T12:35:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/3c974d0c-5c62-57e3-9341-5439d949712d?utm_source=universal_search",
+      "slug": "carezza-parallel-riesenslalom",
+      "related_events": []
+    },
+    {
+      "title": "Carezza | Parallel-Riesenslalom",
+      "subtitle": "Weltcup | Frauen / Männer",
+      "sport": "Snowboard",
+      "sport_slug": "snowboard",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:35",
+      "iso_time": "2025-12-18T12:35:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/4519327c-da73-5ffa-92f5-2cd9f3ace24e?utm_source=universal_search",
+      "slug": "carezza-parallel-riesenslalom",
+      "related_events": []
+    },
+    {
+      "title": "Le Grand Bornand | Sprint | Training",
+      "subtitle": "Weltcup | Frauen | Original Sound",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:30",
+      "iso_time": "2025-12-18T13:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/4cb41b26-1994-5e1c-9702-9755d698e80f?utm_source=universal_search",
+      "slug": "le-grand-bornand-sprint-training",
+      "related_events": [
+        {
+          "title": "Le Grand Bornand | 7,5km Sprint",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-75km-sprint"
+        },
+        {
+          "title": "Le Grand Bornand | 7,5km Sprint",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-75km-sprint"
+        },
+        {
+          "title": "Le Grand Bornand | Sprint | Schießstand",
+          "time": "14:05",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-sprint-schiessstand"
+        }
+      ]
+    },
+    {
+      "title": "Scottish Open | 3. Runde",
+      "subtitle": "Scottish Open | 3. Runde | Edinburgh | Original Sound",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:00",
+      "iso_time": "2025-12-18T14:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/cfe08082-bf76-50ff-aeb7-7174606f4e5f?utm_source=universal_search",
+      "slug": "scottish-open-3-runde",
+      "related_events": []
+    },
+    {
+      "title": "Scottish Open | 3. Runde",
+      "subtitle": "Scottish Open | 1. Runde | Edinburgh | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:00",
+      "iso_time": "2025-12-18T14:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/6ad277d4-a06e-535e-921d-51da9c05dd05?utm_source=universal_search",
+      "slug": "scottish-open-3-runde",
+      "related_events": []
+    },
+    {
+      "title": "Le Grand Bornand | 7,5km Sprint",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:00",
+      "iso_time": "2025-12-18T14:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/54854d1d-e34e-5b2a-860e-526a95c8cef5?utm_source=universal_search",
+      "slug": "le-grand-bornand-75km-sprint",
+      "related_events": [
+        {
+          "title": "Le Grand Bornand | Sprint | Training",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-sprint-training"
+        },
+        {
+          "title": "Le Grand Bornand | Sprint | Schießstand",
+          "time": "14:05",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-sprint-schiessstand"
+        },
+        {
+          "title": "Le Grand Bornand | Sprint | Zusatz-Feed",
+          "time": "14:05",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-sprint-zusatz-feed"
+        }
+      ]
+    },
+    {
+      "title": "Le Grand Bornand | 7,5km Sprint",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:00",
+      "iso_time": "2025-12-18T14:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/4e14800a-77dd-538f-b846-c93e07ab2d5e?utm_source=universal_search",
+      "slug": "le-grand-bornand-75km-sprint",
+      "related_events": [
+        {
+          "title": "Le Grand Bornand | Sprint | Training",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-sprint-training"
+        },
+        {
+          "title": "Le Grand Bornand | Sprint | Schießstand",
+          "time": "14:05",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-sprint-schiessstand"
+        },
+        {
+          "title": "Le Grand Bornand | Sprint | Zusatz-Feed",
+          "time": "14:05",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-sprint-zusatz-feed"
+        }
+      ]
+    },
+    {
+      "title": "Le Grand Bornand | Sprint | Schießstand",
+      "subtitle": "Weltcup | Frauen | Original Sound",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:05",
+      "iso_time": "2025-12-18T14:05:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/f9260de4-47ab-544e-a9ba-b035e0c18cae?utm_source=universal_search",
+      "slug": "le-grand-bornand-sprint-schiessstand",
+      "related_events": [
+        {
+          "title": "Le Grand Bornand | Sprint | Training",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-sprint-training"
+        },
+        {
+          "title": "Le Grand Bornand | 7,5km Sprint",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-75km-sprint"
+        },
+        {
+          "title": "Le Grand Bornand | 7,5km Sprint",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-75km-sprint"
+        }
+      ]
+    },
+    {
+      "title": "Le Grand Bornand | Sprint | Zusatz-Feed",
+      "subtitle": "Weltcup | Frauen | Original Sound",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:05",
+      "iso_time": "2025-12-18T14:05:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/9664a7fc-1170-52e8-bb0c-7dd50015b072?utm_source=universal_search",
+      "slug": "le-grand-bornand-sprint-zusatz-feed",
+      "related_events": [
+        {
+          "title": "Le Grand Bornand | Sprint | Training",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-sprint-training"
+        },
+        {
+          "title": "Le Grand Bornand | 7,5km Sprint",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-75km-sprint"
+        },
+        {
+          "title": "Le Grand Bornand | 7,5km Sprint",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-75km-sprint"
+        }
+      ]
+    },
+    {
+      "title": "Le Grand Bornand | 7,5km Sprint",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:10",
+      "iso_time": "2025-12-18T14:10:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/fdecb863-87a7-54ce-a22c-9a1907516603?utm_source=universal_search",
+      "slug": "le-grand-bornand-75km-sprint",
+      "related_events": [
+        {
+          "title": "Le Grand Bornand | Sprint | Training",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-sprint-training"
+        },
+        {
+          "title": "Le Grand Bornand | Sprint | Schießstand",
+          "time": "14:05",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-sprint-schiessstand"
+        },
+        {
+          "title": "Le Grand Bornand | Sprint | Zusatz-Feed",
+          "time": "14:05",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-sprint-zusatz-feed"
+        }
+      ]
+    },
+    {
+      "title": "Scottish Open | 3. Runde",
+      "subtitle": "Edinburgh | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:35",
+      "iso_time": "2025-12-18T15:35:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/5890a6ec-3316-5b9e-9fcf-a567cff154fd?utm_source=universal_search",
+      "slug": "scottish-open-3-runde",
+      "related_events": []
+    },
+    {
+      "title": "Courchevel | Slalom | 1. Lauf",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:35",
+      "iso_time": "2025-12-18T15:35:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/ef2156e3-7f19-501d-8756-4765a1e262a6?utm_source=universal_search",
+      "slug": "courchevel-slalom-1-lauf",
+      "related_events": [
+        {
+          "title": "Courchevel | Slalom | 2. Lauf",
+          "time": "16:05",
+          "sender": "Eurosport",
+          "slug": "courchevel-slalom-2-lauf"
+        },
+        {
+          "title": "Gröden | Abfahrt",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "groden-abfahrt"
+        }
+      ]
+    },
+    {
+      "title": "Scottish Open | 3. Runde",
+      "subtitle": "Scottish Open | 3. Runde | Edinburgh | Original Sound",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2025-12-18T16:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/2f26ef6c-5f9b-562d-9219-be3e22d3c4d1?utm_source=universal_search",
+      "slug": "scottish-open-3-runde",
+      "related_events": []
+    },
+    {
+      "title": "Scottish Open | 3. Runde",
+      "subtitle": "Scottish Open | 3. Runde | Edinburgh | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2025-12-18T16:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/17efd764-9f36-5e6e-804c-4652467acc52?utm_source=universal_search",
+      "slug": "scottish-open-3-runde",
+      "related_events": []
+    },
+    {
+      "title": "Courchevel | Slalom | 2. Lauf",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:05",
+      "iso_time": "2025-12-18T16:05:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/65e6b73c-b23b-57d6-a432-ba03cfbc5b4f?utm_source=universal_search",
+      "slug": "courchevel-slalom-2-lauf",
+      "related_events": [
+        {
+          "title": "Courchevel | Slalom | 1. Lauf",
+          "time": "15:35",
+          "sender": "Eurosport",
+          "slug": "courchevel-slalom-1-lauf"
+        },
+        {
+          "title": "Gröden | Abfahrt",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "groden-abfahrt"
+        }
+      ]
+    },
+    {
+      "title": "Val Thorens | Skicross",
+      "subtitle": "Weltcup | Frauen / Männer",
+      "sport": "Ski Freestyle",
+      "sport_slug": "ski-freestyle",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:35",
+      "iso_time": "2025-12-18T16:35:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/702c6407-0392-508e-9fa7-3ed7e157be12?utm_source=universal_search",
+      "slug": "val-thorens-skicross",
+      "related_events": []
+    },
+    {
+      "title": "Le Grand Bornand | 7,5km Sprint",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:30",
+      "iso_time": "2025-12-18T17:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/fc7c8a38-80b7-51a3-815a-d00590f43cca?utm_source=universal_search",
+      "slug": "le-grand-bornand-75km-sprint",
+      "related_events": []
+    },
+    {
+      "title": "Gröden | Abfahrt",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2025-12-18T18:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/5ed6dbf2-52df-5676-98fd-5d7aae2b232a?utm_source=universal_search",
+      "slug": "groden-abfahrt",
+      "related_events": [
+        {
+          "title": "Courchevel | Slalom | 1. Lauf",
+          "time": "15:35",
+          "sender": "Eurosport",
+          "slug": "courchevel-slalom-1-lauf"
+        },
+        {
+          "title": "Courchevel | Slalom | 2. Lauf",
+          "time": "16:05",
+          "sender": "Eurosport",
+          "slug": "courchevel-slalom-2-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Klingenthal | Einzelspringen",
+      "subtitle": "Weltcup | Männer | HS 140",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2025-12-18T18:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/4a8436a3-dcbb-586f-b7d5-c9d496ce5562?utm_source=universal_search",
+      "slug": "klingenthal-einzelspringen",
+      "related_events": []
+    },
+    {
+      "title": "Gröden | Abfahrt",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:30",
+      "iso_time": "2025-12-18T19:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/69569a9e-b8df-53e0-9812-9d5bac27a56c?utm_source=universal_search",
+      "slug": "groden-abfahrt",
+      "related_events": []
+    },
+    {
+      "title": "Wintersport",
+      "subtitle": "",
+      "sport": "Wintersport",
+      "sport_slug": "wintersport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:30",
+      "iso_time": "2025-12-18T19:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/bccb889e-9ee1-5faf-92c1-eca7a52b61c0?utm_source=universal_search",
+      "slug": "wintersport",
+      "related_events": []
+    },
+    {
+      "title": "Scottish Open | 3. Runde",
+      "subtitle": "Edinburgh | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2025-12-18T20:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/41ca76ec-640c-5b3d-8c0e-8d58e68ba65b?utm_source=universal_search",
+      "slug": "scottish-open-3-runde",
+      "related_events": []
+    },
+    {
+      "title": "Scottish Open | 3. Runde",
+      "subtitle": "Scottish Open | 3. Runde | Edinburgh | Original Sound",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2025-12-18T20:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/9286db21-5c97-5b23-bd42-8a252482e580?utm_source=universal_search",
+      "slug": "scottish-open-3-runde",
+      "related_events": []
+    },
+    {
+      "title": "Scottish Open | 3. Runde",
+      "subtitle": "Scottish Open | 3. Runde | Edinburgh | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2025-12-18T20:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/886e1fd0-ea25-55dc-bc6f-2baa14c68936?utm_source=universal_search",
+      "slug": "scottish-open-3-runde",
+      "related_events": []
+    },
+    {
+      "title": "Le Grand Bornand | 7,5km Sprint",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:30",
+      "iso_time": "2025-12-18T20:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/b26b5f1e-2684-54dd-850b-654ef92f3a9a?utm_source=universal_search",
+      "slug": "le-grand-bornand-75km-sprint",
+      "related_events": []
+    },
+    {
+      "title": "Klingenthal | Einzelspringen",
+      "subtitle": "Weltcup | Männer | HS 140",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:30",
+      "iso_time": "2025-12-18T21:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/9b2d30ca-47f8-52cb-8726-76fa503d159f?utm_source=universal_search",
+      "slug": "klingenthal-einzelspringen",
+      "related_events": []
+    },
+    {
+      "title": "Scottish Open | 3. Runde",
+      "subtitle": "Scottish Open | 3. Runde | Edinburgh | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2025-12-18T22:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/f6fdae76-515c-53b3-b752-b23fe69762d4?utm_source=universal_search",
+      "slug": "scottish-open-3-runde",
+      "related_events": []
+    },
+    {
+      "title": "Scottish Open | 3. Runde",
+      "subtitle": "Scottish Open | 3. Runde | Edinburgh | Original Sound",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2025-12-18T22:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/7927655a-40bf-5f19-89d4-7e8b5818c69e?utm_source=universal_search",
+      "slug": "scottish-open-3-runde",
+      "related_events": []
+    },
+    {
+      "title": "Le Grand Bornand | 7,5km Sprint",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2025-12-18T23:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/eb17cae5-c914-5609-a94b-beea8682e6e2?utm_source=universal_search",
+      "slug": "le-grand-bornand-75km-sprint",
+      "related_events": []
+    },
+    {
+      "title": "Klingenthal | Einzelspringen",
+      "subtitle": "Weltcup | Männer | HS 140",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2025-12-19T00:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/98ace74d-925e-5fd4-a2e3-075e14335400?utm_source=universal_search",
+      "slug": "klingenthal-einzelspringen",
+      "related_events": []
+    },
+    {
+      "title": "Arosa | Skicross",
+      "subtitle": "Weltcup | Frauen / Männer",
+      "sport": "Ski Freestyle",
+      "sport_slug": "ski-freestyle",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2025-12-19T00:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/93610964-5a21-55f2-a45d-e3670faef766?utm_source=universal_search",
+      "slug": "arosa-skicross",
+      "related_events": []
+    },
+    {
+      "title": "Carezza | Parallel-Riesenslalom",
+      "subtitle": "Weltcup | Frauen / Männer",
+      "sport": "Snowboard",
+      "sport_slug": "snowboard",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:00",
+      "iso_time": "2025-12-19T01:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/70a52b7d-df41-5cbf-bcf8-c5ac70ac3e15?utm_source=universal_search",
+      "slug": "carezza-parallel-riesenslalom",
+      "related_events": []
+    }
+  ]
+}
