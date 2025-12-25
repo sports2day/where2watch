@@ -1,0 +1,738 @@
+{
+  "date": "2025-12-25",
+  "events": [
+    {
+      "title": "New York Knicks vs Cleveland Cavaliers",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11549369/new-york-knicks_cleveland-cavaliers/info",
+      "slug": "new-york-knicks-vs-cleveland-cavaliers",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Oklahoma City Thunder vs San Antonio Spurs",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11549372/oklahoma-city-thunder_san-antonio-spurs/info",
+      "slug": "oklahoma-city-thunder-vs-san-antonio-spurs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Golden State Warriors vs Dallas Mavericks",
+      "time": "23:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11549375/golden-state-warriors_dallas-mavericks/info",
+      "slug": "golden-state-warriors-vs-dallas-mavericks",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Washington Commanders vs Dallas Cowboys",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/football/usa-nfl/ma11091833/washington-commanders_dallas-cowboys/info",
+      "slug": "washington-commanders-vs-dallas-cowboys",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Minnesota Vikings vs Detroit Lions",
+      "time": "22:30",
+      "iso_time": "",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/football/usa-nfl/ma11091836/minnesota-vikings_detroit-lions/info",
+      "slug": "minnesota-vikings-vs-detroit-lions",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Innichen | Skicross",
+      "subtitle": "Weltcup | Frauen / Männer",
+      "sport": "Ski Freestyle",
+      "sport_slug": "ski-freestyle",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:27",
+      "iso_time": "2025-12-25T00:27:41+01:00",
+      "link": "",
+      "slug": "innichen-skicross",
+      "related_events": []
+    },
+    {
+      "title": "Snooker",
+      "subtitle": "Northern Ireland Open | Finale",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:30",
+      "iso_time": "2025-12-25T00:30:01+01:00",
+      "link": "",
+      "slug": "snooker",
+      "related_events": []
+    },
+    {
+      "title": "Gröden | Super-G",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:02",
+      "iso_time": "2025-12-25T03:02:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/e31e668c-dd32-583a-81c4-dc6d70ae22e0?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "groden-super-g",
+      "related_events": [
+        {
+          "title": "Gröden | Abfahrt",
+          "time": "04:02",
+          "sender": "Eurosport",
+          "slug": "groden-abfahrt"
+        }
+      ]
+    },
+    {
+      "title": "Gröden | Abfahrt",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:02",
+      "iso_time": "2025-12-25T04:02:17+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/37ae435d-c8b7-510c-90d2-da042dac812d?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "groden-abfahrt",
+      "related_events": [
+        {
+          "title": "Gröden | Super-G",
+          "time": "03:02",
+          "sender": "Eurosport",
+          "slug": "groden-super-g"
+        },
+        {
+          "title": "Val d'Isère | Abfahrt",
+          "time": "07:00",
+          "sender": "Eurosport",
+          "slug": "val-d-isere-abfahrt"
+        }
+      ]
+    },
+    {
+      "title": "Snooker",
+      "subtitle": "Northern Ireland Open | Finale",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:00",
+      "iso_time": "2025-12-25T05:00:03+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/227bd39a-315a-54a3-9a0c-69957ffb55c1?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "snooker",
+      "related_events": []
+    },
+    {
+      "title": "Val d'Isère | Abfahrt",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:00",
+      "iso_time": "2025-12-25T07:00:58+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/632e249b-927e-5edd-b3b0-22bd765b1796?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "val-d-isere-abfahrt",
+      "related_events": [
+        {
+          "title": "Gröden | Abfahrt",
+          "time": "04:02",
+          "sender": "Eurosport",
+          "slug": "groden-abfahrt"
+        },
+        {
+          "title": "Val d'Isère | Super-G",
+          "time": "07:45",
+          "sender": "Eurosport",
+          "slug": "val-d-isere-super-g"
+        },
+        {
+          "title": "Alta Badia | Riesenslalom | 2. Lauf",
+          "time": "08:30",
+          "sender": "Eurosport",
+          "slug": "alta-badia-riesenslalom-2-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Val d'Isère | Super-G",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:45",
+      "iso_time": "2025-12-25T07:45:09+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/b4742e33-0d14-5121-a160-a152206f2ee0?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "val-d-isere-super-g",
+      "related_events": [
+        {
+          "title": "Val d'Isère | Abfahrt",
+          "time": "07:00",
+          "sender": "Eurosport",
+          "slug": "val-d-isere-abfahrt"
+        },
+        {
+          "title": "Alta Badia | Riesenslalom | 2. Lauf",
+          "time": "08:30",
+          "sender": "Eurosport",
+          "slug": "alta-badia-riesenslalom-2-lauf"
+        },
+        {
+          "title": "Alta Badia | Slalom | 2. Lauf",
+          "time": "09:14",
+          "sender": "Eurosport",
+          "slug": "alta-badia-slalom-2-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Alta Badia | Riesenslalom | 2. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:30",
+      "iso_time": "2025-12-25T08:30:11+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/96c1cb8c-0050-54f9-8036-046d4f865e04?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "alta-badia-riesenslalom-2-lauf",
+      "related_events": [
+        {
+          "title": "Val d'Isère | Abfahrt",
+          "time": "07:00",
+          "sender": "Eurosport",
+          "slug": "val-d-isere-abfahrt"
+        },
+        {
+          "title": "Val d'Isère | Super-G",
+          "time": "07:45",
+          "sender": "Eurosport",
+          "slug": "val-d-isere-super-g"
+        },
+        {
+          "title": "Alta Badia | Slalom | 2. Lauf",
+          "time": "09:14",
+          "sender": "Eurosport",
+          "slug": "alta-badia-slalom-2-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Hall of Fame Paris 2024",
+      "subtitle": "Magazin",
+      "sport": "Olympia",
+      "sport_slug": "olympia",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:35",
+      "iso_time": "2025-12-25T08:35:14+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/d7b9c96f-9e08-56c9-abbf-c0c8d1fb4989?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "hall-of-fame-paris-2024",
+      "related_events": []
+    },
+    {
+      "title": "Alta Badia | Slalom | 2. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:14",
+      "iso_time": "2025-12-25T09:14:40+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/ddaffa9f-6221-5361-ab0c-9c9804f2ce56?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "alta-badia-slalom-2-lauf",
+      "related_events": [
+        {
+          "title": "Val d'Isère | Abfahrt",
+          "time": "07:00",
+          "sender": "Eurosport",
+          "slug": "val-d-isere-abfahrt"
+        },
+        {
+          "title": "Val d'Isère | Super-G",
+          "time": "07:45",
+          "sender": "Eurosport",
+          "slug": "val-d-isere-super-g"
+        },
+        {
+          "title": "Alta Badia | Riesenslalom | 2. Lauf",
+          "time": "08:30",
+          "sender": "Eurosport",
+          "slug": "alta-badia-riesenslalom-2-lauf"
+        }
+      ]
+    },
+    {
+      "title": "FIA WEC | 24h von Le Mans | Highlights",
+      "subtitle": "Langstrecken-WM",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:33",
+      "iso_time": "2025-12-25T09:33:50+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/3ee6f24f-4af0-5109-aa10-6f7be56dbc43?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "fia-wec-24h-von-le-mans-highlights",
+      "related_events": []
+    },
+    {
+      "title": "Snooker",
+      "subtitle": "Northern Ireland Open | Finale",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:58",
+      "iso_time": "2025-12-25T09:58:28+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/f8ab502a-9b12-5567-aa6e-c6ff0d75c472?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "snooker",
+      "related_events": []
+    },
+    {
+      "title": "Fußball",
+      "subtitle": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:40",
+      "iso_time": "2025-12-25T10:40:36+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/f3b956a9-c889-5454-9e2a-4aa0819293bf?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "fussball",
+      "related_events": []
+    },
+    {
+      "title": "UCI World Tour | Saisonrückblick",
+      "subtitle": "Saison 2025 | Highlights | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:51",
+      "iso_time": "2025-12-25T11:51:41+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/fe356c82-5361-5fd0-a78c-3c38adf465ee?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uci-world-tour-saisonruckblick",
+      "related_events": [
+        {
+          "title": "| Saisonrückblick",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "saisonruckblick"
+        }
+      ]
+    },
+    {
+      "title": "Snooker",
+      "subtitle": "Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:56",
+      "iso_time": "2025-12-25T11:56:36+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/357f9045-3456-5d77-9431-ff72b0059df4?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "snooker",
+      "related_events": []
+    },
+    {
+      "title": "Le Grand-Bornand | Verfolgung",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:21",
+      "iso_time": "2025-12-25T13:21:50+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/c2908cd4-667a-5755-9287-d0754519e477?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "le-grand-bornand-verfolgung",
+      "related_events": [
+        {
+          "title": "Le Grand-Bornand | 12,5km Verfolgung",
+          "time": "13:55",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-125km-verfolgung"
+        },
+        {
+          "title": "Le Grand-Bornand | 12,5km Massenstart",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-125km-massenstart"
+        },
+        {
+          "title": "Le Grand-Bornand | 15km Massenstart",
+          "time": "15:15",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-15km-massenstart"
+        }
+      ]
+    },
+    {
+      "title": "| Saisonrückblick",
+      "subtitle": "UCI | Frauen",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:30",
+      "iso_time": "2025-12-25T13:30:17+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/c31526d2-c1d6-5320-8087-cd3003f2c9ef?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "saisonruckblick",
+      "related_events": [
+        {
+          "title": "UCI World Tour | Saisonrückblick",
+          "time": "11:51",
+          "sender": "Eurosport",
+          "slug": "uci-world-tour-saisonruckblick"
+        },
+        {
+          "title": "UCI World Tour | Saisonrückblick",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "uci-world-tour-saisonruckblick"
+        }
+      ]
+    },
+    {
+      "title": "Le Grand-Bornand | 12,5km Verfolgung",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:55",
+      "iso_time": "2025-12-25T13:55:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/c14296a1-f41c-5625-ae50-7fab731ef353?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "le-grand-bornand-125km-verfolgung",
+      "related_events": [
+        {
+          "title": "Le Grand-Bornand | Verfolgung",
+          "time": "13:21",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-verfolgung"
+        },
+        {
+          "title": "Le Grand-Bornand | 12,5km Massenstart",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-125km-massenstart"
+        },
+        {
+          "title": "Le Grand-Bornand | 15km Massenstart",
+          "time": "15:15",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-15km-massenstart"
+        }
+      ]
+    },
+    {
+      "title": "UCI World Tour | Saisonrückblick",
+      "subtitle": "Saison 2025 | Highlights | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:30",
+      "iso_time": "2025-12-25T14:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/dbcbc831-0f81-55cb-b0c8-b24419f4349f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uci-world-tour-saisonruckblick",
+      "related_events": [
+        {
+          "title": "| Saisonrückblick",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "saisonruckblick"
+        }
+      ]
+    },
+    {
+      "title": "Le Grand-Bornand | 12,5km Massenstart",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:30",
+      "iso_time": "2025-12-25T14:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/f686f219-6414-5e5b-b4fa-804f2a57cf63?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "le-grand-bornand-125km-massenstart",
+      "related_events": [
+        {
+          "title": "Le Grand-Bornand | Verfolgung",
+          "time": "13:21",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-verfolgung"
+        },
+        {
+          "title": "Le Grand-Bornand | 12,5km Verfolgung",
+          "time": "13:55",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-125km-verfolgung"
+        },
+        {
+          "title": "Le Grand-Bornand | 15km Massenstart",
+          "time": "15:15",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-15km-massenstart"
+        }
+      ]
+    },
+    {
+      "title": "Le Grand-Bornand | 15km Massenstart",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:15",
+      "iso_time": "2025-12-25T15:15:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/18043526-c313-50b2-9231-aa03f7b3d02a?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "le-grand-bornand-15km-massenstart",
+      "related_events": [
+        {
+          "title": "Le Grand-Bornand | Verfolgung",
+          "time": "13:21",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-verfolgung"
+        },
+        {
+          "title": "Le Grand-Bornand | 12,5km Verfolgung",
+          "time": "13:55",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-125km-verfolgung"
+        },
+        {
+          "title": "Le Grand-Bornand | 12,5km Massenstart",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "le-grand-bornand-125km-massenstart"
+        }
+      ]
+    },
+    {
+      "title": "Jannik Sinner - Carlos Alcaraz",
+      "subtitle": "Roland Garros | Finale",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2025-12-25T16:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/b5dbec73-dfc2-5516-9346-6a0d36a2d31a?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "jannik-sinner-carlos-alcaraz",
+      "related_events": []
+    },
+    {
+      "title": "Snooker",
+      "subtitle": "Northern Ireland Open | Finale",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2025-12-25T16:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/29fdece8-4892-537c-87b9-666a26c63497?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "snooker",
+      "related_events": []
+    },
+    {
+      "title": "Snooker",
+      "subtitle": "Northern Ireland Open | Finale",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2025-12-25T18:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/16af4115-32da-5467-b61d-14300fb4c2ff?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "snooker",
+      "related_events": []
+    },
+    {
+      "title": "FIA WEC | 24h von Le Mans | Rennen",
+      "subtitle": "Langstrecken-WM",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2025-12-25T18:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/057ee4c9-7399-59d0-a235-df88cc77c763?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "fia-wec-24h-von-le-mans-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Oberstdorf",
+      "subtitle": "Vierschanzentournee | Männer | HS 137",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2025-12-25T20:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/f2528879-cf41-5ce8-9f6d-563956036b16?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "oberstdorf",
+      "related_events": [
+        {
+          "title": "Garmisch-Partenkirchen",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "garmisch-partenkirchen"
+        }
+      ]
+    },
+    {
+      "title": "Hall of Fame - Paris 2024",
+      "subtitle": "Magazin",
+      "sport": "Olympia",
+      "sport_slug": "olympia",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2025-12-25T20:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/378a0dfe-880d-5ac6-9131-922ecaf35d1d?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "hall-of-fame-paris-2024",
+      "related_events": []
+    },
+    {
+      "title": "Snooker",
+      "subtitle": "Northern Ireland Open | Finale",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2025-12-25T21:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/fccc71ed-1a1c-5fb2-9ba2-229cc2773bb7?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "snooker",
+      "related_events": []
+    },
+    {
+      "title": "Garmisch-Partenkirchen",
+      "subtitle": "Vierschanzentournee | Männer | HS 142",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2025-12-25T21:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/6a723339-4e32-5ffd-af09-fbe31a9aab4e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "garmisch-partenkirchen",
+      "related_events": [
+        {
+          "title": "Oberstdorf",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "oberstdorf"
+        }
+      ]
+    },
+    {
+      "title": "Gröden | Abfahrt",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2025-12-25T22:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/ab49ce73-5786-5b20-b7ee-94355ca90730?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "groden-abfahrt",
+      "related_events": []
+    },
+    {
+      "title": "Snooker",
+      "subtitle": "Northern Ireland Open | Finale",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2025-12-25T23:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/8fd27cc8-1d48-5b84-85a7-e8210e1aa09a?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "snooker",
+      "related_events": []
+    },
+    {
+      "title": "UCI Weltcup | |",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Olympic",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2025-12-25T23:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/bda0458b-8f06-54a5-b412-8d3bfd84eb77?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uci-weltcup",
+      "related_events": []
+    },
+    {
+      "title": "UCI Weltcup | |",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Abfahrt",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2025-12-26T00:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/37a2cdb1-c500-5804-a1a2-a7b94f7a5534?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uci-weltcup",
+      "related_events": []
+    },
+    {
+      "title": "Oberstdorf",
+      "subtitle": "Vierschanzentournee | Männer | HS 137",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:30",
+      "iso_time": "2025-12-26T00:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/516e56b1-ddb9-5097-8112-fe2c8088b04f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "oberstdorf",
+      "related_events": []
+    },
+    {
+      "title": "Snooker",
+      "subtitle": "Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:00",
+      "iso_time": "2025-12-26T01:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/22217755-20c6-5f49-8910-95b3be3678fa?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "snooker",
+      "related_events": []
+    }
+  ]
+}
