@@ -1,0 +1,3816 @@
+{
+  "date": "2026-01-12",
+  "events": [
+    {
+      "title": "Sevilla FC vs RC Celta",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-primera-division/ma11223425/sevilla-fc_rc-celta/info",
+      "slug": "sevilla-fc-vs-rc-celta",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "FC Genua vs Cagliari Calcio",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/italien-serie-a/ma11129169/fc-genua_cagliari-calcio/info",
+      "slug": "fc-genua-vs-cagliari-calcio",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Juventus Turin vs US Cremonese",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/italien-serie-a/ma11129181/juventus-turin_us-cremonese/info",
+      "slug": "juventus-turin-vs-us-cremonese",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Liverpool FC vs Barnsley FC",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "liverpool-fc-vs-barnsley-fc"
+        }
+      ]
+    },
+    {
+      "title": "Liverpool FC vs Barnsley FC",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/england-fa-cup/ma11757979/liverpool-fc_barnsley-fc/info",
+      "slug": "liverpool-fc-vs-barnsley-fc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Juventus Turin vs US Cremonese",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "juventus-turin-vs-us-cremonese"
+        }
+      ]
+    },
+    {
+      "title": "Toronto Raptors vs Philadelphia 76ers",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11549765/toronto-raptors_philadelphia-76ers/info",
+      "slug": "toronto-raptors-vs-philadelphia-76ers",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Portland Trail Blazers vs New York Knicks",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "portland-trail-blazers-vs-new-york-knicks"
+        }
+      ]
+    },
+    {
+      "title": "Portland Trail Blazers vs New York Knicks",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11549768/portland-trail-blazers_new-york-knicks/info",
+      "slug": "portland-trail-blazers-vs-new-york-knicks",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Toronto Raptors vs Philadelphia 76ers",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "toronto-raptors-vs-philadelphia-76ers"
+        }
+      ]
+    },
+    {
+      "title": "Minnesota Timberwolves vs San Antonio Spurs",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11549771/minnesota-timberwolves_san-antonio-spurs/info",
+      "slug": "minnesota-timberwolves-vs-san-antonio-spurs",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Oklahoma City Thunder vs Miami Heat",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "oklahoma-city-thunder-vs-miami-heat"
+        }
+      ]
+    },
+    {
+      "title": "Oklahoma City Thunder vs Miami Heat",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11549774/oklahoma-city-thunder_miami-heat/info",
+      "slug": "oklahoma-city-thunder-vs-miami-heat",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Minnesota Timberwolves vs San Antonio Spurs",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "minnesota-timberwolves-vs-san-antonio-spurs"
+        }
+      ]
+    },
+    {
+      "title": "Denver Nuggets vs Milwaukee Bucks",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11549777/denver-nuggets_milwaukee-bucks/info",
+      "slug": "denver-nuggets-vs-milwaukee-bucks",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Phoenix Suns vs Washington Wizards",
+          "time": "02:00",
+          "sender": "Sportschau Live",
+          "slug": "phoenix-suns-vs-washington-wizards"
+        }
+      ]
+    },
+    {
+      "title": "Phoenix Suns vs Washington Wizards",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11549780/phoenix-suns_washington-wizards/info",
+      "slug": "phoenix-suns-vs-washington-wizards",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Denver Nuggets vs Milwaukee Bucks",
+          "time": "02:00",
+          "sender": "Sportschau Live",
+          "slug": "denver-nuggets-vs-milwaukee-bucks"
+        }
+      ]
+    },
+    {
+      "title": "Golden State Warriors vs Atlanta Hawks",
+      "time": "02:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11549783/golden-state-warriors_atlanta-hawks/info",
+      "slug": "golden-state-warriors-vs-atlanta-hawks",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Sacramento Kings vs Houston Rockets",
+      "time": "03:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11549786/sacramento-kings_houston-rockets/info",
+      "slug": "sacramento-kings-vs-houston-rockets",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "New England Patriots vs Los Angeles Chargers",
+      "time": "02:15",
+      "iso_time": "",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/football/usa-nfl/ma11825581/new-england-patriots_los-angeles-chargers/info",
+      "slug": "new-england-patriots-vs-los-angeles-chargers",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Utah Mammoth vs Columbus Blue Jackets",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11414426/utah-mammoth_columbus-blue-jackets/info",
+      "slug": "utah-mammoth-vs-columbus-blue-jackets",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Nashville Predators vs Washington Capitals",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "nashville-predators-vs-washington-capitals"
+        }
+      ]
+    },
+    {
+      "title": "Nashville Predators vs Washington Capitals",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11414429/nashville-predators_washington-capitals/info",
+      "slug": "nashville-predators-vs-washington-capitals",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Utah Mammoth vs Columbus Blue Jackets",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "utah-mammoth-vs-columbus-blue-jackets"
+        }
+      ]
+    },
+    {
+      "title": "San Jose Sharks vs Vegas Golden Knights",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11414432/san-jose-sharks_vegas-golden-knights/info",
+      "slug": "san-jose-sharks-vs-vegas-golden-knights",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Victoria Mboko vs Beatriz Haddad Maia",
+      "time": "01:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co5608/adelaide-international-1/ma11768317/victoria-mboko_beatriz-haddad-maia/info",
+      "slug": "victoria-mboko-vs-beatriz-haddad-maia",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Emerson Jones vs Emma Navarro",
+          "time": "01:30",
+          "sender": "Sportschau Live",
+          "slug": "emerson-jones-vs-emma-navarro"
+        }
+      ]
+    },
+    {
+      "title": "Emerson Jones vs Emma Navarro",
+      "time": "01:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co5608/adelaide-international-1/ma11768302/emerson-jones_emma-navarro/info",
+      "slug": "emerson-jones-vs-emma-navarro",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Victoria Mboko vs Beatriz Haddad Maia",
+          "time": "01:30",
+          "sender": "Sportschau Live",
+          "slug": "victoria-mboko-vs-beatriz-haddad-maia"
+        }
+      ]
+    },
+    {
+      "title": "Ajla Tomljanović vs Clara Tauson",
+      "time": "03:05",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co5608/adelaide-international-1/ma11768290/ajla-tomljanovic_clara-tauson/info",
+      "slug": "ajla-tomljanovic-vs-clara-tauson",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Gabriela Knutson - Lizette Cabrera",
+          "time": "03:05",
+          "sender": "Eurosport",
+          "slug": "gabriela-knutson-lizette-cabrera"
+        }
+      ]
+    },
+    {
+      "title": "Anna Kalinskaya vs Elena Ruse",
+      "time": "03:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co5608/adelaide-international-1/ma11768320/anna-kalinskaya_elena-ruse/info",
+      "slug": "anna-kalinskaya-vs-elena-ruse",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Paula Badosa vs Marie Bouzkova",
+      "time": "03:55",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co5608/adelaide-international-1/ma11768284/paula-badosa_marie-bouzkova/info",
+      "slug": "paula-badosa-vs-marie-bouzkova",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Jaqueline Cristian vs Ekaterina Alexandrova",
+      "time": "05:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co5608/adelaide-international-1/ma11768314/jaqueline-cristian_ekaterina-alexandrova/info",
+      "slug": "jaqueline-cristian-vs-ekaterina-alexandrova",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Daria Kasatkina vs Maria Sakkari",
+      "time": "09:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co5608/adelaide-international-1/ma11768311/daria-kasatkina_maria-sakkari/info",
+      "slug": "daria-kasatkina-vs-maria-sakkari",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Reilly Opelka vs Alexei Popyrin",
+      "time": "05:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co5606/adelaide-international-1/ma11747788/reilly-opelka_alexei-popyrin/info",
+      "slug": "reilly-opelka-vs-alexei-popyrin",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Miomir Kecmanović vs Valentin Vacherot",
+      "time": "07:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co5606/adelaide-international-1/ma11747755/miomir-kecmanovic_valentin-vacherot/info",
+      "slug": "miomir-kecmanovic-vs-valentin-vacherot",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Daniel Altmaier vs Jaume Munar",
+      "time": "07:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co5606/adelaide-international-1/ma11747776/daniel-altmaier_jaume-munar/info",
+      "slug": "daniel-altmaier-vs-jaume-munar",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Ugo Humbert vs Terence Atmane",
+      "time": "08:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co5606/adelaide-international-1/ma11747761/ugo-humbert_terence-atmane/info",
+      "slug": "ugo-humbert-vs-terence-atmane",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Thanasi Kokkinakis vs Sebastian Korda",
+      "time": "10:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co5606/adelaide-international-1/ma11747752/thanasi-kokkinakis_sebastian-korda/info",
+      "slug": "thanasi-kokkinakis-vs-sebastian-korda",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Jenson Brooksby vs ",
+      "time": "01:35",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": null,
+      "slug": "jenson-brooksby-vs",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Arthur Féry - Edward Winter",
+          "time": "01:35",
+          "sender": "Eurosport",
+          "slug": "arthur-fery-edward-winter"
+        }
+      ]
+    },
+    {
+      "title": "Francisco Comesana vs Valentin Royer",
+      "time": "02:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-neuseeland-asb-classic/ma11748412/francisco-comesana_valentin-royer/info",
+      "slug": "francisco-comesana-vs-valentin-royer",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Cameron Norrie vs Hugo Gaston",
+      "time": "06:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-neuseeland-asb-classic/ma11748433/cameron-norrie_hugo-gaston/info",
+      "slug": "cameron-norrie-vs-hugo-gaston",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Emilio Nava vs Sebastian Baez",
+      "time": "07:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-neuseeland-asb-classic/ma11748418/emilio-nava_sebastian-baez/info",
+      "slug": "emilio-nava-vs-sebastian-baez",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alejandro Tabilo vs Camilo Ugo Carabelli",
+      "time": "23:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-neuseeland-asb-classic/ma11748424/alejandro-tabilo_camilo-ugo-carabelli/info",
+      "slug": "alejandro-tabilo-vs-camilo-ugo-carabelli",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Zakopane | Einzelspringen",
+      "subtitle": "Weltcup | Männer | HS 140",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:59",
+      "iso_time": "2026-01-11T23:59:12+01:00",
+      "link": "",
+      "slug": "zakopane-einzelspringen",
+      "related_events": []
+    },
+    {
+      "title": "Titouan Droguet - Nicolas Jarry",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-01-12T00:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/23d520e9-6de2-52cb-b4e8-607b18e88220?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "titouan-droguet-nicolas-jarry",
+      "related_events": [
+        {
+          "title": "Nuria Brancaccio - Mary Stoiana",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "nuria-brancaccio-mary-stoiana"
+        },
+        {
+          "title": "Martin Damm - Gauthier Onclin",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "martin-damm-gauthier-onclin"
+        },
+        {
+          "title": "Zeynep Sonmez - Laura Samson",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "zeynep-sonmez-laura-samson"
+        }
+      ]
+    },
+    {
+      "title": "Nuria Brancaccio - Mary Stoiana",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-01-12T00:00:01+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/edceff5d-e4fa-5f95-b3bc-1b912f8c5cd0?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "nuria-brancaccio-mary-stoiana",
+      "related_events": [
+        {
+          "title": "Titouan Droguet - Nicolas Jarry",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "titouan-droguet-nicolas-jarry"
+        },
+        {
+          "title": "Martin Damm - Gauthier Onclin",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "martin-damm-gauthier-onclin"
+        },
+        {
+          "title": "Zeynep Sonmez - Laura Samson",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "zeynep-sonmez-laura-samson"
+        }
+      ]
+    },
+    {
+      "title": "Martin Damm - Gauthier Onclin",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-01-12T00:00:01.410000+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/6f14cd85-cba0-5a02-a18b-effb21b04cdf?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "martin-damm-gauthier-onclin",
+      "related_events": [
+        {
+          "title": "Titouan Droguet - Nicolas Jarry",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "titouan-droguet-nicolas-jarry"
+        },
+        {
+          "title": "Nuria Brancaccio - Mary Stoiana",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "nuria-brancaccio-mary-stoiana"
+        },
+        {
+          "title": "Zeynep Sonmez - Laura Samson",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "zeynep-sonmez-laura-samson"
+        }
+      ]
+    },
+    {
+      "title": "Zeynep Sonmez - Laura Samson",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-01-12T00:00:02.008000+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/49238faa-2c19-50d3-a256-de384db036d4?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "zeynep-sonmez-laura-samson",
+      "related_events": [
+        {
+          "title": "Titouan Droguet - Nicolas Jarry",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "titouan-droguet-nicolas-jarry"
+        },
+        {
+          "title": "Nuria Brancaccio - Mary Stoiana",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "nuria-brancaccio-mary-stoiana"
+        },
+        {
+          "title": "Martin Damm - Gauthier Onclin",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "martin-damm-gauthier-onclin"
+        }
+      ]
+    },
+    {
+      "title": "Julia Riera - Ena Shibahara",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-01-12T00:00:02.043000+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/42a49224-4d9d-575b-8c6e-566fef5ef11a?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "julia-riera-ena-shibahara",
+      "related_events": [
+        {
+          "title": "Titouan Droguet - Nicolas Jarry",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "titouan-droguet-nicolas-jarry"
+        },
+        {
+          "title": "Nuria Brancaccio - Mary Stoiana",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "nuria-brancaccio-mary-stoiana"
+        },
+        {
+          "title": "Martin Damm - Gauthier Onclin",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "martin-damm-gauthier-onclin"
+        }
+      ]
+    },
+    {
+      "title": "Justin Engel - George Loffhagen",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-01-12T00:00:02.886000+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/6704ce97-aeb9-5d13-af52-20365dcb7d28?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "justin-engel-george-loffhagen",
+      "related_events": [
+        {
+          "title": "Titouan Droguet - Nicolas Jarry",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "titouan-droguet-nicolas-jarry"
+        },
+        {
+          "title": "Nuria Brancaccio - Mary Stoiana",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "nuria-brancaccio-mary-stoiana"
+        },
+        {
+          "title": "Martin Damm - Gauthier Onclin",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "martin-damm-gauthier-onclin"
+        }
+      ]
+    },
+    {
+      "title": "Jack Pinnington Jones - Gilles-Arnaud Bailly",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-01-12T00:00:04.615000+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/cbe70a17-fddd-5f7e-af82-3739c66d4874?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "jack-pinnington-jones-gilles-arnaud-bailly",
+      "related_events": [
+        {
+          "title": "Titouan Droguet - Nicolas Jarry",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "titouan-droguet-nicolas-jarry"
+        },
+        {
+          "title": "Nuria Brancaccio - Mary Stoiana",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "nuria-brancaccio-mary-stoiana"
+        },
+        {
+          "title": "Martin Damm - Gauthier Onclin",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "martin-damm-gauthier-onclin"
+        }
+      ]
+    },
+    {
+      "title": "Tina Smith - Cadence Brace",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-01-12T00:00:37+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/0f73651c-9324-5333-9c54-1e57ad02f039?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tina-smith-cadence-brace",
+      "related_events": [
+        {
+          "title": "Titouan Droguet - Nicolas Jarry",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "titouan-droguet-nicolas-jarry"
+        },
+        {
+          "title": "Nuria Brancaccio - Mary Stoiana",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "nuria-brancaccio-mary-stoiana"
+        },
+        {
+          "title": "Martin Damm - Gauthier Onclin",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "martin-damm-gauthier-onclin"
+        }
+      ]
+    },
+    {
+      "title": "Yoshihito Nishioka - Nerman Fatic",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-01-12T00:00:37+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/79b80143-caaf-54e2-9693-cc9a2f1dbf38?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "yoshihito-nishioka-nerman-fatic",
+      "related_events": [
+        {
+          "title": "Titouan Droguet - Nicolas Jarry",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "titouan-droguet-nicolas-jarry"
+        },
+        {
+          "title": "Nuria Brancaccio - Mary Stoiana",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "nuria-brancaccio-mary-stoiana"
+        },
+        {
+          "title": "Martin Damm - Gauthier Onclin",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "martin-damm-gauthier-onclin"
+        }
+      ]
+    },
+    {
+      "title": "Lucia Bronzetti - Aliona Bolsova",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:01",
+      "iso_time": "2026-01-12T00:01:09.802000+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/809c3f2d-5d86-50f3-90ad-5e21cc2e40bd?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lucia-bronzetti-aliona-bolsova",
+      "related_events": [
+        {
+          "title": "Titouan Droguet - Nicolas Jarry",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "titouan-droguet-nicolas-jarry"
+        },
+        {
+          "title": "Nuria Brancaccio - Mary Stoiana",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "nuria-brancaccio-mary-stoiana"
+        },
+        {
+          "title": "Martin Damm - Gauthier Onclin",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "martin-damm-gauthier-onclin"
+        }
+      ]
+    },
+    {
+      "title": "August Holmgren - Sebastian Ofner",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:01",
+      "iso_time": "2026-01-12T00:01:20+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/be6b4198-a3d9-5c6a-9f0b-d80870eb669f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "august-holmgren-sebastian-ofner",
+      "related_events": [
+        {
+          "title": "Titouan Droguet - Nicolas Jarry",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "titouan-droguet-nicolas-jarry"
+        },
+        {
+          "title": "Nuria Brancaccio - Mary Stoiana",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "nuria-brancaccio-mary-stoiana"
+        },
+        {
+          "title": "Martin Damm - Gauthier Onclin",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "martin-damm-gauthier-onclin"
+        }
+      ]
+    },
+    {
+      "title": "Nikola Bartunkova - Selena Janicijevic",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:01",
+      "iso_time": "2026-01-12T00:01:30+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/233d6de9-4d17-56ac-ae15-8fad2c41d697?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "nikola-bartunkova-selena-janicijevic",
+      "related_events": [
+        {
+          "title": "Titouan Droguet - Nicolas Jarry",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "titouan-droguet-nicolas-jarry"
+        },
+        {
+          "title": "Nuria Brancaccio - Mary Stoiana",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "nuria-brancaccio-mary-stoiana"
+        },
+        {
+          "title": "Martin Damm - Gauthier Onclin",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "martin-damm-gauthier-onclin"
+        }
+      ]
+    },
+    {
+      "title": "Alexis Galarneau - Nishesh Basavareddy",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:04",
+      "iso_time": "2026-01-12T00:04:35.415000+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/50374707-fa99-53f5-bac0-54655df15584?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "alexis-galarneau-nishesh-basavareddy",
+      "related_events": [
+        {
+          "title": "Titouan Droguet - Nicolas Jarry",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "titouan-droguet-nicolas-jarry"
+        },
+        {
+          "title": "Nuria Brancaccio - Mary Stoiana",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "nuria-brancaccio-mary-stoiana"
+        },
+        {
+          "title": "Martin Damm - Gauthier Onclin",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "martin-damm-gauthier-onclin"
+        }
+      ]
+    },
+    {
+      "title": "Roberto Carballes Baena - Arthur Bouquier",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:04",
+      "iso_time": "2026-01-12T00:04:46+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/74f6a76f-5f61-50fb-bf07-c8653fd3b518?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roberto-carballes-baena-arthur-bouquier",
+      "related_events": [
+        {
+          "title": "Titouan Droguet - Nicolas Jarry",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "titouan-droguet-nicolas-jarry"
+        },
+        {
+          "title": "Nuria Brancaccio - Mary Stoiana",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "nuria-brancaccio-mary-stoiana"
+        },
+        {
+          "title": "Martin Damm - Gauthier Onclin",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "martin-damm-gauthier-onclin"
+        }
+      ]
+    },
+    {
+      "title": "Adelboden | Slalom | 1. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:48",
+      "iso_time": "2026-01-12T00:48:06+01:00",
+      "link": "",
+      "slug": "adelboden-slalom-1-lauf",
+      "related_events": [
+        {
+          "title": "Adelboden | Slalom | 2. Lauf",
+          "time": "01:09",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-2-lauf"
+        },
+        {
+          "title": "Zauchensee | Abfahrt",
+          "time": "01:24",
+          "sender": "Eurosport",
+          "slug": "zauchensee-abfahrt"
+        },
+        {
+          "title": "Adelboden | Slalom | 2. Lauf",
+          "time": "02:54",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-2-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Adelboden | Slalom | 2. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:09",
+      "iso_time": "2026-01-12T01:09:08+01:00",
+      "link": "",
+      "slug": "adelboden-slalom-2-lauf",
+      "related_events": [
+        {
+          "title": "Adelboden | Slalom | 1. Lauf",
+          "time": "00:48",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-1-lauf"
+        },
+        {
+          "title": "Zauchensee | Abfahrt",
+          "time": "01:24",
+          "sender": "Eurosport",
+          "slug": "zauchensee-abfahrt"
+        },
+        {
+          "title": "Adelboden | Slalom | 1. Lauf",
+          "time": "02:25",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-1-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Sloane Stephens - Barbora Palicova",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:18",
+      "iso_time": "2026-01-12T01:18:49.413000+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/c415ff7a-9e21-556d-a70a-22a9cf6d97fe?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "sloane-stephens-barbora-palicova",
+      "related_events": [
+        {
+          "title": "Titouan Droguet - Nicolas Jarry",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "titouan-droguet-nicolas-jarry"
+        },
+        {
+          "title": "Nuria Brancaccio - Mary Stoiana",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "nuria-brancaccio-mary-stoiana"
+        },
+        {
+          "title": "Martin Damm - Gauthier Onclin",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "martin-damm-gauthier-onclin"
+        }
+      ]
+    },
+    {
+      "title": "Olivia Gadecki - Arantxa Rus",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:21",
+      "iso_time": "2026-01-12T01:21:48.319000+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/bf959a23-0a68-5065-8f39-e13483ef6099?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "olivia-gadecki-arantxa-rus",
+      "related_events": [
+        {
+          "title": "Titouan Droguet - Nicolas Jarry",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "titouan-droguet-nicolas-jarry"
+        },
+        {
+          "title": "Nuria Brancaccio - Mary Stoiana",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "nuria-brancaccio-mary-stoiana"
+        },
+        {
+          "title": "Martin Damm - Gauthier Onclin",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "martin-damm-gauthier-onclin"
+        }
+      ]
+    },
+    {
+      "title": "Zauchensee | Abfahrt",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:24",
+      "iso_time": "2026-01-12T01:24:32+01:00",
+      "link": "",
+      "slug": "zauchensee-abfahrt",
+      "related_events": [
+        {
+          "title": "Adelboden | Slalom | 1. Lauf",
+          "time": "00:48",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-1-lauf"
+        },
+        {
+          "title": "Adelboden | Slalom | 2. Lauf",
+          "time": "01:09",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-2-lauf"
+        },
+        {
+          "title": "Adelboden | Slalom | 1. Lauf",
+          "time": "02:25",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-1-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Yuliia Starodubtseva - Alice Tubello",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:31",
+      "iso_time": "2026-01-12T01:31:59+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/769a50a7-b916-5cc4-9171-e91b14d2744b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "yuliia-starodubtseva-alice-tubello",
+      "related_events": [
+        {
+          "title": "Titouan Droguet - Nicolas Jarry",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "titouan-droguet-nicolas-jarry"
+        },
+        {
+          "title": "Nuria Brancaccio - Mary Stoiana",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "nuria-brancaccio-mary-stoiana"
+        },
+        {
+          "title": "Martin Damm - Gauthier Onclin",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "martin-damm-gauthier-onclin"
+        }
+      ]
+    },
+    {
+      "title": "Dino Prizmic - Genaro Alberto Olivieri",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:33",
+      "iso_time": "2026-01-12T01:33:14.787000+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/39b91017-af72-5580-bfe4-c65335d506a2?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "dino-prizmic-genaro-alberto-olivieri",
+      "related_events": [
+        {
+          "title": "Titouan Droguet - Nicolas Jarry",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "titouan-droguet-nicolas-jarry"
+        },
+        {
+          "title": "Nuria Brancaccio - Mary Stoiana",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "nuria-brancaccio-mary-stoiana"
+        },
+        {
+          "title": "Martin Damm - Gauthier Onclin",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "martin-damm-gauthier-onclin"
+        }
+      ]
+    },
+    {
+      "title": "Arthur Féry - Edward Winter",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:35",
+      "iso_time": "2026-01-12T01:35:16+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/307231fb-4e44-5f9d-8718-f51cefd956da?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "arthur-fery-edward-winter",
+      "related_events": [
+        {
+          "title": "Jenson Brooksby vs ",
+          "time": "01:35",
+          "sender": "Sportschau Live",
+          "slug": "jenson-brooksby-vs"
+        },
+        {
+          "title": "Titouan Droguet - Nicolas Jarry",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "titouan-droguet-nicolas-jarry"
+        },
+        {
+          "title": "Nuria Brancaccio - Mary Stoiana",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "nuria-brancaccio-mary-stoiana"
+        }
+      ]
+    },
+    {
+      "title": "Dane Sweeny - Andrea Pellegrino",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:39",
+      "iso_time": "2026-01-12T01:39:07+01:00",
+      "link": "",
+      "slug": "dane-sweeny-andrea-pellegrino",
+      "related_events": [
+        {
+          "title": "Titouan Droguet - Nicolas Jarry",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "titouan-droguet-nicolas-jarry"
+        },
+        {
+          "title": "Nuria Brancaccio - Mary Stoiana",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "nuria-brancaccio-mary-stoiana"
+        },
+        {
+          "title": "Martin Damm - Gauthier Onclin",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "martin-damm-gauthier-onclin"
+        }
+      ]
+    },
+    {
+      "title": "Despina Papamichail - Sachia Vickery",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:44",
+      "iso_time": "2026-01-12T01:44:26.690000+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/467ed742-1b72-5d4a-a933-672001ee86b7?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "despina-papamichail-sachia-vickery",
+      "related_events": [
+        {
+          "title": "Titouan Droguet - Nicolas Jarry",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "titouan-droguet-nicolas-jarry"
+        },
+        {
+          "title": "Nuria Brancaccio - Mary Stoiana",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "nuria-brancaccio-mary-stoiana"
+        },
+        {
+          "title": "Martin Damm - Gauthier Onclin",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "martin-damm-gauthier-onclin"
+        }
+      ]
+    },
+    {
+      "title": "Gustavo Heide - Jay Clarke",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:54",
+      "iso_time": "2026-01-12T01:54:48+01:00",
+      "link": "",
+      "slug": "gustavo-heide-jay-clarke",
+      "related_events": [
+        {
+          "title": "Titouan Droguet - Nicolas Jarry",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "titouan-droguet-nicolas-jarry"
+        },
+        {
+          "title": "Nuria Brancaccio - Mary Stoiana",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "nuria-brancaccio-mary-stoiana"
+        },
+        {
+          "title": "Martin Damm - Gauthier Onclin",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "martin-damm-gauthier-onclin"
+        }
+      ]
+    },
+    {
+      "title": "Laura Pigossi - Lin Zhu",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:00",
+      "iso_time": "2026-01-12T02:00:07+01:00",
+      "link": "",
+      "slug": "laura-pigossi-lin-zhu",
+      "related_events": [
+        {
+          "title": "Titouan Droguet - Nicolas Jarry",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "titouan-droguet-nicolas-jarry"
+        },
+        {
+          "title": "Nuria Brancaccio - Mary Stoiana",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "nuria-brancaccio-mary-stoiana"
+        },
+        {
+          "title": "Martin Damm - Gauthier Onclin",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "martin-damm-gauthier-onclin"
+        }
+      ]
+    },
+    {
+      "title": "Bernarda Pera - Viktoriya Tomova",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:16",
+      "iso_time": "2026-01-12T02:16:58+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/39ddae6b-3fae-5bef-a78e-37b92c7ba5d8?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "bernarda-pera-viktoriya-tomova",
+      "related_events": [
+        {
+          "title": "Titouan Droguet - Nicolas Jarry",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "titouan-droguet-nicolas-jarry"
+        },
+        {
+          "title": "Nuria Brancaccio - Mary Stoiana",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "nuria-brancaccio-mary-stoiana"
+        },
+        {
+          "title": "Martin Damm - Gauthier Onclin",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "martin-damm-gauthier-onclin"
+        }
+      ]
+    },
+    {
+      "title": "Viktoria Hruncakova - Sada Nahimana",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:23",
+      "iso_time": "2026-01-12T02:23:41+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/420d5cb3-c29d-5dae-96c6-f4ccce492a9b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "viktoria-hruncakova-sada-nahimana",
+      "related_events": [
+        {
+          "title": "Titouan Droguet - Nicolas Jarry",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "titouan-droguet-nicolas-jarry"
+        },
+        {
+          "title": "Nuria Brancaccio - Mary Stoiana",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "nuria-brancaccio-mary-stoiana"
+        },
+        {
+          "title": "Martin Damm - Gauthier Onclin",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "martin-damm-gauthier-onclin"
+        }
+      ]
+    },
+    {
+      "title": "Adelboden | Slalom | 1. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:25",
+      "iso_time": "2026-01-12T02:25:19+01:00",
+      "link": "",
+      "slug": "adelboden-slalom-1-lauf",
+      "related_events": [
+        {
+          "title": "Adelboden | Slalom | 2. Lauf",
+          "time": "01:09",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-2-lauf"
+        },
+        {
+          "title": "Zauchensee | Abfahrt",
+          "time": "01:24",
+          "sender": "Eurosport",
+          "slug": "zauchensee-abfahrt"
+        },
+        {
+          "title": "Adelboden | Slalom | 2. Lauf",
+          "time": "02:54",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-2-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Jérôme Kym - Juan Carlos Prado Angelo",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:35",
+      "iso_time": "2026-01-12T02:35:01+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/67d788e4-607c-5e9c-ba93-d062744b9b37?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "jerome-kym-juan-carlos-prado-angelo",
+      "related_events": [
+        {
+          "title": "Titouan Droguet - Nicolas Jarry",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "titouan-droguet-nicolas-jarry"
+        },
+        {
+          "title": "Nuria Brancaccio - Mary Stoiana",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "nuria-brancaccio-mary-stoiana"
+        },
+        {
+          "title": "Martin Damm - Gauthier Onclin",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "martin-damm-gauthier-onclin"
+        }
+      ]
+    },
+    {
+      "title": "Adelboden | Slalom | 2. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:54",
+      "iso_time": "2026-01-12T02:54:36+01:00",
+      "link": "",
+      "slug": "adelboden-slalom-2-lauf",
+      "related_events": [
+        {
+          "title": "Adelboden | Slalom | 1. Lauf",
+          "time": "00:48",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-1-lauf"
+        },
+        {
+          "title": "Zauchensee | Abfahrt",
+          "time": "01:24",
+          "sender": "Eurosport",
+          "slug": "zauchensee-abfahrt"
+        },
+        {
+          "title": "Adelboden | Slalom | 1. Lauf",
+          "time": "02:25",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-1-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Victoria Jimenez Kasintseva - Kayla Cross",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:58",
+      "iso_time": "2026-01-12T02:58:17+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/39ea9340-91fd-556f-92ae-71a9e93dfd67?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "victoria-jimenez-kasintseva-kayla-cross",
+      "related_events": [
+        {
+          "title": "Titouan Droguet - Nicolas Jarry",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "titouan-droguet-nicolas-jarry"
+        },
+        {
+          "title": "Nuria Brancaccio - Mary Stoiana",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "nuria-brancaccio-mary-stoiana"
+        },
+        {
+          "title": "Martin Damm - Gauthier Onclin",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "martin-damm-gauthier-onclin"
+        }
+      ]
+    },
+    {
+      "title": "Andrea Lazaro Garcia - Tatiana Prozorova",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:01",
+      "iso_time": "2026-01-12T03:01:37+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/d68834b6-a62e-5b1c-bcc6-6cd7e44e9968?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "andrea-lazaro-garcia-tatiana-prozorova",
+      "related_events": [
+        {
+          "title": "Alexis Galarneau - Nishesh Basavareddy",
+          "time": "00:04",
+          "sender": "Eurosport",
+          "slug": "alexis-galarneau-nishesh-basavareddy"
+        },
+        {
+          "title": "Roberto Carballes Baena - Arthur Bouquier",
+          "time": "00:04",
+          "sender": "Eurosport",
+          "slug": "roberto-carballes-baena-arthur-bouquier"
+        },
+        {
+          "title": "Sloane Stephens - Barbora Palicova",
+          "time": "01:18",
+          "sender": "Eurosport",
+          "slug": "sloane-stephens-barbora-palicova"
+        }
+      ]
+    },
+    {
+      "title": "Gabriela Knutson - Lizette Cabrera",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:05",
+      "iso_time": "2026-01-12T03:05:51+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/b1a0fb1b-b0b9-5f45-a566-18fbe0278887?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "gabriela-knutson-lizette-cabrera",
+      "related_events": [
+        {
+          "title": "Ajla Tomljanović vs Clara Tauson",
+          "time": "03:05",
+          "sender": "Sportschau Live",
+          "slug": "ajla-tomljanovic-vs-clara-tauson"
+        },
+        {
+          "title": "Sloane Stephens - Barbora Palicova",
+          "time": "01:18",
+          "sender": "Eurosport",
+          "slug": "sloane-stephens-barbora-palicova"
+        },
+        {
+          "title": "Olivia Gadecki - Arantxa Rus",
+          "time": "01:21",
+          "sender": "Eurosport",
+          "slug": "olivia-gadecki-arantxa-rus"
+        }
+      ]
+    },
+    {
+      "title": "Philip Sekulic - Marco Trungelliti",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:09",
+      "iso_time": "2026-01-12T03:09:35+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/d00bcc3f-97c4-51a0-b01a-b1c5905ec065?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "philip-sekulic-marco-trungelliti",
+      "related_events": [
+        {
+          "title": "Sloane Stephens - Barbora Palicova",
+          "time": "01:18",
+          "sender": "Eurosport",
+          "slug": "sloane-stephens-barbora-palicova"
+        },
+        {
+          "title": "Olivia Gadecki - Arantxa Rus",
+          "time": "01:21",
+          "sender": "Eurosport",
+          "slug": "olivia-gadecki-arantxa-rus"
+        },
+        {
+          "title": "Yuliia Starodubtseva - Alice Tubello",
+          "time": "01:31",
+          "sender": "Eurosport",
+          "slug": "yuliia-starodubtseva-alice-tubello"
+        }
+      ]
+    },
+    {
+      "title": "Brandon Holt - Lukas Neumayer",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:23",
+      "iso_time": "2026-01-12T03:23:41+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/26d6370d-fa02-514e-9451-dba88b0a9b36?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "brandon-holt-lukas-neumayer",
+      "related_events": [
+        {
+          "title": "Sloane Stephens - Barbora Palicova",
+          "time": "01:18",
+          "sender": "Eurosport",
+          "slug": "sloane-stephens-barbora-palicova"
+        },
+        {
+          "title": "Olivia Gadecki - Arantxa Rus",
+          "time": "01:21",
+          "sender": "Eurosport",
+          "slug": "olivia-gadecki-arantxa-rus"
+        },
+        {
+          "title": "Yuliia Starodubtseva - Alice Tubello",
+          "time": "01:31",
+          "sender": "Eurosport",
+          "slug": "yuliia-starodubtseva-alice-tubello"
+        }
+      ]
+    },
+    {
+      "title": "Mayar Sherif - Guiomar Maristany Zuleta de Reales",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:25",
+      "iso_time": "2026-01-12T03:25:51+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/50e341c8-c02c-5ae2-9595-140bd680e96a?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "mayar-sherif-guiomar-maristany-zuleta-de-reales",
+      "related_events": [
+        {
+          "title": "Sloane Stephens - Barbora Palicova",
+          "time": "01:18",
+          "sender": "Eurosport",
+          "slug": "sloane-stephens-barbora-palicova"
+        },
+        {
+          "title": "Olivia Gadecki - Arantxa Rus",
+          "time": "01:21",
+          "sender": "Eurosport",
+          "slug": "olivia-gadecki-arantxa-rus"
+        },
+        {
+          "title": "Yuliia Starodubtseva - Alice Tubello",
+          "time": "01:31",
+          "sender": "Eurosport",
+          "slug": "yuliia-starodubtseva-alice-tubello"
+        }
+      ]
+    },
+    {
+      "title": "Masters | 1. Runde",
+      "subtitle": "M. Selby - Xiao G. | London",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:26",
+      "iso_time": "2026-01-12T03:26:40+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/a4a8644c-dbf7-5265-a109-61bac1dfa019?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "masters-1-runde",
+      "related_events": []
+    },
+    {
+      "title": "Jaime Faria - Luka Mikrut",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:32",
+      "iso_time": "2026-01-12T03:32:10+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/c6dfb691-72ba-5a55-80c1-f7b1a8b9821f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "jaime-faria-luka-mikrut",
+      "related_events": [
+        {
+          "title": "Sloane Stephens - Barbora Palicova",
+          "time": "01:18",
+          "sender": "Eurosport",
+          "slug": "sloane-stephens-barbora-palicova"
+        },
+        {
+          "title": "Olivia Gadecki - Arantxa Rus",
+          "time": "01:21",
+          "sender": "Eurosport",
+          "slug": "olivia-gadecki-arantxa-rus"
+        },
+        {
+          "title": "Yuliia Starodubtseva - Alice Tubello",
+          "time": "01:31",
+          "sender": "Eurosport",
+          "slug": "yuliia-starodubtseva-alice-tubello"
+        }
+      ]
+    },
+    {
+      "title": "Yannick Hanfmann - Benjamin Hassan",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:34",
+      "iso_time": "2026-01-12T03:34:52+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/ab6efef1-5ded-5f65-be48-c4e0829beed7?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "yannick-hanfmann-benjamin-hassan",
+      "related_events": [
+        {
+          "title": "Sloane Stephens - Barbora Palicova",
+          "time": "01:18",
+          "sender": "Eurosport",
+          "slug": "sloane-stephens-barbora-palicova"
+        },
+        {
+          "title": "Olivia Gadecki - Arantxa Rus",
+          "time": "01:21",
+          "sender": "Eurosport",
+          "slug": "olivia-gadecki-arantxa-rus"
+        },
+        {
+          "title": "Yuliia Starodubtseva - Alice Tubello",
+          "time": "01:31",
+          "sender": "Eurosport",
+          "slug": "yuliia-starodubtseva-alice-tubello"
+        }
+      ]
+    },
+    {
+      "title": "Maja Chwalinska - Madison Brengle",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:46",
+      "iso_time": "2026-01-12T03:46:30+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/0afd7237-1804-51a3-904a-0ef204ff02b4?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "maja-chwalinska-madison-brengle",
+      "related_events": [
+        {
+          "title": "Sloane Stephens - Barbora Palicova",
+          "time": "01:18",
+          "sender": "Eurosport",
+          "slug": "sloane-stephens-barbora-palicova"
+        },
+        {
+          "title": "Olivia Gadecki - Arantxa Rus",
+          "time": "01:21",
+          "sender": "Eurosport",
+          "slug": "olivia-gadecki-arantxa-rus"
+        },
+        {
+          "title": "Yuliia Starodubtseva - Alice Tubello",
+          "time": "01:31",
+          "sender": "Eurosport",
+          "slug": "yuliia-starodubtseva-alice-tubello"
+        }
+      ]
+    },
+    {
+      "title": "Rebeka Masarova - Alina Charaeva",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:05",
+      "iso_time": "2026-01-12T04:05:50+01:00",
+      "link": "",
+      "slug": "rebeka-masarova-alina-charaeva",
+      "related_events": [
+        {
+          "title": "Sloane Stephens - Barbora Palicova",
+          "time": "01:18",
+          "sender": "Eurosport",
+          "slug": "sloane-stephens-barbora-palicova"
+        },
+        {
+          "title": "Olivia Gadecki - Arantxa Rus",
+          "time": "01:21",
+          "sender": "Eurosport",
+          "slug": "olivia-gadecki-arantxa-rus"
+        },
+        {
+          "title": "Yuliia Starodubtseva - Alice Tubello",
+          "time": "01:31",
+          "sender": "Eurosport",
+          "slug": "yuliia-starodubtseva-alice-tubello"
+        }
+      ]
+    },
+    {
+      "title": "Stefani Webb - Linda Klimovicova",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:06",
+      "iso_time": "2026-01-12T04:06:09+01:00",
+      "link": "",
+      "slug": "stefani-webb-linda-klimovicova",
+      "related_events": [
+        {
+          "title": "Sloane Stephens - Barbora Palicova",
+          "time": "01:18",
+          "sender": "Eurosport",
+          "slug": "sloane-stephens-barbora-palicova"
+        },
+        {
+          "title": "Olivia Gadecki - Arantxa Rus",
+          "time": "01:21",
+          "sender": "Eurosport",
+          "slug": "olivia-gadecki-arantxa-rus"
+        },
+        {
+          "title": "Yuliia Starodubtseva - Alice Tubello",
+          "time": "01:31",
+          "sender": "Eurosport",
+          "slug": "yuliia-starodubtseva-alice-tubello"
+        }
+      ]
+    },
+    {
+      "title": "Luka Pavlovic - Colton Smith",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:07",
+      "iso_time": "2026-01-12T04:07:09+01:00",
+      "link": "",
+      "slug": "luka-pavlovic-colton-smith",
+      "related_events": [
+        {
+          "title": "Sloane Stephens - Barbora Palicova",
+          "time": "01:18",
+          "sender": "Eurosport",
+          "slug": "sloane-stephens-barbora-palicova"
+        },
+        {
+          "title": "Olivia Gadecki - Arantxa Rus",
+          "time": "01:21",
+          "sender": "Eurosport",
+          "slug": "olivia-gadecki-arantxa-rus"
+        },
+        {
+          "title": "Yuliia Starodubtseva - Alice Tubello",
+          "time": "01:31",
+          "sender": "Eurosport",
+          "slug": "yuliia-starodubtseva-alice-tubello"
+        }
+      ]
+    },
+    {
+      "title": "Giulio Zeppieri - Dan Added",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:16",
+      "iso_time": "2026-01-12T04:16:58+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/8695086c-7216-56db-8573-c24cce6690da?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giulio-zeppieri-dan-added",
+      "related_events": [
+        {
+          "title": "Sloane Stephens - Barbora Palicova",
+          "time": "01:18",
+          "sender": "Eurosport",
+          "slug": "sloane-stephens-barbora-palicova"
+        },
+        {
+          "title": "Olivia Gadecki - Arantxa Rus",
+          "time": "01:21",
+          "sender": "Eurosport",
+          "slug": "olivia-gadecki-arantxa-rus"
+        },
+        {
+          "title": "Yuliia Starodubtseva - Alice Tubello",
+          "time": "01:31",
+          "sender": "Eurosport",
+          "slug": "yuliia-starodubtseva-alice-tubello"
+        }
+      ]
+    },
+    {
+      "title": "Joao Lucas Reis Da Silva - Henrique Rocha",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:23",
+      "iso_time": "2026-01-12T04:23:41+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/5d3f3796-e8bd-5cce-93c9-5da652393f45?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "joao-lucas-reis-da-silva-henrique-rocha",
+      "related_events": [
+        {
+          "title": "Yuliia Starodubtseva - Alice Tubello",
+          "time": "01:31",
+          "sender": "Eurosport",
+          "slug": "yuliia-starodubtseva-alice-tubello"
+        },
+        {
+          "title": "Dino Prizmic - Genaro Alberto Olivieri",
+          "time": "01:33",
+          "sender": "Eurosport",
+          "slug": "dino-prizmic-genaro-alberto-olivieri"
+        },
+        {
+          "title": "Arthur Féry - Edward Winter",
+          "time": "01:35",
+          "sender": "Eurosport",
+          "slug": "arthur-fery-edward-winter"
+        }
+      ]
+    },
+    {
+      "title": "Nikoloz Basilashvili - Gonzalo Bueno",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:58",
+      "iso_time": "2026-01-12T04:58:17+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/c70ae20b-f2b9-5a22-ae79-0967f215145f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "nikoloz-basilashvili-gonzalo-bueno",
+      "related_events": [
+        {
+          "title": "Laura Pigossi - Lin Zhu",
+          "time": "02:00",
+          "sender": "Eurosport",
+          "slug": "laura-pigossi-lin-zhu"
+        },
+        {
+          "title": "Bernarda Pera - Viktoriya Tomova",
+          "time": "02:16",
+          "sender": "Eurosport",
+          "slug": "bernarda-pera-viktoriya-tomova"
+        },
+        {
+          "title": "Viktoria Hruncakova - Sada Nahimana",
+          "time": "02:23",
+          "sender": "Eurosport",
+          "slug": "viktoria-hruncakova-sada-nahimana"
+        }
+      ]
+    },
+    {
+      "title": "Zakopane | Einzelspringen",
+      "subtitle": "Weltcup | Männer | HS 140",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:58",
+      "iso_time": "2026-01-12T04:58:27+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/75d75c07-0a72-50e2-8beb-2190198005c9?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "zakopane-einzelspringen",
+      "related_events": []
+    },
+    {
+      "title": "Tristan Boyer - Alex Barrena",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:01",
+      "iso_time": "2026-01-12T05:01:37+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/45641984-5eed-5d3a-9aa8-9cbf864fd76a?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tristan-boyer-alex-barrena",
+      "related_events": [
+        {
+          "title": "Bernarda Pera - Viktoriya Tomova",
+          "time": "02:16",
+          "sender": "Eurosport",
+          "slug": "bernarda-pera-viktoriya-tomova"
+        },
+        {
+          "title": "Viktoria Hruncakova - Sada Nahimana",
+          "time": "02:23",
+          "sender": "Eurosport",
+          "slug": "viktoria-hruncakova-sada-nahimana"
+        },
+        {
+          "title": "Jérôme Kym - Juan Carlos Prado Angelo",
+          "time": "02:35",
+          "sender": "Eurosport",
+          "slug": "jerome-kym-juan-carlos-prado-angelo"
+        }
+      ]
+    },
+    {
+      "title": "Taylor Townsend - Nao Hibino",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:09",
+      "iso_time": "2026-01-12T05:09:35+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/1f816b46-81db-543c-a22c-7cf8a6e91420?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "taylor-townsend-nao-hibino",
+      "related_events": [
+        {
+          "title": "Bernarda Pera - Viktoriya Tomova",
+          "time": "02:16",
+          "sender": "Eurosport",
+          "slug": "bernarda-pera-viktoriya-tomova"
+        },
+        {
+          "title": "Viktoria Hruncakova - Sada Nahimana",
+          "time": "02:23",
+          "sender": "Eurosport",
+          "slug": "viktoria-hruncakova-sada-nahimana"
+        },
+        {
+          "title": "Jérôme Kym - Juan Carlos Prado Angelo",
+          "time": "02:35",
+          "sender": "Eurosport",
+          "slug": "jerome-kym-juan-carlos-prado-angelo"
+        }
+      ]
+    },
+    {
+      "title": "Rei Sakamoto - Daniel Evans",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:23",
+      "iso_time": "2026-01-12T05:23:41+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/94370583-5332-594b-8a05-3b20e3207a26?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "rei-sakamoto-daniel-evans",
+      "related_events": [
+        {
+          "title": "Viktoria Hruncakova - Sada Nahimana",
+          "time": "02:23",
+          "sender": "Eurosport",
+          "slug": "viktoria-hruncakova-sada-nahimana"
+        },
+        {
+          "title": "Jérôme Kym - Juan Carlos Prado Angelo",
+          "time": "02:35",
+          "sender": "Eurosport",
+          "slug": "jerome-kym-juan-carlos-prado-angelo"
+        },
+        {
+          "title": "Victoria Jimenez Kasintseva - Kayla Cross",
+          "time": "02:58",
+          "sender": "Eurosport",
+          "slug": "victoria-jimenez-kasintseva-kayla-cross"
+        }
+      ]
+    },
+    {
+      "title": "Mark Lajal - Francesco Passaro",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:25",
+      "iso_time": "2026-01-12T05:25:51+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/899de735-4be4-526e-8e62-0f3d71e5789e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "mark-lajal-francesco-passaro",
+      "related_events": [
+        {
+          "title": "Jérôme Kym - Juan Carlos Prado Angelo",
+          "time": "02:35",
+          "sender": "Eurosport",
+          "slug": "jerome-kym-juan-carlos-prado-angelo"
+        },
+        {
+          "title": "Victoria Jimenez Kasintseva - Kayla Cross",
+          "time": "02:58",
+          "sender": "Eurosport",
+          "slug": "victoria-jimenez-kasintseva-kayla-cross"
+        },
+        {
+          "title": "Andrea Lazaro Garcia - Tatiana Prozorova",
+          "time": "03:01",
+          "sender": "Eurosport",
+          "slug": "andrea-lazaro-garcia-tatiana-prozorova"
+        }
+      ]
+    },
+    {
+      "title": "Luca Van Assche - Moez Echargui",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:32",
+      "iso_time": "2026-01-12T05:32:10+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/590106da-5b47-5a61-9197-5c726a5ef004?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "luca-van-assche-moez-echargui",
+      "related_events": [
+        {
+          "title": "Jérôme Kym - Juan Carlos Prado Angelo",
+          "time": "02:35",
+          "sender": "Eurosport",
+          "slug": "jerome-kym-juan-carlos-prado-angelo"
+        },
+        {
+          "title": "Victoria Jimenez Kasintseva - Kayla Cross",
+          "time": "02:58",
+          "sender": "Eurosport",
+          "slug": "victoria-jimenez-kasintseva-kayla-cross"
+        },
+        {
+          "title": "Andrea Lazaro Garcia - Tatiana Prozorova",
+          "time": "03:01",
+          "sender": "Eurosport",
+          "slug": "andrea-lazaro-garcia-tatiana-prozorova"
+        }
+      ]
+    },
+    {
+      "title": "Dusan Lajovic - Facundo Diaz Acosta",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:34",
+      "iso_time": "2026-01-12T05:34:52+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/c85478a7-9c12-5773-ae53-abf797b50e97?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "dusan-lajovic-facundo-diaz-acosta",
+      "related_events": [
+        {
+          "title": "Jérôme Kym - Juan Carlos Prado Angelo",
+          "time": "02:35",
+          "sender": "Eurosport",
+          "slug": "jerome-kym-juan-carlos-prado-angelo"
+        },
+        {
+          "title": "Victoria Jimenez Kasintseva - Kayla Cross",
+          "time": "02:58",
+          "sender": "Eurosport",
+          "slug": "victoria-jimenez-kasintseva-kayla-cross"
+        },
+        {
+          "title": "Andrea Lazaro Garcia - Tatiana Prozorova",
+          "time": "03:01",
+          "sender": "Eurosport",
+          "slug": "andrea-lazaro-garcia-tatiana-prozorova"
+        }
+      ]
+    },
+    {
+      "title": "Pierre-Hugues Herbert - Guy Den Ouden",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:46",
+      "iso_time": "2026-01-12T05:46:30+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/9ac4413f-49a7-52ae-b876-7957ea7003ec?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "pierre-hugues-herbert-guy-den-ouden",
+      "related_events": [
+        {
+          "title": "Victoria Jimenez Kasintseva - Kayla Cross",
+          "time": "02:58",
+          "sender": "Eurosport",
+          "slug": "victoria-jimenez-kasintseva-kayla-cross"
+        },
+        {
+          "title": "Andrea Lazaro Garcia - Tatiana Prozorova",
+          "time": "03:01",
+          "sender": "Eurosport",
+          "slug": "andrea-lazaro-garcia-tatiana-prozorova"
+        },
+        {
+          "title": "Gabriela Knutson - Lizette Cabrera",
+          "time": "03:05",
+          "sender": "Eurosport",
+          "slug": "gabriela-knutson-lizette-cabrera"
+        }
+      ]
+    },
+    {
+      "title": "Adelboden | Slalom | 1. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:57",
+      "iso_time": "2026-01-12T05:57:34+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/79cb93e1-042f-595e-9c45-cba3b301c871?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "adelboden-slalom-1-lauf",
+      "related_events": [
+        {
+          "title": "Adelboden | Slalom | 2. Lauf",
+          "time": "06:29",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-2-lauf"
+        },
+        {
+          "title": "Zauchensee | Abfahrt",
+          "time": "08:28",
+          "sender": "Eurosport",
+          "slug": "zauchensee-abfahrt"
+        }
+      ]
+    },
+    {
+      "title": "Nuria Parrizas Diaz - Marina Stakusic",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:05",
+      "iso_time": "2026-01-12T06:05:50+01:00",
+      "link": "",
+      "slug": "nuria-parrizas-diaz-marina-stakusic",
+      "related_events": [
+        {
+          "title": "Gabriela Knutson - Lizette Cabrera",
+          "time": "03:05",
+          "sender": "Eurosport",
+          "slug": "gabriela-knutson-lizette-cabrera"
+        },
+        {
+          "title": "Philip Sekulic - Marco Trungelliti",
+          "time": "03:09",
+          "sender": "Eurosport",
+          "slug": "philip-sekulic-marco-trungelliti"
+        },
+        {
+          "title": "Brandon Holt - Lukas Neumayer",
+          "time": "03:23",
+          "sender": "Eurosport",
+          "slug": "brandon-holt-lukas-neumayer"
+        }
+      ]
+    },
+    {
+      "title": "Kathinka Von Deichmann - Renee Alame",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:06",
+      "iso_time": "2026-01-12T06:06:09+01:00",
+      "link": "",
+      "slug": "kathinka-von-deichmann-renee-alame",
+      "related_events": [
+        {
+          "title": "Philip Sekulic - Marco Trungelliti",
+          "time": "03:09",
+          "sender": "Eurosport",
+          "slug": "philip-sekulic-marco-trungelliti"
+        },
+        {
+          "title": "Brandon Holt - Lukas Neumayer",
+          "time": "03:23",
+          "sender": "Eurosport",
+          "slug": "brandon-holt-lukas-neumayer"
+        },
+        {
+          "title": "Mayar Sherif - Guiomar Maristany Zuleta de Reales",
+          "time": "03:25",
+          "sender": "Eurosport",
+          "slug": "mayar-sherif-guiomar-maristany-zuleta-de-reales"
+        }
+      ]
+    },
+    {
+      "title": "Daniil Glinka - Clément Tabur",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:07",
+      "iso_time": "2026-01-12T06:07:09+01:00",
+      "link": "",
+      "slug": "daniil-glinka-clement-tabur",
+      "related_events": [
+        {
+          "title": "Philip Sekulic - Marco Trungelliti",
+          "time": "03:09",
+          "sender": "Eurosport",
+          "slug": "philip-sekulic-marco-trungelliti"
+        },
+        {
+          "title": "Brandon Holt - Lukas Neumayer",
+          "time": "03:23",
+          "sender": "Eurosport",
+          "slug": "brandon-holt-lukas-neumayer"
+        },
+        {
+          "title": "Mayar Sherif - Guiomar Maristany Zuleta de Reales",
+          "time": "03:25",
+          "sender": "Eurosport",
+          "slug": "mayar-sherif-guiomar-maristany-zuleta-de-reales"
+        }
+      ]
+    },
+    {
+      "title": "Murphy Cassone - Yu Hsiou Hsu",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:16",
+      "iso_time": "2026-01-12T06:16:58+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/1e9dd3ba-a199-58c6-ac5f-5279c134e610?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "murphy-cassone-yu-hsiou-hsu",
+      "related_events": [
+        {
+          "title": "Brandon Holt - Lukas Neumayer",
+          "time": "03:23",
+          "sender": "Eurosport",
+          "slug": "brandon-holt-lukas-neumayer"
+        },
+        {
+          "title": "Mayar Sherif - Guiomar Maristany Zuleta de Reales",
+          "time": "03:25",
+          "sender": "Eurosport",
+          "slug": "mayar-sherif-guiomar-maristany-zuleta-de-reales"
+        },
+        {
+          "title": "Jaime Faria - Luka Mikrut",
+          "time": "03:32",
+          "sender": "Eurosport",
+          "slug": "jaime-faria-luka-mikrut"
+        }
+      ]
+    },
+    {
+      "title": "Tereza Mrdeza - Teodora Kostovic",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:23",
+      "iso_time": "2026-01-12T06:23:41+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/c1929bb5-fc3d-5ad2-a3c3-bbdb36c2046c?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tereza-mrdeza-teodora-kostovic",
+      "related_events": [
+        {
+          "title": "Brandon Holt - Lukas Neumayer",
+          "time": "03:23",
+          "sender": "Eurosport",
+          "slug": "brandon-holt-lukas-neumayer"
+        },
+        {
+          "title": "Mayar Sherif - Guiomar Maristany Zuleta de Reales",
+          "time": "03:25",
+          "sender": "Eurosport",
+          "slug": "mayar-sherif-guiomar-maristany-zuleta-de-reales"
+        },
+        {
+          "title": "Jaime Faria - Luka Mikrut",
+          "time": "03:32",
+          "sender": "Eurosport",
+          "slug": "jaime-faria-luka-mikrut"
+        }
+      ]
+    },
+    {
+      "title": "Adelboden | Slalom | 2. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:29",
+      "iso_time": "2026-01-12T06:29:31+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/20b30c31-2a4a-53f4-9bd9-b94912fb8877?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "adelboden-slalom-2-lauf",
+      "related_events": [
+        {
+          "title": "Adelboden | Slalom | 1. Lauf",
+          "time": "05:57",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-1-lauf"
+        },
+        {
+          "title": "Zauchensee | Abfahrt",
+          "time": "08:28",
+          "sender": "Eurosport",
+          "slug": "zauchensee-abfahrt"
+        }
+      ]
+    },
+    {
+      "title": "Aliaksandra Sasnovich - Ksenia Efremova",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:58",
+      "iso_time": "2026-01-12T06:58:17+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/2ecb961f-0e58-58bc-afcf-214c5736473b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "aliaksandra-sasnovich-ksenia-efremova",
+      "related_events": [
+        {
+          "title": "Rebeka Masarova - Alina Charaeva",
+          "time": "04:05",
+          "sender": "Eurosport",
+          "slug": "rebeka-masarova-alina-charaeva"
+        },
+        {
+          "title": "Stefani Webb - Linda Klimovicova",
+          "time": "04:06",
+          "sender": "Eurosport",
+          "slug": "stefani-webb-linda-klimovicova"
+        },
+        {
+          "title": "Luka Pavlovic - Colton Smith",
+          "time": "04:07",
+          "sender": "Eurosport",
+          "slug": "luka-pavlovic-colton-smith"
+        }
+      ]
+    },
+    {
+      "title": "Masters | 1. Runde",
+      "subtitle": "M. Selby - Xiao G. | London",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:00",
+      "iso_time": "2026-01-12T07:00:59+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/79da1691-0a63-5308-a7f5-fc6f5c602cea?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "masters-1-runde",
+      "related_events": []
+    },
+    {
+      "title": "Camilla Rosatello - Justina Mikulskyte",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:01",
+      "iso_time": "2026-01-12T07:01:37+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/2752fad0-1767-567a-b85f-d6ccf82d5f3b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "camilla-rosatello-justina-mikulskyte",
+      "related_events": [
+        {
+          "title": "Rebeka Masarova - Alina Charaeva",
+          "time": "04:05",
+          "sender": "Eurosport",
+          "slug": "rebeka-masarova-alina-charaeva"
+        },
+        {
+          "title": "Stefani Webb - Linda Klimovicova",
+          "time": "04:06",
+          "sender": "Eurosport",
+          "slug": "stefani-webb-linda-klimovicova"
+        },
+        {
+          "title": "Luka Pavlovic - Colton Smith",
+          "time": "04:07",
+          "sender": "Eurosport",
+          "slug": "luka-pavlovic-colton-smith"
+        }
+      ]
+    },
+    {
+      "title": "Bernard Tomic - Hugo Dellien",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:23",
+      "iso_time": "2026-01-12T07:23:41+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/b92aca55-f4a2-5818-96a3-9367e5743563?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "bernard-tomic-hugo-dellien",
+      "related_events": [
+        {
+          "title": "Joao Lucas Reis Da Silva - Henrique Rocha",
+          "time": "04:23",
+          "sender": "Eurosport",
+          "slug": "joao-lucas-reis-da-silva-henrique-rocha"
+        },
+        {
+          "title": "Nikoloz Basilashvili - Gonzalo Bueno",
+          "time": "04:58",
+          "sender": "Eurosport",
+          "slug": "nikoloz-basilashvili-gonzalo-bueno"
+        },
+        {
+          "title": "Tristan Boyer - Alex Barrena",
+          "time": "05:01",
+          "sender": "Eurosport",
+          "slug": "tristan-boyer-alex-barrena"
+        }
+      ]
+    },
+    {
+      "title": "Tamara Zidansek - Jessika Ponchet",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:25",
+      "iso_time": "2026-01-12T07:25:51+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/85191c6d-e1a9-5441-8a8d-60a8643f792a?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tamara-zidansek-jessika-ponchet",
+      "related_events": [
+        {
+          "title": "Nikoloz Basilashvili - Gonzalo Bueno",
+          "time": "04:58",
+          "sender": "Eurosport",
+          "slug": "nikoloz-basilashvili-gonzalo-bueno"
+        },
+        {
+          "title": "Tristan Boyer - Alex Barrena",
+          "time": "05:01",
+          "sender": "Eurosport",
+          "slug": "tristan-boyer-alex-barrena"
+        },
+        {
+          "title": "Taylor Townsend - Nao Hibino",
+          "time": "05:09",
+          "sender": "Eurosport",
+          "slug": "taylor-townsend-nao-hibino"
+        }
+      ]
+    },
+    {
+      "title": "Sinja Kraus - Lina Gjorcheska",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:32",
+      "iso_time": "2026-01-12T07:32:10+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/f4dc0e5a-42dc-5e2d-ad69-ba0a59c37f4e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "sinja-kraus-lina-gjorcheska",
+      "related_events": [
+        {
+          "title": "Nikoloz Basilashvili - Gonzalo Bueno",
+          "time": "04:58",
+          "sender": "Eurosport",
+          "slug": "nikoloz-basilashvili-gonzalo-bueno"
+        },
+        {
+          "title": "Tristan Boyer - Alex Barrena",
+          "time": "05:01",
+          "sender": "Eurosport",
+          "slug": "tristan-boyer-alex-barrena"
+        },
+        {
+          "title": "Taylor Townsend - Nao Hibino",
+          "time": "05:09",
+          "sender": "Eurosport",
+          "slug": "taylor-townsend-nao-hibino"
+        }
+      ]
+    },
+    {
+      "title": "Oliver Crawford - Daniel Merida",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:34",
+      "iso_time": "2026-01-12T07:34:52+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/8332e780-c368-54f2-a388-7db961d3c053?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "oliver-crawford-daniel-merida",
+      "related_events": [
+        {
+          "title": "Nikoloz Basilashvili - Gonzalo Bueno",
+          "time": "04:58",
+          "sender": "Eurosport",
+          "slug": "nikoloz-basilashvili-gonzalo-bueno"
+        },
+        {
+          "title": "Tristan Boyer - Alex Barrena",
+          "time": "05:01",
+          "sender": "Eurosport",
+          "slug": "tristan-boyer-alex-barrena"
+        },
+        {
+          "title": "Taylor Townsend - Nao Hibino",
+          "time": "05:09",
+          "sender": "Eurosport",
+          "slug": "taylor-townsend-nao-hibino"
+        }
+      ]
+    },
+    {
+      "title": "Zsombor Piros - Lukas Klein",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:46",
+      "iso_time": "2026-01-12T07:46:30+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/7619e67e-4309-5e42-9d9b-2d8f45607f41?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "zsombor-piros-lukas-klein",
+      "related_events": [
+        {
+          "title": "Nikoloz Basilashvili - Gonzalo Bueno",
+          "time": "04:58",
+          "sender": "Eurosport",
+          "slug": "nikoloz-basilashvili-gonzalo-bueno"
+        },
+        {
+          "title": "Tristan Boyer - Alex Barrena",
+          "time": "05:01",
+          "sender": "Eurosport",
+          "slug": "tristan-boyer-alex-barrena"
+        },
+        {
+          "title": "Taylor Townsend - Nao Hibino",
+          "time": "05:09",
+          "sender": "Eurosport",
+          "slug": "taylor-townsend-nao-hibino"
+        }
+      ]
+    },
+    {
+      "title": "Fiona Ferro - Yeonwoo Ku",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:07",
+      "iso_time": "2026-01-12T08:07:09+01:00",
+      "link": "",
+      "slug": "fiona-ferro-yeonwoo-ku",
+      "related_events": [
+        {
+          "title": "Taylor Townsend - Nao Hibino",
+          "time": "05:09",
+          "sender": "Eurosport",
+          "slug": "taylor-townsend-nao-hibino"
+        },
+        {
+          "title": "Rei Sakamoto - Daniel Evans",
+          "time": "05:23",
+          "sender": "Eurosport",
+          "slug": "rei-sakamoto-daniel-evans"
+        },
+        {
+          "title": "Mark Lajal - Francesco Passaro",
+          "time": "05:25",
+          "sender": "Eurosport",
+          "slug": "mark-lajal-francesco-passaro"
+        }
+      ]
+    },
+    {
+      "title": "Anastasia Gasanova - Kaitlin Quevedo",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:23",
+      "iso_time": "2026-01-12T08:23:41+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/b66fb223-2111-502c-8d46-c95a4b4d3b87?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "anastasia-gasanova-kaitlin-quevedo",
+      "related_events": [
+        {
+          "title": "Rei Sakamoto - Daniel Evans",
+          "time": "05:23",
+          "sender": "Eurosport",
+          "slug": "rei-sakamoto-daniel-evans"
+        },
+        {
+          "title": "Mark Lajal - Francesco Passaro",
+          "time": "05:25",
+          "sender": "Eurosport",
+          "slug": "mark-lajal-francesco-passaro"
+        },
+        {
+          "title": "Luca Van Assche - Moez Echargui",
+          "time": "05:32",
+          "sender": "Eurosport",
+          "slug": "luca-van-assche-moez-echargui"
+        }
+      ]
+    },
+    {
+      "title": "Zauchensee | Abfahrt",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:28",
+      "iso_time": "2026-01-12T08:28:30+01:00",
+      "link": "",
+      "slug": "zauchensee-abfahrt",
+      "related_events": [
+        {
+          "title": "Adelboden | Slalom | 1. Lauf",
+          "time": "05:57",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-1-lauf"
+        },
+        {
+          "title": "Adelboden | Slalom | 2. Lauf",
+          "time": "06:29",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-2-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Masters | 1. Runde",
+      "subtitle": "M. Selby - Xiao G. | London",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:35",
+      "iso_time": "2026-01-12T08:35:05+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/bc0c648f-4e66-5834-a9af-89dd6633e82d?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "masters-1-runde",
+      "related_events": []
+    },
+    {
+      "title": "Alice Ramé - Jazmin Ortenzi",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:58",
+      "iso_time": "2026-01-12T08:58:17+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/64fa806e-82c9-53cd-85db-9b57dcc1cb58?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "alice-rame-jazmin-ortenzi",
+      "related_events": [
+        {
+          "title": "Nuria Parrizas Diaz - Marina Stakusic",
+          "time": "06:05",
+          "sender": "Eurosport",
+          "slug": "nuria-parrizas-diaz-marina-stakusic"
+        },
+        {
+          "title": "Kathinka Von Deichmann - Renee Alame",
+          "time": "06:06",
+          "sender": "Eurosport",
+          "slug": "kathinka-von-deichmann-renee-alame"
+        },
+        {
+          "title": "Daniil Glinka - Clément Tabur",
+          "time": "06:07",
+          "sender": "Eurosport",
+          "slug": "daniil-glinka-clement-tabur"
+        }
+      ]
+    },
+    {
+      "title": "Anna-Lena Friedsam - Linda Fruhvirtova",
+      "subtitle": "Australian Open | Qualifikation | Tag 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:23",
+      "iso_time": "2026-01-12T09:23:41+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/0f72d9c9-b2d0-5501-8451-eb1096fedbe5?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "anna-lena-friedsam-linda-fruhvirtova",
+      "related_events": [
+        {
+          "title": "Tereza Mrdeza - Teodora Kostovic",
+          "time": "06:23",
+          "sender": "Eurosport",
+          "slug": "tereza-mrdeza-teodora-kostovic"
+        },
+        {
+          "title": "Aliaksandra Sasnovich - Ksenia Efremova",
+          "time": "06:58",
+          "sender": "Eurosport",
+          "slug": "aliaksandra-sasnovich-ksenia-efremova"
+        },
+        {
+          "title": "Camilla Rosatello - Justina Mikulskyte",
+          "time": "07:01",
+          "sender": "Eurosport",
+          "slug": "camilla-rosatello-justina-mikulskyte"
+        }
+      ]
+    },
+    {
+      "title": "Zakopane | Einzelspringen",
+      "subtitle": "Weltcup | Männer | HS 140",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:28",
+      "iso_time": "2026-01-12T09:28:44+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/b32adea4-cc54-5b69-87a7-10cec45ffe7f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "zakopane-einzelspringen",
+      "related_events": []
+    },
+    {
+      "title": "Zakopane | Einzelspringen",
+      "subtitle": "Weltcup | Männer | HS 140",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:30",
+      "iso_time": "2026-01-12T10:30:06+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/c196aace-018c-5d35-8b60-d77a59a2ca2e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "zakopane-einzelspringen",
+      "related_events": []
+    },
+    {
+      "title": "Masters | 1. Runde",
+      "subtitle": "M. Selby - Xiao G. | London",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:37",
+      "iso_time": "2026-01-12T10:37:58+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/190212a0-2dab-5963-b4f5-ba5a25d6b766?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "masters-1-runde",
+      "related_events": []
+    },
+    {
+      "title": "Adelboden | Slalom | 1. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:01",
+      "iso_time": "2026-01-12T12:01:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/1c0c98bd-5391-5ab1-9766-43c64ad8150d?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "adelboden-slalom-1-lauf",
+      "related_events": [
+        {
+          "title": "Adelboden | Slalom | 2. Lauf",
+          "time": "12:32",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-2-lauf"
+        },
+        {
+          "title": "Zauchensee | Abfahrt",
+          "time": "12:59",
+          "sender": "Eurosport",
+          "slug": "zauchensee-abfahrt"
+        }
+      ]
+    },
+    {
+      "title": "Masters | 1. Runde",
+      "subtitle": "M. Selby - Xiao G. | London",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:05",
+      "iso_time": "2026-01-12T12:05:03+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/0998a80f-aa04-5ac8-b3d6-86028c7d90d2?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "masters-1-runde",
+      "related_events": [
+        {
+          "title": "Mark Williams - Mark Allen",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "mark-williams-mark-allen"
+        }
+      ]
+    },
+    {
+      "title": "Adelboden | Slalom | 2. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:32",
+      "iso_time": "2026-01-12T12:32:47+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/4adad0c7-2d00-5223-b138-dceb32db2eb0?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "adelboden-slalom-2-lauf",
+      "related_events": [
+        {
+          "title": "Adelboden | Slalom | 1. Lauf",
+          "time": "12:01",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-1-lauf"
+        },
+        {
+          "title": "Zauchensee | Abfahrt",
+          "time": "12:59",
+          "sender": "Eurosport",
+          "slug": "zauchensee-abfahrt"
+        },
+        {
+          "title": "Adelboden | Slalom | 1. Lauf",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-1-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Zauchensee | Abfahrt",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:59",
+      "iso_time": "2026-01-12T12:59:21+01:00",
+      "link": "",
+      "slug": "zauchensee-abfahrt",
+      "related_events": [
+        {
+          "title": "Adelboden | Slalom | 1. Lauf",
+          "time": "12:01",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-1-lauf"
+        },
+        {
+          "title": "Adelboden | Slalom | 2. Lauf",
+          "time": "12:32",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-2-lauf"
+        },
+        {
+          "title": "Adelboden | Slalom | 1. Lauf",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-1-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Ambition Tennis Grand Slam 2025",
+      "subtitle": "Tennis-Dokumentation",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:58",
+      "iso_time": "2026-01-12T13:58:42+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/fad34f24-4f62-5d5e-b435-7ec300c20665?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "ambition-tennis-grand-slam-2025",
+      "related_events": []
+    },
+    {
+      "title": "Mark Williams - Mark Allen",
+      "subtitle": "Masters | 1. Runde | London",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:00",
+      "iso_time": "2026-01-12T14:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/834e8d46-55f6-5938-8790-0b12803987d4?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "mark-williams-mark-allen",
+      "related_events": [
+        {
+          "title": "Masters | 1. Runde",
+          "time": "12:05",
+          "sender": "Eurosport",
+          "slug": "masters-1-runde"
+        },
+        {
+          "title": "Masters | 1. Runde",
+          "time": "14:01",
+          "sender": "Eurosport",
+          "slug": "masters-1-runde"
+        }
+      ]
+    },
+    {
+      "title": "Masters | 1. Runde",
+      "subtitle": "M. Williams - M. Allen | London",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:01",
+      "iso_time": "2026-01-12T14:01:20+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/09fa418c-f4de-5ba2-927f-b55427610a97?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "masters-1-runde",
+      "related_events": [
+        {
+          "title": "Mark Williams - Mark Allen",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "mark-williams-mark-allen"
+        }
+      ]
+    },
+    {
+      "title": "Adelboden | Slalom | 1. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:00",
+      "iso_time": "2026-01-12T15:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/59705351-088b-55f7-ab84-1f0db38aa306?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "adelboden-slalom-1-lauf",
+      "related_events": [
+        {
+          "title": "Adelboden | Slalom | 2. Lauf",
+          "time": "12:32",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-2-lauf"
+        },
+        {
+          "title": "Zauchensee | Abfahrt",
+          "time": "12:59",
+          "sender": "Eurosport",
+          "slug": "zauchensee-abfahrt"
+        },
+        {
+          "title": "Adelboden | Slalom | 2. Lauf",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-2-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Adelboden | Slalom | 2. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:30",
+      "iso_time": "2026-01-12T15:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/ecc74575-a8b6-5272-800a-5ff7ce1bd47f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "adelboden-slalom-2-lauf",
+      "related_events": [
+        {
+          "title": "Zauchensee | Abfahrt",
+          "time": "12:59",
+          "sender": "Eurosport",
+          "slug": "zauchensee-abfahrt"
+        },
+        {
+          "title": "Adelboden | Slalom | 1. Lauf",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-1-lauf"
+        },
+        {
+          "title": "Zauchensee | Abfahrt",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "zauchensee-abfahrt"
+        }
+      ]
+    },
+    {
+      "title": "Zauchensee | Abfahrt",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2026-01-12T16:00:00+01:00",
+      "link": "",
+      "slug": "zauchensee-abfahrt",
+      "related_events": [
+        {
+          "title": "Adelboden | Slalom | 1. Lauf",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-1-lauf"
+        },
+        {
+          "title": "Adelboden | Slalom | 2. Lauf",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-2-lauf"
+        },
+        {
+          "title": "Adelboden | Slalom | 1. Lauf",
+          "time": "17:30",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-1-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Oberhof | Frauen-Staffel",
+      "subtitle": "Weltcup | 4x6km",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2026-01-12T17:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/ca188747-eb6f-57d1-bc69-1cca6fde55a4?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "oberhof-frauen-staffel",
+      "related_events": [
+        {
+          "title": "Oberhof | Männer-Staffel",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "oberhof-manner-staffel"
+        },
+        {
+          "title": "Oberhof | Verfolgung",
+          "time": "19:00",
+          "sender": "Eurosport",
+          "slug": "oberhof-verfolgung"
+        },
+        {
+          "title": "Oberhof | 10km Verfolgung",
+          "time": "19:30",
+          "sender": "Eurosport",
+          "slug": "oberhof-10km-verfolgung"
+        }
+      ]
+    },
+    {
+      "title": "Adelboden | Slalom | 1. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:30",
+      "iso_time": "2026-01-12T17:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/887c5b90-3863-5ed6-b554-fee8498d5213?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "adelboden-slalom-1-lauf",
+      "related_events": [
+        {
+          "title": "Adelboden | Slalom | 2. Lauf",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-2-lauf"
+        },
+        {
+          "title": "Zauchensee | Abfahrt",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "zauchensee-abfahrt"
+        },
+        {
+          "title": "Adelboden | Slalom | 2. Lauf",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-2-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Oberhof | Männer-Staffel",
+      "subtitle": "Weltcup | 4x7,5km",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2026-01-12T18:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/89e5f3a5-cde2-5352-ba26-7d28a3a7f7dc?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "oberhof-manner-staffel",
+      "related_events": [
+        {
+          "title": "Oberhof | Frauen-Staffel",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "oberhof-frauen-staffel"
+        },
+        {
+          "title": "Oberhof | Verfolgung",
+          "time": "19:00",
+          "sender": "Eurosport",
+          "slug": "oberhof-verfolgung"
+        },
+        {
+          "title": "Oberhof | 10km Verfolgung",
+          "time": "19:30",
+          "sender": "Eurosport",
+          "slug": "oberhof-10km-verfolgung"
+        }
+      ]
+    },
+    {
+      "title": "Adelboden | Slalom | 2. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2026-01-12T18:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/bf16106d-18ae-5a72-a969-e613f2333fda?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "adelboden-slalom-2-lauf",
+      "related_events": [
+        {
+          "title": "Adelboden | Slalom | 1. Lauf",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-1-lauf"
+        },
+        {
+          "title": "Zauchensee | Abfahrt",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "zauchensee-abfahrt"
+        },
+        {
+          "title": "Adelboden | Slalom | 1. Lauf",
+          "time": "17:30",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-1-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Zakopane | Einzelspringen",
+      "subtitle": "Weltcup | Männer | HS 140",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2026-01-12T18:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/cf28ecd6-b0d4-547f-9b96-23ed998bb4e8?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "zakopane-einzelspringen",
+      "related_events": []
+    },
+    {
+      "title": "Oberhof | Verfolgung",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2026-01-12T19:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/32085302-9e40-523b-8967-c1ec69d2f647?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "oberhof-verfolgung",
+      "related_events": [
+        {
+          "title": "Oberhof | Frauen-Staffel",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "oberhof-frauen-staffel"
+        },
+        {
+          "title": "Oberhof | Männer-Staffel",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "oberhof-manner-staffel"
+        },
+        {
+          "title": "Oberhof | 10km Verfolgung",
+          "time": "19:30",
+          "sender": "Eurosport",
+          "slug": "oberhof-10km-verfolgung"
+        }
+      ]
+    },
+    {
+      "title": "Oberhof | 10km Verfolgung",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:30",
+      "iso_time": "2026-01-12T19:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/35a026a8-efaa-553c-9541-06c251f8e74e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "oberhof-10km-verfolgung",
+      "related_events": [
+        {
+          "title": "Oberhof | Frauen-Staffel",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "oberhof-frauen-staffel"
+        },
+        {
+          "title": "Oberhof | Männer-Staffel",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "oberhof-manner-staffel"
+        },
+        {
+          "title": "Oberhof | Verfolgung",
+          "time": "19:00",
+          "sender": "Eurosport",
+          "slug": "oberhof-verfolgung"
+        }
+      ]
+    },
+    {
+      "title": "Lake Placid | Aerials",
+      "subtitle": "Weltcup | Frauen / Männer | Englischer Kommentar",
+      "sport": "Ski Freestyle",
+      "sport_slug": "ski-freestyle",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:50",
+      "iso_time": "2026-01-12T19:50:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/ae08f9ec-c381-510e-9c89-deb14de42e2d?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lake-placid-aerials",
+      "related_events": []
+    },
+    {
+      "title": "Masters | 1. Runde",
+      "subtitle": "Zhao X. - G. Wilson | London",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-01-12T20:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/5e32bdd4-54ab-591b-95ae-12d317deb5f1?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "masters-1-runde",
+      "related_events": [
+        {
+          "title": "Zhao Xintong - Gary Wilson",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "zhao-xintong-gary-wilson"
+        }
+      ]
+    },
+    {
+      "title": "Zhao Xintong - Gary Wilson",
+      "subtitle": "Masters | 1. Runde | London",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-01-12T20:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/8cc090e6-d806-5858-8db7-d6aed88fc37f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "zhao-xintong-gary-wilson",
+      "related_events": [
+        {
+          "title": "Masters | 1. Runde",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "masters-1-runde"
+        }
+      ]
+    },
+    {
+      "title": "Zakopane | Einzelspringen",
+      "subtitle": "Weltcup | Männer | HS 140",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-01-12T20:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/647e38d1-e6ac-5397-be1a-e0a6fa4d679d?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "zakopane-einzelspringen",
+      "related_events": [
+        {
+          "title": "Zakopane | Super-Team",
+          "time": "23:00",
+          "sender": "Eurosport",
+          "slug": "zakopane-super-team"
+        }
+      ]
+    },
+    {
+      "title": "Adelboden | Slalom | 1. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2026-01-12T21:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/dc44e53f-1b35-5a5f-8956-fa427cd8baec?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "adelboden-slalom-1-lauf",
+      "related_events": [
+        {
+          "title": "Adelboden | Slalom | 2. Lauf",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-2-lauf"
+        },
+        {
+          "title": "Adelboden | Slalom | 2. Lauf",
+          "time": "21:30",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-2-lauf"
+        },
+        {
+          "title": "Zauchensee | Abfahrt",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "zauchensee-abfahrt"
+        }
+      ]
+    },
+    {
+      "title": "Adelboden | Slalom | 2. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:30",
+      "iso_time": "2026-01-12T21:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/0625908e-cffe-58f5-a617-7b1e5c6a27d7?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "adelboden-slalom-2-lauf",
+      "related_events": [
+        {
+          "title": "Adelboden | Slalom | 1. Lauf",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-1-lauf"
+        },
+        {
+          "title": "Zauchensee | Abfahrt",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "zauchensee-abfahrt"
+        },
+        {
+          "title": "Zauchensee | Abfahrt",
+          "time": "00:30",
+          "sender": "Eurosport",
+          "slug": "zauchensee-abfahrt"
+        }
+      ]
+    },
+    {
+      "title": "Zauchensee | Abfahrt",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-01-12T22:00:00+01:00",
+      "link": "",
+      "slug": "zauchensee-abfahrt",
+      "related_events": [
+        {
+          "title": "Adelboden | Slalom | 1. Lauf",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-1-lauf"
+        },
+        {
+          "title": "Adelboden | Slalom | 2. Lauf",
+          "time": "21:30",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-2-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Zakopane | Super-Team",
+      "subtitle": "Weltcup | Männer | HS 140",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2026-01-12T23:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/5d6cc458-e19d-5563-b175-a10a10b3353e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "zakopane-super-team",
+      "related_events": [
+        {
+          "title": "Zakopane | Einzelspringen",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "zakopane-einzelspringen"
+        },
+        {
+          "title": "Zakopane | Einzelspringen",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "zakopane-einzelspringen"
+        }
+      ]
+    },
+    {
+      "title": "Rallye Dakar | 8. Etappe | Highlights",
+      "subtitle": "Saudi-Arabien | FIA World Rally-Raid Championship",
+      "sport": "Cross Country Rallye",
+      "sport_slug": "cross-country-rallye",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:30",
+      "iso_time": "2026-01-12T23:30:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/2a0f66db-b5c5-5a3f-b581-cf1835a59069?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "rallye-dakar-8-etappe-highlights",
+      "related_events": []
+    },
+    {
+      "title": "Australian Open |",
+      "subtitle": "Australian Open | Qualifikation | Tag 2",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-01-13T00:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/f46c0635-a8b4-5d2d-b6d7-854c68dea9dc?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "australian-open",
+      "related_events": []
+    },
+    {
+      "title": "Australian Open |",
+      "subtitle": "Australian Open | Qualifikation | Tag 2",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-01-13T00:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/eb0c6716-368f-59ad-baa9-7b0592ea322b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "australian-open",
+      "related_events": []
+    },
+    {
+      "title": "Australian Open |",
+      "subtitle": "Australian Open | Qualifikation | Tag 2",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-01-13T00:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/ceade62d-222d-513f-bf31-ae55d32df17a?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "australian-open",
+      "related_events": []
+    },
+    {
+      "title": "Australian Open |",
+      "subtitle": "Australian Open | Qualifikation | Tag 2",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-01-13T00:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/cd40a062-d0b7-5c34-bf68-d34dc9e30533?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "australian-open",
+      "related_events": []
+    },
+    {
+      "title": "Australian Open |",
+      "subtitle": "Australian Open | Qualifikation | Tag 2",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-01-13T00:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/b77ce571-d571-5b8c-b5d4-91742cec4cdf?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "australian-open",
+      "related_events": []
+    },
+    {
+      "title": "Australian Open |",
+      "subtitle": "Australian Open | Qualifikation | Tag 2",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-01-13T00:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/b5e980d6-be62-5117-979e-d91e1d1e86b8?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "australian-open",
+      "related_events": []
+    },
+    {
+      "title": "Australian Open |",
+      "subtitle": "Australian Open | Qualifikation | Tag 2",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-01-13T00:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/b4cd337e-554a-5151-8a29-b9ba4e643575?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "australian-open",
+      "related_events": []
+    },
+    {
+      "title": "Australian Open |",
+      "subtitle": "Australian Open | Qualifikation | Tag 2",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-01-13T00:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/9cfc2127-d205-541b-be5c-1b396f89a3b3?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "australian-open",
+      "related_events": []
+    },
+    {
+      "title": "Australian Open |",
+      "subtitle": "Australian Open | Qualifikation | Tag 2",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-01-13T00:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/852fdbbf-75db-52c2-be80-d22c4ce55d0c?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "australian-open",
+      "related_events": []
+    },
+    {
+      "title": "Australian Open |",
+      "subtitle": "Australian Open | Qualifikation | Tag 2",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-01-13T00:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/733ec105-a0d6-5afd-ae51-a13791673cd2?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "australian-open",
+      "related_events": []
+    },
+    {
+      "title": "Australian Open |",
+      "subtitle": "Australian Open | Qualifikation | Tag 2",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-01-13T00:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/39ea53e2-c85b-55b8-8817-4c7b6c9f6a0b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "australian-open",
+      "related_events": []
+    },
+    {
+      "title": "Australian Open |",
+      "subtitle": "Australian Open | Qualifikation | Tag 2",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-01-13T00:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/34d9f58b-aa10-591d-9fd9-7e7e8288f4a9?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "australian-open",
+      "related_events": []
+    },
+    {
+      "title": "Australian Open |",
+      "subtitle": "Australian Open | Qualifikation | Tag 2",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-01-13T00:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/25deb1e0-c676-5e27-90f0-0c22ac9a95ac?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "australian-open",
+      "related_events": []
+    },
+    {
+      "title": "Australian Open |",
+      "subtitle": "Australian Open | Qualifikation | Tag 2",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-01-13T00:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/0ad4ea9c-fe6f-550b-ba36-1c031421446e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "australian-open",
+      "related_events": []
+    },
+    {
+      "title": "Zakopane | Einzelspringen",
+      "subtitle": "Weltcup | Männer | HS 140",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-01-13T00:00:00+01:00",
+      "link": "https://play.discoveryplus.com/video/watch/741d430e-ceb6-5420-8179-1fde44d415f7?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "zakopane-einzelspringen",
+      "related_events": [
+        {
+          "title": "Zakopane | Super-Team",
+          "time": "23:00",
+          "sender": "Eurosport",
+          "slug": "zakopane-super-team"
+        }
+      ]
+    },
+    {
+      "title": "Zauchensee | Abfahrt",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:30",
+      "iso_time": "2026-01-13T00:30:00+01:00",
+      "link": "",
+      "slug": "zauchensee-abfahrt",
+      "related_events": [
+        {
+          "title": "Adelboden | Slalom | 2. Lauf",
+          "time": "21:30",
+          "sender": "Eurosport",
+          "slug": "adelboden-slalom-2-lauf"
+        }
+      ]
+    }
+  ]
+}
