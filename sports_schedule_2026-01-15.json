@@ -1,0 +1,2835 @@
+{
+  "date": "2026-01-15",
+  "events": [
+    {
+      "title": "FC Augsburg vs 1. FC Union Berlin",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma11200217/fc-augsburg_1-fc-union-berlin/info",
+      "slug": "fc-augsburg-vs-1-fc-union-berlin",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Spanien vs Serbien",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-em/ma11092379/spanien_serbien/info",
+      "slug": "spanien-vs-serbien",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Frankreich vs Tschechien",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "frankreich-vs-tschechien"
+        }
+      ]
+    },
+    {
+      "title": "Deutschland vs Österreich",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-em/ma11092376/deutschland_oesterreich/info",
+      "slug": "deutschland-vs-osterreich",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Norwegen vs Ukraine",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "norwegen-vs-ukraine"
+        }
+      ]
+    },
+    {
+      "title": "Frankreich vs Tschechien",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-em/ma11092412/frankreich_tschechien/info",
+      "slug": "frankreich-vs-tschechien",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Spanien vs Serbien",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "spanien-vs-serbien"
+        }
+      ]
+    },
+    {
+      "title": "Norwegen vs Ukraine",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-em/ma11092415/norwegen_ukraine/info",
+      "slug": "norwegen-vs-ukraine",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Deutschland vs Österreich",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "deutschland-vs-osterreich"
+        }
+      ]
+    },
+    {
+      "title": " vs ",
+      "time": "14:30",
+      "iso_time": "",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/biathlon/co4247/ruhpolding/ma11437016/ergebnisse",
+      "slug": "vs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Dubai Basketball vs Virtus Bologna",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493296/dubai-basketball_virtus-bologna/info",
+      "slug": "dubai-basketball-vs-virtus-bologna",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Anadolu Efes vs Saski Baskonia",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493299/anadolu-efes_saski-baskonia/info",
+      "slug": "anadolu-efes-vs-saski-baskonia",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "FC Bayern München vs Panathinaikos",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493302/fc-bayern-muenchen_panathinaikos/info",
+      "slug": "fc-bayern-munchen-vs-panathinaikos",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Maccabi Tel Aviv vs Žalgiris Kaunas",
+      "time": "20:05",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493305/maccabi-tel-aviv_zalgiris-kaunas/info",
+      "slug": "maccabi-tel-aviv-vs-zalgiris-kaunas",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Olimpia Milano vs KK Crvena Zvezda",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493308/olimpia-milano_kk-crvena-zvezda/info",
+      "slug": "olimpia-milano-vs-kk-crvena-zvezda",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Paris Basketball vs AS Monaco",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493311/paris-basketball_as-monaco/info",
+      "slug": "paris-basketball-vs-as-monaco",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Schwenninger Wild Wings vs Eisbären Berlin",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma11212406/schwenninger-wild-wings_eisbaeren-berlin/info",
+      "slug": "schwenninger-wild-wings-vs-eisbaren-berlin",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Hellas Verona vs Bologna FC",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/italien-serie-a/ma11129052/hellas-verona_bologna-fc/info",
+      "slug": "hellas-verona-vs-bologna-fc",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Como 1907 vs AC Mailand",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/italien-serie-a/ma11129049/como-1907_ac-mailand/info",
+      "slug": "como-1907-vs-ac-mailand",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Burgos CF vs Valencia CF",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-copa-del-rey/ma11842843/burgos-cf_valencia-cf/info",
+      "slug": "burgos-cf-vs-valencia-cf",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Racing Santander vs FC Barcelona",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "racing-santander-vs-fc-barcelona"
+        }
+      ]
+    },
+    {
+      "title": "Racing Santander vs FC Barcelona",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-copa-del-rey/ma11842855/racing-santander_fc-barcelona/info",
+      "slug": "racing-santander-vs-fc-barcelona",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Burgos CF vs Valencia CF",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "burgos-cf-vs-valencia-cf"
+        }
+      ]
+    },
+    {
+      "title": "Eczacıbaşı vs Olympiakos",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Volleyball",
+      "sport_slug": "volleyball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/volleyball/volleyball-champions-league-frauen/ma11713654/eczacibasi_olympiakos/info",
+      "slug": "eczacibasi-vs-olympiakos",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Imoco Volley Conegliano vs Dresdner SC",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Volleyball",
+      "sport_slug": "volleyball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/volleyball/volleyball-champions-league-frauen/ma11438954/imoco-volley-conegliano_dresdner-sc/info",
+      "slug": "imoco-volley-conegliano-vs-dresdner-sc",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "SSC Palmberg Schwerin vs Maritza Plovdiv",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Volleyball",
+      "sport_slug": "volleyball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/volleyball/volleyball-champions-league-frauen/ma11713657/ssc-palmberg-schwerin_maritza-plovdiv/info",
+      "slug": "ssc-palmberg-schwerin-vs-maritza-plovdiv",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Indiana Pacers vs Toronto Raptors",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11549828/indiana-pacers_toronto-raptors/info",
+      "slug": "indiana-pacers-vs-toronto-raptors",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Philadelphia 76ers vs Cleveland Cavaliers",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "philadelphia-76ers-vs-cleveland-cavaliers"
+        }
+      ]
+    },
+    {
+      "title": "Philadelphia 76ers vs Cleveland Cavaliers",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11549831/philadelphia-76ers_cleveland-cavaliers/info",
+      "slug": "philadelphia-76ers-vs-cleveland-cavaliers",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Indiana Pacers vs Toronto Raptors",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "indiana-pacers-vs-toronto-raptors"
+        }
+      ]
+    },
+    {
+      "title": "Chicago Bulls vs Utah Jazz",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11549834/chicago-bulls_utah-jazz/info",
+      "slug": "chicago-bulls-vs-utah-jazz",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "New Orleans Pelicans vs Brooklyn Nets",
+          "time": "02:00",
+          "sender": "Sportschau Live",
+          "slug": "new-orleans-pelicans-vs-brooklyn-nets"
+        }
+      ]
+    },
+    {
+      "title": "New Orleans Pelicans vs Brooklyn Nets",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11549837/new-orleans-pelicans_brooklyn-nets/info",
+      "slug": "new-orleans-pelicans-vs-brooklyn-nets",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Chicago Bulls vs Utah Jazz",
+          "time": "02:00",
+          "sender": "Sportschau Live",
+          "slug": "chicago-bulls-vs-utah-jazz"
+        }
+      ]
+    },
+    {
+      "title": "Dallas Mavericks vs Denver Nuggets",
+      "time": "03:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11549840/dallas-mavericks_denver-nuggets/info",
+      "slug": "dallas-mavericks-vs-denver-nuggets",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Sacramento Kings vs New York Knicks",
+      "time": "04:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11549843/sacramento-kings_new-york-knicks/info",
+      "slug": "sacramento-kings-vs-new-york-knicks",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Los Angeles Clippers vs Washington Wizards",
+      "time": "04:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11549846/los-angeles-clippers_washington-wizards/info",
+      "slug": "los-angeles-clippers-vs-washington-wizards",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Orlando Magic vs Memphis Grizzlies",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11549849/orlando-magic_memphis-grizzlies/info",
+      "slug": "orlando-magic-vs-memphis-grizzlies",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "New Jersey Devils vs Seattle Kraken",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11414492/new-jersey-devils_seattle-kraken/info",
+      "slug": "new-jersey-devils-vs-seattle-kraken",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Buffalo Sabres vs Philadelphia Flyers",
+      "time": "01:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11414495/buffalo-sabres_philadelphia-flyers/info",
+      "slug": "buffalo-sabres-vs-philadelphia-flyers",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "New York Rangers vs Ottawa Senators",
+          "time": "01:30",
+          "sender": "Sportschau Live",
+          "slug": "new-york-rangers-vs-ottawa-senators"
+        }
+      ]
+    },
+    {
+      "title": "New York Rangers vs Ottawa Senators",
+      "time": "01:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11414498/new-york-rangers_ottawa-senators/info",
+      "slug": "new-york-rangers-vs-ottawa-senators",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Buffalo Sabres vs Philadelphia Flyers",
+          "time": "01:30",
+          "sender": "Sportschau Live",
+          "slug": "buffalo-sabres-vs-philadelphia-flyers"
+        }
+      ]
+    },
+    {
+      "title": "Los Angeles Kings vs Vegas Golden Knights",
+      "time": "04:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11414501/los-angeles-kings_vegas-golden-knights/info",
+      "slug": "los-angeles-kings-vs-vegas-golden-knights",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Kimberly Birrell vs Jaqueline Cristian",
+      "time": "01:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co5608/adelaide-international-1/ma11768359/kimberly-birrell_jaqueline-cristian/info",
+      "slug": "kimberly-birrell-vs-jaqueline-cristian",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Victoria Mboko vs Madison Keys",
+      "time": "04:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co5608/adelaide-international-1/ma11768362/victoria-mboko_madison-keys/info",
+      "slug": "victoria-mboko-vs-madison-keys",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Emma Raducanu vs Taylah Preston",
+          "time": "04:10",
+          "sender": "Sportschau Live",
+          "slug": "emma-raducanu-vs-taylah-preston"
+        },
+        {
+          "title": "Ben Shelton vs Sebastian Baez",
+          "time": "04:10",
+          "sender": "Sportschau Live",
+          "slug": "ben-shelton-vs-sebastian-baez"
+        }
+      ]
+    },
+    {
+      "title": "Diana Shnaider vs Emma Navarro",
+      "time": "05:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co5608/adelaide-international-1/ma11768356/diana-shnaider_emma-navarro/info",
+      "slug": "diana-shnaider-vs-emma-navarro",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Aleksandar Vukic vs Tommy Paul",
+          "time": "05:30",
+          "sender": "Sportschau Live",
+          "slug": "aleksandar-vukic-vs-tommy-paul"
+        }
+      ]
+    },
+    {
+      "title": "Mirra Andreeva vs Maya Joint",
+      "time": "09:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co5608/adelaide-international-1/ma11768353/mirra-andreeva_maya-joint/info",
+      "slug": "mirra-andreeva-vs-maya-joint",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Carlos Alcaraz - Alex De Minaur",
+          "time": "09:00",
+          "sender": "Eurosport",
+          "slug": "carlos-alcaraz-alex-de-minaur"
+        }
+      ]
+    },
+    {
+      "title": "Emma Raducanu vs Magdalena Frech",
+      "time": "",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-australien-moorilla-hobart-international/ma11768611/emma-raducanu_magdalena-frech/info",
+      "slug": "emma-raducanu-vs-magdalena-frech",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Anna Bondar vs Elisabetta Cocciaretto",
+      "time": "03:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-australien-moorilla-hobart-international/ma11768641/anna-bondar_elisabetta-cocciaretto/info",
+      "slug": "anna-bondar-vs-elisabetta-cocciaretto",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Emma Raducanu vs Taylah Preston",
+      "time": "04:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-australien-moorilla-hobart-international/ma11768635/emma-raducanu_taylah-preston/info",
+      "slug": "emma-raducanu-vs-taylah-preston",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Victoria Mboko vs Madison Keys",
+          "time": "04:10",
+          "sender": "Sportschau Live",
+          "slug": "victoria-mboko-vs-madison-keys"
+        },
+        {
+          "title": "Ben Shelton vs Sebastian Baez",
+          "time": "04:10",
+          "sender": "Sportschau Live",
+          "slug": "ben-shelton-vs-sebastian-baez"
+        }
+      ]
+    },
+    {
+      "title": "Antonia Ruzic vs Olga Danilović",
+      "time": "06:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-australien-moorilla-hobart-international/ma11768644/antonia-ruzic_olga-danilovic/info",
+      "slug": "antonia-ruzic-vs-olga-danilovic",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Iva Jovic vs Magda Linette",
+      "time": "08:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-australien-moorilla-hobart-international/ma11768638/iva-jovic_magda-linette/info",
+      "slug": "iva-jovic-vs-magda-linette",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Tomas Machac vs Jaume Munar",
+      "time": "03:05",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co5606/adelaide-international-1/ma11747824/tomas-machac_jaume-munar/info",
+      "slug": "tomas-machac-vs-jaume-munar",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Aleksandar Vukic vs Tommy Paul",
+      "time": "05:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co5606/adelaide-international-1/ma11747827/aleksandar-vukic_tommy-paul/info",
+      "slug": "aleksandar-vukic-vs-tommy-paul",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Diana Shnaider vs Emma Navarro",
+          "time": "05:30",
+          "sender": "Sportschau Live",
+          "slug": "diana-shnaider-vs-emma-navarro"
+        }
+      ]
+    },
+    {
+      "title": "Ugo Humbert vs Alexander Shevchenko",
+      "time": "07:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co5606/adelaide-international-1/ma11747821/ugo-humbert_alexander-shevchenko/info",
+      "slug": "ugo-humbert-vs-alexander-shevchenko",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alejandro Davidovich Fokina vs Valentin Vacherot",
+      "time": "10:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co5606/adelaide-international-1/ma11747818/alejandro-davidovich-fokina_valentin-vacherot/info",
+      "slug": "alejandro-davidovich-fokina-vs-valentin-vacherot",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Luciano Darderi vs Marcos Giron",
+      "time": "00:15",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-neuseeland-asb-classic/ma11748484/luciano-darderi_marcos-giron/info",
+      "slug": "luciano-darderi-vs-marcos-giron",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Ben Shelton vs Sebastian Baez",
+      "time": "04:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-neuseeland-asb-classic/ma11748481/ben-shelton_sebastian-baez/info",
+      "slug": "ben-shelton-vs-sebastian-baez",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Victoria Mboko vs Madison Keys",
+          "time": "04:10",
+          "sender": "Sportschau Live",
+          "slug": "victoria-mboko-vs-madison-keys"
+        },
+        {
+          "title": "Emma Raducanu vs Taylah Preston",
+          "time": "04:10",
+          "sender": "Sportschau Live",
+          "slug": "emma-raducanu-vs-taylah-preston"
+        }
+      ]
+    },
+    {
+      "title": "Eliot Spizzirri vs Fabian Marozsan",
+      "time": "05:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-neuseeland-asb-classic/ma11748490/eliot-spizzirri_fabian-marozsan/info",
+      "slug": "eliot-spizzirri-vs-fabian-marozsan",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Giovanni Mpetshi Perricard vs Jakub Mensik",
+      "time": "06:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-neuseeland-asb-classic/ma11748487/giovanni-mpetshi-perricard_jakub-mensik/info",
+      "slug": "giovanni-mpetshi-perricard-vs-jakub-mensik",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Australian Open 2025 | Best Of",
+      "subtitle": "Grand Slam | Melbourne | Highlights",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:30",
+      "iso_time": "2026-01-15T00:30:00+01:00",
+      "link": "",
+      "slug": "australian-open-2025-best-of",
+      "related_events": [
+        {
+          "title": "Guiomar Maristany Zuleta de Reales - Elvina Kalieva",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "guiomar-maristany-zuleta-de-reales-elvina-kalieva"
+        },
+        {
+          "title": "George Loffhagen - Nishesh Basavareddy",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "george-loffhagen-nishesh-basavareddy"
+        },
+        {
+          "title": "Lucia Bronzetti - Sloane Stephens",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "lucia-bronzetti-sloane-stephens"
+        }
+      ]
+    },
+    {
+      "title": "Bad Gastein | Team-Parallelslalom",
+      "subtitle": "Weltcup | Frauen / Männer",
+      "sport": "Snowboard",
+      "sport_slug": "snowboard",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:43",
+      "iso_time": "2026-01-15T00:43:23+01:00",
+      "link": "",
+      "slug": "bad-gastein-team-parallelslalom",
+      "related_events": []
+    },
+    {
+      "title": "Guiomar Maristany Zuleta de Reales - Elvina Kalieva",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:00",
+      "iso_time": "2026-01-15T01:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/8265c07e-bc74-5378-9d2d-f702fa877042?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "guiomar-maristany-zuleta-de-reales-elvina-kalieva",
+      "related_events": [
+        {
+          "title": "Australian Open 2025 | Best Of",
+          "time": "00:30",
+          "sender": "Eurosport",
+          "slug": "australian-open-2025-best-of"
+        },
+        {
+          "title": "George Loffhagen - Nishesh Basavareddy",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "george-loffhagen-nishesh-basavareddy"
+        },
+        {
+          "title": "Lucia Bronzetti - Sloane Stephens",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "lucia-bronzetti-sloane-stephens"
+        }
+      ]
+    },
+    {
+      "title": "George Loffhagen - Nishesh Basavareddy",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:00",
+      "iso_time": "2026-01-15T01:00:01+01:00",
+      "link": "https://play.hbomax.com/video/watch/3fc84d5d-adf5-51be-a0f7-c30c206a5332?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "george-loffhagen-nishesh-basavareddy",
+      "related_events": [
+        {
+          "title": "Australian Open 2025 | Best Of",
+          "time": "00:30",
+          "sender": "Eurosport",
+          "slug": "australian-open-2025-best-of"
+        },
+        {
+          "title": "Guiomar Maristany Zuleta de Reales - Elvina Kalieva",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "guiomar-maristany-zuleta-de-reales-elvina-kalieva"
+        },
+        {
+          "title": "Lucia Bronzetti - Sloane Stephens",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "lucia-bronzetti-sloane-stephens"
+        }
+      ]
+    },
+    {
+      "title": "Lucia Bronzetti - Sloane Stephens",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:00",
+      "iso_time": "2026-01-15T01:00:03+01:00",
+      "link": "https://play.hbomax.com/video/watch/56535096-0ea6-5247-a751-82f76522ff8f?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lucia-bronzetti-sloane-stephens",
+      "related_events": [
+        {
+          "title": "Australian Open 2025 | Best Of",
+          "time": "00:30",
+          "sender": "Eurosport",
+          "slug": "australian-open-2025-best-of"
+        },
+        {
+          "title": "Guiomar Maristany Zuleta de Reales - Elvina Kalieva",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "guiomar-maristany-zuleta-de-reales-elvina-kalieva"
+        },
+        {
+          "title": "George Loffhagen - Nishesh Basavareddy",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "george-loffhagen-nishesh-basavareddy"
+        }
+      ]
+    },
+    {
+      "title": "Stefano Travaglia - Dane Sweeny",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:00",
+      "iso_time": "2026-01-15T01:00:03.245000+01:00",
+      "link": "https://play.hbomax.com/video/watch/8b49759d-eec0-5146-9d42-f3907d78b017?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "stefano-travaglia-dane-sweeny",
+      "related_events": [
+        {
+          "title": "Australian Open 2025 | Best Of",
+          "time": "00:30",
+          "sender": "Eurosport",
+          "slug": "australian-open-2025-best-of"
+        },
+        {
+          "title": "Guiomar Maristany Zuleta de Reales - Elvina Kalieva",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "guiomar-maristany-zuleta-de-reales-elvina-kalieva"
+        },
+        {
+          "title": "George Loffhagen - Nishesh Basavareddy",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "george-loffhagen-nishesh-basavareddy"
+        }
+      ]
+    },
+    {
+      "title": "Zeynep Sonmez - Anastasia Gasanova",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:00",
+      "iso_time": "2026-01-15T01:00:06.303000+01:00",
+      "link": "https://play.hbomax.com/video/watch/b0494201-3734-5b5a-953d-d0c8fc610daa?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "zeynep-sonmez-anastasia-gasanova",
+      "related_events": [
+        {
+          "title": "Australian Open 2025 | Best Of",
+          "time": "00:30",
+          "sender": "Eurosport",
+          "slug": "australian-open-2025-best-of"
+        },
+        {
+          "title": "Guiomar Maristany Zuleta de Reales - Elvina Kalieva",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "guiomar-maristany-zuleta-de-reales-elvina-kalieva"
+        },
+        {
+          "title": "George Loffhagen - Nishesh Basavareddy",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "george-loffhagen-nishesh-basavareddy"
+        }
+      ]
+    },
+    {
+      "title": "Maja Chwalinska - Anhelina Kalinina",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:00",
+      "iso_time": "2026-01-15T01:00:13.199000+01:00",
+      "link": "https://play.hbomax.com/video/watch/5768ec91-0660-56d3-b6d0-f3d7b0360881?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "maja-chwalinska-anhelina-kalinina",
+      "related_events": [
+        {
+          "title": "Australian Open 2025 | Best Of",
+          "time": "00:30",
+          "sender": "Eurosport",
+          "slug": "australian-open-2025-best-of"
+        },
+        {
+          "title": "Guiomar Maristany Zuleta de Reales - Elvina Kalieva",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "guiomar-maristany-zuleta-de-reales-elvina-kalieva"
+        },
+        {
+          "title": "George Loffhagen - Nishesh Basavareddy",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "george-loffhagen-nishesh-basavareddy"
+        }
+      ]
+    },
+    {
+      "title": "Giulio Zeppieri - Rei Sakamoto",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:00",
+      "iso_time": "2026-01-15T01:00:58.031000+01:00",
+      "link": "https://play.hbomax.com/video/watch/dd418cab-45a7-5955-9379-60d0ab0677d5?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giulio-zeppieri-rei-sakamoto",
+      "related_events": [
+        {
+          "title": "Australian Open 2025 | Best Of",
+          "time": "00:30",
+          "sender": "Eurosport",
+          "slug": "australian-open-2025-best-of"
+        },
+        {
+          "title": "Guiomar Maristany Zuleta de Reales - Elvina Kalieva",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "guiomar-maristany-zuleta-de-reales-elvina-kalieva"
+        },
+        {
+          "title": "George Loffhagen - Nishesh Basavareddy",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "george-loffhagen-nishesh-basavareddy"
+        }
+      ]
+    },
+    {
+      "title": "Dino Prizmic - Arthur Féry",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:01",
+      "iso_time": "2026-01-15T01:01:34.006000+01:00",
+      "link": "https://play.hbomax.com/video/watch/fe2dd183-8da0-56e5-aae7-6742e9182407?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "dino-prizmic-arthur-fery",
+      "related_events": [
+        {
+          "title": "Australian Open 2025 | Best Of",
+          "time": "00:30",
+          "sender": "Eurosport",
+          "slug": "australian-open-2025-best-of"
+        },
+        {
+          "title": "Guiomar Maristany Zuleta de Reales - Elvina Kalieva",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "guiomar-maristany-zuleta-de-reales-elvina-kalieva"
+        },
+        {
+          "title": "George Loffhagen - Nishesh Basavareddy",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "george-loffhagen-nishesh-basavareddy"
+        }
+      ]
+    },
+    {
+      "title": "Greet Minnen - Linda Klimovicova",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:03",
+      "iso_time": "2026-01-15T01:03:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/1d52b38f-dc0b-5001-8ae6-9d2e79291198?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "greet-minnen-linda-klimovicova",
+      "related_events": [
+        {
+          "title": "Australian Open 2025 | Best Of",
+          "time": "00:30",
+          "sender": "Eurosport",
+          "slug": "australian-open-2025-best-of"
+        },
+        {
+          "title": "Guiomar Maristany Zuleta de Reales - Elvina Kalieva",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "guiomar-maristany-zuleta-de-reales-elvina-kalieva"
+        },
+        {
+          "title": "George Loffhagen - Nishesh Basavareddy",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "george-loffhagen-nishesh-basavareddy"
+        }
+      ]
+    },
+    {
+      "title": "Yuliia Starodubtseva - Viktoriya Tomova",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:03",
+      "iso_time": "2026-01-15T01:03:33+01:00",
+      "link": "https://play.hbomax.com/video/watch/d9d09cec-d2ec-55c8-a89a-284a25878f8a?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "yuliia-starodubtseva-viktoriya-tomova",
+      "related_events": [
+        {
+          "title": "Australian Open 2025 | Best Of",
+          "time": "00:30",
+          "sender": "Eurosport",
+          "slug": "australian-open-2025-best-of"
+        },
+        {
+          "title": "Guiomar Maristany Zuleta de Reales - Elvina Kalieva",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "guiomar-maristany-zuleta-de-reales-elvina-kalieva"
+        },
+        {
+          "title": "George Loffhagen - Nishesh Basavareddy",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "george-loffhagen-nishesh-basavareddy"
+        }
+      ]
+    },
+    {
+      "title": "Jaime Faria - Marco Trungelliti",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:04",
+      "iso_time": "2026-01-15T01:04:30+01:00",
+      "link": "https://play.hbomax.com/video/watch/556f3082-652d-5f41-90b4-e02cfe75d35f?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "jaime-faria-marco-trungelliti",
+      "related_events": [
+        {
+          "title": "Australian Open 2025 | Best Of",
+          "time": "00:30",
+          "sender": "Eurosport",
+          "slug": "australian-open-2025-best-of"
+        },
+        {
+          "title": "Guiomar Maristany Zuleta de Reales - Elvina Kalieva",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "guiomar-maristany-zuleta-de-reales-elvina-kalieva"
+        },
+        {
+          "title": "George Loffhagen - Nishesh Basavareddy",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "george-loffhagen-nishesh-basavareddy"
+        }
+      ]
+    },
+    {
+      "title": "Ruhpolding | Frauen-Staffel",
+      "subtitle": "Weltcup | 4x6km",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:13",
+      "iso_time": "2026-01-15T01:13:29+01:00",
+      "link": "",
+      "slug": "ruhpolding-frauen-staffel",
+      "related_events": []
+    },
+    {
+      "title": "EM | Frauen | Kurzprogramm",
+      "subtitle": "Sheffield",
+      "sport": "Eiskunstlauf",
+      "sport_slug": "eiskunstlauf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:00",
+      "iso_time": "2026-01-15T02:00:10+01:00",
+      "link": "",
+      "slug": "em-frauen-kurzprogramm",
+      "related_events": []
+    },
+    {
+      "title": "Zhuoxuan Bai - Darja Vidmanova",
+      "subtitle": "Australian Open | 3. Qualifikationsrunde",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:23",
+      "iso_time": "2026-01-15T02:23:09+01:00",
+      "link": "https://play.hbomax.com/video/watch/0af8e763-9516-5929-8ca2-9699be19d528?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "zhuoxuan-bai-darja-vidmanova",
+      "related_events": [
+        {
+          "title": "Australian Open 2025 | Best Of",
+          "time": "00:30",
+          "sender": "Eurosport",
+          "slug": "australian-open-2025-best-of"
+        },
+        {
+          "title": "Guiomar Maristany Zuleta de Reales - Elvina Kalieva",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "guiomar-maristany-zuleta-de-reales-elvina-kalieva"
+        },
+        {
+          "title": "George Loffhagen - Nishesh Basavareddy",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "george-loffhagen-nishesh-basavareddy"
+        }
+      ]
+    },
+    {
+      "title": "Pierre-Hugues Herbert - Nicolai Budkov Kjaer",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:41",
+      "iso_time": "2026-01-15T02:41:24+01:00",
+      "link": "https://play.hbomax.com/video/watch/af9a9f2a-7389-57ff-a676-3d5b984ce05a?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "pierre-hugues-herbert-nicolai-budkov-kjaer",
+      "related_events": [
+        {
+          "title": "Australian Open 2025 | Best Of",
+          "time": "00:30",
+          "sender": "Eurosport",
+          "slug": "australian-open-2025-best-of"
+        },
+        {
+          "title": "Guiomar Maristany Zuleta de Reales - Elvina Kalieva",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "guiomar-maristany-zuleta-de-reales-elvina-kalieva"
+        },
+        {
+          "title": "George Loffhagen - Nishesh Basavareddy",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "george-loffhagen-nishesh-basavareddy"
+        }
+      ]
+    },
+    {
+      "title": "Lin Zhu - Marina Stakusic",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:42",
+      "iso_time": "2026-01-15T02:42:44+01:00",
+      "link": "https://play.hbomax.com/video/watch/31174d8b-8d0e-5a28-ac9e-6b886968f25a?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lin-zhu-marina-stakusic",
+      "related_events": [
+        {
+          "title": "Australian Open 2025 | Best Of",
+          "time": "00:30",
+          "sender": "Eurosport",
+          "slug": "australian-open-2025-best-of"
+        },
+        {
+          "title": "Guiomar Maristany Zuleta de Reales - Elvina Kalieva",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "guiomar-maristany-zuleta-de-reales-elvina-kalieva"
+        },
+        {
+          "title": "George Loffhagen - Nishesh Basavareddy",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "george-loffhagen-nishesh-basavareddy"
+        }
+      ]
+    },
+    {
+      "title": "Nikola Bartunkova - Whitney Osuigwe",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:45",
+      "iso_time": "2026-01-15T02:45:59+01:00",
+      "link": "https://play.hbomax.com/video/watch/d04e26dc-cf4b-54c4-8a4f-771ac437feb4?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "nikola-bartunkova-whitney-osuigwe",
+      "related_events": [
+        {
+          "title": "Australian Open 2025 | Best Of",
+          "time": "00:30",
+          "sender": "Eurosport",
+          "slug": "australian-open-2025-best-of"
+        },
+        {
+          "title": "Guiomar Maristany Zuleta de Reales - Elvina Kalieva",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "guiomar-maristany-zuleta-de-reales-elvina-kalieva"
+        },
+        {
+          "title": "George Loffhagen - Nishesh Basavareddy",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "george-loffhagen-nishesh-basavareddy"
+        }
+      ]
+    },
+    {
+      "title": "Yibing Wu - Tristan Boyer",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:49",
+      "iso_time": "2026-01-15T02:49:08+01:00",
+      "link": "https://play.hbomax.com/video/watch/ca098dce-83d1-571b-bb63-5f490263cfb7?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "yibing-wu-tristan-boyer",
+      "related_events": [
+        {
+          "title": "Australian Open 2025 | Best Of",
+          "time": "00:30",
+          "sender": "Eurosport",
+          "slug": "australian-open-2025-best-of"
+        },
+        {
+          "title": "Guiomar Maristany Zuleta de Reales - Elvina Kalieva",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "guiomar-maristany-zuleta-de-reales-elvina-kalieva"
+        },
+        {
+          "title": "George Loffhagen - Nishesh Basavareddy",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "george-loffhagen-nishesh-basavareddy"
+        }
+      ]
+    },
+    {
+      "title": "Carol Young Suh Lee - Linda Fruhvirtova",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:51",
+      "iso_time": "2026-01-15T02:51:13+01:00",
+      "link": "https://play.hbomax.com/video/watch/12ed91cc-12a2-540e-89d7-9cf65e4f67f0?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "carol-young-suh-lee-linda-fruhvirtova",
+      "related_events": [
+        {
+          "title": "Australian Open 2025 | Best Of",
+          "time": "00:30",
+          "sender": "Eurosport",
+          "slug": "australian-open-2025-best-of"
+        },
+        {
+          "title": "Guiomar Maristany Zuleta de Reales - Elvina Kalieva",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "guiomar-maristany-zuleta-de-reales-elvina-kalieva"
+        },
+        {
+          "title": "George Loffhagen - Nishesh Basavareddy",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "george-loffhagen-nishesh-basavareddy"
+        }
+      ]
+    },
+    {
+      "title": "Rafael Jodar - Luca Van Assche",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:58",
+      "iso_time": "2026-01-15T02:58:13+01:00",
+      "link": "https://play.hbomax.com/video/watch/7a73eb6a-8a29-5018-9f4a-37d2a0970997?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "rafael-jodar-luca-van-assche",
+      "related_events": [
+        {
+          "title": "Australian Open 2025 | Best Of",
+          "time": "00:30",
+          "sender": "Eurosport",
+          "slug": "australian-open-2025-best-of"
+        },
+        {
+          "title": "Guiomar Maristany Zuleta de Reales - Elvina Kalieva",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "guiomar-maristany-zuleta-de-reales-elvina-kalieva"
+        },
+        {
+          "title": "George Loffhagen - Nishesh Basavareddy",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "george-loffhagen-nishesh-basavareddy"
+        }
+      ]
+    },
+    {
+      "title": "Elias Ymer - Coleman Wong",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:26",
+      "iso_time": "2026-01-15T03:26:30+01:00",
+      "link": "https://play.hbomax.com/video/watch/0886889f-6978-52ac-8e4f-637c1760eae4?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "elias-ymer-coleman-wong",
+      "related_events": [
+        {
+          "title": "Australian Open 2025 | Best Of",
+          "time": "00:30",
+          "sender": "Eurosport",
+          "slug": "australian-open-2025-best-of"
+        },
+        {
+          "title": "Guiomar Maristany Zuleta de Reales - Elvina Kalieva",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "guiomar-maristany-zuleta-de-reales-elvina-kalieva"
+        },
+        {
+          "title": "George Loffhagen - Nishesh Basavareddy",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "george-loffhagen-nishesh-basavareddy"
+        }
+      ]
+    },
+    {
+      "title": "Masters | 1. Runde",
+      "subtitle": "N. Robertson - C. Wakelin | London",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:31",
+      "iso_time": "2026-01-15T03:31:26+01:00",
+      "link": "",
+      "slug": "masters-1-runde",
+      "related_events": []
+    },
+    {
+      "title": "Dusan Lajovic - Francesco Maestrelli",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:38",
+      "iso_time": "2026-01-15T03:38:14+01:00",
+      "link": "https://play.hbomax.com/video/watch/e20c1ed1-1419-5334-b296-cd288b0345dc?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "dusan-lajovic-francesco-maestrelli",
+      "related_events": [
+        {
+          "title": "Guiomar Maristany Zuleta de Reales - Elvina Kalieva",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "guiomar-maristany-zuleta-de-reales-elvina-kalieva"
+        },
+        {
+          "title": "George Loffhagen - Nishesh Basavareddy",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "george-loffhagen-nishesh-basavareddy"
+        },
+        {
+          "title": "Lucia Bronzetti - Sloane Stephens",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "lucia-bronzetti-sloane-stephens"
+        }
+      ]
+    },
+    {
+      "title": "Gilles-Arnaud Bailly - Martin Damm",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:59",
+      "iso_time": "2026-01-15T03:59:02+01:00",
+      "link": "https://play.hbomax.com/video/watch/eb1cc059-8228-5bf2-b183-34fa3eff5ac1?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "gilles-arnaud-bailly-martin-damm",
+      "related_events": [
+        {
+          "title": "Guiomar Maristany Zuleta de Reales - Elvina Kalieva",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "guiomar-maristany-zuleta-de-reales-elvina-kalieva"
+        },
+        {
+          "title": "George Loffhagen - Nishesh Basavareddy",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "george-loffhagen-nishesh-basavareddy"
+        },
+        {
+          "title": "Lucia Bronzetti - Sloane Stephens",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "lucia-bronzetti-sloane-stephens"
+        }
+      ]
+    },
+    {
+      "title": "Tamara Zidansek - Yue Yuan",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:59",
+      "iso_time": "2026-01-15T03:59:03+01:00",
+      "link": "https://play.hbomax.com/video/watch/aaa36e03-d70c-513d-92ee-fffb19e1b37c?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tamara-zidansek-yue-yuan",
+      "related_events": [
+        {
+          "title": "Guiomar Maristany Zuleta de Reales - Elvina Kalieva",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "guiomar-maristany-zuleta-de-reales-elvina-kalieva"
+        },
+        {
+          "title": "George Loffhagen - Nishesh Basavareddy",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "george-loffhagen-nishesh-basavareddy"
+        },
+        {
+          "title": "Lucia Bronzetti - Sloane Stephens",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "lucia-bronzetti-sloane-stephens"
+        }
+      ]
+    },
+    {
+      "title": "Marina Bassols Ribera - Himeno Sakatsume",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:23",
+      "iso_time": "2026-01-15T04:23:09+01:00",
+      "link": "https://play.hbomax.com/video/watch/fbe115d5-e584-525e-a0d4-f27eeb70928e?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "marina-bassols-ribera-himeno-sakatsume",
+      "related_events": [
+        {
+          "title": "Zhuoxuan Bai - Darja Vidmanova",
+          "time": "02:23",
+          "sender": "Eurosport",
+          "slug": "zhuoxuan-bai-darja-vidmanova"
+        },
+        {
+          "title": "Pierre-Hugues Herbert - Nicolai Budkov Kjaer",
+          "time": "02:41",
+          "sender": "Eurosport",
+          "slug": "pierre-hugues-herbert-nicolai-budkov-kjaer"
+        },
+        {
+          "title": "Lin Zhu - Marina Stakusic",
+          "time": "02:42",
+          "sender": "Eurosport",
+          "slug": "lin-zhu-marina-stakusic"
+        }
+      ]
+    },
+    {
+      "title": "Mackenzie McDonald - Liam Draxl",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:41",
+      "iso_time": "2026-01-15T04:41:24+01:00",
+      "link": "https://play.hbomax.com/video/watch/4bbda0d4-b74c-5815-9878-0e4c6fd4afb3?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "mackenzie-mcdonald-liam-draxl",
+      "related_events": [
+        {
+          "title": "Zhuoxuan Bai - Darja Vidmanova",
+          "time": "02:23",
+          "sender": "Eurosport",
+          "slug": "zhuoxuan-bai-darja-vidmanova"
+        },
+        {
+          "title": "Pierre-Hugues Herbert - Nicolai Budkov Kjaer",
+          "time": "02:41",
+          "sender": "Eurosport",
+          "slug": "pierre-hugues-herbert-nicolai-budkov-kjaer"
+        },
+        {
+          "title": "Lin Zhu - Marina Stakusic",
+          "time": "02:42",
+          "sender": "Eurosport",
+          "slug": "lin-zhu-marina-stakusic"
+        }
+      ]
+    },
+    {
+      "title": "Arthur Gea - Adolfo Daniel Vallejo",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:42",
+      "iso_time": "2026-01-15T04:42:44+01:00",
+      "link": "https://play.hbomax.com/video/watch/e380ecbf-11f8-50ae-96a5-2e0027f6a544?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "arthur-gea-adolfo-daniel-vallejo",
+      "related_events": [
+        {
+          "title": "Zhuoxuan Bai - Darja Vidmanova",
+          "time": "02:23",
+          "sender": "Eurosport",
+          "slug": "zhuoxuan-bai-darja-vidmanova"
+        },
+        {
+          "title": "Pierre-Hugues Herbert - Nicolai Budkov Kjaer",
+          "time": "02:41",
+          "sender": "Eurosport",
+          "slug": "pierre-hugues-herbert-nicolai-budkov-kjaer"
+        },
+        {
+          "title": "Lin Zhu - Marina Stakusic",
+          "time": "02:42",
+          "sender": "Eurosport",
+          "slug": "lin-zhu-marina-stakusic"
+        }
+      ]
+    },
+    {
+      "title": "Aliaksandra Sasnovich - Daria Snigur",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:45",
+      "iso_time": "2026-01-15T04:45:59+01:00",
+      "link": "https://play.hbomax.com/video/watch/5810b957-dfbe-5efc-9fba-553ee39959a5?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "aliaksandra-sasnovich-daria-snigur",
+      "related_events": [
+        {
+          "title": "Zhuoxuan Bai - Darja Vidmanova",
+          "time": "02:23",
+          "sender": "Eurosport",
+          "slug": "zhuoxuan-bai-darja-vidmanova"
+        },
+        {
+          "title": "Pierre-Hugues Herbert - Nicolai Budkov Kjaer",
+          "time": "02:41",
+          "sender": "Eurosport",
+          "slug": "pierre-hugues-herbert-nicolai-budkov-kjaer"
+        },
+        {
+          "title": "Lin Zhu - Marina Stakusic",
+          "time": "02:42",
+          "sender": "Eurosport",
+          "slug": "lin-zhu-marina-stakusic"
+        }
+      ]
+    },
+    {
+      "title": "Taylor Townsend - Storm Hunter",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:49",
+      "iso_time": "2026-01-15T04:49:08+01:00",
+      "link": "https://play.hbomax.com/video/watch/573f5891-fa11-5b94-bb20-744991b36725?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "taylor-townsend-storm-hunter",
+      "related_events": [
+        {
+          "title": "Zhuoxuan Bai - Darja Vidmanova",
+          "time": "02:23",
+          "sender": "Eurosport",
+          "slug": "zhuoxuan-bai-darja-vidmanova"
+        },
+        {
+          "title": "Pierre-Hugues Herbert - Nicolai Budkov Kjaer",
+          "time": "02:41",
+          "sender": "Eurosport",
+          "slug": "pierre-hugues-herbert-nicolai-budkov-kjaer"
+        },
+        {
+          "title": "Lin Zhu - Marina Stakusic",
+          "time": "02:42",
+          "sender": "Eurosport",
+          "slug": "lin-zhu-marina-stakusic"
+        }
+      ]
+    },
+    {
+      "title": "Kimmer Coppejans - Zachary Svajda",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:51",
+      "iso_time": "2026-01-15T04:51:13+01:00",
+      "link": "https://play.hbomax.com/video/watch/e9a6e4f3-ec3f-5b3b-9219-f2fd09160cda?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "kimmer-coppejans-zachary-svajda",
+      "related_events": [
+        {
+          "title": "Zhuoxuan Bai - Darja Vidmanova",
+          "time": "02:23",
+          "sender": "Eurosport",
+          "slug": "zhuoxuan-bai-darja-vidmanova"
+        },
+        {
+          "title": "Pierre-Hugues Herbert - Nicolai Budkov Kjaer",
+          "time": "02:41",
+          "sender": "Eurosport",
+          "slug": "pierre-hugues-herbert-nicolai-budkov-kjaer"
+        },
+        {
+          "title": "Lin Zhu - Marina Stakusic",
+          "time": "02:42",
+          "sender": "Eurosport",
+          "slug": "lin-zhu-marina-stakusic"
+        }
+      ]
+    },
+    {
+      "title": "Michael Zheng - Lukas Klein",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:58",
+      "iso_time": "2026-01-15T04:58:13+01:00",
+      "link": "https://play.hbomax.com/video/watch/9a323de6-579b-5cfb-8e7c-c5ddf1dc7a95?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "michael-zheng-lukas-klein",
+      "related_events": [
+        {
+          "title": "Zhuoxuan Bai - Darja Vidmanova",
+          "time": "02:23",
+          "sender": "Eurosport",
+          "slug": "zhuoxuan-bai-darja-vidmanova"
+        },
+        {
+          "title": "Pierre-Hugues Herbert - Nicolai Budkov Kjaer",
+          "time": "02:41",
+          "sender": "Eurosport",
+          "slug": "pierre-hugues-herbert-nicolai-budkov-kjaer"
+        },
+        {
+          "title": "Lin Zhu - Marina Stakusic",
+          "time": "02:42",
+          "sender": "Eurosport",
+          "slug": "lin-zhu-marina-stakusic"
+        }
+      ]
+    },
+    {
+      "title": "Flachau | Slalom | 1. Lauf",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:02",
+      "iso_time": "2026-01-15T05:02:19+01:00",
+      "link": "",
+      "slug": "flachau-slalom-1-lauf",
+      "related_events": [
+        {
+          "title": "Flachau | Slalom | 2. Lauf",
+          "time": "05:32",
+          "sender": "Eurosport",
+          "slug": "flachau-slalom-2-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Alexander Blockx - Jason Kubler",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:26",
+      "iso_time": "2026-01-15T05:26:30+01:00",
+      "link": "https://play.hbomax.com/video/watch/1f797c9a-ac21-55b5-879b-45d3f1ad5bcc?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "alexander-blockx-jason-kubler",
+      "related_events": [
+        {
+          "title": "Pierre-Hugues Herbert - Nicolai Budkov Kjaer",
+          "time": "02:41",
+          "sender": "Eurosport",
+          "slug": "pierre-hugues-herbert-nicolai-budkov-kjaer"
+        },
+        {
+          "title": "Lin Zhu - Marina Stakusic",
+          "time": "02:42",
+          "sender": "Eurosport",
+          "slug": "lin-zhu-marina-stakusic"
+        },
+        {
+          "title": "Nikola Bartunkova - Whitney Osuigwe",
+          "time": "02:45",
+          "sender": "Eurosport",
+          "slug": "nikola-bartunkova-whitney-osuigwe"
+        }
+      ]
+    },
+    {
+      "title": "Flachau | Slalom | 2. Lauf",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:32",
+      "iso_time": "2026-01-15T05:32:04+01:00",
+      "link": "",
+      "slug": "flachau-slalom-2-lauf",
+      "related_events": [
+        {
+          "title": "Flachau | Slalom | 1. Lauf",
+          "time": "05:02",
+          "sender": "Eurosport",
+          "slug": "flachau-slalom-1-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Tamara Korpatsch - Maddison Inglis",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:38",
+      "iso_time": "2026-01-15T05:38:14+01:00",
+      "link": "https://play.hbomax.com/video/watch/343fa3cb-fb30-58f8-ac24-c21b9fde5408?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tamara-korpatsch-maddison-inglis",
+      "related_events": [
+        {
+          "title": "Pierre-Hugues Herbert - Nicolai Budkov Kjaer",
+          "time": "02:41",
+          "sender": "Eurosport",
+          "slug": "pierre-hugues-herbert-nicolai-budkov-kjaer"
+        },
+        {
+          "title": "Lin Zhu - Marina Stakusic",
+          "time": "02:42",
+          "sender": "Eurosport",
+          "slug": "lin-zhu-marina-stakusic"
+        },
+        {
+          "title": "Nikola Bartunkova - Whitney Osuigwe",
+          "time": "02:45",
+          "sender": "Eurosport",
+          "slug": "nikola-bartunkova-whitney-osuigwe"
+        }
+      ]
+    },
+    {
+      "title": "Lilli Tagger - Lanlana Tararudee",
+      "subtitle": "Australian Open | Qualifikation | Tag 4",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:59",
+      "iso_time": "2026-01-15T05:59:02+01:00",
+      "link": "https://play.hbomax.com/video/watch/8ad75763-1777-51d0-8a06-c2ea24016209?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lilli-tagger-lanlana-tararudee",
+      "related_events": [
+        {
+          "title": "Elias Ymer - Coleman Wong",
+          "time": "03:26",
+          "sender": "Eurosport",
+          "slug": "elias-ymer-coleman-wong"
+        },
+        {
+          "title": "Dusan Lajovic - Francesco Maestrelli",
+          "time": "03:38",
+          "sender": "Eurosport",
+          "slug": "dusan-lajovic-francesco-maestrelli"
+        },
+        {
+          "title": "Gilles-Arnaud Bailly - Martin Damm",
+          "time": "03:59",
+          "sender": "Eurosport",
+          "slug": "gilles-arnaud-bailly-martin-damm"
+        }
+      ]
+    },
+    {
+      "title": "Bad Gastein | Team-Parallelslalom",
+      "subtitle": "Weltcup | Frauen / Männer",
+      "sport": "Snowboard",
+      "sport_slug": "snowboard",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:07",
+      "iso_time": "2026-01-15T06:07:45+01:00",
+      "link": "",
+      "slug": "bad-gastein-team-parallelslalom",
+      "related_events": []
+    },
+    {
+      "title": "Australian Open |",
+      "subtitle": "Grand Slam",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:00",
+      "iso_time": "2026-01-15T07:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/7e9515d6-5054-5bdb-b077-6478b2120f3a?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "australian-open",
+      "related_events": [
+        {
+          "title": "Marina Bassols Ribera - Himeno Sakatsume",
+          "time": "04:23",
+          "sender": "Eurosport",
+          "slug": "marina-bassols-ribera-himeno-sakatsume"
+        },
+        {
+          "title": "Mackenzie McDonald - Liam Draxl",
+          "time": "04:41",
+          "sender": "Eurosport",
+          "slug": "mackenzie-mcdonald-liam-draxl"
+        },
+        {
+          "title": "Arthur Gea - Adolfo Daniel Vallejo",
+          "time": "04:42",
+          "sender": "Eurosport",
+          "slug": "arthur-gea-adolfo-daniel-vallejo"
+        }
+      ]
+    },
+    {
+      "title": "Novak Djokovic - Frances Tiafoe",
+      "subtitle": "AO Opening Week | Charity Match | Rod Laver Arena",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:00",
+      "iso_time": "2026-01-15T07:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/1747aa14-92e0-55c2-88a0-fe30889a47c6?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "novak-djokovic-frances-tiafoe",
+      "related_events": [
+        {
+          "title": "Marina Bassols Ribera - Himeno Sakatsume",
+          "time": "04:23",
+          "sender": "Eurosport",
+          "slug": "marina-bassols-ribera-himeno-sakatsume"
+        },
+        {
+          "title": "Mackenzie McDonald - Liam Draxl",
+          "time": "04:41",
+          "sender": "Eurosport",
+          "slug": "mackenzie-mcdonald-liam-draxl"
+        },
+        {
+          "title": "Arthur Gea - Adolfo Daniel Vallejo",
+          "time": "04:42",
+          "sender": "Eurosport",
+          "slug": "arthur-gea-adolfo-daniel-vallejo"
+        }
+      ]
+    },
+    {
+      "title": "Masters | 1. Runde",
+      "subtitle": "N. Robertson - C. Wakelin | London",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:02",
+      "iso_time": "2026-01-15T07:02:17+01:00",
+      "link": "",
+      "slug": "masters-1-runde",
+      "related_events": []
+    },
+    {
+      "title": "EM | Frauen | Kurzprogramm",
+      "subtitle": "Sheffield",
+      "sport": "Eiskunstlauf",
+      "sport_slug": "eiskunstlauf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:30",
+      "iso_time": "2026-01-15T08:30:17+01:00",
+      "link": "",
+      "slug": "em-frauen-kurzprogramm",
+      "related_events": []
+    },
+    {
+      "title": "Masters | 1. Runde",
+      "subtitle": "N. Robertson - C. Wakelin | London",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:35",
+      "iso_time": "2026-01-15T08:35:19+01:00",
+      "link": "",
+      "slug": "masters-1-runde",
+      "related_events": []
+    },
+    {
+      "title": "Carlos Alcaraz - Alex De Minaur",
+      "subtitle": "AO Opening Week | Charity Match | Rod Laver Arena",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:00",
+      "iso_time": "2026-01-15T09:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/0cf6e270-e559-5f45-9521-799e6deebec7?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "carlos-alcaraz-alex-de-minaur",
+      "related_events": [
+        {
+          "title": "Mirra Andreeva vs Maya Joint",
+          "time": "09:00",
+          "sender": "Sportschau Live",
+          "slug": "mirra-andreeva-vs-maya-joint"
+        },
+        {
+          "title": "Australian Open |",
+          "time": "07:00",
+          "sender": "Eurosport",
+          "slug": "australian-open"
+        },
+        {
+          "title": "Novak Djokovic - Frances Tiafoe",
+          "time": "07:00",
+          "sender": "Eurosport",
+          "slug": "novak-djokovic-frances-tiafoe"
+        }
+      ]
+    },
+    {
+      "title": "Ambition Tennis Grand Slam 2025",
+      "subtitle": "Tennis-Dokumentation",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:29",
+      "iso_time": "2026-01-15T09:29:09+01:00",
+      "link": "",
+      "slug": "ambition-tennis-grand-slam-2025",
+      "related_events": [
+        {
+          "title": "Australian Open |",
+          "time": "07:00",
+          "sender": "Eurosport",
+          "slug": "australian-open"
+        },
+        {
+          "title": "Novak Djokovic - Frances Tiafoe",
+          "time": "07:00",
+          "sender": "Eurosport",
+          "slug": "novak-djokovic-frances-tiafoe"
+        },
+        {
+          "title": "Carlos Alcaraz - Alex De Minaur",
+          "time": "09:00",
+          "sender": "Eurosport",
+          "slug": "carlos-alcaraz-alex-de-minaur"
+        }
+      ]
+    },
+    {
+      "title": "Flachau | Slalom | 1. Lauf",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:30",
+      "iso_time": "2026-01-15T10:30:13+01:00",
+      "link": "",
+      "slug": "flachau-slalom-1-lauf",
+      "related_events": [
+        {
+          "title": "Flachau | Slalom | 2. Lauf",
+          "time": "11:15",
+          "sender": "Eurosport",
+          "slug": "flachau-slalom-2-lauf"
+        },
+        {
+          "title": "Wengen | Abfahrt | Training",
+          "time": "12:20",
+          "sender": "Eurosport",
+          "slug": "wengen-abfahrt-training"
+        }
+      ]
+    },
+    {
+      "title": "Discovery Golf",
+      "subtitle": "Golf-Magazin",
+      "sport": "Golf",
+      "sport_slug": "golf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:33",
+      "iso_time": "2026-01-15T10:33:36+01:00",
+      "link": "",
+      "slug": "discovery-golf",
+      "related_events": []
+    },
+    {
+      "title": "Masters | 1. Runde",
+      "subtitle": "N. Robertson - C. Wakelin | London",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:03",
+      "iso_time": "2026-01-15T11:03:06+01:00",
+      "link": "",
+      "slug": "masters-1-runde",
+      "related_events": [
+        {
+          "title": "John Higgins - Zhao Xintong",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "john-higgins-zhao-xintong"
+        }
+      ]
+    },
+    {
+      "title": "Flachau | Slalom | 2. Lauf",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:15",
+      "iso_time": "2026-01-15T11:15:31+01:00",
+      "link": "",
+      "slug": "flachau-slalom-2-lauf",
+      "related_events": [
+        {
+          "title": "Flachau | Slalom | 1. Lauf",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "flachau-slalom-1-lauf"
+        },
+        {
+          "title": "Wengen | Abfahrt | Training",
+          "time": "12:20",
+          "sender": "Eurosport",
+          "slug": "wengen-abfahrt-training"
+        }
+      ]
+    },
+    {
+      "title": "Ruhpolding | Frauen-Staffel",
+      "subtitle": "Weltcup | 4x6km",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:59",
+      "iso_time": "2026-01-15T11:59:00+01:00",
+      "link": "",
+      "slug": "ruhpolding-frauen-staffel",
+      "related_events": [
+        {
+          "title": "Ruhpolding | Staffel | Training",
+          "time": "13:45",
+          "sender": "Eurosport",
+          "slug": "ruhpolding-staffel-training"
+        },
+        {
+          "title": "Ruhpolding | Männer-Staffel",
+          "time": "14:15",
+          "sender": "Eurosport",
+          "slug": "ruhpolding-manner-staffel"
+        },
+        {
+          "title": "Ruhpolding | Männer-Staffel",
+          "time": "14:15",
+          "sender": "Eurosport",
+          "slug": "ruhpolding-manner-staffel"
+        }
+      ]
+    },
+    {
+      "title": "Bad Gastein | Team-Parallelslalom",
+      "subtitle": "Weltcup | Frauen / Männer",
+      "sport": "Snowboard",
+      "sport_slug": "snowboard",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:00",
+      "iso_time": "2026-01-15T12:00:00+01:00",
+      "link": "",
+      "slug": "bad-gastein-team-parallelslalom",
+      "related_events": []
+    },
+    {
+      "title": "Wengen | Abfahrt | Training",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:20",
+      "iso_time": "2026-01-15T12:20:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/da2cf592-ef29-5dd6-ac99-e7b979135fde?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wengen-abfahrt-training",
+      "related_events": [
+        {
+          "title": "Flachau | Slalom | 1. Lauf",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "flachau-slalom-1-lauf"
+        },
+        {
+          "title": "Flachau | Slalom | 2. Lauf",
+          "time": "11:15",
+          "sender": "Eurosport",
+          "slug": "flachau-slalom-2-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Olympische Spiele",
+      "subtitle": "",
+      "sport": "Olympia",
+      "sport_slug": "olympia",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:51",
+      "iso_time": "2026-01-15T12:51:30+01:00",
+      "link": "",
+      "slug": "olympische-spiele",
+      "related_events": [
+        {
+          "title": "The Power of the Olympics",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "the-power-of-the-olympics"
+        },
+        {
+          "title": "The Power of the Olympics",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "the-power-of-the-olympics"
+        }
+      ]
+    },
+    {
+      "title": "Courchevel | Sprint",
+      "subtitle": "Weltcup | Frauen / Männer",
+      "sport": "Unbekannt",
+      "sport_slug": "unbekannt",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:00",
+      "iso_time": "2026-01-15T13:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/8745bbea-8125-52fc-997b-c9a474baf68a?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "courchevel-sprint",
+      "related_events": []
+    },
+    {
+      "title": "Courchevel | Sprint",
+      "subtitle": "Weltcup | Frauen / Männer",
+      "sport": "Unbekannt",
+      "sport_slug": "unbekannt",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:00",
+      "iso_time": "2026-01-15T13:00:00+01:00",
+      "link": "",
+      "slug": "courchevel-sprint",
+      "related_events": []
+    },
+    {
+      "title": "Courchevel | Sprint",
+      "subtitle": "Weltcup | Frauen / Männer",
+      "sport": "Unbekannt",
+      "sport_slug": "unbekannt",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:00",
+      "iso_time": "2026-01-15T13:00:00+01:00",
+      "link": "",
+      "slug": "courchevel-sprint",
+      "related_events": []
+    },
+    {
+      "title": "Ruhpolding | Staffel | Training",
+      "subtitle": "Weltcup | Männer | Original Sound",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:45",
+      "iso_time": "2026-01-15T13:45:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/3de2e5a7-8f70-5ee8-8cef-a7b1341b6720?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "ruhpolding-staffel-training",
+      "related_events": [
+        {
+          "title": "Ruhpolding | Frauen-Staffel",
+          "time": "11:59",
+          "sender": "Eurosport",
+          "slug": "ruhpolding-frauen-staffel"
+        },
+        {
+          "title": "Ruhpolding | Männer-Staffel",
+          "time": "14:15",
+          "sender": "Eurosport",
+          "slug": "ruhpolding-manner-staffel"
+        },
+        {
+          "title": "Ruhpolding | Männer-Staffel",
+          "time": "14:15",
+          "sender": "Eurosport",
+          "slug": "ruhpolding-manner-staffel"
+        }
+      ]
+    },
+    {
+      "title": "John Higgins - Zhao Xintong",
+      "subtitle": "Masters | Viertelfinale | London",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:00",
+      "iso_time": "2026-01-15T14:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/ad60abea-9327-516c-89fb-0b2a7d436dc8?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "john-higgins-zhao-xintong",
+      "related_events": [
+        {
+          "title": "Masters | 1. Runde",
+          "time": "11:03",
+          "sender": "Eurosport",
+          "slug": "masters-1-runde"
+        },
+        {
+          "title": "Masters | Viertelfinale",
+          "time": "15:55",
+          "sender": "Eurosport",
+          "slug": "masters-viertelfinale"
+        }
+      ]
+    },
+    {
+      "title": "The Power of the Olympics",
+      "subtitle": "Olympia-Magazin",
+      "sport": "Olympia",
+      "sport_slug": "olympia",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:00",
+      "iso_time": "2026-01-15T14:00:00+01:00",
+      "link": "",
+      "slug": "the-power-of-the-olympics",
+      "related_events": [
+        {
+          "title": "Olympische Spiele",
+          "time": "12:51",
+          "sender": "Eurosport",
+          "slug": "olympische-spiele"
+        }
+      ]
+    },
+    {
+      "title": "The Power of the Olympics",
+      "subtitle": "Olympia-Magazin",
+      "sport": "Olympia",
+      "sport_slug": "olympia",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:00",
+      "iso_time": "2026-01-15T14:00:00+01:00",
+      "link": "",
+      "slug": "the-power-of-the-olympics",
+      "related_events": [
+        {
+          "title": "Olympische Spiele",
+          "time": "12:51",
+          "sender": "Eurosport",
+          "slug": "olympische-spiele"
+        }
+      ]
+    },
+    {
+      "title": "Ruhpolding | Männer-Staffel",
+      "subtitle": "Weltcup | 4x7,5km",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:15",
+      "iso_time": "2026-01-15T14:15:00+01:00",
+      "link": "",
+      "slug": "ruhpolding-manner-staffel",
+      "related_events": [
+        {
+          "title": "Ruhpolding | Frauen-Staffel",
+          "time": "11:59",
+          "sender": "Eurosport",
+          "slug": "ruhpolding-frauen-staffel"
+        },
+        {
+          "title": "Ruhpolding | Staffel | Training",
+          "time": "13:45",
+          "sender": "Eurosport",
+          "slug": "ruhpolding-staffel-training"
+        },
+        {
+          "title": "Ruhpolding | Männer-Staffel | Schießstand",
+          "time": "14:20",
+          "sender": "Eurosport",
+          "slug": "ruhpolding-manner-staffel-schiessstand"
+        }
+      ]
+    },
+    {
+      "title": "Ruhpolding | Männer-Staffel",
+      "subtitle": "Weltcup | 4x7,5km",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:15",
+      "iso_time": "2026-01-15T14:15:00+01:00",
+      "link": "",
+      "slug": "ruhpolding-manner-staffel",
+      "related_events": [
+        {
+          "title": "Ruhpolding | Frauen-Staffel",
+          "time": "11:59",
+          "sender": "Eurosport",
+          "slug": "ruhpolding-frauen-staffel"
+        },
+        {
+          "title": "Ruhpolding | Staffel | Training",
+          "time": "13:45",
+          "sender": "Eurosport",
+          "slug": "ruhpolding-staffel-training"
+        },
+        {
+          "title": "Ruhpolding | Männer-Staffel | Schießstand",
+          "time": "14:20",
+          "sender": "Eurosport",
+          "slug": "ruhpolding-manner-staffel-schiessstand"
+        }
+      ]
+    },
+    {
+      "title": "Ruhpolding | Männer-Staffel",
+      "subtitle": "Weltcup | 4x7,5km",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:15",
+      "iso_time": "2026-01-15T14:15:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/2b328b64-c86b-5932-9ab3-b93a56fdcfa9?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "ruhpolding-manner-staffel",
+      "related_events": [
+        {
+          "title": "Ruhpolding | Frauen-Staffel",
+          "time": "11:59",
+          "sender": "Eurosport",
+          "slug": "ruhpolding-frauen-staffel"
+        },
+        {
+          "title": "Ruhpolding | Staffel | Training",
+          "time": "13:45",
+          "sender": "Eurosport",
+          "slug": "ruhpolding-staffel-training"
+        },
+        {
+          "title": "Ruhpolding | Männer-Staffel | Schießstand",
+          "time": "14:20",
+          "sender": "Eurosport",
+          "slug": "ruhpolding-manner-staffel-schiessstand"
+        }
+      ]
+    },
+    {
+      "title": "Ruhpolding | Männer-Staffel | Schießstand",
+      "subtitle": "Weltcup | 3x2,5km | Original Sound",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:20",
+      "iso_time": "2026-01-15T14:20:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/b050a883-a511-5c72-9ac3-618c651d23a3?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "ruhpolding-manner-staffel-schiessstand",
+      "related_events": [
+        {
+          "title": "Ruhpolding | Frauen-Staffel",
+          "time": "11:59",
+          "sender": "Eurosport",
+          "slug": "ruhpolding-frauen-staffel"
+        },
+        {
+          "title": "Ruhpolding | Staffel | Training",
+          "time": "13:45",
+          "sender": "Eurosport",
+          "slug": "ruhpolding-staffel-training"
+        },
+        {
+          "title": "Ruhpolding | Männer-Staffel",
+          "time": "14:15",
+          "sender": "Eurosport",
+          "slug": "ruhpolding-manner-staffel"
+        }
+      ]
+    },
+    {
+      "title": "Ruhpolding | Männer-Staffel | Zusatz-Feed",
+      "subtitle": "Weltcup | 3x2,5km | Original Sound",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:20",
+      "iso_time": "2026-01-15T14:20:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/ab2af94e-fbd8-5a36-8c36-2377e4422624?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "ruhpolding-manner-staffel-zusatz-feed",
+      "related_events": [
+        {
+          "title": "Ruhpolding | Frauen-Staffel",
+          "time": "11:59",
+          "sender": "Eurosport",
+          "slug": "ruhpolding-frauen-staffel"
+        },
+        {
+          "title": "Ruhpolding | Staffel | Training",
+          "time": "13:45",
+          "sender": "Eurosport",
+          "slug": "ruhpolding-staffel-training"
+        },
+        {
+          "title": "Ruhpolding | Männer-Staffel",
+          "time": "14:15",
+          "sender": "Eurosport",
+          "slug": "ruhpolding-manner-staffel"
+        }
+      ]
+    },
+    {
+      "title": "EM | Männer | Kurzprogramm",
+      "subtitle": "Sheffield | Englischer Kommentar",
+      "sport": "Eiskunstlauf",
+      "sport_slug": "eiskunstlauf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:35",
+      "iso_time": "2026-01-15T14:35:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/a5db9a6a-9cb4-5c96-baba-9eb4dae4e8f2?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "em-manner-kurzprogramm",
+      "related_events": []
+    },
+    {
+      "title": "EM | Männer | Kurzprogramm",
+      "subtitle": "Sheffield",
+      "sport": "Eiskunstlauf",
+      "sport_slug": "eiskunstlauf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:55",
+      "iso_time": "2026-01-15T15:55:00+01:00",
+      "link": "",
+      "slug": "em-manner-kurzprogramm",
+      "related_events": []
+    },
+    {
+      "title": "Masters | Viertelfinale",
+      "subtitle": "J. Higgins - Zhao X. | London",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:55",
+      "iso_time": "2026-01-15T15:55:00+01:00",
+      "link": "",
+      "slug": "masters-viertelfinale",
+      "related_events": [
+        {
+          "title": "John Higgins - Zhao Xintong",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "john-higgins-zhao-xintong"
+        }
+      ]
+    },
+    {
+      "title": "Ruhpolding | Männer-Staffel",
+      "subtitle": "Weltcup | 4x7,5km",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:30",
+      "iso_time": "2026-01-15T17:30:00+01:00",
+      "link": "",
+      "slug": "ruhpolding-manner-staffel",
+      "related_events": []
+    },
+    {
+      "title": "Bob / Skeleton | St. Moritz | Highlights",
+      "subtitle": "Weltcup | Frauen / Männer",
+      "sport": "Wintersport",
+      "sport_slug": "wintersport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2026-01-15T18:30:00+01:00",
+      "link": "",
+      "slug": "bob-skeleton-st-moritz-highlights",
+      "related_events": []
+    },
+    {
+      "title": "Bad Gastein | Team-Parallelslalom",
+      "subtitle": "Weltcup | Frauen / Männer",
+      "sport": "Snowboard",
+      "sport_slug": "snowboard",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:50",
+      "iso_time": "2026-01-15T18:50:00+01:00",
+      "link": "",
+      "slug": "bad-gastein-team-parallelslalom",
+      "related_events": []
+    },
+    {
+      "title": "Grand Prix | Tunis | Highlights",
+      "subtitle": "Frauen / Männer",
+      "sport": "Fechten",
+      "sport_slug": "fechten",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2026-01-15T19:00:00+01:00",
+      "link": "",
+      "slug": "grand-prix-tunis-highlights",
+      "related_events": []
+    },
+    {
+      "title": "EM | Paare | Kür",
+      "subtitle": "Sheffield",
+      "sport": "Eiskunstlauf",
+      "sport_slug": "eiskunstlauf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:55",
+      "iso_time": "2026-01-15T19:55:00+01:00",
+      "link": "",
+      "slug": "em-paare-kur",
+      "related_events": []
+    },
+    {
+      "title": "EM | Paare | Kür",
+      "subtitle": "Sheffield | Englischer Kommentar",
+      "sport": "Eiskunstlauf",
+      "sport_slug": "eiskunstlauf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:56",
+      "iso_time": "2026-01-15T19:56:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/8dbdd072-8969-5761-b726-f9a415537355?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "em-paare-kur",
+      "related_events": []
+    },
+    {
+      "title": "Judd Trump - Mark Allen",
+      "subtitle": "Masters | Viertelfinale | London",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-01-15T20:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/3bc1f817-cdf1-5960-8112-8d2a737b58e6?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "judd-trump-mark-allen",
+      "related_events": [
+        {
+          "title": "Masters | Viertelfinale",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "masters-viertelfinale"
+        }
+      ]
+    },
+    {
+      "title": "Masters | Viertelfinale",
+      "subtitle": "J. Trump - M. Allen | London",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-01-15T20:00:00+01:00",
+      "link": "",
+      "slug": "masters-viertelfinale",
+      "related_events": [
+        {
+          "title": "Judd Trump - Mark Allen",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "judd-trump-mark-allen"
+        }
+      ]
+    },
+    {
+      "title": "Waterville | Moguls",
+      "subtitle": "Weltcup | Frauen / Männer | Englischer Kommentar",
+      "sport": "Ski Freestyle",
+      "sport_slug": "ski-freestyle",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:20",
+      "iso_time": "2026-01-15T20:20:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/c4efd53f-a78c-5aee-922a-ae13ae0cb5ba?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "waterville-moguls",
+      "related_events": []
+    },
+    {
+      "title": "Grand Prix | Tunis | Highlights",
+      "subtitle": "Frauen / Männer",
+      "sport": "Fechten",
+      "sport_slug": "fechten",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:50",
+      "iso_time": "2026-01-15T22:50:00+01:00",
+      "link": "",
+      "slug": "grand-prix-tunis-highlights",
+      "related_events": []
+    },
+    {
+      "title": "Rallye Dakar | 11. Etappe | Highlights",
+      "subtitle": "Saudi-Arabien | FIA World Rally-Raid Championship",
+      "sport": "Cross Country Rallye",
+      "sport_slug": "cross-country-rallye",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:30",
+      "iso_time": "2026-01-15T23:30:00+01:00",
+      "link": "",
+      "slug": "rallye-dakar-11-etappe-highlights",
+      "related_events": []
+    },
+    {
+      "title": "Ruhpolding | Männer-Staffel",
+      "subtitle": "Weltcup | 4x7,5km",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:50",
+      "iso_time": "2026-01-15T23:50:00+01:00",
+      "link": "",
+      "slug": "ruhpolding-manner-staffel",
+      "related_events": []
+    },
+    {
+      "title": "The Match that changed Tennis",
+      "subtitle": "Tennis-Dokumentation",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:30",
+      "iso_time": "2026-01-16T00:30:00+01:00",
+      "link": "",
+      "slug": "the-match-that-changed-tennis",
+      "related_events": []
+    },
+    {
+      "title": "Zakopane | Einzelspringen",
+      "subtitle": "Weltcup | Männer | HS 140",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:00",
+      "iso_time": "2026-01-16T01:00:00+01:00",
+      "link": "",
+      "slug": "zakopane-einzelspringen",
+      "related_events": []
+    }
+  ]
+}
