@@ -1,0 +1,973 @@
+{
+  "date": "2026-03-02",
+  "events": [
+    {
+      "title": "Georgien vs Dänemark",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-quali/ma11576891/georgien_daenemark/info",
+      "slug": "georgien-vs-danemark",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Rumänien vs Portugal",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "rumanien-vs-portugal"
+        }
+      ]
+    },
+    {
+      "title": "Spanien vs Ukraine",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-quali/ma11576894/spanien_ukraine/info",
+      "slug": "spanien-vs-ukraine",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Rumänien vs Portugal",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-quali/ma11576897/rumaenien_portugal/info",
+      "slug": "rumanien-vs-portugal",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Georgien vs Dänemark",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "georgien-vs-danemark"
+        }
+      ]
+    },
+    {
+      "title": "Montenegro vs Griechenland",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-quali/ma11576879/montenegro_griechenland/info",
+      "slug": "montenegro-vs-griechenland",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Türkei vs Serbien",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "turkei-vs-serbien"
+        },
+        {
+          "title": "Schweiz vs Bosnien-Herzegowina",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "schweiz-vs-bosnien-herzegowina"
+        }
+      ]
+    },
+    {
+      "title": "Türkei vs Serbien",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-quali/ma11576882/tuerkei_serbien/info",
+      "slug": "turkei-vs-serbien",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Montenegro vs Griechenland",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "montenegro-vs-griechenland"
+        },
+        {
+          "title": "Schweiz vs Bosnien-Herzegowina",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "schweiz-vs-bosnien-herzegowina"
+        }
+      ]
+    },
+    {
+      "title": "Schweiz vs Bosnien-Herzegowina",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-quali/ma11576900/schweiz_bosnien-herzegowina/info",
+      "slug": "schweiz-vs-bosnien-herzegowina",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Montenegro vs Griechenland",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "montenegro-vs-griechenland"
+        },
+        {
+          "title": "Türkei vs Serbien",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "turkei-vs-serbien"
+        }
+      ]
+    },
+    {
+      "title": "Litauen vs Island",
+      "time": "17:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-quali/ma11576888/litauen_island/info",
+      "slug": "litauen-vs-island",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Italien vs Großbritannien",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-quali/ma11576885/italien_grossbritannien/info",
+      "slug": "italien-vs-grossbritannien",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Real Madrid vs Getafe CF",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-primera-division/ma11223641/real-madrid_getafe-cf/info",
+      "slug": "real-madrid-vs-getafe-cf",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Pisa SC vs Bologna FC",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/italien-serie-a/ma11129388/pisa-sc_bologna-fc/info",
+      "slug": "pisa-sc-vs-bologna-fc",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Udinese Calcio vs AC Florenz",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/italien-serie-a/ma11129394/udinese-calcio_ac-florenz/info",
+      "slug": "udinese-calcio-vs-ac-florenz",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Zagłębie Lubin vs Wisła Płock",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/polen-ekstraklasa/ma11128290/zaglebie-lubin_wisla-plock/info",
+      "slug": "zaglebie-lubin-vs-wisla-plock",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Gil Vicente vs SL Benfica",
+      "time": "21:15",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/portugal-primeira-liga/ma11305949/gil-vicente_sl-benfica/info",
+      "slug": "gil-vicente-vs-sl-benfica",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Atlanta Hawks vs Portland Trail Blazers",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11597903/atlanta-hawks_portland-trail-blazers/info",
+      "slug": "atlanta-hawks-vs-portland-trail-blazers",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Orlando Magic vs Detroit Pistons",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "orlando-magic-vs-detroit-pistons"
+        }
+      ]
+    },
+    {
+      "title": "Orlando Magic vs Detroit Pistons",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11597906/orlando-magic_detroit-pistons/info",
+      "slug": "orlando-magic-vs-detroit-pistons",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Atlanta Hawks vs Portland Trail Blazers",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "atlanta-hawks-vs-portland-trail-blazers"
+        }
+      ]
+    },
+    {
+      "title": "Boston Celtics vs Philadelphia 76ers",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11597900/boston-celtics_philadelphia-76ers/info",
+      "slug": "boston-celtics-vs-philadelphia-76ers",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dallas Mavericks vs Oklahoma City Thunder",
+          "time": "02:00",
+          "sender": "Sportschau Live",
+          "slug": "dallas-mavericks-vs-oklahoma-city-thunder"
+        }
+      ]
+    },
+    {
+      "title": "Dallas Mavericks vs Oklahoma City Thunder",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11597909/dallas-mavericks_oklahoma-city-thunder/info",
+      "slug": "dallas-mavericks-vs-oklahoma-city-thunder",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Boston Celtics vs Philadelphia 76ers",
+          "time": "02:00",
+          "sender": "Sportschau Live",
+          "slug": "boston-celtics-vs-philadelphia-76ers"
+        }
+      ]
+    },
+    {
+      "title": "Los Angeles Clippers vs New Orleans Pelicans",
+      "time": "03:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11597912/los-angeles-clippers_new-orleans-pelicans/info",
+      "slug": "los-angeles-clippers-vs-new-orleans-pelicans",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Los Angeles Lakers vs Sacramento Kings",
+      "time": "03:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11597915/los-angeles-lakers_sacramento-kings/info",
+      "slug": "los-angeles-lakers-vs-sacramento-kings",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "New York Islanders vs Florida Panthers",
+      "time": "00:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415137/new-york-islanders_florida-panthers/info",
+      "slug": "new-york-islanders-vs-florida-panthers",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Anaheim Ducks vs Calgary Flames",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415143/anaheim-ducks_calgary-flames/info",
+      "slug": "anaheim-ducks-vs-calgary-flames",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Nashville Predators vs Detroit Red Wings",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415152/nashville-predators_detroit-red-wings/info",
+      "slug": "nashville-predators-vs-detroit-red-wings",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Kuurne-Brüssel-Kuurne",
+      "subtitle": "UCI Pro Series | Männer | Kortrijk - Kuurne (194,9km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-03-02T00:00:00+01:00",
+      "link": "",
+      "slug": "kuurne-brussel-kuurne",
+      "related_events": []
+    },
+    {
+      "title": "Soldeu | Super-G",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:11",
+      "iso_time": "2026-03-02T00:11:20+01:00",
+      "link": "https://play.hbomax.com/video/watch/3bfc5832-85e0-5984-bbc4-22a8bfcbb441?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "soldeu-super-g",
+      "related_events": []
+    },
+    {
+      "title": "Kuurne-Brüssel-Kuurne",
+      "subtitle": "UCI Pro Series | Männer | Kortrijk - Kuurne (194,9km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:30",
+      "iso_time": "2026-03-02T01:30:00+01:00",
+      "link": "",
+      "slug": "kuurne-brussel-kuurne",
+      "related_events": []
+    },
+    {
+      "title": "Kulm | Einzelfliegen",
+      "subtitle": "Weltcup | Männer | HS 235",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:03",
+      "iso_time": "2026-03-02T03:03:34+01:00",
+      "link": "",
+      "slug": "kulm-einzelfliegen",
+      "related_events": []
+    },
+    {
+      "title": "Welsh Open | Finale",
+      "subtitle": "B. Hawkins - J. Lisowski | 2. Session | Llandudno | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:14",
+      "iso_time": "2026-03-02T04:14:35+01:00",
+      "link": "https://play.hbomax.com/video/watch/d14dca28-3744-5de9-9d2c-60852cb41fa9?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "welsh-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Soldeu | Abfahrt",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:00",
+      "iso_time": "2026-03-02T07:00:51+01:00",
+      "link": "https://play.hbomax.com/video/watch/e1543bed-2b93-573b-a3d9-4a6964ce70d3?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "soldeu-abfahrt",
+      "related_events": [
+        {
+          "title": "Garmisch-Partenkirchen | Abfahrt",
+          "time": "08:30",
+          "sender": "Eurosport",
+          "slug": "garmisch-partenkirchen-abfahrt"
+        }
+      ]
+    },
+    {
+      "title": "Garmisch-Partenkirchen | Abfahrt",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:30",
+      "iso_time": "2026-03-02T08:30:24+01:00",
+      "link": "https://play.hbomax.com/video/watch/0e29cbbc-493e-507c-bdf7-4ed31dce06ab?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "garmisch-partenkirchen-abfahrt",
+      "related_events": [
+        {
+          "title": "Soldeu | Abfahrt",
+          "time": "07:00",
+          "sender": "Eurosport",
+          "slug": "soldeu-abfahrt"
+        }
+      ]
+    },
+    {
+      "title": "Welsh Open | Finale",
+      "subtitle": "B. Hawkins - J. Lisowski | 2. Session | Llandudno | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:34",
+      "iso_time": "2026-03-02T08:34:45+01:00",
+      "link": "https://play.hbomax.com/video/watch/a1280ab4-b425-5bee-afcd-0a38bb960cad?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "welsh-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Kuurne-Brüssel-Kuurne",
+      "subtitle": "UCI Pro Series | Männer | Kortrijk - Kuurne (194,9km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:01",
+      "iso_time": "2026-03-02T10:01:42+01:00",
+      "link": "https://play.hbomax.com/video/watch/0f7d887f-edde-5a38-83c8-e2a6b449b162?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "kuurne-brussel-kuurne",
+      "related_events": []
+    },
+    {
+      "title": "Tokio-Marathon",
+      "subtitle": "19. Austragung",
+      "sport": "Leichtathletik",
+      "sport_slug": "leichtathletik",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:27",
+      "iso_time": "2026-03-02T10:27:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/20f026a4-ed97-5103-9fe4-06e70413d5c4?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tokio-marathon",
+      "related_events": []
+    },
+    {
+      "title": "Jugend-WM | Mixed-Staffel",
+      "subtitle": "Arber | Original Sound",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:50",
+      "iso_time": "2026-03-02T10:50:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/41a5c3ca-dc60-5968-bea6-cbb9b6a22207?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "jugend-wm-mixed-staffel",
+      "related_events": []
+    },
+    {
+      "title": "Welsh Open | Finale",
+      "subtitle": "B. Hawkins - J. Lisowski | 2. Session | Llandudno | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:59",
+      "iso_time": "2026-03-02T10:59:30+01:00",
+      "link": "https://play.hbomax.com/video/watch/296216c4-bcc0-5d64-87a3-0a4badb2cb33?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "welsh-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Kulm | Einzelfliegen",
+      "subtitle": "Weltcup | Männer | HS 235",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:13",
+      "iso_time": "2026-03-02T12:13:04+01:00",
+      "link": "https://play.hbomax.com/video/watch/369705b5-cbae-555b-aebd-d9d61a634ab6?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "kulm-einzelfliegen",
+      "related_events": []
+    },
+    {
+      "title": "Soldeu | Super-G",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:29",
+      "iso_time": "2026-03-02T12:29:02+01:00",
+      "link": "https://play.hbomax.com/video/watch/c38c87b0-765d-56a6-a806-55821c28d860?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "soldeu-super-g",
+      "related_events": [
+        {
+          "title": "Garmisch-Partenkirchen | Abfahrt",
+          "time": "13:29",
+          "sender": "Eurosport",
+          "slug": "garmisch-partenkirchen-abfahrt"
+        }
+      ]
+    },
+    {
+      "title": "Omloop Nieuwsblad",
+      "subtitle": "UCI World Tour | Frauen | Gent - Ninove (137,2km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:27",
+      "iso_time": "2026-03-02T13:27:13+01:00",
+      "link": "https://play.hbomax.com/video/watch/052fb7a2-2639-508e-82d4-4928c2715c2f?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "omloop-nieuwsblad",
+      "related_events": [
+        {
+          "title": "Le Samyn des Dames",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "le-samyn-des-dames"
+        },
+        {
+          "title": "Le Samyn des Dames",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "le-samyn-des-dames"
+        }
+      ]
+    },
+    {
+      "title": "Garmisch-Partenkirchen | Abfahrt",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:29",
+      "iso_time": "2026-03-02T13:29:09+01:00",
+      "link": "https://play.hbomax.com/video/watch/ff085507-4441-5c29-b824-fcbb13cf5cac?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "garmisch-partenkirchen-abfahrt",
+      "related_events": [
+        {
+          "title": "Soldeu | Super-G",
+          "time": "12:29",
+          "sender": "Eurosport",
+          "slug": "soldeu-super-g"
+        }
+      ]
+    },
+    {
+      "title": "Welsh Open | Finale",
+      "subtitle": "B. Hawkins - J. Lisowski | 2. Session | Llandudno | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:30",
+      "iso_time": "2026-03-02T14:30:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/021cab8e-51e8-5fae-a122-fc2c2080359f?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "welsh-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Omloop Nieuwsblad",
+      "subtitle": "UCI World Tour | Männer | Gent - Ninove (207km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:30",
+      "iso_time": "2026-03-02T14:30:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/ae0e1e41-c638-5ada-b659-4a304e777e60?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "omloop-nieuwsblad",
+      "related_events": [
+        {
+          "title": "Le Samyn des Dames",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "le-samyn-des-dames"
+        },
+        {
+          "title": "Le Samyn des Dames",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "le-samyn-des-dames"
+        }
+      ]
+    },
+    {
+      "title": "Junioren-WM | Mixed-Staffel",
+      "subtitle": "Arber | Original Sound",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:35",
+      "iso_time": "2026-03-02T14:35:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/95ad2e5f-9669-5e98-b93a-9f6bae7f2276?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "junioren-wm-mixed-staffel",
+      "related_events": []
+    },
+    {
+      "title": "Le Samyn des Dames",
+      "subtitle": "UCI Europe Tour | Frauen",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2026-03-02T16:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/3336abde-491f-5c72-9bc2-b14b8b669cd4?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "le-samyn-des-dames",
+      "related_events": [
+        {
+          "title": "Omloop Nieuwsblad",
+          "time": "13:27",
+          "sender": "Eurosport",
+          "slug": "omloop-nieuwsblad"
+        },
+        {
+          "title": "Omloop Nieuwsblad",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "omloop-nieuwsblad"
+        },
+        {
+          "title": "Omloop Nieuwsblad",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "omloop-nieuwsblad"
+        }
+      ]
+    },
+    {
+      "title": "Le Samyn des Dames",
+      "subtitle": "UCI Europe Tour | Frauen",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2026-03-02T16:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/a03407f3-108b-5b02-9181-ac35b54a6932?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "le-samyn-des-dames",
+      "related_events": [
+        {
+          "title": "Omloop Nieuwsblad",
+          "time": "13:27",
+          "sender": "Eurosport",
+          "slug": "omloop-nieuwsblad"
+        },
+        {
+          "title": "Omloop Nieuwsblad",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "omloop-nieuwsblad"
+        },
+        {
+          "title": "Omloop Nieuwsblad",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "omloop-nieuwsblad"
+        }
+      ]
+    },
+    {
+      "title": "Falun | 20km Skiathlon",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Skilanglauf",
+      "sport_slug": "skilanglauf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:30",
+      "iso_time": "2026-03-02T16:30:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/7c0ad54d-b901-59d1-bf6f-cfe9ac9086b8?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "falun-20km-skiathlon",
+      "related_events": []
+    },
+    {
+      "title": "Kulm | Einzelfliegen",
+      "subtitle": "Weltcup | Männer | HS 235",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:30",
+      "iso_time": "2026-03-02T17:30:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/b9282153-eb5e-5401-8e36-95bde24d1b17?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "kulm-einzelfliegen",
+      "related_events": []
+    },
+    {
+      "title": "Soldeu | Super-G",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:45",
+      "iso_time": "2026-03-02T17:45:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/5c5696e6-22c9-5628-bf4f-ae9b950b681f?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "soldeu-super-g",
+      "related_events": [
+        {
+          "title": "Garmisch-Partenkirchen | Abfahrt",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "garmisch-partenkirchen-abfahrt"
+        }
+      ]
+    },
+    {
+      "title": "Omloop Nieuwsblad",
+      "subtitle": "UCI World Tour | Männer | Gent - Ninove (207km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2026-03-02T18:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/d901c610-5efa-5bc5-bc24-cf9fba150135?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "omloop-nieuwsblad",
+      "related_events": [
+        {
+          "title": "Le Samyn des Dames",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "le-samyn-des-dames"
+        },
+        {
+          "title": "Le Samyn des Dames",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "le-samyn-des-dames"
+        }
+      ]
+    },
+    {
+      "title": "Garmisch-Partenkirchen | Abfahrt",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2026-03-02T18:30:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/77765945-9fb3-57f5-8787-4c7520728f19?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "garmisch-partenkirchen-abfahrt",
+      "related_events": [
+        {
+          "title": "Soldeu | Super-G",
+          "time": "17:45",
+          "sender": "Eurosport",
+          "slug": "soldeu-super-g"
+        }
+      ]
+    },
+    {
+      "title": "Omloop Nieuwsblad",
+      "subtitle": "UCI World Tour | Frauen | Gent - Ninove (137,2km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2026-03-02T19:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/d3b02790-41cc-5a12-b529-c66f2fabed65?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "omloop-nieuwsblad",
+      "related_events": [
+        {
+          "title": "Le Samyn des Dames",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "le-samyn-des-dames"
+        },
+        {
+          "title": "Le Samyn des Dames",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "le-samyn-des-dames"
+        }
+      ]
+    },
+    {
+      "title": "Kulm | Einzelfliegen",
+      "subtitle": "Weltcup | Männer | HS 235",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:15",
+      "iso_time": "2026-03-02T19:15:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/b676dd71-39b5-5611-a484-5d213d4a214f?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "kulm-einzelfliegen",
+      "related_events": []
+    },
+    {
+      "title": "Tokio-Marathon",
+      "subtitle": "19. Austragung",
+      "sport": "Leichtathletik",
+      "sport_slug": "leichtathletik",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-03-02T20:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/55ed9d3b-3ea9-5c2e-9684-16354025a3de?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tokio-marathon",
+      "related_events": []
+    },
+    {
+      "title": "Welsh Open | Finale",
+      "subtitle": "B. Hawkins - J. Lisowski | 2. Session | Llandudno | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-03-02T20:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/bfbaf736-ddfc-5e0c-9ade-598e81738fa5?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "welsh-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Soldeu | Super-G",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-03-02T22:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/37d02fd3-802d-582d-9899-8465470cf47a?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "soldeu-super-g",
+      "related_events": [
+        {
+          "title": "Garmisch-Partenkirchen | Abfahrt",
+          "time": "23:00",
+          "sender": "Eurosport",
+          "slug": "garmisch-partenkirchen-abfahrt"
+        }
+      ]
+    },
+    {
+      "title": "Welsh Open | Finale",
+      "subtitle": "B. Hawkins - J. Lisowski | 2. Session | Llandudno | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-03-02T22:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/b341ffb7-b7c0-5860-9fbc-9b3c74588004?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "welsh-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Garmisch-Partenkirchen | Abfahrt",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2026-03-02T23:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/84d3cb90-eac0-5bed-85d9-ea5d979d47ed?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "garmisch-partenkirchen-abfahrt",
+      "related_events": [
+        {
+          "title": "Soldeu | Super-G",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "soldeu-super-g"
+        }
+      ]
+    },
+    {
+      "title": "Omloop Nieuwsblad",
+      "subtitle": "UCI World Tour | Männer | Gent - Ninove (207km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-03-03T00:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/545806d8-ef0f-5e54-9b2d-7ee774fa557a?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "omloop-nieuwsblad",
+      "related_events": []
+    },
+    {
+      "title": "Kulm | Einzelfliegen",
+      "subtitle": "Weltcup | Männer | HS 235",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-03-03T00:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/886692b9-f5ac-5ca1-916c-39ab00fa5e2c?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "kulm-einzelfliegen",
+      "related_events": []
+    }
+  ]
+}
