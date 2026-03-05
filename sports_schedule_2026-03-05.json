@@ -1,0 +1,2309 @@
+{
+  "date": "2026-03-05",
+  "events": [
+    {
+      "title": " vs ",
+      "time": "17:05",
+      "iso_time": "",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/biathlon/co1212/kontiolahti/ma11436899/ergebnisse",
+      "slug": "vs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": " vs ",
+      "time": "15:15",
+      "iso_time": "",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/skispringen/co3508/lahti/ma11582987/ergebnisse",
+      "slug": "vs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Tottenham Hotspur vs Crystal Palace",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/england-premier-league/ma11152389/tottenham-hotspur_crystal-palace/info",
+      "slug": "tottenham-hotspur-vs-crystal-palace",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "VfL Gummersbach vs TBV Lemgo Lippe",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/ma11405795/vfl-gummersbach_tbv-lemgo-lippe/info",
+      "slug": "vfl-gummersbach-vs-tbv-lemgo-lippe",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "TVB 1898 Stuttgart vs THW Kiel",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "tvb-1898-stuttgart-vs-thw-kiel"
+        }
+      ]
+    },
+    {
+      "title": "TVB 1898 Stuttgart vs THW Kiel",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/ma11405810/tvb-1898-stuttgart_thw-kiel/info",
+      "slug": "tvb-1898-stuttgart-vs-thw-kiel",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "VfL Gummersbach vs TBV Lemgo Lippe",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "vfl-gummersbach-vs-tbv-lemgo-lippe"
+        }
+      ]
+    },
+    {
+      "title": "Dinamo București vs Kolstad Håndball",
+      "time": "18:45",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-champions-league/ma11390597/dinamo-bucuresti_kolstad-handball/info",
+      "slug": "dinamo-bucuresti-vs-kolstad-handball",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "SC Pick Szeged vs GOG Håndbold",
+          "time": "18:45",
+          "sender": "Sportschau Live",
+          "slug": "sc-pick-szeged-vs-gog-handbold"
+        }
+      ]
+    },
+    {
+      "title": "HBC Nantes vs Veszprém KC",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-champions-league/ma11390603/hbc-nantes_veszprem-kc/info",
+      "slug": "hbc-nantes-vs-veszprem-kc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "SC Magdeburg vs FC Barcelona",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "sc-magdeburg-vs-fc-barcelona"
+        }
+      ]
+    },
+    {
+      "title": "SC Pick Szeged vs GOG Håndbold",
+      "time": "18:45",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-champions-league/ma11390618/sc-pick-szeged_gog-handbold/info",
+      "slug": "sc-pick-szeged-vs-gog-handbold",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dinamo București vs Kolstad Håndball",
+          "time": "18:45",
+          "sender": "Sportschau Live",
+          "slug": "dinamo-bucuresti-vs-kolstad-handball"
+        }
+      ]
+    },
+    {
+      "title": "SC Magdeburg vs FC Barcelona",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-champions-league/ma11390615/sc-magdeburg_fc-barcelona/info",
+      "slug": "sc-magdeburg-vs-fc-barcelona",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "HBC Nantes vs Veszprém KC",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "hbc-nantes-vs-veszprem-kc"
+        }
+      ]
+    },
+    {
+      "title": "Kroatien vs Frankreich",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/co5137/em-qualifikation/ma11044586/kroatien_frankreich/info",
+      "slug": "kroatien-vs-frankreich",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Finnland vs Kosovo",
+      "time": "17:30",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/co5137/em-qualifikation/ma11044589/finnland_kosovo/info",
+      "slug": "finnland-vs-kosovo",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Schweiz vs Niederlande",
+      "time": "19:15",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/co5137/em-qualifikation/ma11044604/schweiz_niederlande/info",
+      "slug": "schweiz-vs-niederlande",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Bosnien-Herzegowina vs Italien",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/co5137/em-qualifikation/ma11044607/bosnien-herzegowina_italien/info",
+      "slug": "bosnien-herzegowina-vs-italien",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Ukraine vs Litauen",
+      "time": "15:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/co5137/em-qualifikation/ma11910637/ukraine_litauen/info",
+      "slug": "ukraine-vs-litauen",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Fenerbahçe vs AS Monaco",
+      "time": "18:45",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493536/fenerbahce_as-monaco/info",
+      "slug": "fenerbahce-vs-as-monaco",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Maccabi Tel Aviv vs Hapoel Tel Aviv",
+      "time": "20:05",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493539/maccabi-tel-aviv_hapoel-tel-aviv/info",
+      "slug": "maccabi-tel-aviv-vs-hapoel-tel-aviv",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Olimpia Milano vs FC Barcelona",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493542/olimpia-milano_fc-barcelona/info",
+      "slug": "olimpia-milano-vs-fc-barcelona",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "KK Partizan vs Dubai Basketball",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "kk-partizan-vs-dubai-basketball"
+        },
+        {
+          "title": "Valencia Basket vs Žalgiris Kaunas",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "valencia-basket-vs-zalgiris-kaunas"
+        }
+      ]
+    },
+    {
+      "title": "KK Partizan vs Dubai Basketball",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493545/kk-partizan_dubai-basketball/info",
+      "slug": "kk-partizan-vs-dubai-basketball",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Olimpia Milano vs FC Barcelona",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "olimpia-milano-vs-fc-barcelona"
+        },
+        {
+          "title": "Valencia Basket vs Žalgiris Kaunas",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "valencia-basket-vs-zalgiris-kaunas"
+        }
+      ]
+    },
+    {
+      "title": "Valencia Basket vs Žalgiris Kaunas",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493548/valencia-basket_zalgiris-kaunas/info",
+      "slug": "valencia-basket-vs-zalgiris-kaunas",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Olimpia Milano vs FC Barcelona",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "olimpia-milano-vs-fc-barcelona"
+        },
+        {
+          "title": "KK Partizan vs Dubai Basketball",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "kk-partizan-vs-dubai-basketball"
+        }
+      ]
+    },
+    {
+      "title": "Real Madrid vs Virtus Bologna",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493551/real-madrid_virtus-bologna/info",
+      "slug": "real-madrid-vs-virtus-bologna",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Radomiak Radom vs Arka Gdynia",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/polen-ekstraklasa/ma11128170/radomiak-radom_arka-gdynia/info",
+      "slug": "radomiak-radom-vs-arka-gdynia",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Basel 1893 vs Grasshopper Club Zürich",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "fc-basel-1893-vs-grasshopper-club-zurich"
+        },
+        {
+          "title": "FC Thun Berner Oberland vs FC St. Gallen",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "fc-thun-berner-oberland-vs-fc-st-gallen"
+        }
+      ]
+    },
+    {
+      "title": "FC Basel 1893 vs Grasshopper Club Zürich",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/schweiz-super-league/ma11792560/fc-basel-1893_grasshopper-club-zuerich/info",
+      "slug": "fc-basel-1893-vs-grasshopper-club-zurich",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Radomiak Radom vs Arka Gdynia",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "radomiak-radom-vs-arka-gdynia"
+        },
+        {
+          "title": "FC Thun Berner Oberland vs FC St. Gallen",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "fc-thun-berner-oberland-vs-fc-st-gallen"
+        }
+      ]
+    },
+    {
+      "title": "FC Thun Berner Oberland vs FC St. Gallen",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/schweiz-super-league/ma11792563/fc-thun-berner-oberland_fc-st-gallen/info",
+      "slug": "fc-thun-berner-oberland-vs-fc-st-gallen",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Radomiak Radom vs Arka Gdynia",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "radomiak-radom-vs-arka-gdynia"
+        },
+        {
+          "title": "FC Basel 1893 vs Grasshopper Club Zürich",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "fc-basel-1893-vs-grasshopper-club-zurich"
+        }
+      ]
+    },
+    {
+      "title": "USA vs Kanada",
+      "time": "00:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-freundschaft-frauen/ma11912149/usa_kanada/info",
+      "slug": "usa-vs-kanada",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "VA Emirate vs Tadschikistan",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-freundschaft-frauen/ma11922301/va-emirate_tadschikistan/info",
+      "slug": "va-emirate-vs-tadschikistan",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "CV Guaguas vs Montpellier Volley",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Volleyball",
+      "sport_slug": "volleyball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/volleyball/volleyball-champions-league/ma11913094/cv-guaguas_montpellier-volley/info",
+      "slug": "cv-guaguas-vs-montpellier-volley",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "New York Knicks vs Oklahoma City Thunder",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11601008/new-york-knicks_oklahoma-city-thunder/info",
+      "slug": "new-york-knicks-vs-oklahoma-city-thunder",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Boston Celtics vs Charlotte Hornets",
+      "time": "01:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11601011/boston-celtics_charlotte-hornets/info",
+      "slug": "boston-celtics-vs-charlotte-hornets",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Philadelphia 76ers vs Utah Jazz",
+          "time": "01:30",
+          "sender": "Sportschau Live",
+          "slug": "philadelphia-76ers-vs-utah-jazz"
+        }
+      ]
+    },
+    {
+      "title": "Philadelphia 76ers vs Utah Jazz",
+      "time": "01:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11601014/philadelphia-76ers_utah-jazz/info",
+      "slug": "philadelphia-76ers-vs-utah-jazz",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Boston Celtics vs Charlotte Hornets",
+          "time": "01:30",
+          "sender": "Sportschau Live",
+          "slug": "boston-celtics-vs-charlotte-hornets"
+        }
+      ]
+    },
+    {
+      "title": "Memphis Grizzlies vs Portland Trail Blazers",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11601017/memphis-grizzlies_portland-trail-blazers/info",
+      "slug": "memphis-grizzlies-vs-portland-trail-blazers",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Milwaukee Bucks vs Atlanta Hawks",
+      "time": "03:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11601020/milwaukee-bucks_atlanta-hawks/info",
+      "slug": "milwaukee-bucks-vs-atlanta-hawks",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Los Angeles Clippers vs Indiana Pacers",
+      "time": "04:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11601023/los-angeles-clippers_indiana-pacers/info",
+      "slug": "los-angeles-clippers-vs-indiana-pacers",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Detroit Red Wings vs Vegas Golden Knights",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415197/detroit-red-wings_vegas-golden-knights/info",
+      "slug": "detroit-red-wings-vs-vegas-golden-knights",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "New Jersey Devils vs Toronto Maple Leafs",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "new-jersey-devils-vs-toronto-maple-leafs"
+        }
+      ]
+    },
+    {
+      "title": "New Jersey Devils vs Toronto Maple Leafs",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415200/new-jersey-devils_toronto-maple-leafs/info",
+      "slug": "new-jersey-devils-vs-toronto-maple-leafs",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Detroit Red Wings vs Vegas Golden Knights",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "detroit-red-wings-vs-vegas-golden-knights"
+        }
+      ]
+    },
+    {
+      "title": "Anaheim Ducks vs New York Islanders",
+      "time": "04:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415203/anaheim-ducks_new-york-islanders/info",
+      "slug": "anaheim-ducks-vs-new-york-islanders",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Seattle Kraken vs St. Louis Blues",
+          "time": "04:00",
+          "sender": "Sportschau Live",
+          "slug": "seattle-kraken-vs-st-louis-blues"
+        },
+        {
+          "title": "Vancouver Canucks vs Carolina Hurricanes",
+          "time": "04:00",
+          "sender": "Sportschau Live",
+          "slug": "vancouver-canucks-vs-carolina-hurricanes"
+        }
+      ]
+    },
+    {
+      "title": "Seattle Kraken vs St. Louis Blues",
+      "time": "04:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415206/seattle-kraken_st-louis-blues/info",
+      "slug": "seattle-kraken-vs-st-louis-blues",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Anaheim Ducks vs New York Islanders",
+          "time": "04:00",
+          "sender": "Sportschau Live",
+          "slug": "anaheim-ducks-vs-new-york-islanders"
+        },
+        {
+          "title": "Vancouver Canucks vs Carolina Hurricanes",
+          "time": "04:00",
+          "sender": "Sportschau Live",
+          "slug": "vancouver-canucks-vs-carolina-hurricanes"
+        }
+      ]
+    },
+    {
+      "title": "Vancouver Canucks vs Carolina Hurricanes",
+      "time": "04:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415209/vancouver-canucks_carolina-hurricanes/info",
+      "slug": "vancouver-canucks-vs-carolina-hurricanes",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Anaheim Ducks vs New York Islanders",
+          "time": "04:00",
+          "sender": "Sportschau Live",
+          "slug": "anaheim-ducks-vs-new-york-islanders"
+        },
+        {
+          "title": "Seattle Kraken vs St. Louis Blues",
+          "time": "04:00",
+          "sender": "Sportschau Live",
+          "slug": "seattle-kraken-vs-st-louis-blues"
+        }
+      ]
+    },
+    {
+      "title": "Victoria Jimenez Kasintseva vs Caty McNally",
+      "time": "00:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-bnp-paribas-open/ma11769610/victoria-jimenez-kasintseva_caty-mcnally/info",
+      "slug": "victoria-jimenez-kasintseva-vs-caty-mcnally",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Himeno Sakatsume vs Alycia Parks",
+          "time": "00:10",
+          "sender": "Sportschau Live",
+          "slug": "himeno-sakatsume-vs-alycia-parks"
+        }
+      ]
+    },
+    {
+      "title": "Himeno Sakatsume vs Alycia Parks",
+      "time": "00:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-bnp-paribas-open/ma11769595/himeno-sakatsume_alycia-parks/info",
+      "slug": "himeno-sakatsume-vs-alycia-parks",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Victoria Jimenez Kasintseva vs Caty McNally",
+          "time": "00:10",
+          "sender": "Sportschau Live",
+          "slug": "victoria-jimenez-kasintseva-vs-caty-mcnally"
+        }
+      ]
+    },
+    {
+      "title": "Dalma Galfi vs Anna Blinkova",
+      "time": "01:05",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-bnp-paribas-open/ma11769634/dalma-galfi_anna-blinkova/info",
+      "slug": "dalma-galfi-vs-anna-blinkova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Jenson Brooksby vs Alexei Popyrin",
+          "time": "01:05",
+          "sender": "Sportschau Live",
+          "slug": "jenson-brooksby-vs-alexei-popyrin"
+        }
+      ]
+    },
+    {
+      "title": "Jaqueline Cristian vs Janice Tjen",
+      "time": "02:55",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-bnp-paribas-open/ma11769598/jaqueline-cristian_janice-tjen/info",
+      "slug": "jaqueline-cristian-vs-janice-tjen",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Bianca Andreescu vs Kamilla Rakhimova",
+      "time": "03:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-bnp-paribas-open/ma11769643/bianca-andreescu_kamilla-rakhimova/info",
+      "slug": "bianca-andreescu-vs-kamilla-rakhimova",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Dayana Yastremska vs Shuai Zhang",
+      "time": "04:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-bnp-paribas-open/ma11769646/dayana-yastremska_shuai-zhang/info",
+      "slug": "dayana-yastremska-vs-shuai-zhang",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Sloane Stephens vs Camila Osorio",
+          "time": "04:40",
+          "sender": "Sportschau Live",
+          "slug": "sloane-stephens-vs-camila-osorio"
+        },
+        {
+          "title": "Stefanos Tsitsipas vs Denis Shapovalov",
+          "time": "04:40",
+          "sender": "Sportschau Live",
+          "slug": "stefanos-tsitsipas-vs-denis-shapovalov"
+        }
+      ]
+    },
+    {
+      "title": "Sloane Stephens vs Camila Osorio",
+      "time": "04:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-bnp-paribas-open/ma11769607/sloane-stephens_camila-osorio/info",
+      "slug": "sloane-stephens-vs-camila-osorio",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dayana Yastremska vs Shuai Zhang",
+          "time": "04:40",
+          "sender": "Sportschau Live",
+          "slug": "dayana-yastremska-vs-shuai-zhang"
+        },
+        {
+          "title": "Stefanos Tsitsipas vs Denis Shapovalov",
+          "time": "04:40",
+          "sender": "Sportschau Live",
+          "slug": "stefanos-tsitsipas-vs-denis-shapovalov"
+        }
+      ]
+    },
+    {
+      "title": "Laura Siegemund vs Petra Marcinko",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-bnp-paribas-open/ma11769754/laura-siegemund_petra-marcinko/info",
+      "slug": "laura-siegemund-vs-petra-marcinko",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Magda Linette vs Ashlyn Krueger",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "magda-linette-vs-ashlyn-krueger"
+        },
+        {
+          "title": "Marie Bouzkova vs Taylor Townsend",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "marie-bouzkova-vs-taylor-townsend"
+        },
+        {
+          "title": "Lanlana Tararudee vs Sonay Kartal",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "lanlana-tararudee-vs-sonay-kartal"
+        }
+      ]
+    },
+    {
+      "title": "Magda Linette vs Ashlyn Krueger",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-bnp-paribas-open/ma11769751/magda-linette_ashlyn-krueger/info",
+      "slug": "magda-linette-vs-ashlyn-krueger",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Laura Siegemund vs Petra Marcinko",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "laura-siegemund-vs-petra-marcinko"
+        },
+        {
+          "title": "Marie Bouzkova vs Taylor Townsend",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "marie-bouzkova-vs-taylor-townsend"
+        },
+        {
+          "title": "Lanlana Tararudee vs Sonay Kartal",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "lanlana-tararudee-vs-sonay-kartal"
+        }
+      ]
+    },
+    {
+      "title": "Marie Bouzkova vs Taylor Townsend",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-bnp-paribas-open/ma11769727/marie-bouzkova_taylor-townsend/info",
+      "slug": "marie-bouzkova-vs-taylor-townsend",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Laura Siegemund vs Petra Marcinko",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "laura-siegemund-vs-petra-marcinko"
+        },
+        {
+          "title": "Magda Linette vs Ashlyn Krueger",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "magda-linette-vs-ashlyn-krueger"
+        },
+        {
+          "title": "Lanlana Tararudee vs Sonay Kartal",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "lanlana-tararudee-vs-sonay-kartal"
+        }
+      ]
+    },
+    {
+      "title": "Lanlana Tararudee vs Sonay Kartal",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-bnp-paribas-open/ma11769718/lanlana-tararudee_sonay-kartal/info",
+      "slug": "lanlana-tararudee-vs-sonay-kartal",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Laura Siegemund vs Petra Marcinko",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "laura-siegemund-vs-petra-marcinko"
+        },
+        {
+          "title": "Magda Linette vs Ashlyn Krueger",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "magda-linette-vs-ashlyn-krueger"
+        },
+        {
+          "title": "Marie Bouzkova vs Taylor Townsend",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "marie-bouzkova-vs-taylor-townsend"
+        }
+      ]
+    },
+    {
+      "title": "Francesca Jones vs Kayla Day",
+      "time": "21:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-bnp-paribas-open/ma11769778/francesca-jones_kayla-day/info",
+      "slug": "francesca-jones-vs-kayla-day",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Elsa Jacquemot vs Anna Bondar",
+          "time": "21:10",
+          "sender": "Sportschau Live",
+          "slug": "elsa-jacquemot-vs-anna-bondar"
+        },
+        {
+          "title": "Donna Vekić vs Tereza Valentová",
+          "time": "21:10",
+          "sender": "Sportschau Live",
+          "slug": "donna-vekic-vs-tereza-valentova"
+        },
+        {
+          "title": "Jacob Fearnley vs Damir Džumhur",
+          "time": "21:10",
+          "sender": "Sportschau Live",
+          "slug": "jacob-fearnley-vs-damir-dzumhur"
+        }
+      ]
+    },
+    {
+      "title": "Elsa Jacquemot vs Anna Bondar",
+      "time": "21:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-bnp-paribas-open/ma11769763/elsa-jacquemot_anna-bondar/info",
+      "slug": "elsa-jacquemot-vs-anna-bondar",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Francesca Jones vs Kayla Day",
+          "time": "21:10",
+          "sender": "Sportschau Live",
+          "slug": "francesca-jones-vs-kayla-day"
+        },
+        {
+          "title": "Donna Vekić vs Tereza Valentová",
+          "time": "21:10",
+          "sender": "Sportschau Live",
+          "slug": "donna-vekic-vs-tereza-valentova"
+        },
+        {
+          "title": "Jacob Fearnley vs Damir Džumhur",
+          "time": "21:10",
+          "sender": "Sportschau Live",
+          "slug": "jacob-fearnley-vs-damir-dzumhur"
+        }
+      ]
+    },
+    {
+      "title": "Donna Vekić vs Tereza Valentová",
+      "time": "21:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-bnp-paribas-open/ma11769691/donna-vekic_tereza-valentova/info",
+      "slug": "donna-vekic-vs-tereza-valentova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Francesca Jones vs Kayla Day",
+          "time": "21:10",
+          "sender": "Sportschau Live",
+          "slug": "francesca-jones-vs-kayla-day"
+        },
+        {
+          "title": "Elsa Jacquemot vs Anna Bondar",
+          "time": "21:10",
+          "sender": "Sportschau Live",
+          "slug": "elsa-jacquemot-vs-anna-bondar"
+        },
+        {
+          "title": "Jacob Fearnley vs Damir Džumhur",
+          "time": "21:10",
+          "sender": "Sportschau Live",
+          "slug": "jacob-fearnley-vs-damir-dzumhur"
+        }
+      ]
+    },
+    {
+      "title": "Diane Parry vs Venus Williams",
+      "time": "22:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-bnp-paribas-open/ma11769715/diane-parry_venus-williams/info",
+      "slug": "diane-parry-vs-venus-williams",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Hubert Hurkacz vs Aleksandar Kovacevic",
+          "time": "22:00",
+          "sender": "Sportschau Live",
+          "slug": "hubert-hurkacz-vs-aleksandar-kovacevic"
+        }
+      ]
+    },
+    {
+      "title": "Varvara Gracheva vs Lilli Tagger",
+      "time": "22:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-bnp-paribas-open/ma11769775/varvara-gracheva_lilli-tagger/info",
+      "slug": "varvara-gracheva-vs-lilli-tagger",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Storm Hunter vs Magdalena Frech",
+          "time": "22:20",
+          "sender": "Sportschau Live",
+          "slug": "storm-hunter-vs-magdalena-frech"
+        },
+        {
+          "title": "Cristina Bucsa vs Darja Vidmanova",
+          "time": "22:20",
+          "sender": "Sportschau Live",
+          "slug": "cristina-bucsa-vs-darja-vidmanova"
+        },
+        {
+          "title": "Fabian Marozsan vs Roberto Bautista Agut",
+          "time": "22:20",
+          "sender": "Sportschau Live",
+          "slug": "fabian-marozsan-vs-roberto-bautista-agut"
+        }
+      ]
+    },
+    {
+      "title": "Storm Hunter vs Magdalena Frech",
+      "time": "22:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-bnp-paribas-open/ma11769706/storm-hunter_magdalena-frech/info",
+      "slug": "storm-hunter-vs-magdalena-frech",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Varvara Gracheva vs Lilli Tagger",
+          "time": "22:20",
+          "sender": "Sportschau Live",
+          "slug": "varvara-gracheva-vs-lilli-tagger"
+        },
+        {
+          "title": "Cristina Bucsa vs Darja Vidmanova",
+          "time": "22:20",
+          "sender": "Sportschau Live",
+          "slug": "cristina-bucsa-vs-darja-vidmanova"
+        },
+        {
+          "title": "Fabian Marozsan vs Roberto Bautista Agut",
+          "time": "22:20",
+          "sender": "Sportschau Live",
+          "slug": "fabian-marozsan-vs-roberto-bautista-agut"
+        }
+      ]
+    },
+    {
+      "title": "Cristina Bucsa vs Darja Vidmanova",
+      "time": "22:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-bnp-paribas-open/ma11769703/cristina-bucsa_darja-vidmanova/info",
+      "slug": "cristina-bucsa-vs-darja-vidmanova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Varvara Gracheva vs Lilli Tagger",
+          "time": "22:20",
+          "sender": "Sportschau Live",
+          "slug": "varvara-gracheva-vs-lilli-tagger"
+        },
+        {
+          "title": "Storm Hunter vs Magdalena Frech",
+          "time": "22:20",
+          "sender": "Sportschau Live",
+          "slug": "storm-hunter-vs-magdalena-frech"
+        },
+        {
+          "title": "Fabian Marozsan vs Roberto Bautista Agut",
+          "time": "22:20",
+          "sender": "Sportschau Live",
+          "slug": "fabian-marozsan-vs-roberto-bautista-agut"
+        }
+      ]
+    },
+    {
+      "title": "Katerina Siniakova vs Sofia Kenin",
+      "time": "23:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-bnp-paribas-open/ma11769742/katerina-siniakova_sofia-kenin/info",
+      "slug": "katerina-siniakova-vs-sofia-kenin",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Daniel Merida Aguilar vs Alex Michelsen",
+          "time": "23:10",
+          "sender": "Sportschau Live",
+          "slug": "daniel-merida-aguilar-vs-alex-michelsen"
+        }
+      ]
+    },
+    {
+      "title": "Matteo Berrettini vs Adrian Mannarino",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-bnp-paribas-open/ma11750983/matteo-berrettini_adrian-mannarino/info",
+      "slug": "matteo-berrettini-vs-adrian-mannarino",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Dino Prižmić vs Tristan Schoolkate",
+      "time": "00:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-bnp-paribas-open/ma11750947/dino-prizmic_tristan-schoolkate/info",
+      "slug": "dino-prizmic-vs-tristan-schoolkate",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Jenson Brooksby vs Alexei Popyrin",
+      "time": "01:05",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-bnp-paribas-open/ma11750971/jenson-brooksby_alexei-popyrin/info",
+      "slug": "jenson-brooksby-vs-alexei-popyrin",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dalma Galfi vs Anna Blinkova",
+          "time": "01:05",
+          "sender": "Sportschau Live",
+          "slug": "dalma-galfi-vs-anna-blinkova"
+        }
+      ]
+    },
+    {
+      "title": "Gael Monfils vs Alexis Galarneau",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-bnp-paribas-open/ma11750959/gael-monfils_alexis-galarneau/info",
+      "slug": "gael-monfils-vs-alexis-galarneau",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Zachary Svajda vs Marin Čilić",
+      "time": "03:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-bnp-paribas-open/ma11751004/zachary-svajda_marin-cilic/info",
+      "slug": "zachary-svajda-vs-marin-cilic",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "João Fonseca vs Raphael Collignon",
+      "time": "03:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-bnp-paribas-open/ma11751016/joao-fonseca_raphael-collignon/info",
+      "slug": "joao-fonseca-vs-raphael-collignon",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Stefanos Tsitsipas vs Denis Shapovalov",
+      "time": "04:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-bnp-paribas-open/ma11751028/stefanos-tsitsipas_denis-shapovalov/info",
+      "slug": "stefanos-tsitsipas-vs-denis-shapovalov",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dayana Yastremska vs Shuai Zhang",
+          "time": "04:40",
+          "sender": "Sportschau Live",
+          "slug": "dayana-yastremska-vs-shuai-zhang"
+        },
+        {
+          "title": "Sloane Stephens vs Camila Osorio",
+          "time": "04:40",
+          "sender": "Sportschau Live",
+          "slug": "sloane-stephens-vs-camila-osorio"
+        }
+      ]
+    },
+    {
+      "title": "Kamil Majchrzak vs Giovanni Mpetshi Perricard",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-bnp-paribas-open/ma11750896/kamil-majchrzak_giovanni-mpetshi-perricard/info",
+      "slug": "kamil-majchrzak-vs-giovanni-mpetshi-perricard",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Laura Siegemund vs Petra Marcinko",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "laura-siegemund-vs-petra-marcinko"
+        },
+        {
+          "title": "Magda Linette vs Ashlyn Krueger",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "magda-linette-vs-ashlyn-krueger"
+        },
+        {
+          "title": "Marie Bouzkova vs Taylor Townsend",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "marie-bouzkova-vs-taylor-townsend"
+        }
+      ]
+    },
+    {
+      "title": "Alexander Shevchenko vs Sho Shimabukuro",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-bnp-paribas-open/ma11750863/alexander-shevchenko_sho-shimabukuro/info",
+      "slug": "alexander-shevchenko-vs-sho-shimabukuro",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Laura Siegemund vs Petra Marcinko",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "laura-siegemund-vs-petra-marcinko"
+        },
+        {
+          "title": "Magda Linette vs Ashlyn Krueger",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "magda-linette-vs-ashlyn-krueger"
+        },
+        {
+          "title": "Marie Bouzkova vs Taylor Townsend",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "marie-bouzkova-vs-taylor-townsend"
+        }
+      ]
+    },
+    {
+      "title": "Terence Atmane vs Grigor Dimitrov",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-bnp-paribas-open/ma11750848/terence-atmane_grigor-dimitrov/info",
+      "slug": "terence-atmane-vs-grigor-dimitrov",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Laura Siegemund vs Petra Marcinko",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "laura-siegemund-vs-petra-marcinko"
+        },
+        {
+          "title": "Magda Linette vs Ashlyn Krueger",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "magda-linette-vs-ashlyn-krueger"
+        },
+        {
+          "title": "Marie Bouzkova vs Taylor Townsend",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "marie-bouzkova-vs-taylor-townsend"
+        }
+      ]
+    },
+    {
+      "title": "Jacob Fearnley vs Damir Džumhur",
+      "time": "21:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-bnp-paribas-open/ma11750935/jacob-fearnley_damir-dzumhur/info",
+      "slug": "jacob-fearnley-vs-damir-dzumhur",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Francesca Jones vs Kayla Day",
+          "time": "21:10",
+          "sender": "Sportschau Live",
+          "slug": "francesca-jones-vs-kayla-day"
+        },
+        {
+          "title": "Elsa Jacquemot vs Anna Bondar",
+          "time": "21:10",
+          "sender": "Sportschau Live",
+          "slug": "elsa-jacquemot-vs-anna-bondar"
+        },
+        {
+          "title": "Donna Vekić vs Tereza Valentová",
+          "time": "21:10",
+          "sender": "Sportschau Live",
+          "slug": "donna-vekic-vs-tereza-valentova"
+        }
+      ]
+    },
+    {
+      "title": "Chun Hsin Tseng vs Sebastian Baez",
+      "time": "21:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-bnp-paribas-open/ma11750923/chun-hsin-tseng_sebastian-baez/info",
+      "slug": "chun-hsin-tseng-vs-sebastian-baez",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Francesca Jones vs Kayla Day",
+          "time": "21:10",
+          "sender": "Sportschau Live",
+          "slug": "francesca-jones-vs-kayla-day"
+        },
+        {
+          "title": "Elsa Jacquemot vs Anna Bondar",
+          "time": "21:10",
+          "sender": "Sportschau Live",
+          "slug": "elsa-jacquemot-vs-anna-bondar"
+        },
+        {
+          "title": "Donna Vekić vs Tereza Valentová",
+          "time": "21:10",
+          "sender": "Sportschau Live",
+          "slug": "donna-vekic-vs-tereza-valentova"
+        }
+      ]
+    },
+    {
+      "title": "Hubert Hurkacz vs Aleksandar Kovacevic",
+      "time": "22:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-bnp-paribas-open/ma11750899/hubert-hurkacz_aleksandar-kovacevic/info",
+      "slug": "hubert-hurkacz-vs-aleksandar-kovacevic",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Diane Parry vs Venus Williams",
+          "time": "22:00",
+          "sender": "Sportschau Live",
+          "slug": "diane-parry-vs-venus-williams"
+        }
+      ]
+    },
+    {
+      "title": "Fabian Marozsan vs Roberto Bautista Agut",
+      "time": "22:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-bnp-paribas-open/ma11750911/fabian-marozsan_roberto-bautista-agut/info",
+      "slug": "fabian-marozsan-vs-roberto-bautista-agut",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Varvara Gracheva vs Lilli Tagger",
+          "time": "22:20",
+          "sender": "Sportschau Live",
+          "slug": "varvara-gracheva-vs-lilli-tagger"
+        },
+        {
+          "title": "Storm Hunter vs Magdalena Frech",
+          "time": "22:20",
+          "sender": "Sportschau Live",
+          "slug": "storm-hunter-vs-magdalena-frech"
+        },
+        {
+          "title": "Cristina Bucsa vs Darja Vidmanova",
+          "time": "22:20",
+          "sender": "Sportschau Live",
+          "slug": "cristina-bucsa-vs-darja-vidmanova"
+        }
+      ]
+    },
+    {
+      "title": "Valentin Royer vs Benjamin Bonzi",
+      "time": "22:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-bnp-paribas-open/ma11750908/valentin-royer_benjamin-bonzi/info",
+      "slug": "valentin-royer-vs-benjamin-bonzi",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Varvara Gracheva vs Lilli Tagger",
+          "time": "22:20",
+          "sender": "Sportschau Live",
+          "slug": "varvara-gracheva-vs-lilli-tagger"
+        },
+        {
+          "title": "Storm Hunter vs Magdalena Frech",
+          "time": "22:20",
+          "sender": "Sportschau Live",
+          "slug": "storm-hunter-vs-magdalena-frech"
+        },
+        {
+          "title": "Cristina Bucsa vs Darja Vidmanova",
+          "time": "22:20",
+          "sender": "Sportschau Live",
+          "slug": "cristina-bucsa-vs-darja-vidmanova"
+        }
+      ]
+    },
+    {
+      "title": "Daniel Merida Aguilar vs Alex Michelsen",
+      "time": "23:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-bnp-paribas-open/ma11750932/daniel-merida-aguilar_alex-michelsen/info",
+      "slug": "daniel-merida-aguilar-vs-alex-michelsen",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Katerina Siniakova vs Sofia Kenin",
+          "time": "23:10",
+          "sender": "Sportschau Live",
+          "slug": "katerina-siniakova-vs-sofia-kenin"
+        }
+      ]
+    },
+    {
+      "title": "Alejandro Tabilo vs Rafael Jodar",
+      "time": "23:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-bnp-paribas-open/ma11750920/alejandro-tabilo_rafael-jodar/info",
+      "slug": "alejandro-tabilo-vs-rafael-jodar",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Garmisch-Partenkirchen | Abfahrt",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:58",
+      "iso_time": "2026-03-04T23:58:22+01:00",
+      "link": "",
+      "slug": "garmisch-partenkirchen-abfahrt",
+      "related_events": []
+    },
+    {
+      "title": "Le Samyn des Dames",
+      "subtitle": "UCI Europe Tour | Frauen",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:36",
+      "iso_time": "2026-03-05T00:36:06+01:00",
+      "link": "",
+      "slug": "le-samyn-des-dames",
+      "related_events": [
+        {
+          "title": "Kuurne-Brüssel-Kuurne",
+          "time": "01:32",
+          "sender": "Eurosport",
+          "slug": "kuurne-brussel-kuurne"
+        }
+      ]
+    },
+    {
+      "title": "Kuurne-Brüssel-Kuurne",
+      "subtitle": "UCI Pro Series | Männer | Kortrijk - Kuurne (194,9km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:32",
+      "iso_time": "2026-03-05T01:32:35+01:00",
+      "link": "",
+      "slug": "kuurne-brussel-kuurne",
+      "related_events": [
+        {
+          "title": "Le Samyn des Dames",
+          "time": "00:36",
+          "sender": "Eurosport",
+          "slug": "le-samyn-des-dames"
+        }
+      ]
+    },
+    {
+      "title": "Soldeu | Super-G",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:01",
+      "iso_time": "2026-03-05T03:01:58+01:00",
+      "link": "https://play.hbomax.com/video/watch/2bb76305-d247-5691-a034-8752c0938d3f?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "soldeu-super-g",
+      "related_events": []
+    },
+    {
+      "title": "Masters | Finale | 2. Session",
+      "subtitle": "K. Wilson - J. Higgins | London",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:30",
+      "iso_time": "2026-03-05T04:30:09+01:00",
+      "link": "https://play.hbomax.com/video/watch/5330e869-80bb-5e73-b50b-ebbbc1e94051?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "masters-finale-2-session",
+      "related_events": []
+    },
+    {
+      "title": "Garmisch-Partenkirchen | Abfahrt",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:02",
+      "iso_time": "2026-03-05T07:02:43+01:00",
+      "link": "https://play.hbomax.com/video/watch/559b1986-2bd3-5121-a47e-c3698bf6f5d3?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "garmisch-partenkirchen-abfahrt",
+      "related_events": []
+    },
+    {
+      "title": "Omloop Nieuwsblad",
+      "subtitle": "UCI World Tour | Männer | Gent - Ninove (207km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:30",
+      "iso_time": "2026-03-05T08:30:20+01:00",
+      "link": "https://play.hbomax.com/video/watch/8bcc69f0-4080-5a6c-8968-da153196756a?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "omloop-nieuwsblad",
+      "related_events": [
+        {
+          "title": "Kuurne-Brüssel-Kuurne",
+          "time": "09:29",
+          "sender": "Eurosport",
+          "slug": "kuurne-brussel-kuurne"
+        }
+      ]
+    },
+    {
+      "title": "Masters | Finale | 2. Session",
+      "subtitle": "K. Wilson - J. Higgins | London",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:35",
+      "iso_time": "2026-03-05T08:35:13+01:00",
+      "link": "https://play.hbomax.com/video/watch/99d7d330-c1e8-5a69-a269-d9b539fa3e1c?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "masters-finale-2-session",
+      "related_events": []
+    },
+    {
+      "title": "Kuurne-Brüssel-Kuurne",
+      "subtitle": "UCI Pro Series | Männer | Kortrijk - Kuurne (194,9km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:29",
+      "iso_time": "2026-03-05T09:29:03+01:00",
+      "link": "https://play.hbomax.com/video/watch/40b16712-84a2-5e38-8538-c6ba0449ff33?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "kuurne-brussel-kuurne",
+      "related_events": [
+        {
+          "title": "Omloop Nieuwsblad",
+          "time": "08:30",
+          "sender": "Eurosport",
+          "slug": "omloop-nieuwsblad"
+        }
+      ]
+    },
+    {
+      "title": "Sydney Sail Grand Prix | Highlights",
+      "subtitle": "SailGP | Sydney",
+      "sport": "Segeln",
+      "sport_slug": "segeln",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:30",
+      "iso_time": "2026-03-05T09:30:18+01:00",
+      "link": "https://play.hbomax.com/video/watch/019258d6-c2f4-5ad9-a150-fdaae759b59f?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "sydney-sail-grand-prix-highlights",
+      "related_events": []
+    },
+    {
+      "title": "EM | Sprint",
+      "subtitle": "Shahdag | Männer / Frauen",
+      "sport": "Unbekannt",
+      "sport_slug": "unbekannt",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:32",
+      "iso_time": "2026-03-05T10:32:51+01:00",
+      "link": "https://play.hbomax.com/video/watch/7ddac7ec-ef5d-5214-9542-9dc330fce32f?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "em-sprint",
+      "related_events": [
+        {
+          "title": "EM | Mixed-Staffel",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "em-mixed-staffel"
+        },
+        {
+          "title": "EM | Mixed-Staffel",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "em-mixed-staffel"
+        }
+      ]
+    },
+    {
+      "title": "Falun | 20km Skiathlon",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Skilanglauf",
+      "sport_slug": "skilanglauf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:36",
+      "iso_time": "2026-03-05T10:36:44+01:00",
+      "link": "https://play.hbomax.com/video/watch/776acae5-8075-5e61-ae6f-e7397045931f?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "falun-20km-skiathlon",
+      "related_events": []
+    },
+    {
+      "title": "EM | Mixed-Staffel",
+      "subtitle": "Shahdag",
+      "sport": "Unbekannt",
+      "sport_slug": "unbekannt",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-03-05T11:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/2ddfa176-0a6b-5c86-8132-7ca7b73d9a50?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "em-mixed-staffel",
+      "related_events": [
+        {
+          "title": "EM | Sprint",
+          "time": "10:32",
+          "sender": "Eurosport",
+          "slug": "em-sprint"
+        }
+      ]
+    },
+    {
+      "title": "EM | Mixed-Staffel",
+      "subtitle": "Shahdag",
+      "sport": "Unbekannt",
+      "sport_slug": "unbekannt",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-03-05T11:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/b4257717-7518-51d0-8dd6-f876aa6af4b3?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "em-mixed-staffel",
+      "related_events": [
+        {
+          "title": "EM | Sprint",
+          "time": "10:32",
+          "sender": "Eurosport",
+          "slug": "em-sprint"
+        }
+      ]
+    },
+    {
+      "title": "Kopaonik | Skicross",
+      "subtitle": "Weltcup | Frauen / Männer",
+      "sport": "Ski Freestyle",
+      "sport_slug": "ski-freestyle",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:30",
+      "iso_time": "2026-03-05T11:30:15+01:00",
+      "link": "https://play.hbomax.com/video/watch/ae526fcf-5e74-5ea7-8e7c-43d794b855ec?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "kopaonik-skicross",
+      "related_events": []
+    },
+    {
+      "title": "Kuurne-Brüssel-Kuurne",
+      "subtitle": "UCI Pro Series | Männer | Kortrijk - Kuurne (194,9km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:00",
+      "iso_time": "2026-03-05T12:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/f96504f1-26f2-5b3a-817e-ec569beaedfc?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "kuurne-brussel-kuurne",
+      "related_events": []
+    },
+    {
+      "title": "Garmisch-Partenkirchen | Abfahrt",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:01",
+      "iso_time": "2026-03-05T12:01:22+01:00",
+      "link": "https://play.hbomax.com/video/watch/2825f007-87ed-5c9d-a157-8b9bc8e06b86?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "garmisch-partenkirchen-abfahrt",
+      "related_events": []
+    },
+    {
+      "title": "AlFursan Endurance AlUla | Highlights",
+      "subtitle": "Reitsport-Magazin",
+      "sport": "Reitsport",
+      "sport_slug": "reitsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:56",
+      "iso_time": "2026-03-05T12:56:50+01:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "alfursan-endurance-alula-highlights",
+      "related_events": []
+    },
+    {
+      "title": "Falun | 20km Skiathlon",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Skilanglauf",
+      "sport_slug": "skilanglauf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:28",
+      "iso_time": "2026-03-05T13:28:15+01:00",
+      "link": "https://play.hbomax.com/video/watch/6cf84a72-bd15-5975-878e-08950864bef1?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "falun-20km-skiathlon",
+      "related_events": []
+    },
+    {
+      "title": "Kulm | Einzelfliegen",
+      "subtitle": "Weltcup | Männer | HS 235",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:55",
+      "iso_time": "2026-03-05T13:55:11+01:00",
+      "link": "https://play.hbomax.com/video/watch/c6d6747c-1f39-544d-88f0-6729faf83477?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "kulm-einzelfliegen",
+      "related_events": [
+        {
+          "title": "Lahti | Einzelspringen",
+          "time": "15:05",
+          "sender": "Eurosport",
+          "slug": "lahti-einzelspringen"
+        },
+        {
+          "title": "Lahti | Einzelspringen",
+          "time": "15:05",
+          "sender": "Eurosport",
+          "slug": "lahti-einzelspringen"
+        }
+      ]
+    },
+    {
+      "title": "Masters | Finale | 2. Session",
+      "subtitle": "K. Wilson - J. Higgins | London",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:30",
+      "iso_time": "2026-03-05T14:30:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/a920b2e9-e42f-5da1-983b-2a31500eeb35?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "masters-finale-2-session",
+      "related_events": []
+    },
+    {
+      "title": "Lahti | Einzelspringen",
+      "subtitle": "Weltcup | Frauen | HS 130",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:05",
+      "iso_time": "2026-03-05T15:05:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/426a7d76-c5a8-5836-8075-1c22283c8fea?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lahti-einzelspringen",
+      "related_events": [
+        {
+          "title": "Kulm | Einzelfliegen",
+          "time": "13:55",
+          "sender": "Eurosport",
+          "slug": "kulm-einzelfliegen"
+        }
+      ]
+    },
+    {
+      "title": "Lahti | Einzelspringen",
+      "subtitle": "Weltcup | Frauen | HS 130",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:05",
+      "iso_time": "2026-03-05T15:05:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/daaaad01-7510-5cc1-97c1-13cfc826a1be?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lahti-einzelspringen",
+      "related_events": [
+        {
+          "title": "Kulm | Einzelfliegen",
+          "time": "13:55",
+          "sender": "Eurosport",
+          "slug": "kulm-einzelfliegen"
+        }
+      ]
+    },
+    {
+      "title": "Kontiolahti | Einzel | Training",
+      "subtitle": "Weltcup | Frauen | Original Sound",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:05",
+      "iso_time": "2026-03-05T16:05:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/3efd6f6e-3024-55c2-90e5-efc7f72d9d83?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "kontiolahti-einzel-training",
+      "related_events": [
+        {
+          "title": "Kontiolahti | 15km Einzel",
+          "time": "16:50",
+          "sender": "Eurosport",
+          "slug": "kontiolahti-15km-einzel"
+        },
+        {
+          "title": "Kontiolahti | 15km Einzel",
+          "time": "16:50",
+          "sender": "Eurosport",
+          "slug": "kontiolahti-15km-einzel"
+        },
+        {
+          "title": "Kontiolahti | Einzel | Schießstand",
+          "time": "16:55",
+          "sender": "Eurosport",
+          "slug": "kontiolahti-einzel-schiessstand"
+        }
+      ]
+    },
+    {
+      "title": "Omloop Nieuwsblad",
+      "subtitle": "UCI World Tour | Männer | Gent - Ninove (207km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:30",
+      "iso_time": "2026-03-05T16:30:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/1803b44c-9159-53ee-8a93-997964d34c87?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "omloop-nieuwsblad",
+      "related_events": [
+        {
+          "title": "The Cycle - Becoming a Pro Rider",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "the-cycle-becoming-a-pro-rider"
+        }
+      ]
+    },
+    {
+      "title": "Kontiolahti | 15km Einzel",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:50",
+      "iso_time": "2026-03-05T16:50:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/16482f1b-b781-578a-a01b-d5dfdb357b92?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "kontiolahti-15km-einzel",
+      "related_events": [
+        {
+          "title": "Kontiolahti | Einzel | Training",
+          "time": "16:05",
+          "sender": "Eurosport",
+          "slug": "kontiolahti-einzel-training"
+        },
+        {
+          "title": "Kontiolahti | Einzel | Schießstand",
+          "time": "16:55",
+          "sender": "Eurosport",
+          "slug": "kontiolahti-einzel-schiessstand"
+        },
+        {
+          "title": "Kontiolahti | Einzel | Zusatz-Feed",
+          "time": "16:55",
+          "sender": "Eurosport",
+          "slug": "kontiolahti-einzel-zusatz-feed"
+        }
+      ]
+    },
+    {
+      "title": "Kontiolahti | 15km Einzel",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:50",
+      "iso_time": "2026-03-05T16:50:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/e339abf5-610b-5a27-a4a7-35bf98722851?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "kontiolahti-15km-einzel",
+      "related_events": [
+        {
+          "title": "Kontiolahti | Einzel | Training",
+          "time": "16:05",
+          "sender": "Eurosport",
+          "slug": "kontiolahti-einzel-training"
+        },
+        {
+          "title": "Kontiolahti | Einzel | Schießstand",
+          "time": "16:55",
+          "sender": "Eurosport",
+          "slug": "kontiolahti-einzel-schiessstand"
+        },
+        {
+          "title": "Kontiolahti | Einzel | Zusatz-Feed",
+          "time": "16:55",
+          "sender": "Eurosport",
+          "slug": "kontiolahti-einzel-zusatz-feed"
+        }
+      ]
+    },
+    {
+      "title": "Kontiolahti | Einzel | Schießstand",
+      "subtitle": "Weltcup | Frauen | Original Sound",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:55",
+      "iso_time": "2026-03-05T16:55:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/cf1b5613-1244-5967-a0e8-78ffdde78c80?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "kontiolahti-einzel-schiessstand",
+      "related_events": [
+        {
+          "title": "Kontiolahti | Einzel | Training",
+          "time": "16:05",
+          "sender": "Eurosport",
+          "slug": "kontiolahti-einzel-training"
+        },
+        {
+          "title": "Kontiolahti | 15km Einzel",
+          "time": "16:50",
+          "sender": "Eurosport",
+          "slug": "kontiolahti-15km-einzel"
+        },
+        {
+          "title": "Kontiolahti | 15km Einzel",
+          "time": "16:50",
+          "sender": "Eurosport",
+          "slug": "kontiolahti-15km-einzel"
+        }
+      ]
+    },
+    {
+      "title": "Kontiolahti | Einzel | Zusatz-Feed",
+      "subtitle": "Weltcup | Frauen | Original Sound",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:55",
+      "iso_time": "2026-03-05T16:55:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/3d1fac5a-56ff-597a-b129-3caa2e45227a?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "kontiolahti-einzel-zusatz-feed",
+      "related_events": [
+        {
+          "title": "Kontiolahti | Einzel | Training",
+          "time": "16:05",
+          "sender": "Eurosport",
+          "slug": "kontiolahti-einzel-training"
+        },
+        {
+          "title": "Kontiolahti | 15km Einzel",
+          "time": "16:50",
+          "sender": "Eurosport",
+          "slug": "kontiolahti-15km-einzel"
+        },
+        {
+          "title": "Kontiolahti | 15km Einzel",
+          "time": "16:50",
+          "sender": "Eurosport",
+          "slug": "kontiolahti-15km-einzel"
+        }
+      ]
+    },
+    {
+      "title": "Omloop Nieuwsblad",
+      "subtitle": "UCI World Tour | Frauen | Gent - Ninove (137,2km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:30",
+      "iso_time": "2026-03-05T17:30:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/f64fefe3-0e73-5e4a-a779-16dabd904154?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "omloop-nieuwsblad",
+      "related_events": [
+        {
+          "title": "The Cycle - Becoming a Pro Rider",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "the-cycle-becoming-a-pro-rider"
+        }
+      ]
+    },
+    {
+      "title": "The Cycle - Becoming a Pro Rider",
+      "subtitle": "Radsport-Dokumentation | 2026",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2026-03-05T18:30:00+01:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "the-cycle-becoming-a-pro-rider",
+      "related_events": [
+        {
+          "title": "Omloop Nieuwsblad",
+          "time": "16:30",
+          "sender": "Eurosport",
+          "slug": "omloop-nieuwsblad"
+        },
+        {
+          "title": "Omloop Nieuwsblad",
+          "time": "17:30",
+          "sender": "Eurosport",
+          "slug": "omloop-nieuwsblad"
+        }
+      ]
+    },
+    {
+      "title": "Lahti | Einzelspringen",
+      "subtitle": "Weltcup | Frauen | HS 130",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:50",
+      "iso_time": "2026-03-05T18:50:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/117dad5b-a713-5cb1-988f-502e5405fe1a?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lahti-einzelspringen",
+      "related_events": []
+    },
+    {
+      "title": "WM | Tag 1",
+      "subtitle": "Heerenveen | Männer / Frauen | Original Sound",
+      "sport": "Eisschnelllauf",
+      "sport_slug": "eisschnelllauf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:55",
+      "iso_time": "2026-03-05T18:55:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/ffec67c2-6589-5f5f-bcc8-2f3eadb196da?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-tag-1",
+      "related_events": []
+    },
+    {
+      "title": "Garmisch-Partenkirchen | Abfahrt",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-03-05T20:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/ac7c6790-9fd6-5073-b479-3dade4750984?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "garmisch-partenkirchen-abfahrt",
+      "related_events": []
+    },
+    {
+      "title": "Masters | Finale | 2. Session",
+      "subtitle": "K. Wilson - J. Higgins | London",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-03-05T20:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/d1203732-3e8a-5d6a-b6e6-0e26c570d8ad?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "masters-finale-2-session",
+      "related_events": []
+    },
+    {
+      "title": "Lahti | Einzelspringen",
+      "subtitle": "Weltcup | Frauen | HS 130",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2026-03-05T21:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/035ee3d8-01e0-54e8-99d9-07cb7c1d7e85?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lahti-einzelspringen",
+      "related_events": []
+    },
+    {
+      "title": "Kontiolahti | 15km Einzel",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-03-05T22:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/42c92d39-97a9-54f5-895c-5e7011bb5cd8?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "kontiolahti-15km-einzel",
+      "related_events": []
+    },
+    {
+      "title": "Lahti | Einzelspringen",
+      "subtitle": "Weltcup | Frauen | HS 130",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-03-05T22:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/eb6e2aa5-cb61-5b64-8f5f-10173e321fd4?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lahti-einzelspringen",
+      "related_events": []
+    },
+    {
+      "title": "Garmisch-Partenkirchen | Abfahrt",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2026-03-05T23:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/e6e430d9-6870-531f-986d-f4abe7b0ea11?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "garmisch-partenkirchen-abfahrt",
+      "related_events": []
+    },
+    {
+      "title": "Kontiolahti | 15km Einzel",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2026-03-05T23:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/db2d0186-5028-5575-8a60-88213313521a?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "kontiolahti-15km-einzel",
+      "related_events": []
+    },
+    {
+      "title": "The Cycle - Becoming a Pro Rider",
+      "subtitle": "Radsport-Dokumentation | 2026",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-03-06T00:00:00+01:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "the-cycle-becoming-a-pro-rider",
+      "related_events": []
+    },
+    {
+      "title": "Lahti | Einzelspringen",
+      "subtitle": "Weltcup | Frauen | HS 130",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-03-06T00:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/db363b41-8c63-5bb2-b20f-ef1861071158?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lahti-einzelspringen",
+      "related_events": []
+    }
+  ]
+}
