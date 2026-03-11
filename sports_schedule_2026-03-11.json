@@ -1,0 +1,2357 @@
+{
+  "date": "2026-03-11",
+  "events": [
+    {
+      "title": "Bayer Leverkusen vs Arsenal FC",
+      "time": "18:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league/ma11584376/bayer-leverkusen_arsenal-fc/info",
+      "slug": "bayer-leverkusen-vs-arsenal-fc",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Paris Saint-Germain vs Chelsea FC",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league/ma11584334/paris-saint-germain_chelsea-fc/info",
+      "slug": "paris-saint-germain-vs-chelsea-fc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Real Madrid vs Manchester City",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "real-madrid-vs-manchester-city"
+        },
+        {
+          "title": "FK Bodø/Glimt vs Sporting CP",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fk-bodo-glimt-vs-sporting-cp"
+        }
+      ]
+    },
+    {
+      "title": "Real Madrid vs Manchester City",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league/ma11584346/real-madrid_manchester-city/info",
+      "slug": "real-madrid-vs-manchester-city",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Paris Saint-Germain vs Chelsea FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "paris-saint-germain-vs-chelsea-fc"
+        },
+        {
+          "title": "FK Bodø/Glimt vs Sporting CP",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fk-bodo-glimt-vs-sporting-cp"
+        }
+      ]
+    },
+    {
+      "title": "FK Bodø/Glimt vs Sporting CP",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league/ma11584370/fk-bodoe-glimt_sporting-cp/info",
+      "slug": "fk-bodo-glimt-vs-sporting-cp",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Paris Saint-Germain vs Chelsea FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "paris-saint-germain-vs-chelsea-fc"
+        },
+        {
+          "title": "Real Madrid vs Manchester City",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "real-madrid-vs-manchester-city"
+        }
+      ]
+    },
+    {
+      "title": "VfL Wolfsburg vs Eintracht Frankfurt",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-dfb-pokal-frauen/ma11593352/vfl-wolfsburg_eintracht-frankfurt/info",
+      "slug": "vfl-wolfsburg-vs-eintracht-frankfurt",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "SGS Essen vs Werder Bremen",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "sgs-essen-vs-werder-bremen"
+        },
+        {
+          "title": "Hamburger SV vs Bayern München",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "hamburger-sv-vs-bayern-munchen"
+        },
+        {
+          "title": "FC Carl Zeiss Jena vs SC Sand",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "fc-carl-zeiss-jena-vs-sc-sand"
+        }
+      ]
+    },
+    {
+      "title": "SGS Essen vs Werder Bremen",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-dfb-pokal-frauen/ma11593355/sgs-essen_werder-bremen/info",
+      "slug": "sgs-essen-vs-werder-bremen",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "VfL Wolfsburg vs Eintracht Frankfurt",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "vfl-wolfsburg-vs-eintracht-frankfurt"
+        },
+        {
+          "title": "Hamburger SV vs Bayern München",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "hamburger-sv-vs-bayern-munchen"
+        },
+        {
+          "title": "FC Carl Zeiss Jena vs SC Sand",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "fc-carl-zeiss-jena-vs-sc-sand"
+        }
+      ]
+    },
+    {
+      "title": "Hamburger SV vs Bayern München",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-dfb-pokal-frauen/ma11593358/hamburger-sv_bayern-muenchen/info",
+      "slug": "hamburger-sv-vs-bayern-munchen",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "VfL Wolfsburg vs Eintracht Frankfurt",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "vfl-wolfsburg-vs-eintracht-frankfurt"
+        },
+        {
+          "title": "SGS Essen vs Werder Bremen",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "sgs-essen-vs-werder-bremen"
+        },
+        {
+          "title": "FC Carl Zeiss Jena vs SC Sand",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "fc-carl-zeiss-jena-vs-sc-sand"
+        }
+      ]
+    },
+    {
+      "title": "FC Carl Zeiss Jena vs SC Sand",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-dfb-pokal-frauen/ma11593361/fc-carl-zeiss-jena_sc-sand/info",
+      "slug": "fc-carl-zeiss-jena-vs-sc-sand",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "VfL Wolfsburg vs Eintracht Frankfurt",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "vfl-wolfsburg-vs-eintracht-frankfurt"
+        },
+        {
+          "title": "SGS Essen vs Werder Bremen",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "sgs-essen-vs-werder-bremen"
+        },
+        {
+          "title": "Hamburger SV vs Bayern München",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "hamburger-sv-vs-bayern-munchen"
+        }
+      ]
+    },
+    {
+      "title": "Paris FC vs RC Strasbourg",
+      "time": "16:15",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/frankreich-frauen-division-1/ma11397221/paris-fc_rc-strasbourg/info",
+      "slug": "paris-fc-vs-rc-strasbourg",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Paris Saint-Germain vs Olympique Marseille",
+          "time": "16:15",
+          "sender": "Sportschau Live",
+          "slug": "paris-saint-germain-vs-olympique-marseille"
+        }
+      ]
+    },
+    {
+      "title": "Paris Saint-Germain vs Olympique Marseille",
+      "time": "16:15",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/frankreich-frauen-division-1/ma11397230/paris-saint-germain_olympique-marseille/info",
+      "slug": "paris-saint-germain-vs-olympique-marseille",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Paris FC vs RC Strasbourg",
+          "time": "16:15",
+          "sender": "Sportschau Live",
+          "slug": "paris-fc-vs-rc-strasbourg"
+        }
+      ]
+    },
+    {
+      "title": "Dijon FCO vs AS Saint-Étienne",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/frankreich-frauen-division-1/ma11397215/dijon-fco_as-saint-etienne/info",
+      "slug": "dijon-fco-vs-as-saint-etienne",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Nantes vs FC Fleury 91",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-nantes-vs-fc-fleury-91"
+        },
+        {
+          "title": "RC Lens vs Montpellier HSC",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "rc-lens-vs-montpellier-hsc"
+        }
+      ]
+    },
+    {
+      "title": "FC Nantes vs FC Fleury 91",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/frankreich-frauen-division-1/ma11397218/fc-nantes_fc-fleury-91/info",
+      "slug": "fc-nantes-vs-fc-fleury-91",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dijon FCO vs AS Saint-Étienne",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "dijon-fco-vs-as-saint-etienne"
+        },
+        {
+          "title": "RC Lens vs Montpellier HSC",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "rc-lens-vs-montpellier-hsc"
+        }
+      ]
+    },
+    {
+      "title": "RC Lens vs Montpellier HSC",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/frankreich-frauen-division-1/ma11397224/rc-lens_montpellier-hsc/info",
+      "slug": "rc-lens-vs-montpellier-hsc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dijon FCO vs AS Saint-Étienne",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "dijon-fco-vs-as-saint-etienne"
+        },
+        {
+          "title": "FC Nantes vs FC Fleury 91",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-nantes-vs-fc-fleury-91"
+        }
+      ]
+    },
+    {
+      "title": "Wisła Płock vs SC Pick Szeged",
+      "time": "18:45",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-champions-league/ma11390636/wisla-plock_sc-pick-szeged/info",
+      "slug": "wisla-plock-vs-sc-pick-szeged",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "GOG Håndbold vs RK Zagreb",
+          "time": "18:45",
+          "sender": "Sportschau Live",
+          "slug": "gog-handbold-vs-rk-zagreb"
+        }
+      ]
+    },
+    {
+      "title": "GOG Håndbold vs RK Zagreb",
+      "time": "18:45",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-champions-league/ma11390639/gog-handbold_rk-zagreb/info",
+      "slug": "gog-handbold-vs-rk-zagreb",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Wisła Płock vs SC Pick Szeged",
+          "time": "18:45",
+          "sender": "Sportschau Live",
+          "slug": "wisla-plock-vs-sc-pick-szeged"
+        }
+      ]
+    },
+    {
+      "title": "Paris Saint-Germain vs SC Magdeburg",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-champions-league/ma11390633/paris-saint-germain_sc-magdeburg/info",
+      "slug": "paris-saint-germain-vs-sc-magdeburg",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Barcelona vs RK Pelister",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "fc-barcelona-vs-rk-pelister"
+        }
+      ]
+    },
+    {
+      "title": "FC Barcelona vs RK Pelister",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-champions-league/ma11390642/fc-barcelona_rk-pelister/info",
+      "slug": "fc-barcelona-vs-rk-pelister",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Paris Saint-Germain vs SC Magdeburg",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "paris-saint-germain-vs-sc-magdeburg"
+        }
+      ]
+    },
+    {
+      "title": "Virtus Bologna vs KK Partizan",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493575/virtus-bologna_kk-partizan/info",
+      "slug": "virtus-bologna-vs-kk-partizan",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Türk Telekom Ankara vs Bàsquet Manresa",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/uleb-euro-cup/ma11909689/tuerk-telekom-ankara_basquet-manresa/info",
+      "slug": "turk-telekom-ankara-vs-basquet-manresa",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Cedevita Olimpija vs NINERS Chemnitz",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/uleb-euro-cup/ma11909692/cedevita-olimpija_niners-chemnitz/info",
+      "slug": "cedevita-olimpija-vs-niners-chemnitz",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "KK Budućnost vs CS Universitatea Cluj-Napoca",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "kk-buducnost-vs-cs-universitatea-cluj-napoca"
+        }
+      ]
+    },
+    {
+      "title": "KK Budućnost vs CS Universitatea Cluj-Napoca",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/uleb-euro-cup/ma11909695/kk-buducnost_cs-universitatea-cluj-napoca/info",
+      "slug": "kk-buducnost-vs-cs-universitatea-cluj-napoca",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Cedevita Olimpija vs NINERS Chemnitz",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "cedevita-olimpija-vs-niners-chemnitz"
+        }
+      ]
+    },
+    {
+      "title": "Reyer Venezia vs Aquila Trento",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/uleb-euro-cup/ma11909698/reyer-venezia_aquila-trento/info",
+      "slug": "reyer-venezia-vs-aquila-trento",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Lausitzer Füchse vs Eispiraten Crimmitschau",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del-2/ma11935711/lausitzer-fuechse_eispiraten-crimmitschau/info",
+      "slug": "lausitzer-fuchse-vs-eispiraten-crimmitschau",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "EV Landshut vs Düsseldorfer EG",
+          "time": "19:30",
+          "sender": "Sportschau Live",
+          "slug": "ev-landshut-vs-dusseldorfer-eg"
+        }
+      ]
+    },
+    {
+      "title": "EV Landshut vs Düsseldorfer EG",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del-2/ma11935714/ev-landshut_duesseldorfer-eg/info",
+      "slug": "ev-landshut-vs-dusseldorfer-eg",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Lausitzer Füchse vs Eispiraten Crimmitschau",
+          "time": "19:30",
+          "sender": "Sportschau Live",
+          "slug": "lausitzer-fuchse-vs-eispiraten-crimmitschau"
+        }
+      ]
+    },
+    {
+      "title": "Trentino Volley vs Projekt Warszawa",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Volleyball",
+      "sport_slug": "volleyball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/volleyball/volleyball-champions-league/ma11913178/trentino-volley_projekt-warszawa/info",
+      "slug": "trentino-volley-vs-projekt-warszawa",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Eczacıbaşı vs Developres Rzeszów",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Volleyball",
+      "sport_slug": "volleyball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/volleyball/volleyball-champions-league-frauen/ma11901922/eczacibasi_developres-rzeszow/info",
+      "slug": "eczacibasi-vs-developres-rzeszow",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Zeren Spor vs Imoco Volley Conegliano",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Volleyball",
+      "sport_slug": "volleyball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/volleyball/volleyball-champions-league-frauen/ma11917849/zeren-spor_imoco-volley-conegliano/info",
+      "slug": "zeren-spor-vs-imoco-volley-conegliano",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Pallavolo Scandicci vs Fenerbahçe",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Volleyball",
+      "sport_slug": "volleyball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/volleyball/volleyball-champions-league-frauen/ma11919847/pallavolo-scandicci_fenerbahce/info",
+      "slug": "pallavolo-scandicci-vs-fenerbahce",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Philadelphia 76ers vs Memphis Grizzlies",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11612450/philadelphia-76ers_memphis-grizzlies/info",
+      "slug": "philadelphia-76ers-vs-memphis-grizzlies",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Brooklyn Nets vs Detroit Pistons",
+      "time": "00:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11612453/brooklyn-nets_detroit-pistons/info",
+      "slug": "brooklyn-nets-vs-detroit-pistons",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Miami Heat vs Washington Wizards",
+          "time": "00:30",
+          "sender": "Sportschau Live",
+          "slug": "miami-heat-vs-washington-wizards"
+        },
+        {
+          "title": "Atlanta Hawks vs Dallas Mavericks",
+          "time": "00:30",
+          "sender": "Sportschau Live",
+          "slug": "atlanta-hawks-vs-dallas-mavericks"
+        }
+      ]
+    },
+    {
+      "title": "Miami Heat vs Washington Wizards",
+      "time": "00:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11612456/miami-heat_washington-wizards/info",
+      "slug": "miami-heat-vs-washington-wizards",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Brooklyn Nets vs Detroit Pistons",
+          "time": "00:30",
+          "sender": "Sportschau Live",
+          "slug": "brooklyn-nets-vs-detroit-pistons"
+        },
+        {
+          "title": "Atlanta Hawks vs Dallas Mavericks",
+          "time": "00:30",
+          "sender": "Sportschau Live",
+          "slug": "atlanta-hawks-vs-dallas-mavericks"
+        }
+      ]
+    },
+    {
+      "title": "Atlanta Hawks vs Dallas Mavericks",
+      "time": "00:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11612459/atlanta-hawks_dallas-mavericks/info",
+      "slug": "atlanta-hawks-vs-dallas-mavericks",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Brooklyn Nets vs Detroit Pistons",
+          "time": "00:30",
+          "sender": "Sportschau Live",
+          "slug": "brooklyn-nets-vs-detroit-pistons"
+        },
+        {
+          "title": "Miami Heat vs Washington Wizards",
+          "time": "00:30",
+          "sender": "Sportschau Live",
+          "slug": "miami-heat-vs-washington-wizards"
+        }
+      ]
+    },
+    {
+      "title": "San Antonio Spurs vs Boston Celtics",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11612462/san-antonio-spurs_boston-celtics/info",
+      "slug": "san-antonio-spurs-vs-boston-celtics",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Houston Rockets vs Toronto Raptors",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "houston-rockets-vs-toronto-raptors"
+        },
+        {
+          "title": "Milwaukee Bucks vs Phoenix Suns",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "milwaukee-bucks-vs-phoenix-suns"
+        }
+      ]
+    },
+    {
+      "title": "Houston Rockets vs Toronto Raptors",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11612465/houston-rockets_toronto-raptors/info",
+      "slug": "houston-rockets-vs-toronto-raptors",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "San Antonio Spurs vs Boston Celtics",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "san-antonio-spurs-vs-boston-celtics"
+        },
+        {
+          "title": "Milwaukee Bucks vs Phoenix Suns",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "milwaukee-bucks-vs-phoenix-suns"
+        }
+      ]
+    },
+    {
+      "title": "Milwaukee Bucks vs Phoenix Suns",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11612468/milwaukee-bucks_phoenix-suns/info",
+      "slug": "milwaukee-bucks-vs-phoenix-suns",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "San Antonio Spurs vs Boston Celtics",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "san-antonio-spurs-vs-boston-celtics"
+        },
+        {
+          "title": "Houston Rockets vs Toronto Raptors",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "houston-rockets-vs-toronto-raptors"
+        }
+      ]
+    },
+    {
+      "title": "Golden State Warriors vs Chicago Bulls",
+      "time": "03:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11612471/golden-state-warriors_chicago-bulls/info",
+      "slug": "golden-state-warriors-vs-chicago-bulls",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Sacramento Kings vs Indiana Pacers",
+          "time": "03:00",
+          "sender": "Sportschau Live",
+          "slug": "sacramento-kings-vs-indiana-pacers"
+        },
+        {
+          "title": "Portland Trail Blazers vs Charlotte Hornets",
+          "time": "03:00",
+          "sender": "Sportschau Live",
+          "slug": "portland-trail-blazers-vs-charlotte-hornets"
+        }
+      ]
+    },
+    {
+      "title": "Sacramento Kings vs Indiana Pacers",
+      "time": "03:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11612474/sacramento-kings_indiana-pacers/info",
+      "slug": "sacramento-kings-vs-indiana-pacers",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Golden State Warriors vs Chicago Bulls",
+          "time": "03:00",
+          "sender": "Sportschau Live",
+          "slug": "golden-state-warriors-vs-chicago-bulls"
+        },
+        {
+          "title": "Portland Trail Blazers vs Charlotte Hornets",
+          "time": "03:00",
+          "sender": "Sportschau Live",
+          "slug": "portland-trail-blazers-vs-charlotte-hornets"
+        }
+      ]
+    },
+    {
+      "title": "Portland Trail Blazers vs Charlotte Hornets",
+      "time": "03:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11612477/portland-trail-blazers_charlotte-hornets/info",
+      "slug": "portland-trail-blazers-vs-charlotte-hornets",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Golden State Warriors vs Chicago Bulls",
+          "time": "03:00",
+          "sender": "Sportschau Live",
+          "slug": "golden-state-warriors-vs-chicago-bulls"
+        },
+        {
+          "title": "Sacramento Kings vs Indiana Pacers",
+          "time": "03:00",
+          "sender": "Sportschau Live",
+          "slug": "sacramento-kings-vs-indiana-pacers"
+        }
+      ]
+    },
+    {
+      "title": "Los Angeles Lakers vs Minnesota Timberwolves",
+      "time": "04:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11612480/los-angeles-lakers_minnesota-timberwolves/info",
+      "slug": "los-angeles-lakers-vs-minnesota-timberwolves",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Boston Bruins vs Los Angeles Kings",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415323/boston-bruins_los-angeles-kings/info",
+      "slug": "boston-bruins-vs-los-angeles-kings",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Buffalo Sabres vs San Jose Sharks",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "buffalo-sabres-vs-san-jose-sharks"
+        },
+        {
+          "title": "Carolina Hurricanes vs Pittsburgh Penguins",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "carolina-hurricanes-vs-pittsburgh-penguins"
+        },
+        {
+          "title": "Florida Panthers vs Detroit Red Wings",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "florida-panthers-vs-detroit-red-wings"
+        }
+      ]
+    },
+    {
+      "title": "Buffalo Sabres vs San Jose Sharks",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415326/buffalo-sabres_san-jose-sharks/info",
+      "slug": "buffalo-sabres-vs-san-jose-sharks",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Boston Bruins vs Los Angeles Kings",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "boston-bruins-vs-los-angeles-kings"
+        },
+        {
+          "title": "Carolina Hurricanes vs Pittsburgh Penguins",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "carolina-hurricanes-vs-pittsburgh-penguins"
+        },
+        {
+          "title": "Florida Panthers vs Detroit Red Wings",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "florida-panthers-vs-detroit-red-wings"
+        }
+      ]
+    },
+    {
+      "title": "Carolina Hurricanes vs Pittsburgh Penguins",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415329/carolina-hurricanes_pittsburgh-penguins/info",
+      "slug": "carolina-hurricanes-vs-pittsburgh-penguins",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Boston Bruins vs Los Angeles Kings",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "boston-bruins-vs-los-angeles-kings"
+        },
+        {
+          "title": "Buffalo Sabres vs San Jose Sharks",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "buffalo-sabres-vs-san-jose-sharks"
+        },
+        {
+          "title": "Florida Panthers vs Detroit Red Wings",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "florida-panthers-vs-detroit-red-wings"
+        }
+      ]
+    },
+    {
+      "title": "Florida Panthers vs Detroit Red Wings",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415332/florida-panthers_detroit-red-wings/info",
+      "slug": "florida-panthers-vs-detroit-red-wings",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Boston Bruins vs Los Angeles Kings",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "boston-bruins-vs-los-angeles-kings"
+        },
+        {
+          "title": "Buffalo Sabres vs San Jose Sharks",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "buffalo-sabres-vs-san-jose-sharks"
+        },
+        {
+          "title": "Carolina Hurricanes vs Pittsburgh Penguins",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "carolina-hurricanes-vs-pittsburgh-penguins"
+        }
+      ]
+    },
+    {
+      "title": "Montréal Canadiens vs Toronto Maple Leafs",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415335/montreal-canadiens_toronto-maple-leafs/info",
+      "slug": "montreal-canadiens-vs-toronto-maple-leafs",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Boston Bruins vs Los Angeles Kings",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "boston-bruins-vs-los-angeles-kings"
+        },
+        {
+          "title": "Buffalo Sabres vs San Jose Sharks",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "buffalo-sabres-vs-san-jose-sharks"
+        },
+        {
+          "title": "Carolina Hurricanes vs Pittsburgh Penguins",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "carolina-hurricanes-vs-pittsburgh-penguins"
+        }
+      ]
+    },
+    {
+      "title": "New York Rangers vs Calgary Flames",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415338/new-york-rangers_calgary-flames/info",
+      "slug": "new-york-rangers-vs-calgary-flames",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Boston Bruins vs Los Angeles Kings",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "boston-bruins-vs-los-angeles-kings"
+        },
+        {
+          "title": "Buffalo Sabres vs San Jose Sharks",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "buffalo-sabres-vs-san-jose-sharks"
+        },
+        {
+          "title": "Carolina Hurricanes vs Pittsburgh Penguins",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "carolina-hurricanes-vs-pittsburgh-penguins"
+        }
+      ]
+    },
+    {
+      "title": "Tampa Bay Lightning vs Columbus Blue Jackets",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415341/tampa-bay-lightning_columbus-blue-jackets/info",
+      "slug": "tampa-bay-lightning-vs-columbus-blue-jackets",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Boston Bruins vs Los Angeles Kings",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "boston-bruins-vs-los-angeles-kings"
+        },
+        {
+          "title": "Buffalo Sabres vs San Jose Sharks",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "buffalo-sabres-vs-san-jose-sharks"
+        },
+        {
+          "title": "Carolina Hurricanes vs Pittsburgh Penguins",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "carolina-hurricanes-vs-pittsburgh-penguins"
+        }
+      ]
+    },
+    {
+      "title": "St. Louis Blues vs New York Islanders",
+      "time": "00:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415344/st-louis-blues_new-york-islanders/info",
+      "slug": "st-louis-blues-vs-new-york-islanders",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Dallas Stars vs Vegas Golden Knights",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415347/dallas-stars_vegas-golden-knights/info",
+      "slug": "dallas-stars-vs-vegas-golden-knights",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Minnesota Wild vs Utah Mammoth",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "minnesota-wild-vs-utah-mammoth"
+        }
+      ]
+    },
+    {
+      "title": "Minnesota Wild vs Utah Mammoth",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415350/minnesota-wild_utah-mammoth/info",
+      "slug": "minnesota-wild-vs-utah-mammoth",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dallas Stars vs Vegas Golden Knights",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "dallas-stars-vs-vegas-golden-knights"
+        }
+      ]
+    },
+    {
+      "title": "Winnipeg Jets vs Anaheim Ducks",
+      "time": "01:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415353/winnipeg-jets_anaheim-ducks/info",
+      "slug": "winnipeg-jets-vs-anaheim-ducks",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Seattle Kraken vs Nashville Predators",
+      "time": "03:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415356/seattle-kraken_nashville-predators/info",
+      "slug": "seattle-kraken-vs-nashville-predators",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Colorado Avalanche vs Edmonton Oilers",
+          "time": "03:00",
+          "sender": "Sportschau Live",
+          "slug": "colorado-avalanche-vs-edmonton-oilers"
+        }
+      ]
+    },
+    {
+      "title": "Colorado Avalanche vs Edmonton Oilers",
+      "time": "03:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415359/colorado-avalanche_edmonton-oilers/info",
+      "slug": "colorado-avalanche-vs-edmonton-oilers",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Seattle Kraken vs Nashville Predators",
+          "time": "03:00",
+          "sender": "Sportschau Live",
+          "slug": "seattle-kraken-vs-nashville-predators"
+        }
+      ]
+    },
+    {
+      "title": "Victoria Mboko vs Amanda Anisimova",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-bnp-paribas-open/ma11769931/victoria-mboko_amanda-anisimova/info",
+      "slug": "victoria-mboko-vs-amanda-anisimova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "João Fonseca vs Jannik Sinner",
+          "time": "02:00",
+          "sender": "Sportschau Live",
+          "slug": "joao-fonseca-vs-jannik-sinner"
+        }
+      ]
+    },
+    {
+      "title": "Alexandra Eala vs Linda Noskova",
+      "time": "04:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-bnp-paribas-open/ma11769934/alexandra-eala_linda-noskova/info",
+      "slug": "alexandra-eala-vs-linda-noskova",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Karolina Muchova vs Iga Świątek",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-bnp-paribas-open/ma11769949/karolina-muchova_iga-swiatek/info",
+      "slug": "karolina-muchova-vs-iga-swiatek",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Rinky Hijikata vs Cameron Norrie",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "rinky-hijikata-vs-cameron-norrie"
+        }
+      ]
+    },
+    {
+      "title": "Jessica Pegula vs Belinda Bencic",
+      "time": "20:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-bnp-paribas-open/ma11769940/jessica-pegula_belinda-bencic/info",
+      "slug": "jessica-pegula-vs-belinda-bencic",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Katerina Siniakova vs Elina Svitolina",
+      "time": "23:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-bnp-paribas-open/ma11769946/katerina-siniakova_elina-svitolina/info",
+      "slug": "katerina-siniakova-vs-elina-svitolina",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "João Fonseca vs Jannik Sinner",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-bnp-paribas-open/ma11751202/joao-fonseca_jannik-sinner/info",
+      "slug": "joao-fonseca-vs-jannik-sinner",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Victoria Mboko vs Amanda Anisimova",
+          "time": "02:00",
+          "sender": "Sportschau Live",
+          "slug": "victoria-mboko-vs-amanda-anisimova"
+        }
+      ]
+    },
+    {
+      "title": "Rinky Hijikata vs Cameron Norrie",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-bnp-paribas-open/ma11751184/rinky-hijikata_cameron-norrie/info",
+      "slug": "rinky-hijikata-vs-cameron-norrie",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Karolina Muchova vs Iga Świątek",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "karolina-muchova-vs-iga-swiatek"
+        }
+      ]
+    },
+    {
+      "title": "Daniil Medvedev vs Alex Michelsen",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-bnp-paribas-open/ma11751190/daniil-medvedev_alex-michelsen/info",
+      "slug": "daniil-medvedev-vs-alex-michelsen",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Carlos Alcaraz vs Casper Ruud",
+      "time": "21:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-bnp-paribas-open/ma11751181/carlos-alcaraz_casper-ruud/info",
+      "slug": "carlos-alcaraz-vs-casper-ruud",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Tirreno-Adriatico | 2. Etappe",
+      "subtitle": "UCI World Tour | Männer | Camaiore – San Gimignano (206km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:59",
+      "iso_time": "2026-03-11T00:59:28+01:00",
+      "link": "",
+      "slug": "tirreno-adriatico-2-etappe",
+      "related_events": [
+        {
+          "title": "Paris-Nizza | 3. Etappe",
+          "time": "02:05",
+          "sender": "Eurosport",
+          "slug": "paris-nizza-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "World Grand Prix | Finale",
+      "subtitle": "Zhang A. - Zhao X. | 2. Session | Hongkong",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:59",
+      "iso_time": "2026-03-11T00:59:54+01:00",
+      "link": "",
+      "slug": "world-grand-prix-finale",
+      "related_events": []
+    },
+    {
+      "title": "Paris-Nizza | 3. Etappe",
+      "subtitle": "UCI World Tour | Männer | Cosne-Cours-sur-Loire - Pouilly-sur-Loire (23,5km / TZF)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:05",
+      "iso_time": "2026-03-11T02:05:45+01:00",
+      "link": "",
+      "slug": "paris-nizza-3-etappe",
+      "related_events": [
+        {
+          "title": "Tirreno-Adriatico | 2. Etappe",
+          "time": "00:59",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Lahti | 10km Klassisch",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Skilanglauf",
+      "sport_slug": "skilanglauf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:01",
+      "iso_time": "2026-03-11T03:01:45+01:00",
+      "link": "",
+      "slug": "lahti-10km-klassisch",
+      "related_events": []
+    },
+    {
+      "title": "World Grand Prix | Finale",
+      "subtitle": "Zhang A. - Zhao X. | 2. Session | Hongkong",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:00",
+      "iso_time": "2026-03-11T04:00:55+01:00",
+      "link": "https://play.hbomax.com/video/watch/e834b5f6-dab6-5d63-8807-9de94dd73707?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "world-grand-prix-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tirreno-Adriatico | 2. Etappe",
+      "subtitle": "UCI World Tour | Männer | Camaiore – San Gimignano (206km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:01",
+      "iso_time": "2026-03-11T06:01:58+01:00",
+      "link": "https://play.hbomax.com/video/watch/41ff0def-1172-523a-a491-ec6866ae5471?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tirreno-adriatico-2-etappe",
+      "related_events": [
+        {
+          "title": "Paris-Nizza | 3. Etappe",
+          "time": "06:59",
+          "sender": "Eurosport",
+          "slug": "paris-nizza-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Paris-Nizza | 3. Etappe",
+      "subtitle": "UCI World Tour | Männer | Cosne-Cours-sur-Loire - Pouilly-sur-Loire (23,5km / TZF)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:59",
+      "iso_time": "2026-03-11T06:59:46+01:00",
+      "link": "https://play.hbomax.com/video/watch/70b6d978-48ac-5c1d-97de-252c6cf300b8?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "paris-nizza-3-etappe",
+      "related_events": [
+        {
+          "title": "Tirreno-Adriatico | 2. Etappe",
+          "time": "06:01",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Val di Fassa | Abfahrt",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:59",
+      "iso_time": "2026-03-11T07:59:30+01:00",
+      "link": "https://play.hbomax.com/video/watch/0327c229-7399-5dce-924f-7c286d2e3d6d?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "val-di-fassa-abfahrt",
+      "related_events": [
+        {
+          "title": "Kranjska Gora | Slalom | 2. Lauf",
+          "time": "08:58",
+          "sender": "Eurosport",
+          "slug": "kranjska-gora-slalom-2-lauf"
+        },
+        {
+          "title": "Kranjska Gora | Riesenslalom | 2. Lauf",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "kranjska-gora-riesenslalom-2-lauf"
+        }
+      ]
+    },
+    {
+      "title": "A Day At The Paralympics | 5. Wettkampftag",
+      "subtitle": "Milano Cortina 2026 | Highlights",
+      "sport": "Alle Sportarten",
+      "sport_slug": "alle-sportarten",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:04",
+      "iso_time": "2026-03-11T08:04:34+01:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "a-day-at-the-paralympics-5-wettkampftag",
+      "related_events": []
+    },
+    {
+      "title": "Kranjska Gora | Slalom | 2. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:58",
+      "iso_time": "2026-03-11T08:58:53+01:00",
+      "link": "https://play.hbomax.com/video/watch/a69c7513-b183-5c00-8ab9-65be3c16ec8f?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "kranjska-gora-slalom-2-lauf",
+      "related_events": [
+        {
+          "title": "Val di Fassa | Abfahrt",
+          "time": "07:59",
+          "sender": "Eurosport",
+          "slug": "val-di-fassa-abfahrt"
+        },
+        {
+          "title": "Kranjska Gora | Riesenslalom | 2. Lauf",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "kranjska-gora-riesenslalom-2-lauf"
+        }
+      ]
+    },
+    {
+      "title": "World Grand Prix | Finale",
+      "subtitle": "Zhang A. - Zhao X. | 2. Session | Hongkong",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:01",
+      "iso_time": "2026-03-11T09:01:49+01:00",
+      "link": "https://play.hbomax.com/video/watch/98f6a9c5-22c1-5a12-9aae-6fe88c90c884?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "world-grand-prix-finale",
+      "related_events": []
+    },
+    {
+      "title": "Lahti | Freistil-Sprint | Finals",
+      "subtitle": "Weltcup | Frauen / Männer",
+      "sport": "Skilanglauf",
+      "sport_slug": "skilanglauf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:59",
+      "iso_time": "2026-03-11T09:59:22+01:00",
+      "link": "https://play.hbomax.com/video/watch/079cef57-bfd7-55ae-8871-67e16826dcb3?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lahti-freistil-sprint-finals",
+      "related_events": [
+        {
+          "title": "Lahti | 10km Klassisch",
+          "time": "10:29",
+          "sender": "Eurosport",
+          "slug": "lahti-10km-klassisch"
+        }
+      ]
+    },
+    {
+      "title": "Lahti | 10km Klassisch",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Skilanglauf",
+      "sport_slug": "skilanglauf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:29",
+      "iso_time": "2026-03-11T10:29:34+01:00",
+      "link": "https://play.hbomax.com/video/watch/710b8a01-5864-58a4-be75-20ea46db1700?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lahti-10km-klassisch",
+      "related_events": [
+        {
+          "title": "Lahti | Freistil-Sprint | Finals",
+          "time": "09:59",
+          "sender": "Eurosport",
+          "slug": "lahti-freistil-sprint-finals"
+        }
+      ]
+    },
+    {
+      "title": "Kranjska Gora | Riesenslalom | 2. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:30",
+      "iso_time": "2026-03-11T10:30:01+01:00",
+      "link": "https://play.hbomax.com/video/watch/7281afa5-1115-5a33-ba63-ac1b50352197?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "kranjska-gora-riesenslalom-2-lauf",
+      "related_events": [
+        {
+          "title": "Val di Fassa | Abfahrt",
+          "time": "07:59",
+          "sender": "Eurosport",
+          "slug": "val-di-fassa-abfahrt"
+        },
+        {
+          "title": "Kranjska Gora | Slalom | 2. Lauf",
+          "time": "08:58",
+          "sender": "Eurosport",
+          "slug": "kranjska-gora-slalom-2-lauf"
+        },
+        {
+          "title": "Kranjska Gora | Slalom | 2. Lauf",
+          "time": "11:28",
+          "sender": "Eurosport",
+          "slug": "kranjska-gora-slalom-2-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Paris-Nizza | 3. Etappe",
+      "subtitle": "UCI World Tour | Männer | Cosne-Cours-sur-Loire - Pouilly-sur-Loire (23,5km / TZF)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-03-11T11:00:34+01:00",
+      "link": "https://play.hbomax.com/video/watch/6558e372-220b-518a-a493-aa8fc7ba68ff?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "paris-nizza-3-etappe",
+      "related_events": [
+        {
+          "title": "Tirreno-Adriatico | 2. Etappe",
+          "time": "11:58",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-2-etappe"
+        },
+        {
+          "title": "Tirreno-Adriatico | 2. Etappe",
+          "time": "12:25",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-2-etappe"
+        },
+        {
+          "title": "Tirreno-Adriatico | 3. Etappe",
+          "time": "13:05",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Kranjska Gora | Slalom | 2. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:28",
+      "iso_time": "2026-03-11T11:28:58+01:00",
+      "link": "https://play.hbomax.com/video/watch/b3df3f86-cbc8-5723-becb-daaf7e7ac95a?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "kranjska-gora-slalom-2-lauf",
+      "related_events": [
+        {
+          "title": "Kranjska Gora | Riesenslalom | 2. Lauf",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "kranjska-gora-riesenslalom-2-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Tirreno-Adriatico | 2. Etappe",
+      "subtitle": "UCI World Tour | Männer | Camaiore – San Gimignano (206km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:58",
+      "iso_time": "2026-03-11T11:58:30+01:00",
+      "link": "https://play.hbomax.com/video/watch/b9a8130e-9b49-5119-b950-3a99c479e947?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tirreno-adriatico-2-etappe",
+      "related_events": [
+        {
+          "title": "Paris-Nizza | 3. Etappe",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "paris-nizza-3-etappe"
+        },
+        {
+          "title": "Tirreno-Adriatico | 3. Etappe",
+          "time": "13:05",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-3-etappe"
+        },
+        {
+          "title": "Tirreno-Adriatico | 3. Etappe",
+          "time": "13:05",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tirreno-Adriatico | 2. Etappe",
+      "subtitle": "UCI World Tour | Männer | Camaiore – San Gimignano (206km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:25",
+      "iso_time": "2026-03-11T12:25:04+01:00",
+      "link": "https://play.hbomax.com/video/watch/8395d1db-01f1-50be-aab4-2272f457e194?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tirreno-adriatico-2-etappe",
+      "related_events": [
+        {
+          "title": "Paris-Nizza | 3. Etappe",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "paris-nizza-3-etappe"
+        },
+        {
+          "title": "Tirreno-Adriatico | 3. Etappe",
+          "time": "13:05",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-3-etappe"
+        },
+        {
+          "title": "Tirreno-Adriatico | 3. Etappe",
+          "time": "13:05",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tirreno-Adriatico | 3. Etappe",
+      "subtitle": "UCI World Tour | Männer | Cortona – Magliano de' Marsi (221km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:05",
+      "iso_time": "2026-03-11T13:05:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/e0e4f71a-e3b4-5e7b-b517-93b9538f63db?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tirreno-adriatico-3-etappe",
+      "related_events": [
+        {
+          "title": "Paris-Nizza | 3. Etappe",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "paris-nizza-3-etappe"
+        },
+        {
+          "title": "Tirreno-Adriatico | 2. Etappe",
+          "time": "11:58",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-2-etappe"
+        },
+        {
+          "title": "Tirreno-Adriatico | 2. Etappe",
+          "time": "12:25",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tirreno-Adriatico | 3. Etappe",
+      "subtitle": "UCI World Tour | Männer | Cortona – Magliano de' Marsi (221km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:05",
+      "iso_time": "2026-03-11T13:05:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/b16d22ef-2fbe-5e83-9c21-03423ab45417?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tirreno-adriatico-3-etappe",
+      "related_events": [
+        {
+          "title": "Paris-Nizza | 3. Etappe",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "paris-nizza-3-etappe"
+        },
+        {
+          "title": "Tirreno-Adriatico | 2. Etappe",
+          "time": "11:58",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-2-etappe"
+        },
+        {
+          "title": "Tirreno-Adriatico | 2. Etappe",
+          "time": "12:25",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tirreno-Adriatico | 3. Etappe",
+      "subtitle": "UCI World Tour | Männer | Cortona – Magliano de' Marsi (221km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:05",
+      "iso_time": "2026-03-11T13:05:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/38408322-5e6a-566b-ab8a-c1b2eb4c8d4c?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tirreno-adriatico-3-etappe",
+      "related_events": [
+        {
+          "title": "Paris-Nizza | 3. Etappe",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "paris-nizza-3-etappe"
+        },
+        {
+          "title": "Tirreno-Adriatico | 2. Etappe",
+          "time": "11:58",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-2-etappe"
+        },
+        {
+          "title": "Tirreno-Adriatico | 2. Etappe",
+          "time": "12:25",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Paris-Nizza | 4. Etappe",
+      "subtitle": "UCI World Tour | Männer | Bourges - Uchon (195km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:10",
+      "iso_time": "2026-03-11T15:10:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/62384059-fb65-5614-9817-218807dbc2a1?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "paris-nizza-4-etappe",
+      "related_events": [
+        {
+          "title": "Tirreno-Adriatico | 2. Etappe",
+          "time": "12:25",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-2-etappe"
+        },
+        {
+          "title": "Tirreno-Adriatico | 3. Etappe",
+          "time": "13:05",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-3-etappe"
+        },
+        {
+          "title": "Tirreno-Adriatico | 3. Etappe",
+          "time": "13:05",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Paris-Nizza | 4. Etappe",
+      "subtitle": "UCI World Tour | Männer | Bourges - Uchon (195km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:45",
+      "iso_time": "2026-03-11T15:45:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/68b605f5-0633-5015-b627-7c99324fbf42?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "paris-nizza-4-etappe",
+      "related_events": [
+        {
+          "title": "Tirreno-Adriatico | 3. Etappe",
+          "time": "13:05",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-3-etappe"
+        },
+        {
+          "title": "Tirreno-Adriatico | 3. Etappe",
+          "time": "13:05",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-3-etappe"
+        },
+        {
+          "title": "Tirreno-Adriatico | 3. Etappe",
+          "time": "13:05",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Paris-Nizza | 4. Etappe",
+      "subtitle": "UCI World Tour | Männer | Bourges - Uchon (195km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:45",
+      "iso_time": "2026-03-11T15:45:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/ab1dd798-4442-5bf9-b930-427169cf6ccf?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "paris-nizza-4-etappe",
+      "related_events": [
+        {
+          "title": "Tirreno-Adriatico | 3. Etappe",
+          "time": "13:05",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-3-etappe"
+        },
+        {
+          "title": "Tirreno-Adriatico | 3. Etappe",
+          "time": "13:05",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-3-etappe"
+        },
+        {
+          "title": "Tirreno-Adriatico | 3. Etappe",
+          "time": "13:05",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Welsh Open | Finale",
+      "subtitle": "B. Hawkins - J. Lisowski | 2. Session | Llandudno | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:15",
+      "iso_time": "2026-03-11T17:15:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/f444a8b5-2f56-50bf-9ddb-19288b1ce6ee?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "welsh-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tirreno-Adriatico | 3. Etappe",
+      "subtitle": "UCI World Tour | Männer | Cortona – Magliano de' Marsi (221km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:15",
+      "iso_time": "2026-03-11T17:15:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/125835c1-1590-554d-9800-940802b9ee28?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tirreno-adriatico-3-etappe",
+      "related_events": [
+        {
+          "title": "Paris-Nizza | 4. Etappe",
+          "time": "15:10",
+          "sender": "Eurosport",
+          "slug": "paris-nizza-4-etappe"
+        },
+        {
+          "title": "Paris-Nizza | 4. Etappe",
+          "time": "15:45",
+          "sender": "Eurosport",
+          "slug": "paris-nizza-4-etappe"
+        },
+        {
+          "title": "Paris-Nizza | 4. Etappe",
+          "time": "15:45",
+          "sender": "Eurosport",
+          "slug": "paris-nizza-4-etappe"
+        }
+      ]
+    },
+    {
+      "title": "AlUla - A Land of Sports",
+      "subtitle": "Sport-Magazin",
+      "sport": "Alle Sportarten",
+      "sport_slug": "alle-sportarten",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2026-03-11T18:00:00+01:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "alula-a-land-of-sports",
+      "related_events": []
+    },
+    {
+      "title": "Tirreno-Adriatico | 3. Etappe",
+      "subtitle": "UCI World Tour | Männer | Cortona – Magliano de' Marsi (221km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2026-03-11T18:30:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/20a36f4a-b086-56b1-b7d5-b3dd5ee82e99?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tirreno-adriatico-3-etappe",
+      "related_events": [
+        {
+          "title": "Paris-Nizza | 4. Etappe",
+          "time": "15:45",
+          "sender": "Eurosport",
+          "slug": "paris-nizza-4-etappe"
+        },
+        {
+          "title": "Paris-Nizza | 4. Etappe",
+          "time": "15:45",
+          "sender": "Eurosport",
+          "slug": "paris-nizza-4-etappe"
+        },
+        {
+          "title": "Paris-Nizza | 4. Etappe",
+          "time": "19:15",
+          "sender": "Eurosport",
+          "slug": "paris-nizza-4-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Lahti | Team-Sprint",
+      "subtitle": "Weltcup | Mixed",
+      "sport": "Nordische Kombination",
+      "sport_slug": "nordische-kombination",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2026-03-11T19:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/99b0cca4-99b3-551e-9c82-0a43374948fc?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lahti-team-sprint",
+      "related_events": []
+    },
+    {
+      "title": "Paris-Nizza | 4. Etappe",
+      "subtitle": "UCI World Tour | Männer | Bourges - Uchon (195km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:15",
+      "iso_time": "2026-03-11T19:15:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/7f9208fe-16d2-5e23-bfc2-a4bb0630aa7e?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "paris-nizza-4-etappe",
+      "related_events": [
+        {
+          "title": "Tirreno-Adriatico | 3. Etappe",
+          "time": "17:15",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-3-etappe"
+        },
+        {
+          "title": "Tirreno-Adriatico | 3. Etappe",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-3-etappe"
+        },
+        {
+          "title": "Tirreno-Adriatico | 3. Etappe",
+          "time": "20:30",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Kranjska Gora | Riesenslalom | 2. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:45",
+      "iso_time": "2026-03-11T19:45:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/466ea072-47e1-5a5c-b1f6-8497785e589d?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "kranjska-gora-riesenslalom-2-lauf",
+      "related_events": []
+    },
+    {
+      "title": "Kontiolahti | 12,5km Massenstart",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-03-11T20:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/3d07fff0-e464-5d2b-a6cf-95281459fbfe?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "kontiolahti-125km-massenstart",
+      "related_events": [
+        {
+          "title": "Kontiolahti | Massenstart",
+          "time": "20:45",
+          "sender": "Eurosport",
+          "slug": "kontiolahti-massenstart"
+        }
+      ]
+    },
+    {
+      "title": "Tirreno-Adriatico | 3. Etappe",
+      "subtitle": "UCI World Tour | Männer | Cortona – Magliano de' Marsi (221km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:30",
+      "iso_time": "2026-03-11T20:30:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/fd1676f6-3dce-54cd-aeb4-24906707d15b?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tirreno-adriatico-3-etappe",
+      "related_events": [
+        {
+          "title": "Paris-Nizza | 4. Etappe",
+          "time": "19:15",
+          "sender": "Eurosport",
+          "slug": "paris-nizza-4-etappe"
+        },
+        {
+          "title": "Paris-Nizza | 4. Etappe",
+          "time": "21:15",
+          "sender": "Eurosport",
+          "slug": "paris-nizza-4-etappe"
+        },
+        {
+          "title": "The Cycle - Becoming a Pro Rider",
+          "time": "22:30",
+          "sender": "Eurosport",
+          "slug": "the-cycle-becoming-a-pro-rider"
+        }
+      ]
+    },
+    {
+      "title": "Kontiolahti | Massenstart",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Biathlon",
+      "sport_slug": "biathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:45",
+      "iso_time": "2026-03-11T20:45:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/e027fb41-94c0-5ef8-ba65-9831266bb07f?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "kontiolahti-massenstart",
+      "related_events": [
+        {
+          "title": "Kontiolahti | 12,5km Massenstart",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "kontiolahti-125km-massenstart"
+        }
+      ]
+    },
+    {
+      "title": "Paris-Nizza | 4. Etappe",
+      "subtitle": "UCI World Tour | Männer | Bourges - Uchon (195km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:15",
+      "iso_time": "2026-03-11T21:15:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/1e729f20-cc62-5615-a64c-4d2f3ae3197c?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "paris-nizza-4-etappe",
+      "related_events": [
+        {
+          "title": "Tirreno-Adriatico | 3. Etappe",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-3-etappe"
+        },
+        {
+          "title": "Tirreno-Adriatico | 3. Etappe",
+          "time": "20:30",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-3-etappe"
+        },
+        {
+          "title": "Tirreno-Adriatico | 3. Etappe",
+          "time": "22:30",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Kranjska Gora | Riesenslalom | 2. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:30",
+      "iso_time": "2026-03-11T21:30:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/a280318f-cff3-59b6-80e5-86387590867f?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "kranjska-gora-riesenslalom-2-lauf",
+      "related_events": []
+    },
+    {
+      "title": "Discovery Golf",
+      "subtitle": "",
+      "sport": "Golf",
+      "sport_slug": "golf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-03-11T22:00:00+01:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "discovery-golf",
+      "related_events": []
+    },
+    {
+      "title": "Tirreno-Adriatico | 3. Etappe",
+      "subtitle": "UCI World Tour | Männer | Cortona – Magliano de' Marsi (221km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:30",
+      "iso_time": "2026-03-11T22:30:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/7fa718c9-bc4d-5357-ba24-9ec285b02b4d?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tirreno-adriatico-3-etappe",
+      "related_events": [
+        {
+          "title": "Paris-Nizza | 4. Etappe",
+          "time": "21:15",
+          "sender": "Eurosport",
+          "slug": "paris-nizza-4-etappe"
+        },
+        {
+          "title": "The Cycle - Becoming a Pro Rider",
+          "time": "22:30",
+          "sender": "Eurosport",
+          "slug": "the-cycle-becoming-a-pro-rider"
+        },
+        {
+          "title": "Paris-Nizza | 4. Etappe",
+          "time": "23:15",
+          "sender": "Eurosport",
+          "slug": "paris-nizza-4-etappe"
+        }
+      ]
+    },
+    {
+      "title": "The Cycle - Becoming a Pro Rider",
+      "subtitle": "Radsport-Dokumentation | 2026",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:30",
+      "iso_time": "2026-03-11T22:30:00+01:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "the-cycle-becoming-a-pro-rider",
+      "related_events": [
+        {
+          "title": "Tirreno-Adriatico | 3. Etappe",
+          "time": "20:30",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-3-etappe"
+        },
+        {
+          "title": "Paris-Nizza | 4. Etappe",
+          "time": "21:15",
+          "sender": "Eurosport",
+          "slug": "paris-nizza-4-etappe"
+        },
+        {
+          "title": "Tirreno-Adriatico | 3. Etappe",
+          "time": "22:30",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "A Day At The Paralympics | 6. Wettkampftag",
+      "subtitle": "Milano Cortina 2026 | Highlights",
+      "sport": "Alle Sportarten",
+      "sport_slug": "alle-sportarten",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2026-03-11T23:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/d9677972-9dd7-5c81-b757-462e6552a14c?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "a-day-at-the-paralympics-6-wettkampftag",
+      "related_events": []
+    },
+    {
+      "title": "Paris-Nizza | 4. Etappe",
+      "subtitle": "UCI World Tour | Männer | Bourges - Uchon (195km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:15",
+      "iso_time": "2026-03-11T23:15:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/977adfe0-59ca-579f-ae5e-9b8fcd2a81c8?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "paris-nizza-4-etappe",
+      "related_events": [
+        {
+          "title": "Tirreno-Adriatico | 3. Etappe",
+          "time": "20:30",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-3-etappe"
+        },
+        {
+          "title": "Tirreno-Adriatico | 3. Etappe",
+          "time": "22:30",
+          "sender": "Eurosport",
+          "slug": "tirreno-adriatico-3-etappe"
+        },
+        {
+          "title": "The Cycle - Becoming a Pro Rider",
+          "time": "22:30",
+          "sender": "Eurosport",
+          "slug": "the-cycle-becoming-a-pro-rider"
+        }
+      ]
+    },
+    {
+      "title": "Players Championship | Finale",
+      "subtitle": "",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-03-12T00:00:00+01:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "players-championship-finale",
+      "related_events": []
+    },
+    {
+      "title": "A Day At The Paralympics | 6. Wettkampftag",
+      "subtitle": "Milano Cortina 2026 | Highlights",
+      "sport": "Alle Sportarten",
+      "sport_slug": "alle-sportarten",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-03-12T00:00:00+01:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "a-day-at-the-paralympics-6-wettkampftag",
+      "related_events": []
+    },
+    {
+      "title": "Players Championship | Finale",
+      "subtitle": "J. Higgins - Zhao X. | 2. Session | Telford",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:00",
+      "iso_time": "2026-03-12T01:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/45c00f0d-d325-5d44-bc07-a709647e3ff1?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "players-championship-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tirreno-Adriatico | 3. Etappe",
+      "subtitle": "UCI World Tour | Männer | Cortona – Magliano de' Marsi (221km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:00",
+      "iso_time": "2026-03-12T01:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/9e207f56-b092-595c-8464-ceb94f6c6071?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tirreno-adriatico-3-etappe",
+      "related_events": [
+        {
+          "title": "The Cycle - Becoming a Pro Rider",
+          "time": "22:30",
+          "sender": "Eurosport",
+          "slug": "the-cycle-becoming-a-pro-rider"
+        },
+        {
+          "title": "Paris-Nizza | 4. Etappe",
+          "time": "23:15",
+          "sender": "Eurosport",
+          "slug": "paris-nizza-4-etappe"
+        }
+      ]
+    }
+  ]
+}
