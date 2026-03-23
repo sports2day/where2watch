@@ -1,0 +1,1146 @@
+{
+  "date": "2026-03-23",
+  "events": [
+    {
+      "title": "1. FC Union Berlin vs Werder Bremen",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga-frauen/ma11376257/1-fc-union-berlin_werder-bremen/info",
+      "slug": "1-fc-union-berlin-vs-werder-bremen",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Granada CF vs Deportivo La Coruña",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-frauen-primera-division/ma11242298/granada-cf_deportivo-la-coruna/info",
+      "slug": "granada-cf-vs-deportivo-la-coruna",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Ratiopharm Ulm vs Telekom Baskets Bonn",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/deutschland-bbl/ma11487923/ratiopharm-ulm_telekom-baskets-bonn/info",
+      "slug": "ratiopharm-ulm-vs-telekom-baskets-bonn",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "New York Knicks vs Washington Wizards",
+      "time": "00:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11635961/new-york-knicks_washington-wizards/info",
+      "slug": "new-york-knicks-vs-washington-wizards",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Boston Celtics vs Minnesota Timberwolves",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11635964/boston-celtics_minnesota-timberwolves/info",
+      "slug": "boston-celtics-vs-minnesota-timberwolves",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Phoenix Suns vs Toronto Raptors",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11635967/phoenix-suns_toronto-raptors/info",
+      "slug": "phoenix-suns-vs-toronto-raptors",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Dallas Stars vs Vegas Golden Knights",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415629/dallas-stars_vegas-golden-knights/info",
+      "slug": "dallas-stars-vs-vegas-golden-knights",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "New York Islanders vs Columbus Blue Jackets",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "new-york-islanders-vs-columbus-blue-jackets"
+        }
+      ]
+    },
+    {
+      "title": "New York Islanders vs Columbus Blue Jackets",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415632/new-york-islanders_columbus-blue-jackets/info",
+      "slug": "new-york-islanders-vs-columbus-blue-jackets",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dallas Stars vs Vegas Golden Knights",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "dallas-stars-vs-vegas-golden-knights"
+        }
+      ]
+    },
+    {
+      "title": "Anaheim Ducks vs Buffalo Sabres",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415635/anaheim-ducks_buffalo-sabres/info",
+      "slug": "anaheim-ducks-vs-buffalo-sabres",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Calgary Flames vs Tampa Bay Lightning",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "calgary-flames-vs-tampa-bay-lightning"
+        }
+      ]
+    },
+    {
+      "title": "Calgary Flames vs Tampa Bay Lightning",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415638/calgary-flames_tampa-bay-lightning/info",
+      "slug": "calgary-flames-vs-tampa-bay-lightning",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Anaheim Ducks vs Buffalo Sabres",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "anaheim-ducks-vs-buffalo-sabres"
+        }
+      ]
+    },
+    {
+      "title": "Utah Mammoth vs Los Angeles Kings",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415641/utah-mammoth_los-angeles-kings/info",
+      "slug": "utah-mammoth-vs-los-angeles-kings",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Aryna Sabalenka vs Caty McNally",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-miami-open/ma11770261/aryna-sabalenka_caty-mcnally/info",
+      "slug": "aryna-sabalenka-vs-caty-mcnally",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Karolina Muchova vs Alexandra Eala",
+      "time": "16:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-miami-open/ma11770330/karolina-muchova_alexandra-eala/info",
+      "slug": "karolina-muchova-vs-alexandra-eala",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Alexander Shevchenko vs Ugo Humbert",
+          "time": "16:00",
+          "sender": "Sportschau Live",
+          "slug": "alexander-shevchenko-vs-ugo-humbert"
+        }
+      ]
+    },
+    {
+      "title": "Mirra Andreeva vs Victoria Mboko",
+      "time": "17:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-miami-open/ma11770327/mirra-andreeva_victoria-mboko/info",
+      "slug": "mirra-andreeva-vs-victoria-mboko",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Felix Auger-Aliassime vs Terence Atmane",
+          "time": "17:10",
+          "sender": "Sportschau Live",
+          "slug": "felix-auger-aliassime-vs-terence-atmane"
+        }
+      ]
+    },
+    {
+      "title": "Sorana Cirstea vs Coco Gauff",
+      "time": "18:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-miami-open/ma11770324/sorana-cirstea_coco-gauff/info",
+      "slug": "sorana-cirstea-vs-coco-gauff",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Hailey Baptiste vs Jelena Ostapenko",
+      "time": "18:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-miami-open/ma11770312/hailey-baptiste_jelena-ostapenko/info",
+      "slug": "hailey-baptiste-vs-jelena-ostapenko",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Frances Tiafoe vs Jakub Mensik",
+          "time": "18:20",
+          "sender": "Sportschau Live",
+          "slug": "frances-tiafoe-vs-jakub-mensik"
+        }
+      ]
+    },
+    {
+      "title": "Aryna Sabalenka vs Qinwen Zheng",
+      "time": "19:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-miami-open/ma11770309/aryna-sabalenka_qinwen-zheng/info",
+      "slug": "aryna-sabalenka-vs-qinwen-zheng",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Jaqueline Cristian vs Jessica Pegula",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-miami-open/ma11770318/jaqueline-cristian_jessica-pegula/info",
+      "slug": "jaqueline-cristian-vs-jessica-pegula",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Matteo Berrettini vs Valentin Vacherot",
+      "time": "00:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-miami-open/ma11751532/matteo-berrettini_valentin-vacherot/info",
+      "slug": "matteo-berrettini-vs-valentin-vacherot",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Arthur Fils vs Stefanos Tsitsipas",
+      "time": "01:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-miami-open/ma11751535/arthur-fils_stefanos-tsitsipas/info",
+      "slug": "arthur-fils-vs-stefanos-tsitsipas",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alexander Shevchenko vs Ugo Humbert",
+      "time": "16:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-miami-open/ma11751538/alexander-shevchenko_ugo-humbert/info",
+      "slug": "alexander-shevchenko-vs-ugo-humbert",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Karolina Muchova vs Alexandra Eala",
+          "time": "16:00",
+          "sender": "Sportschau Live",
+          "slug": "karolina-muchova-vs-alexandra-eala"
+        }
+      ]
+    },
+    {
+      "title": "Francisco Cerúndolo vs Daniil Medvedev",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-miami-open/ma11751541/francisco-cerundolo_daniil-medvedev/info",
+      "slug": "francisco-cerundolo-vs-daniil-medvedev",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Felix Auger-Aliassime vs Terence Atmane",
+      "time": "17:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-miami-open/ma11751550/felix-auger-aliassime_terence-atmane/info",
+      "slug": "felix-auger-aliassime-vs-terence-atmane",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Mirra Andreeva vs Victoria Mboko",
+          "time": "17:10",
+          "sender": "Sportschau Live",
+          "slug": "mirra-andreeva-vs-victoria-mboko"
+        }
+      ]
+    },
+    {
+      "title": "Frances Tiafoe vs Jakub Mensik",
+      "time": "18:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-miami-open/ma11751553/frances-tiafoe_jakub-mensik/info",
+      "slug": "frances-tiafoe-vs-jakub-mensik",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Hailey Baptiste vs Jelena Ostapenko",
+          "time": "18:20",
+          "sender": "Sportschau Live",
+          "slug": "hailey-baptiste-vs-jelena-ostapenko"
+        }
+      ]
+    },
+    {
+      "title": "Quentin Halys vs Kamil Majchrzak",
+      "time": "20:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-miami-open/ma11751544/quentin-halys_kamil-majchrzak/info",
+      "slug": "quentin-halys-vs-kamil-majchrzak",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alejandro Tabilo vs Alex Michelsen",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-miami-open/ma11751556/alejandro-tabilo_alex-michelsen/info",
+      "slug": "alejandro-tabilo-vs-alex-michelsen",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Marin Čilić vs Alexander Zverev",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "marin-cilic-vs-alexander-zverev"
+        }
+      ]
+    },
+    {
+      "title": "Marin Čilić vs Alexander Zverev",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-miami-open/ma11751547/marin-cilic_alexander-zverev/info",
+      "slug": "marin-cilic-vs-alexander-zverev",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Alejandro Tabilo vs Alex Michelsen",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "alejandro-tabilo-vs-alex-michelsen"
+        }
+      ]
+    },
+    {
+      "title": "WM | Schweiz - Kanada",
+      "subtitle": "Finale | Frauen | Calgary",
+      "sport": "Curling",
+      "sport_slug": "curling",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-03-22T22:00:14+01:00",
+      "link": "https://play.hbomax.com/video/watch/37700330-7604-54a0-8afa-bed0f75b2c9b?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-schweiz-kanada",
+      "related_events": []
+    },
+    {
+      "title": "World Open | Finale | 2. Session",
+      "subtitle": "Ronnie O'Sullivan - Thepchaiya Un-Nooh | Yushan",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:06",
+      "iso_time": "2026-03-23T00:06:50+01:00",
+      "link": "https://play.hbomax.com/video/watch/c8eadb2e-9b86-5838-8def-bf37794cf3d5?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "world-open-finale-2-session",
+      "related_events": []
+    },
+    {
+      "title": "Vikersund | Einzelfliegen",
+      "subtitle": "Weltcup | Männer | HS 240",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:30",
+      "iso_time": "2026-03-23T00:30:31+01:00",
+      "link": "",
+      "slug": "vikersund-einzelfliegen",
+      "related_events": []
+    },
+    {
+      "title": "World Open | Finale | 2. Session",
+      "subtitle": "Ronnie O'Sullivan - Thepchaiya Un-Nooh | Yushan",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:28",
+      "iso_time": "2026-03-23T01:28:13+01:00",
+      "link": "",
+      "slug": "world-open-finale-2-session",
+      "related_events": []
+    },
+    {
+      "title": "Lillehammer | Super-G",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:05",
+      "iso_time": "2026-03-23T03:05:34+01:00",
+      "link": "",
+      "slug": "lillehammer-super-g",
+      "related_events": []
+    },
+    {
+      "title": "Lillehammer | Super-G",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:47",
+      "iso_time": "2026-03-23T03:47:36+01:00",
+      "link": "",
+      "slug": "lillehammer-super-g",
+      "related_events": []
+    },
+    {
+      "title": "Vikersund | Einzelfliegen",
+      "subtitle": "Weltcup | Männer | HS 240",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:30",
+      "iso_time": "2026-03-23T04:30:26+01:00",
+      "link": "https://play.hbomax.com/video/watch/f84549ab-9d85-5db3-95d9-da84762cb5dd?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "vikersund-einzelfliegen",
+      "related_events": []
+    },
+    {
+      "title": "World Open | Finale | 2. Session",
+      "subtitle": "Ronnie O'Sullivan - Thepchaiya Un-Nooh | Yushan",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:00",
+      "iso_time": "2026-03-23T06:00:35+01:00",
+      "link": "https://play.hbomax.com/video/watch/6baffa87-d617-5e46-8787-5e54cbd4b992?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "world-open-finale-2-session",
+      "related_events": []
+    },
+    {
+      "title": "Lillehammer | Super-G",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:30",
+      "iso_time": "2026-03-23T07:30:55+01:00",
+      "link": "https://play.hbomax.com/video/watch/a498ea1b-38b6-5148-a43f-3e2337db647e?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lillehammer-super-g",
+      "related_events": []
+    },
+    {
+      "title": "Andalusien | MX2 | 1. Rennen",
+      "subtitle": "WM",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:00",
+      "iso_time": "2026-03-23T08:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/abd8fcca-7802-51b2-b8dc-c003016e4e41?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "andalusien-mx2-1-rennen",
+      "related_events": [
+        {
+          "title": "Andalusien | MXGP | 1. Rennen",
+          "time": "08:45",
+          "sender": "Eurosport",
+          "slug": "andalusien-mxgp-1-rennen"
+        },
+        {
+          "title": "Andalusien | MX2 | 2. Rennen",
+          "time": "09:30",
+          "sender": "Eurosport",
+          "slug": "andalusien-mx2-2-rennen"
+        },
+        {
+          "title": "Andalusien | MXGP | 2. Rennen",
+          "time": "10:16",
+          "sender": "Eurosport",
+          "slug": "andalusien-mxgp-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Vikersund | Einzelfliegen",
+      "subtitle": "Weltcup | Männer | HS 240",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:34",
+      "iso_time": "2026-03-23T08:34:57+01:00",
+      "link": "https://play.hbomax.com/video/watch/c7ab745c-d101-52de-9d80-b4844304fb1b?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "vikersund-einzelfliegen",
+      "related_events": []
+    },
+    {
+      "title": "Andalusien | MXGP | 1. Rennen",
+      "subtitle": "WM",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:45",
+      "iso_time": "2026-03-23T08:45:54+01:00",
+      "link": "https://play.hbomax.com/video/watch/c021c35d-f543-58e2-9782-6244c6e4d147?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "andalusien-mxgp-1-rennen",
+      "related_events": [
+        {
+          "title": "Andalusien | MX2 | 1. Rennen",
+          "time": "08:00",
+          "sender": "Eurosport",
+          "slug": "andalusien-mx2-1-rennen"
+        },
+        {
+          "title": "Andalusien | MX2 | 2. Rennen",
+          "time": "09:30",
+          "sender": "Eurosport",
+          "slug": "andalusien-mx2-2-rennen"
+        },
+        {
+          "title": "Andalusien | MXGP | 2. Rennen",
+          "time": "10:16",
+          "sender": "Eurosport",
+          "slug": "andalusien-mxgp-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Andalusien | MX2 | 2. Rennen",
+      "subtitle": "WM",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:30",
+      "iso_time": "2026-03-23T09:30:54+01:00",
+      "link": "https://play.hbomax.com/video/watch/d8044572-c200-5f28-bbfe-bb8e689e48ba?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "andalusien-mx2-2-rennen",
+      "related_events": [
+        {
+          "title": "Andalusien | MX2 | 1. Rennen",
+          "time": "08:00",
+          "sender": "Eurosport",
+          "slug": "andalusien-mx2-1-rennen"
+        },
+        {
+          "title": "Andalusien | MXGP | 1. Rennen",
+          "time": "08:45",
+          "sender": "Eurosport",
+          "slug": "andalusien-mxgp-1-rennen"
+        },
+        {
+          "title": "Andalusien | MXGP | 2. Rennen",
+          "time": "10:16",
+          "sender": "Eurosport",
+          "slug": "andalusien-mxgp-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "WM | Halbfinale",
+      "subtitle": "Schweden - Schweiz | Frauen | Calgary",
+      "sport": "Curling",
+      "sport_slug": "curling",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:02",
+      "iso_time": "2026-03-23T10:02:35+01:00",
+      "link": "https://play.hbomax.com/video/watch/75f5947b-26b5-5dfc-81ba-cfd3854ab284?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-halbfinale",
+      "related_events": [
+        {
+          "title": "WM | Finale",
+          "time": "12:01",
+          "sender": "Eurosport",
+          "slug": "wm-finale"
+        }
+      ]
+    },
+    {
+      "title": "Andalusien | MXGP | 2. Rennen",
+      "subtitle": "WM",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:16",
+      "iso_time": "2026-03-23T10:16:43+01:00",
+      "link": "https://play.hbomax.com/video/watch/e4c69e75-56b3-5784-bb04-d345563d2239?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "andalusien-mxgp-2-rennen",
+      "related_events": [
+        {
+          "title": "Andalusien | MX2 | 1. Rennen",
+          "time": "08:00",
+          "sender": "Eurosport",
+          "slug": "andalusien-mx2-1-rennen"
+        },
+        {
+          "title": "Andalusien | MXGP | 1. Rennen",
+          "time": "08:45",
+          "sender": "Eurosport",
+          "slug": "andalusien-mxgp-1-rennen"
+        },
+        {
+          "title": "Andalusien | MX2 | 2. Rennen",
+          "time": "09:30",
+          "sender": "Eurosport",
+          "slug": "andalusien-mx2-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Vikersund | Einzelfliegen",
+      "subtitle": "Weltcup | Männer | HS 240",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:01",
+      "iso_time": "2026-03-23T11:01:43+01:00",
+      "link": "https://play.hbomax.com/video/watch/3b022ede-f1eb-526f-aead-d3ec8f45227a?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "vikersund-einzelfliegen",
+      "related_events": []
+    },
+    {
+      "title": "WM | Finale",
+      "subtitle": "| Frauen | Calgary",
+      "sport": "Curling",
+      "sport_slug": "curling",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:01",
+      "iso_time": "2026-03-23T12:01:16+01:00",
+      "link": "https://play.hbomax.com/video/watch/1a1bbd3f-2d1c-52ff-acc1-40b500692414?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-finale",
+      "related_events": [
+        {
+          "title": "WM | Halbfinale",
+          "time": "10:02",
+          "sender": "Eurosport",
+          "slug": "wm-halbfinale"
+        }
+      ]
+    },
+    {
+      "title": "League of Nations | Ocala",
+      "subtitle": "Springreiten",
+      "sport": "Reitsport",
+      "sport_slug": "reitsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:31",
+      "iso_time": "2026-03-23T12:31:39+01:00",
+      "link": "https://play.hbomax.com/video/watch/a358cff2-8d26-5f41-9ee1-41d6d02922e2?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "league-of-nations-ocala",
+      "related_events": []
+    },
+    {
+      "title": "Mailand-Sanremo",
+      "subtitle": "UCI World Tour | Männer | Pavia - Sanremo (298km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:58",
+      "iso_time": "2026-03-23T13:58:53+01:00",
+      "link": "https://play.hbomax.com/video/watch/b411850a-54f6-5351-965c-c11c793b11a7?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "mailand-sanremo",
+      "related_events": [
+        {
+          "title": "Volta a Catalunya | 1. Etappe",
+          "time": "15:20",
+          "sender": "Eurosport",
+          "slug": "volta-a-catalunya-1-etappe"
+        },
+        {
+          "title": "Volta a Catalunya | 1. Etappe",
+          "time": "15:20",
+          "sender": "Eurosport",
+          "slug": "volta-a-catalunya-1-etappe"
+        },
+        {
+          "title": "Volta a Catalunya | 1. Etappe",
+          "time": "15:20",
+          "sender": "Eurosport",
+          "slug": "volta-a-catalunya-1-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Mailand-Sanremo",
+      "subtitle": "UCI World Tour | Männer | Pavia - Sanremo (298km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:00",
+      "iso_time": "2026-03-23T14:00:15+01:00",
+      "link": "https://play.hbomax.com/video/watch/bf5e0e13-06d8-59a2-af71-19c4149b29e7?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "mailand-sanremo",
+      "related_events": [
+        {
+          "title": "Volta a Catalunya | 1. Etappe",
+          "time": "15:20",
+          "sender": "Eurosport",
+          "slug": "volta-a-catalunya-1-etappe"
+        },
+        {
+          "title": "Volta a Catalunya | 1. Etappe",
+          "time": "15:20",
+          "sender": "Eurosport",
+          "slug": "volta-a-catalunya-1-etappe"
+        },
+        {
+          "title": "Volta a Catalunya | 1. Etappe",
+          "time": "15:20",
+          "sender": "Eurosport",
+          "slug": "volta-a-catalunya-1-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Volta a Catalunya | 1. Etappe",
+      "subtitle": "UCI World Tour | Männer | Sant Feliu de Guíxols - Sant Feliu de Guíxols (172,8km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:20",
+      "iso_time": "2026-03-23T15:20:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/1d16735b-0d76-5dbe-a2fc-dabf0533bedc?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "volta-a-catalunya-1-etappe",
+      "related_events": [
+        {
+          "title": "Mailand-Sanremo",
+          "time": "13:58",
+          "sender": "Eurosport",
+          "slug": "mailand-sanremo"
+        },
+        {
+          "title": "Mailand-Sanremo",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "mailand-sanremo"
+        },
+        {
+          "title": "Grote Prijs Jean-Pierre Monseré",
+          "time": "17:15",
+          "sender": "Eurosport",
+          "slug": "grote-prijs-jean-pierre-monsere"
+        }
+      ]
+    },
+    {
+      "title": "Volta a Catalunya | 1. Etappe",
+      "subtitle": "UCI World Tour | Männer | Sant Feliu de Guíxols - Sant Feliu de Guíxols (172,8km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:20",
+      "iso_time": "2026-03-23T15:20:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/461e9da2-8cc6-527b-adf3-c66059951178?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "volta-a-catalunya-1-etappe",
+      "related_events": [
+        {
+          "title": "Mailand-Sanremo",
+          "time": "13:58",
+          "sender": "Eurosport",
+          "slug": "mailand-sanremo"
+        },
+        {
+          "title": "Mailand-Sanremo",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "mailand-sanremo"
+        },
+        {
+          "title": "Grote Prijs Jean-Pierre Monseré",
+          "time": "17:15",
+          "sender": "Eurosport",
+          "slug": "grote-prijs-jean-pierre-monsere"
+        }
+      ]
+    },
+    {
+      "title": "Volta a Catalunya | 1. Etappe",
+      "subtitle": "UCI World Tour | Männer | Sant Feliu de Guíxols - Sant Feliu de Guíxols (172,8km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:20",
+      "iso_time": "2026-03-23T15:20:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/5250bb1e-aea1-57dd-a3f8-e86339ec397f?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "volta-a-catalunya-1-etappe",
+      "related_events": [
+        {
+          "title": "Mailand-Sanremo",
+          "time": "13:58",
+          "sender": "Eurosport",
+          "slug": "mailand-sanremo"
+        },
+        {
+          "title": "Mailand-Sanremo",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "mailand-sanremo"
+        },
+        {
+          "title": "Grote Prijs Jean-Pierre Monseré",
+          "time": "17:15",
+          "sender": "Eurosport",
+          "slug": "grote-prijs-jean-pierre-monsere"
+        }
+      ]
+    },
+    {
+      "title": "Saut Hermès | Grand Prix Hermès",
+      "subtitle": "Springreiten | Paris",
+      "sport": "Reitsport",
+      "sport_slug": "reitsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:15",
+      "iso_time": "2026-03-23T17:15:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/dca08a3d-1f3d-52b5-b3e3-8f1c8f6722fe?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "saut-hermes-grand-prix-hermes",
+      "related_events": [
+        {
+          "title": "Saut Hermès | Prix du 24 Faubourg",
+          "time": "18:15",
+          "sender": "Eurosport",
+          "slug": "saut-hermes-prix-du-24-faubourg"
+        }
+      ]
+    },
+    {
+      "title": "Grote Prijs Jean-Pierre Monseré",
+      "subtitle": "UCI Europe Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:15",
+      "iso_time": "2026-03-23T17:15:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/944d9799-6f63-5226-b6aa-b6ca0c05e607?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "grote-prijs-jean-pierre-monsere",
+      "related_events": [
+        {
+          "title": "Volta a Catalunya | 1. Etappe",
+          "time": "15:20",
+          "sender": "Eurosport",
+          "slug": "volta-a-catalunya-1-etappe"
+        },
+        {
+          "title": "Volta a Catalunya | 1. Etappe",
+          "time": "15:20",
+          "sender": "Eurosport",
+          "slug": "volta-a-catalunya-1-etappe"
+        },
+        {
+          "title": "Volta a Catalunya | 1. Etappe",
+          "time": "15:20",
+          "sender": "Eurosport",
+          "slug": "volta-a-catalunya-1-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Vikersund | Einzelfliegen",
+      "subtitle": "Weltcup | Männer | HS 240",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2026-03-23T18:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/d41e38c5-6603-54c8-aced-a761f77cedab?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "vikersund-einzelfliegen",
+      "related_events": []
+    },
+    {
+      "title": "Saut Hermès | Prix du 24 Faubourg",
+      "subtitle": "Springreiten | Paris",
+      "sport": "Reitsport",
+      "sport_slug": "reitsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:15",
+      "iso_time": "2026-03-23T18:15:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/ba84df1f-b6a7-5c53-877d-c6c0799eb505?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "saut-hermes-prix-du-24-faubourg",
+      "related_events": [
+        {
+          "title": "Saut Hermès | Grand Prix Hermès",
+          "time": "17:15",
+          "sender": "Eurosport",
+          "slug": "saut-hermes-grand-prix-hermes"
+        },
+        {
+          "title": "Saut Hermès | Grand Prix Hermès",
+          "time": "19:15",
+          "sender": "Eurosport",
+          "slug": "saut-hermes-grand-prix-hermes"
+        }
+      ]
+    },
+    {
+      "title": "World Open | Finale | 2. Session",
+      "subtitle": "Ronnie O'Sullivan - Thepchaiya Un-Nooh | Yushan",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2026-03-23T19:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/a4f00139-5de8-56df-bc36-2b1af30212b6?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "world-open-finale-2-session",
+      "related_events": []
+    },
+    {
+      "title": "Saut Hermès | Grand Prix Hermès",
+      "subtitle": "Springreiten | Paris",
+      "sport": "Reitsport",
+      "sport_slug": "reitsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:15",
+      "iso_time": "2026-03-23T19:15:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/d21c8657-d905-5625-bcbe-f1ba641c9a8d?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "saut-hermes-grand-prix-hermes",
+      "related_events": [
+        {
+          "title": "Saut Hermès | Prix du 24 Faubourg",
+          "time": "18:15",
+          "sender": "Eurosport",
+          "slug": "saut-hermes-prix-du-24-faubourg"
+        }
+      ]
+    },
+    {
+      "title": "European Open Classic Powerlifting Championships",
+      "subtitle": "St. Julians | 84kg Frauen / 120kg Männer",
+      "sport": "Kraftdreikampf",
+      "sport_slug": "kraftdreikampf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-03-23T20:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/25ebc7ce-8397-5b62-9436-3cf21b4ba2a3?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "european-open-classic-powerlifting-championships",
+      "related_events": []
+    },
+    {
+      "title": "Volta a Catalunya | 1. Etappe",
+      "subtitle": "UCI World Tour | Männer | Sant Feliu de Guíxols - Sant Feliu de Guíxols (172,8km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:15",
+      "iso_time": "2026-03-23T20:15:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/73fa6665-2413-5dda-82af-1d4bc5884252?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "volta-a-catalunya-1-etappe",
+      "related_events": [
+        {
+          "title": "Grote Prijs Jean-Pierre Monseré",
+          "time": "17:15",
+          "sender": "Eurosport",
+          "slug": "grote-prijs-jean-pierre-monsere"
+        }
+      ]
+    },
+    {
+      "title": "Vikersund | Einzelfliegen",
+      "subtitle": "Weltcup | Männer | HS 240",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2026-03-23T21:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/627b1d45-d470-5fb4-b6de-2a0adb3c2659?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "vikersund-einzelfliegen",
+      "related_events": []
+    },
+    {
+      "title": "Volta a Catalunya | 1. Etappe",
+      "subtitle": "UCI World Tour | Männer | Sant Feliu de Guíxols - Sant Feliu de Guíxols (172,8km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:30",
+      "iso_time": "2026-03-23T22:30:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/c84b5269-a713-5925-badd-d3100898fda4?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "volta-a-catalunya-1-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Vikersund | Einzelfliegen",
+      "subtitle": "Weltcup | Männer | HS 240",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2026-03-23T23:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/e0f33e45-5ad4-54d0-b6b4-b03c3d8c4e99?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "vikersund-einzelfliegen",
+      "related_events": []
+    },
+    {
+      "title": "Scottish Open | Finale",
+      "subtitle": "C. Wakelin - C. Bingyu | 2. Session | Edinburgh | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-03-24T00:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/4724dc47-3918-51ae-baf3-8ab4870c446c?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "scottish-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Volta a Catalunya | 1. Etappe",
+      "subtitle": "UCI World Tour | Männer | Sant Feliu de Guíxols - Sant Feliu de Guíxols (172,8km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-03-24T00:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/8bdccf5b-7b6c-581e-8cba-c46f1d442502?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "volta-a-catalunya-1-etappe",
+      "related_events": []
+    }
+  ]
+}
