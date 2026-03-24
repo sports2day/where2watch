@@ -1,0 +1,1606 @@
+{
+  "date": "2026-03-24",
+  "events": [
+    {
+      "title": "VfL Wolfsburg vs OL Lyonnes",
+      "time": "18:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-frauen/ma11787643/vfl-wolfsburg_ol-lyonnes/info",
+      "slug": "vfl-wolfsburg-vs-ol-lyonnes",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Arsenal WFC vs Chelsea FC Women",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-frauen/ma11787637/arsenal-wfc_chelsea-fc-women/info",
+      "slug": "arsenal-wfc-vs-chelsea-fc-women",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": " vs ",
+      "time": "10:30",
+      "iso_time": "",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/ski-alpin/co2066/weltcup-finale/ma11587304/ergebnisse",
+      "slug": "vs",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Lillehammer | Slalom | 1. Lauf",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "lillehammer-slalom-1-lauf"
+        },
+        {
+          "title": "Lillehammer | Slalom | 1. Lauf",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "lillehammer-slalom-1-lauf"
+        }
+      ]
+    },
+    {
+      "title": " vs ",
+      "time": "09:30",
+      "iso_time": "",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/ski-alpin/co2068/weltcup-finale/ma11587310/ergebnisse",
+      "slug": "vs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Maccabi Tel Aviv vs Fenerbahçe",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493635/maccabi-tel-aviv_fenerbahce/info",
+      "slug": "maccabi-tel-aviv-vs-fenerbahce",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "AS Monaco vs Olimpia Milano",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493629/as-monaco_olimpia-milano/info",
+      "slug": "as-monaco-vs-olimpia-milano",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Žalgiris Kaunas vs FC Bayern München",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "zalgiris-kaunas-vs-fc-bayern-munchen"
+        }
+      ]
+    },
+    {
+      "title": "Žalgiris Kaunas vs FC Bayern München",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493632/zalgiris-kaunas_fc-bayern-muenchen/info",
+      "slug": "zalgiris-kaunas-vs-fc-bayern-munchen",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "AS Monaco vs Olimpia Milano",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "as-monaco-vs-olimpia-milano"
+        }
+      ]
+    },
+    {
+      "title": "Dubai Basketball vs Panathinaikos",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493626/dubai-basketball_panathinaikos/info",
+      "slug": "dubai-basketball-vs-panathinaikos",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "FC Barcelona vs Anadolu Efes",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493638/fc-barcelona_anadolu-efes/info",
+      "slug": "fc-barcelona-vs-anadolu-efes",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Valencia Basket vs Olympiakos Piraeus",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "valencia-basket-vs-olympiakos-piraeus"
+        }
+      ]
+    },
+    {
+      "title": "Valencia Basket vs Olympiakos Piraeus",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493644/valencia-basket_olympiakos-piraeus/info",
+      "slug": "valencia-basket-vs-olympiakos-piraeus",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Barcelona vs Anadolu Efes",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "fc-barcelona-vs-anadolu-efes"
+        }
+      ]
+    },
+    {
+      "title": "KK Partizan vs ASVEL Lyon-Villeurbanne",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493641/kk-partizan_asvel-lyon-villeurbanne/info",
+      "slug": "kk-partizan-vs-asvel-lyon-villeurbanne",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Real Madrid vs Hapoel Tel Aviv",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493647/real-madrid_hapoel-tel-aviv/info",
+      "slug": "real-madrid-vs-hapoel-tel-aviv",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "EHC München vs ERC Ingolstadt",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma11943296/ehc-muenchen_erc-ingolstadt/info",
+      "slug": "ehc-munchen-vs-erc-ingolstadt",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Straubing Tigers vs Eisbären Berlin",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma11943284/straubing-tigers_eisbaeren-berlin/info",
+      "slug": "straubing-tigers-vs-eisbaren-berlin",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "EV Landshut vs Krefeld Pinguine",
+          "time": "19:30",
+          "sender": "Sportschau Live",
+          "slug": "ev-landshut-vs-krefeld-pinguine"
+        },
+        {
+          "title": "Lausitzer Füchse vs EC Kassel Huskies",
+          "time": "19:30",
+          "sender": "Sportschau Live",
+          "slug": "lausitzer-fuchse-vs-ec-kassel-huskies"
+        }
+      ]
+    },
+    {
+      "title": "EV Landshut vs Krefeld Pinguine",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del-2/ma11942624/ev-landshut_krefeld-pinguine/info",
+      "slug": "ev-landshut-vs-krefeld-pinguine",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Straubing Tigers vs Eisbären Berlin",
+          "time": "19:30",
+          "sender": "Sportschau Live",
+          "slug": "straubing-tigers-vs-eisbaren-berlin"
+        },
+        {
+          "title": "Lausitzer Füchse vs EC Kassel Huskies",
+          "time": "19:30",
+          "sender": "Sportschau Live",
+          "slug": "lausitzer-fuchse-vs-ec-kassel-huskies"
+        }
+      ]
+    },
+    {
+      "title": "Lausitzer Füchse vs EC Kassel Huskies",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del-2/ma11942627/lausitzer-fuechse_ec-kassel-huskies/info",
+      "slug": "lausitzer-fuchse-vs-ec-kassel-huskies",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Straubing Tigers vs Eisbären Berlin",
+          "time": "19:30",
+          "sender": "Sportschau Live",
+          "slug": "straubing-tigers-vs-eisbaren-berlin"
+        },
+        {
+          "title": "EV Landshut vs Krefeld Pinguine",
+          "time": "19:30",
+          "sender": "Sportschau Live",
+          "slug": "ev-landshut-vs-krefeld-pinguine"
+        }
+      ]
+    },
+    {
+      "title": "Projekt Warszawa vs LKPS Lublin",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Volleyball",
+      "sport_slug": "volleyball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/volleyball/volleyball-champions-league/ma11941934/projekt-warszawa_lkps-lublin/info",
+      "slug": "projekt-warszawa-vs-lkps-lublin",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "CV Guaguas vs Sir Safety Perugia",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Volleyball",
+      "sport_slug": "volleyball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/volleyball/volleyball-champions-league/ma11941937/cv-guaguas_sir-safety-perugia/info",
+      "slug": "cv-guaguas-vs-sir-safety-perugia",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Orlando Magic vs Indiana Pacers",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11637919/orlando-magic_indiana-pacers/info",
+      "slug": "orlando-magic-vs-indiana-pacers",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Detroit Pistons vs Los Angeles Lakers",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "detroit-pistons-vs-los-angeles-lakers"
+        },
+        {
+          "title": "Philadelphia 76ers vs Oklahoma City Thunder",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "philadelphia-76ers-vs-oklahoma-city-thunder"
+        },
+        {
+          "title": "Miami Heat vs San Antonio Spurs",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "miami-heat-vs-san-antonio-spurs"
+        }
+      ]
+    },
+    {
+      "title": "Detroit Pistons vs Los Angeles Lakers",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11637922/detroit-pistons_los-angeles-lakers/info",
+      "slug": "detroit-pistons-vs-los-angeles-lakers",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Orlando Magic vs Indiana Pacers",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "orlando-magic-vs-indiana-pacers"
+        },
+        {
+          "title": "Philadelphia 76ers vs Oklahoma City Thunder",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "philadelphia-76ers-vs-oklahoma-city-thunder"
+        },
+        {
+          "title": "Miami Heat vs San Antonio Spurs",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "miami-heat-vs-san-antonio-spurs"
+        }
+      ]
+    },
+    {
+      "title": "Philadelphia 76ers vs Oklahoma City Thunder",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11637925/philadelphia-76ers_oklahoma-city-thunder/info",
+      "slug": "philadelphia-76ers-vs-oklahoma-city-thunder",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Orlando Magic vs Indiana Pacers",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "orlando-magic-vs-indiana-pacers"
+        },
+        {
+          "title": "Detroit Pistons vs Los Angeles Lakers",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "detroit-pistons-vs-los-angeles-lakers"
+        },
+        {
+          "title": "Miami Heat vs San Antonio Spurs",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "miami-heat-vs-san-antonio-spurs"
+        }
+      ]
+    },
+    {
+      "title": "Miami Heat vs San Antonio Spurs",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11637928/miami-heat_san-antonio-spurs/info",
+      "slug": "miami-heat-vs-san-antonio-spurs",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Orlando Magic vs Indiana Pacers",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "orlando-magic-vs-indiana-pacers"
+        },
+        {
+          "title": "Detroit Pistons vs Los Angeles Lakers",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "detroit-pistons-vs-los-angeles-lakers"
+        },
+        {
+          "title": "Philadelphia 76ers vs Oklahoma City Thunder",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "philadelphia-76ers-vs-oklahoma-city-thunder"
+        }
+      ]
+    },
+    {
+      "title": "Atlanta Hawks vs Memphis Grizzlies",
+      "time": "00:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11637916/atlanta-hawks_memphis-grizzlies/info",
+      "slug": "atlanta-hawks-vs-memphis-grizzlies",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Chicago Bulls vs Houston Rockets",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11637931/chicago-bulls_houston-rockets/info",
+      "slug": "chicago-bulls-vs-houston-rockets",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Utah Jazz vs Toronto Raptors",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11637934/utah-jazz_toronto-raptors/info",
+      "slug": "utah-jazz-vs-toronto-raptors",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Dallas Mavericks vs Golden State Warriors",
+      "time": "02:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11637937/dallas-mavericks_golden-state-warriors/info",
+      "slug": "dallas-mavericks-vs-golden-state-warriors",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Portland Trail Blazers vs Brooklyn Nets",
+      "time": "03:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11637940/portland-trail-blazers_brooklyn-nets/info",
+      "slug": "portland-trail-blazers-vs-brooklyn-nets",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Los Angeles Clippers vs Milwaukee Bucks",
+      "time": "03:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11637943/los-angeles-clippers_milwaukee-bucks/info",
+      "slug": "los-angeles-clippers-vs-milwaukee-bucks",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "New York Rangers vs Ottawa Senators",
+      "time": "00:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415644/new-york-rangers_ottawa-senators/info",
+      "slug": "new-york-rangers-vs-ottawa-senators",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Elena Rybakina vs Talia Gibson",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-miami-open/ma11770315/elena-rybakina_talia-gibson/info",
+      "slug": "elena-rybakina-vs-talia-gibson",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Amanda Anisimova vs Belinda Bencic",
+      "time": "02:05",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-miami-open/ma11770321/amanda-anisimova_belinda-bencic/info",
+      "slug": "amanda-anisimova-vs-belinda-bencic",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Victoria Mboko vs Karolina Muchova",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-miami-open/ma11770342/victoria-mboko_karolina-muchova/info",
+      "slug": "victoria-mboko-vs-karolina-muchova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Tomas Martin Etcheverry vs Tommy Paul",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "tomas-martin-etcheverry-vs-tommy-paul"
+        }
+      ]
+    },
+    {
+      "title": "Corentin Moutet vs Jannik Sinner",
+      "time": "00:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-miami-open/ma11751559/corentin-moutet_jannik-sinner/info",
+      "slug": "corentin-moutet-vs-jannik-sinner",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Sebastian Korda vs Martín Landaluce",
+      "time": "16:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-miami-open/ma11751562/sebastian-korda_martin-landaluce/info",
+      "slug": "sebastian-korda-vs-martin-landaluce",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Jiří Lehečka vs Taylor Fritz",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-miami-open/ma11751565/jiri-lehecka_taylor-fritz/info",
+      "slug": "jiri-lehecka-vs-taylor-fritz",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Valentin Vacherot vs Arthur Fils",
+      "time": "17:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-miami-open/ma11751571/valentin-vacherot_arthur-fils/info",
+      "slug": "valentin-vacherot-vs-arthur-fils",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Tomas Martin Etcheverry vs Tommy Paul",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-miami-open/ma11751568/tomas-martin-etcheverry_tommy-paul/info",
+      "slug": "tomas-martin-etcheverry-vs-tommy-paul",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Victoria Mboko vs Karolina Muchova",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "victoria-mboko-vs-karolina-muchova"
+        }
+      ]
+    },
+    {
+      "title": "Alex Michelsen vs Jannik Sinner",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-miami-open/ma11751583/alex-michelsen_jannik-sinner/info",
+      "slug": "alex-michelsen-vs-jannik-sinner",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Terence Atmane vs Frances Tiafoe",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "terence-atmane-vs-frances-tiafoe"
+        }
+      ]
+    },
+    {
+      "title": "Terence Atmane vs Frances Tiafoe",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-miami-open/ma11751580/terence-atmane_frances-tiafoe/info",
+      "slug": "terence-atmane-vs-frances-tiafoe",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Alex Michelsen vs Jannik Sinner",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "alex-michelsen-vs-jannik-sinner"
+        }
+      ]
+    },
+    {
+      "title": "Volta a Catalunya | 1. Etappe",
+      "subtitle": "UCI World Tour | Männer | Sant Feliu de Guíxols - Sant Feliu de Guíxols (172,8km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-03-24T00:00:18+01:00",
+      "link": "",
+      "slug": "volta-a-catalunya-1-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Scottish Open | Finale",
+      "subtitle": "C. Wakelin - C. Bingyu | 2. Session | Edinburgh | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:02",
+      "iso_time": "2026-03-24T00:02:41+01:00",
+      "link": "",
+      "slug": "scottish-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Scottish Open | Finale",
+      "subtitle": "C. Wakelin - C. Bingyu | 2. Session | Edinburgh | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:30",
+      "iso_time": "2026-03-24T01:30:44+01:00",
+      "link": "",
+      "slug": "scottish-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Lillehammer | Abfahrt",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:01",
+      "iso_time": "2026-03-24T03:01:18+01:00",
+      "link": "",
+      "slug": "lillehammer-abfahrt",
+      "related_events": []
+    },
+    {
+      "title": "Lillehammer | Abfahrt",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:47",
+      "iso_time": "2026-03-24T03:47:50+01:00",
+      "link": "",
+      "slug": "lillehammer-abfahrt",
+      "related_events": []
+    },
+    {
+      "title": "Volta a Catalunya | 1. Etappe",
+      "subtitle": "UCI World Tour | Männer | Sant Feliu de Guíxols - Sant Feliu de Guíxols (172,8km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:30",
+      "iso_time": "2026-03-24T04:30:29+01:00",
+      "link": "https://play.hbomax.com/video/watch/317691b8-0a20-596e-b41f-b0e0f032c424?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "volta-a-catalunya-1-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Scottish Open | Finale",
+      "subtitle": "C. Wakelin - C. Bingyu | 2. Session | Edinburgh | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:01",
+      "iso_time": "2026-03-24T06:01:19+01:00",
+      "link": "https://play.hbomax.com/video/watch/ac605054-bb34-59ae-bdb4-78bd7c8239f1?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "scottish-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Vikersund",
+      "subtitle": "Weltcup | Männer | HS 240",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:28",
+      "iso_time": "2026-03-24T07:28:47+01:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "vikersund",
+      "related_events": []
+    },
+    {
+      "title": "Lillehammer | Super-G",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:35",
+      "iso_time": "2026-03-24T08:35:20+01:00",
+      "link": "https://play.hbomax.com/video/watch/65b9002e-211e-5af2-a2c3-bb880a04b8cc?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lillehammer-super-g",
+      "related_events": [
+        {
+          "title": "Lillehammer | Riesenslalom | 1. Lauf",
+          "time": "09:15",
+          "sender": "Eurosport",
+          "slug": "lillehammer-riesenslalom-1-lauf"
+        },
+        {
+          "title": "Lillehammer | Riesenslalom | 1. Lauf",
+          "time": "09:15",
+          "sender": "Eurosport",
+          "slug": "lillehammer-riesenslalom-1-lauf"
+        },
+        {
+          "title": "Lillehammer | Slalom | 1. Lauf",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "lillehammer-slalom-1-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Volta a Catalunya | 1. Etappe",
+      "subtitle": "UCI World Tour | Männer | Sant Feliu de Guíxols - Sant Feliu de Guíxols (172,8km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:42",
+      "iso_time": "2026-03-24T08:42:54+01:00",
+      "link": "https://play.hbomax.com/video/watch/f0a87633-6ac8-5a32-96e0-8b364cd4511d?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "volta-a-catalunya-1-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Lillehammer | Riesenslalom | 1. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:15",
+      "iso_time": "2026-03-24T09:15:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/0b69324e-5817-50cb-b371-3f5e6dfedd9d?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lillehammer-riesenslalom-1-lauf",
+      "related_events": [
+        {
+          "title": "Lillehammer | Super-G",
+          "time": "08:35",
+          "sender": "Eurosport",
+          "slug": "lillehammer-super-g"
+        },
+        {
+          "title": "Lillehammer | Slalom | 1. Lauf",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "lillehammer-slalom-1-lauf"
+        },
+        {
+          "title": "Lillehammer | Slalom | 1. Lauf",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "lillehammer-slalom-1-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Lillehammer | Riesenslalom | 1. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:15",
+      "iso_time": "2026-03-24T09:15:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/9df4fd73-05bd-58b5-9b06-6228cee4e7a5?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lillehammer-riesenslalom-1-lauf",
+      "related_events": [
+        {
+          "title": "Lillehammer | Super-G",
+          "time": "08:35",
+          "sender": "Eurosport",
+          "slug": "lillehammer-super-g"
+        },
+        {
+          "title": "Lillehammer | Slalom | 1. Lauf",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "lillehammer-slalom-1-lauf"
+        },
+        {
+          "title": "Lillehammer | Slalom | 1. Lauf",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "lillehammer-slalom-1-lauf"
+        }
+      ]
+    },
+    {
+      "title": "FIA WEC | 24h von Le Mans | Rennen",
+      "subtitle": "Langstrecken-WM",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:06",
+      "iso_time": "2026-03-24T10:06:53+01:00",
+      "link": "https://play.hbomax.com/video/watch/7b579d44-6bca-5e8b-a586-aede2a2d51ca?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "fia-wec-24h-von-le-mans-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Lillehammer | Slalom | 1. Lauf",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:30",
+      "iso_time": "2026-03-24T10:30:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/4e47f3a1-4e0d-52d7-be40-919158e10c2d?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lillehammer-slalom-1-lauf",
+      "related_events": [
+        {
+          "title": " vs ",
+          "time": "10:30",
+          "sender": "Sportschau Live",
+          "slug": "vs"
+        },
+        {
+          "title": "Lillehammer | Super-G",
+          "time": "08:35",
+          "sender": "Eurosport",
+          "slug": "lillehammer-super-g"
+        },
+        {
+          "title": "Lillehammer | Riesenslalom | 1. Lauf",
+          "time": "09:15",
+          "sender": "Eurosport",
+          "slug": "lillehammer-riesenslalom-1-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Lillehammer | Slalom | 1. Lauf",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:30",
+      "iso_time": "2026-03-24T10:30:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/72c67861-c6f9-56a5-bf16-e618b0965262?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lillehammer-slalom-1-lauf",
+      "related_events": [
+        {
+          "title": " vs ",
+          "time": "10:30",
+          "sender": "Sportschau Live",
+          "slug": "vs"
+        },
+        {
+          "title": "Lillehammer | Super-G",
+          "time": "08:35",
+          "sender": "Eurosport",
+          "slug": "lillehammer-super-g"
+        },
+        {
+          "title": "Lillehammer | Riesenslalom | 1. Lauf",
+          "time": "09:15",
+          "sender": "Eurosport",
+          "slug": "lillehammer-riesenslalom-1-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Lillehammer | Super-G",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:30",
+      "iso_time": "2026-03-24T11:30:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/b1cff6d9-e930-50d7-a788-4174405a1887?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lillehammer-super-g",
+      "related_events": [
+        {
+          "title": "Lillehammer | Riesenslalom | 1. Lauf",
+          "time": "09:15",
+          "sender": "Eurosport",
+          "slug": "lillehammer-riesenslalom-1-lauf"
+        },
+        {
+          "title": "Lillehammer | Riesenslalom | 1. Lauf",
+          "time": "09:15",
+          "sender": "Eurosport",
+          "slug": "lillehammer-riesenslalom-1-lauf"
+        },
+        {
+          "title": "Lillehammer | Slalom | 1. Lauf",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "lillehammer-slalom-1-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Lillehammer | Riesenslalom | 2. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:15",
+      "iso_time": "2026-03-24T12:15:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/50c3d4fc-54b5-5686-a3b4-e40b6acd915f?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lillehammer-riesenslalom-2-lauf",
+      "related_events": [
+        {
+          "title": "Lillehammer | Riesenslalom | 1. Lauf",
+          "time": "09:15",
+          "sender": "Eurosport",
+          "slug": "lillehammer-riesenslalom-1-lauf"
+        },
+        {
+          "title": "Lillehammer | Riesenslalom | 1. Lauf",
+          "time": "09:15",
+          "sender": "Eurosport",
+          "slug": "lillehammer-riesenslalom-1-lauf"
+        },
+        {
+          "title": "Lillehammer | Slalom | 1. Lauf",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "lillehammer-slalom-1-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Lillehammer | Riesenslalom | 2. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:15",
+      "iso_time": "2026-03-24T12:15:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/430cb5ea-5d9a-5437-b268-517c20478a5f?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lillehammer-riesenslalom-2-lauf",
+      "related_events": [
+        {
+          "title": "Lillehammer | Riesenslalom | 1. Lauf",
+          "time": "09:15",
+          "sender": "Eurosport",
+          "slug": "lillehammer-riesenslalom-1-lauf"
+        },
+        {
+          "title": "Lillehammer | Riesenslalom | 1. Lauf",
+          "time": "09:15",
+          "sender": "Eurosport",
+          "slug": "lillehammer-riesenslalom-1-lauf"
+        },
+        {
+          "title": "Lillehammer | Slalom | 1. Lauf",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "lillehammer-slalom-1-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Scottish Open | Finale",
+      "subtitle": "C. Wakelin - C. Bingyu | 2. Session | Edinburgh | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:32",
+      "iso_time": "2026-03-24T12:32:08+01:00",
+      "link": "https://play.hbomax.com/video/watch/dc8b8dae-e151-5ad4-afb5-cdff73c96264?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "scottish-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Lillehammer | Slalom | 2. Lauf",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:30",
+      "iso_time": "2026-03-24T13:30:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/984795b9-d92d-535f-a13d-3988845b4443?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lillehammer-slalom-2-lauf",
+      "related_events": [
+        {
+          "title": "Lillehammer | Slalom | 1. Lauf",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "lillehammer-slalom-1-lauf"
+        },
+        {
+          "title": "Lillehammer | Slalom | 1. Lauf",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "lillehammer-slalom-1-lauf"
+        },
+        {
+          "title": "Lillehammer | Super-G",
+          "time": "11:30",
+          "sender": "Eurosport",
+          "slug": "lillehammer-super-g"
+        }
+      ]
+    },
+    {
+      "title": "Lillehammer | Slalom | 2. Lauf",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:30",
+      "iso_time": "2026-03-24T13:30:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/ec612e12-a9fe-5970-8422-bebf3b089227?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lillehammer-slalom-2-lauf",
+      "related_events": [
+        {
+          "title": "Lillehammer | Slalom | 1. Lauf",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "lillehammer-slalom-1-lauf"
+        },
+        {
+          "title": "Lillehammer | Slalom | 1. Lauf",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "lillehammer-slalom-1-lauf"
+        },
+        {
+          "title": "Lillehammer | Super-G",
+          "time": "11:30",
+          "sender": "Eurosport",
+          "slug": "lillehammer-super-g"
+        }
+      ]
+    },
+    {
+      "title": "Volta a Catalunya | 1. Etappe",
+      "subtitle": "UCI World Tour | Männer | Sant Feliu de Guíxols - Sant Feliu de Guíxols (172,8km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:07",
+      "iso_time": "2026-03-24T14:07:58+01:00",
+      "link": "https://play.hbomax.com/video/watch/a2353600-2ef5-5819-bbc8-d902a074e578?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "volta-a-catalunya-1-etappe",
+      "related_events": [
+        {
+          "title": "Volta a Catalunya | 2. Etappe",
+          "time": "15:20",
+          "sender": "Eurosport",
+          "slug": "volta-a-catalunya-2-etappe"
+        },
+        {
+          "title": "Volta a Catalunya | 2. Etappe",
+          "time": "15:20",
+          "sender": "Eurosport",
+          "slug": "volta-a-catalunya-2-etappe"
+        },
+        {
+          "title": "Volta a Catalunya | 2. Etappe",
+          "time": "15:20",
+          "sender": "Eurosport",
+          "slug": "volta-a-catalunya-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Volta a Catalunya | 1. Etappe",
+      "subtitle": "UCI World Tour | Männer | Sant Feliu de Guíxols - Sant Feliu de Guíxols (172,8km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:27",
+      "iso_time": "2026-03-24T14:27:56+01:00",
+      "link": "https://play.hbomax.com/video/watch/558fdd02-3594-51b6-abc4-d943b2b43115?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "volta-a-catalunya-1-etappe",
+      "related_events": [
+        {
+          "title": "Volta a Catalunya | 2. Etappe",
+          "time": "15:20",
+          "sender": "Eurosport",
+          "slug": "volta-a-catalunya-2-etappe"
+        },
+        {
+          "title": "Volta a Catalunya | 2. Etappe",
+          "time": "15:20",
+          "sender": "Eurosport",
+          "slug": "volta-a-catalunya-2-etappe"
+        },
+        {
+          "title": "Volta a Catalunya | 2. Etappe",
+          "time": "15:20",
+          "sender": "Eurosport",
+          "slug": "volta-a-catalunya-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Volta a Catalunya | 2. Etappe",
+      "subtitle": "UCI World Tour | Männer | Figueres - Banyoles (167,4km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:20",
+      "iso_time": "2026-03-24T15:20:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/d76b4f47-a227-52ac-98a4-d949d807acb4?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "volta-a-catalunya-2-etappe",
+      "related_events": [
+        {
+          "title": "Volta a Catalunya | 1. Etappe",
+          "time": "14:07",
+          "sender": "Eurosport",
+          "slug": "volta-a-catalunya-1-etappe"
+        },
+        {
+          "title": "Volta a Catalunya | 1. Etappe",
+          "time": "14:27",
+          "sender": "Eurosport",
+          "slug": "volta-a-catalunya-1-etappe"
+        },
+        {
+          "title": "Sanremo Women",
+          "time": "17:15",
+          "sender": "Eurosport",
+          "slug": "sanremo-women"
+        }
+      ]
+    },
+    {
+      "title": "Volta a Catalunya | 2. Etappe",
+      "subtitle": "UCI World Tour | Männer | Figueres - Banyoles (167,4km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:20",
+      "iso_time": "2026-03-24T15:20:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/13999922-1f99-5286-b9a6-a46172430691?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "volta-a-catalunya-2-etappe",
+      "related_events": [
+        {
+          "title": "Volta a Catalunya | 1. Etappe",
+          "time": "14:07",
+          "sender": "Eurosport",
+          "slug": "volta-a-catalunya-1-etappe"
+        },
+        {
+          "title": "Volta a Catalunya | 1. Etappe",
+          "time": "14:27",
+          "sender": "Eurosport",
+          "slug": "volta-a-catalunya-1-etappe"
+        },
+        {
+          "title": "Sanremo Women",
+          "time": "17:15",
+          "sender": "Eurosport",
+          "slug": "sanremo-women"
+        }
+      ]
+    },
+    {
+      "title": "Volta a Catalunya | 2. Etappe",
+      "subtitle": "UCI World Tour | Männer | Figueres - Banyoles (167,4km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:20",
+      "iso_time": "2026-03-24T15:20:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/c97cbdd3-6920-59c0-bf59-7466005bf413?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "volta-a-catalunya-2-etappe",
+      "related_events": [
+        {
+          "title": "Volta a Catalunya | 1. Etappe",
+          "time": "14:07",
+          "sender": "Eurosport",
+          "slug": "volta-a-catalunya-1-etappe"
+        },
+        {
+          "title": "Volta a Catalunya | 1. Etappe",
+          "time": "14:27",
+          "sender": "Eurosport",
+          "slug": "volta-a-catalunya-1-etappe"
+        },
+        {
+          "title": "Sanremo Women",
+          "time": "17:15",
+          "sender": "Eurosport",
+          "slug": "sanremo-women"
+        }
+      ]
+    },
+    {
+      "title": "Sanremo Women",
+      "subtitle": "UCI World Tour | Frauen | Genua - Sanremo (156km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:15",
+      "iso_time": "2026-03-24T17:15:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/75ec0b92-4d02-5d19-bf9e-a2e0aa8d74ce?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "sanremo-women",
+      "related_events": [
+        {
+          "title": "Volta a Catalunya | 1. Etappe",
+          "time": "14:27",
+          "sender": "Eurosport",
+          "slug": "volta-a-catalunya-1-etappe"
+        },
+        {
+          "title": "Volta a Catalunya | 2. Etappe",
+          "time": "15:20",
+          "sender": "Eurosport",
+          "slug": "volta-a-catalunya-2-etappe"
+        },
+        {
+          "title": "Volta a Catalunya | 2. Etappe",
+          "time": "15:20",
+          "sender": "Eurosport",
+          "slug": "volta-a-catalunya-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "World Open | Finale | 2. Session",
+      "subtitle": "Ronnie O'Sullivan - Thepchaiya Un-Nooh | Yushan",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:15",
+      "iso_time": "2026-03-24T17:15:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/7e2d0501-b48d-5159-893a-9cb50880d186?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "world-open-finale-2-session",
+      "related_events": []
+    },
+    {
+      "title": "FIA WEC | 24h von Le Mans | Rennen",
+      "subtitle": "Langstrecken-WM",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2026-03-24T18:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/6a337bbf-afae-559d-a7e9-d28f4e14ec69?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "fia-wec-24h-von-le-mans-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Madrid | Highlights",
+      "subtitle": "WM",
+      "sport": "Formel E",
+      "sport_slug": "formel-e",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2026-03-24T18:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/0f532bb7-bcf7-5c5b-8c72-c3bea2a56e24?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "madrid-highlights",
+      "related_events": []
+    },
+    {
+      "title": "Volta a Catalunya | 2. Etappe",
+      "subtitle": "UCI World Tour | Männer | Figueres - Banyoles (167,4km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2026-03-24T19:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/700a2aca-0af5-5b70-864e-db67aa5016aa?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "volta-a-catalunya-2-etappe",
+      "related_events": [
+        {
+          "title": "Sanremo Women",
+          "time": "17:15",
+          "sender": "Eurosport",
+          "slug": "sanremo-women"
+        }
+      ]
+    },
+    {
+      "title": "Lillehammer | Riesenslalom | 2. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:30",
+      "iso_time": "2026-03-24T19:30:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/f87b59a4-2166-54e0-a6a0-6d041dce624a?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lillehammer-riesenslalom-2-lauf",
+      "related_events": [
+        {
+          "title": "Lillehammer | Slalom | 2. Lauf",
+          "time": "20:15",
+          "sender": "Eurosport",
+          "slug": "lillehammer-slalom-2-lauf"
+        },
+        {
+          "title": "Lillehammer | Slalom | 2. Lauf",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "lillehammer-slalom-2-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Triathlon: T100 Triathlon World Tour in Gold Coast",
+      "subtitle": "",
+      "sport": "Triathlon",
+      "sport_slug": "triathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-03-24T20:00:00+01:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "triathlon-t100-triathlon-world-tour-in-gold-coast",
+      "related_events": []
+    },
+    {
+      "title": "Lillehammer | Slalom | 2. Lauf",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:15",
+      "iso_time": "2026-03-24T20:15:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/25327aac-e59f-56db-953c-ebab196a1d3a?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lillehammer-slalom-2-lauf",
+      "related_events": [
+        {
+          "title": "Lillehammer | Riesenslalom | 2. Lauf",
+          "time": "19:30",
+          "sender": "Eurosport",
+          "slug": "lillehammer-riesenslalom-2-lauf"
+        },
+        {
+          "title": "Lillehammer | Riesenslalom | 2. Lauf",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "lillehammer-riesenslalom-2-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Volta a Catalunya | 2. Etappe",
+      "subtitle": "UCI World Tour | Männer | Figueres - Banyoles (167,4km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2026-03-24T21:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/f3026ca1-9aa4-5d53-a7be-30609bb12138?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "volta-a-catalunya-2-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Lillehammer | Riesenslalom | 2. Lauf",
+      "subtitle": "Weltcup | Männer",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2026-03-24T21:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/c255b1a3-4695-5203-b30f-d8256f5e5b31?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lillehammer-riesenslalom-2-lauf",
+      "related_events": [
+        {
+          "title": "Lillehammer | Slalom | 2. Lauf",
+          "time": "20:15",
+          "sender": "Eurosport",
+          "slug": "lillehammer-slalom-2-lauf"
+        },
+        {
+          "title": "Lillehammer | Slalom | 2. Lauf",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "lillehammer-slalom-2-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Lillehammer | Slalom | 2. Lauf",
+      "subtitle": "Weltcup | Frauen",
+      "sport": "Ski Alpin",
+      "sport_slug": "ski-alpin",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-03-24T22:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/afdd3c95-4a49-50b2-a341-4a56512fa951?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lillehammer-slalom-2-lauf",
+      "related_events": [
+        {
+          "title": "Lillehammer | Riesenslalom | 2. Lauf",
+          "time": "19:30",
+          "sender": "Eurosport",
+          "slug": "lillehammer-riesenslalom-2-lauf"
+        },
+        {
+          "title": "Lillehammer | Riesenslalom | 2. Lauf",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "lillehammer-riesenslalom-2-lauf"
+        }
+      ]
+    },
+    {
+      "title": "Scottish Open | Finale",
+      "subtitle": "C. Wakelin - C. Bingyu | 2. Session | Edinburgh | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:30",
+      "iso_time": "2026-03-24T22:30:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/ef00fbed-135c-5771-a47b-2ac175d5521d?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "scottish-open-finale",
+      "related_events": [
+        {
+          "title": "Masters | Finale | 2. Session",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "masters-finale-2-session"
+        }
+      ]
+    },
+    {
+      "title": "Madrid | Highlights",
+      "subtitle": "WM",
+      "sport": "Formel E",
+      "sport_slug": "formel-e",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2026-03-24T23:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/09c67339-91cb-5a7b-b8a8-7a97c2a0c2a0?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "madrid-highlights",
+      "related_events": []
+    },
+    {
+      "title": "Masters | Finale | 2. Session",
+      "subtitle": "K. Wilson - J. Higgins | London",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-03-25T00:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/04a03fda-8b9f-594d-b796-680d7a053b37?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "masters-finale-2-session",
+      "related_events": [
+        {
+          "title": "Scottish Open | Finale",
+          "time": "22:30",
+          "sender": "Eurosport",
+          "slug": "scottish-open-finale"
+        }
+      ]
+    },
+    {
+      "title": "Volta a Catalunya | 2. Etappe",
+      "subtitle": "UCI World Tour | Männer | Figueres - Banyoles (167,4km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-03-25T00:00:00+01:00",
+      "link": "https://play.hbomax.com/video/watch/eed7fdac-d869-5205-96c2-b95290a69508?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "volta-a-catalunya-2-etappe",
+      "related_events": []
+    }
+  ]
+}
