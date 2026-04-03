@@ -1,0 +1,1834 @@
+{
+  "date": "2026-04-03",
+  "events": [
+    {
+      "title": "SD Eibar vs Costa Adeje Tenerife",
+      "time": "12:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-frauen-primera-division/ma11242355/sd-eibar_costa-adeje-tenerife/info",
+      "slug": "sd-eibar-vs-costa-adeje-tenerife",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Israel vs Griechenland",
+      "time": "16:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/co5137/em-qualifikation/ma11956873/israel_griechenland/info",
+      "slug": "israel-vs-griechenland",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "ASVEL Lyon-Villeurbanne vs Olympiakos Piraeus",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493704/asvel-lyon-villeurbanne_olympiakos-piraeus/info",
+      "slug": "asvel-lyon-villeurbanne-vs-olympiakos-piraeus",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Saski Baskonia vs Real Madrid",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493707/saski-baskonia_real-madrid/info",
+      "slug": "saski-baskonia-vs-real-madrid",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Virtus Bologna vs Valencia Basket",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "virtus-bologna-vs-valencia-basket"
+        }
+      ]
+    },
+    {
+      "title": "Virtus Bologna vs Valencia Basket",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma11493713/virtus-bologna_valencia-basket/info",
+      "slug": "virtus-bologna-vs-valencia-basket",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Saski Baskonia vs Real Madrid",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "saski-baskonia-vs-real-madrid"
+        }
+      ]
+    },
+    {
+      "title": "Bahçeşehir Koleji vs Beşiktaş JK",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/uleb-euro-cup/ma11950313/bahcesehir-koleji_besiktas-jk/info",
+      "slug": "bahcesehir-koleji-vs-besiktas-jk",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Türk Telekom Ankara vs JL Bourg",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/uleb-euro-cup/ma11950319/tuerk-telekom-ankara_jl-bourg/info",
+      "slug": "turk-telekom-ankara-vs-jl-bourg",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Rayo Vallecano vs Elche CF",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-primera-division/ma11223761/rayo-vallecano_elche-cf/info",
+      "slug": "rayo-vallecano-vs-elche-cf",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Paris Saint-Germain vs Toulouse FC",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/frankreich-ligue-1/ma11204666/paris-saint-germain_toulouse-fc/info",
+      "slug": "paris-saint-germain-vs-toulouse-fc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Royal Antwerp FC vs KRC Genk",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "royal-antwerp-fc-vs-krc-genk"
+        }
+      ]
+    },
+    {
+      "title": "SV Ried vs SCR Altach",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/oesterreich-bundesliga/ma11935873/sv-ried_scr-altach/info",
+      "slug": "sv-ried-vs-scr-altach",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Royal Antwerp FC vs KRC Genk",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/belgien-eerste-klasse/ma11953336/royal-antwerp-fc_krc-genk/info",
+      "slug": "royal-antwerp-fc-vs-krc-genk",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Paris Saint-Germain vs Toulouse FC",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "paris-saint-germain-vs-toulouse-fc"
+        }
+      ]
+    },
+    {
+      "title": "Gil Vicente vs AVS",
+      "time": "16:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/portugal-primeira-liga/ma11306039/gil-vicente_avs/info",
+      "slug": "gil-vicente-vs-avs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Vitória Guimarães vs CD Tondela",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/portugal-primeira-liga/ma11306063/vitoria-guimaraes_cd-tondela/info",
+      "slug": "vitoria-guimaraes-vs-cd-tondela",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Sporting CP vs CD Santa Clara",
+      "time": "21:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/portugal-primeira-liga/ma11306051/sporting-cp_cd-santa-clara/info",
+      "slug": "sporting-cp-vs-cd-santa-clara",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Charlotte Hornets vs Phoenix Suns",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11651831/charlotte-hornets_phoenix-suns/info",
+      "slug": "charlotte-hornets-vs-phoenix-suns",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Detroit Pistons vs Minnesota Timberwolves",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "detroit-pistons-vs-minnesota-timberwolves"
+        }
+      ]
+    },
+    {
+      "title": "Detroit Pistons vs Minnesota Timberwolves",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11651834/detroit-pistons_minnesota-timberwolves/info",
+      "slug": "detroit-pistons-vs-minnesota-timberwolves",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Charlotte Hornets vs Phoenix Suns",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "charlotte-hornets-vs-phoenix-suns"
+        }
+      ]
+    },
+    {
+      "title": "Oklahoma City Thunder vs Los Angeles Lakers",
+      "time": "03:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11651837/oklahoma-city-thunder_los-angeles-lakers/info",
+      "slug": "oklahoma-city-thunder-vs-los-angeles-lakers",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Golden State Warriors vs Cleveland Cavaliers",
+      "time": "04:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11651840/golden-state-warriors_cleveland-cavaliers/info",
+      "slug": "golden-state-warriors-vs-cleveland-cavaliers",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Portland Trail Blazers vs New Orleans Pelicans",
+          "time": "04:00",
+          "sender": "Sportschau Live",
+          "slug": "portland-trail-blazers-vs-new-orleans-pelicans"
+        }
+      ]
+    },
+    {
+      "title": "Portland Trail Blazers vs New Orleans Pelicans",
+      "time": "04:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11651843/portland-trail-blazers_new-orleans-pelicans/info",
+      "slug": "portland-trail-blazers-vs-new-orleans-pelicans",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Golden State Warriors vs Cleveland Cavaliers",
+          "time": "04:00",
+          "sender": "Sportschau Live",
+          "slug": "golden-state-warriors-vs-cleveland-cavaliers"
+        }
+      ]
+    },
+    {
+      "title": "Los Angeles Clippers vs San Antonio Spurs",
+      "time": "04:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11651846/los-angeles-clippers_san-antonio-spurs/info",
+      "slug": "los-angeles-clippers-vs-san-antonio-spurs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Carolina Hurricanes vs Columbus Blue Jackets",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415860/carolina-hurricanes_columbus-blue-jackets/info",
+      "slug": "carolina-hurricanes-vs-columbus-blue-jackets",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Florida Panthers vs Boston Bruins",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "florida-panthers-vs-boston-bruins"
+        },
+        {
+          "title": "New York Rangers vs Montréal Canadiens",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "new-york-rangers-vs-montreal-canadiens"
+        },
+        {
+          "title": "Ottawa Senators vs Buffalo Sabres",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "ottawa-senators-vs-buffalo-sabres"
+        }
+      ]
+    },
+    {
+      "title": "Florida Panthers vs Boston Bruins",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415863/florida-panthers_boston-bruins/info",
+      "slug": "florida-panthers-vs-boston-bruins",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Carolina Hurricanes vs Columbus Blue Jackets",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "carolina-hurricanes-vs-columbus-blue-jackets"
+        },
+        {
+          "title": "New York Rangers vs Montréal Canadiens",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "new-york-rangers-vs-montreal-canadiens"
+        },
+        {
+          "title": "Ottawa Senators vs Buffalo Sabres",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "ottawa-senators-vs-buffalo-sabres"
+        }
+      ]
+    },
+    {
+      "title": "New York Rangers vs Montréal Canadiens",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415869/new-york-rangers_montreal-canadiens/info",
+      "slug": "new-york-rangers-vs-montreal-canadiens",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Carolina Hurricanes vs Columbus Blue Jackets",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "carolina-hurricanes-vs-columbus-blue-jackets"
+        },
+        {
+          "title": "Florida Panthers vs Boston Bruins",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "florida-panthers-vs-boston-bruins"
+        },
+        {
+          "title": "Ottawa Senators vs Buffalo Sabres",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "ottawa-senators-vs-buffalo-sabres"
+        }
+      ]
+    },
+    {
+      "title": "Ottawa Senators vs Buffalo Sabres",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415872/ottawa-senators_buffalo-sabres/info",
+      "slug": "ottawa-senators-vs-buffalo-sabres",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Carolina Hurricanes vs Columbus Blue Jackets",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "carolina-hurricanes-vs-columbus-blue-jackets"
+        },
+        {
+          "title": "Florida Panthers vs Boston Bruins",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "florida-panthers-vs-boston-bruins"
+        },
+        {
+          "title": "New York Rangers vs Montréal Canadiens",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "new-york-rangers-vs-montreal-canadiens"
+        }
+      ]
+    },
+    {
+      "title": "Philadelphia Flyers vs Detroit Red Wings",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415875/philadelphia-flyers_detroit-red-wings/info",
+      "slug": "philadelphia-flyers-vs-detroit-red-wings",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Carolina Hurricanes vs Columbus Blue Jackets",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "carolina-hurricanes-vs-columbus-blue-jackets"
+        },
+        {
+          "title": "Florida Panthers vs Boston Bruins",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "florida-panthers-vs-boston-bruins"
+        },
+        {
+          "title": "New York Rangers vs Montréal Canadiens",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "new-york-rangers-vs-montreal-canadiens"
+        }
+      ]
+    },
+    {
+      "title": "Tampa Bay Lightning vs Pittsburgh Penguins",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415878/tampa-bay-lightning_pittsburgh-penguins/info",
+      "slug": "tampa-bay-lightning-vs-pittsburgh-penguins",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Carolina Hurricanes vs Columbus Blue Jackets",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "carolina-hurricanes-vs-columbus-blue-jackets"
+        },
+        {
+          "title": "Florida Panthers vs Boston Bruins",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "florida-panthers-vs-boston-bruins"
+        },
+        {
+          "title": "New York Rangers vs Montréal Canadiens",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "new-york-rangers-vs-montreal-canadiens"
+        }
+      ]
+    },
+    {
+      "title": "New Jersey Devils vs Washington Capitals",
+      "time": "01:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415866/new-jersey-devils_washington-capitals/info",
+      "slug": "new-jersey-devils-vs-washington-capitals",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Dallas Stars vs Winnipeg Jets",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415881/dallas-stars_winnipeg-jets/info",
+      "slug": "dallas-stars-vs-winnipeg-jets",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Minnesota Wild vs Vancouver Canucks",
+          "time": "02:00",
+          "sender": "Sportschau Live",
+          "slug": "minnesota-wild-vs-vancouver-canucks"
+        }
+      ]
+    },
+    {
+      "title": "Minnesota Wild vs Vancouver Canucks",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415884/minnesota-wild_vancouver-canucks/info",
+      "slug": "minnesota-wild-vs-vancouver-canucks",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dallas Stars vs Winnipeg Jets",
+          "time": "02:00",
+          "sender": "Sportschau Live",
+          "slug": "dallas-stars-vs-winnipeg-jets"
+        }
+      ]
+    },
+    {
+      "title": "Edmonton Oilers vs Chicago Blackhawks",
+      "time": "03:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415887/edmonton-oilers_chicago-blackhawks/info",
+      "slug": "edmonton-oilers-vs-chicago-blackhawks",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "San Jose Sharks vs Toronto Maple Leafs",
+      "time": "04:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415890/san-jose-sharks_toronto-maple-leafs/info",
+      "slug": "san-jose-sharks-vs-toronto-maple-leafs",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Seattle Kraken vs Utah Mammoth",
+          "time": "04:00",
+          "sender": "Sportschau Live",
+          "slug": "seattle-kraken-vs-utah-mammoth"
+        },
+        {
+          "title": "Vegas Golden Knights vs Calgary Flames",
+          "time": "04:00",
+          "sender": "Sportschau Live",
+          "slug": "vegas-golden-knights-vs-calgary-flames"
+        }
+      ]
+    },
+    {
+      "title": "Seattle Kraken vs Utah Mammoth",
+      "time": "04:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415893/seattle-kraken_utah-mammoth/info",
+      "slug": "seattle-kraken-vs-utah-mammoth",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "San Jose Sharks vs Toronto Maple Leafs",
+          "time": "04:00",
+          "sender": "Sportschau Live",
+          "slug": "san-jose-sharks-vs-toronto-maple-leafs"
+        },
+        {
+          "title": "Vegas Golden Knights vs Calgary Flames",
+          "time": "04:00",
+          "sender": "Sportschau Live",
+          "slug": "vegas-golden-knights-vs-calgary-flames"
+        }
+      ]
+    },
+    {
+      "title": "Vegas Golden Knights vs Calgary Flames",
+      "time": "04:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415896/vegas-golden-knights_calgary-flames/info",
+      "slug": "vegas-golden-knights-vs-calgary-flames",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "San Jose Sharks vs Toronto Maple Leafs",
+          "time": "04:00",
+          "sender": "Sportschau Live",
+          "slug": "san-jose-sharks-vs-toronto-maple-leafs"
+        },
+        {
+          "title": "Seattle Kraken vs Utah Mammoth",
+          "time": "04:00",
+          "sender": "Sportschau Live",
+          "slug": "seattle-kraken-vs-utah-mammoth"
+        }
+      ]
+    },
+    {
+      "title": "Los Angeles Kings vs Nashville Predators",
+      "time": "04:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma11415899/los-angeles-kings_nashville-predators/info",
+      "slug": "los-angeles-kings-vs-nashville-predators",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Jazmin Ortenzi vs Julia Riera",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kolumbien-copa-claro-colsanitas/ma11777878/jazmin-ortenzi_julia-riera/info",
+      "slug": "jazmin-ortenzi-vs-julia-riera",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Marie Bouzkova vs Darja Semenistaja",
+      "time": "19:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kolumbien-copa-claro-colsanitas/ma11777875/marie-bouzkova_darja-semenistaja/info",
+      "slug": "marie-bouzkova-vs-darja-semenistaja",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Emiliana Arango vs Varvara Lepchenko",
+      "time": "20:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kolumbien-copa-claro-colsanitas/ma11777884/emiliana-arango_varvara-lepchenko/info",
+      "slug": "emiliana-arango-vs-varvara-lepchenko",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Panna Udvardy vs Katarzyna Kawa",
+      "time": "21:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kolumbien-copa-claro-colsanitas/ma11777881/panna-udvardy_katarzyna-kawa/info",
+      "slug": "panna-udvardy-vs-katarzyna-kawa",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Iva Jovic vs Sofia Kenin",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-family-circle-cup/ma11777764/iva-jovic_sofia-kenin/info",
+      "slug": "iva-jovic-vs-sofia-kenin",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Paula Badosa vs Anna Kalinskaya",
+      "time": "02:25",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-family-circle-cup/ma11777767/paula-badosa_anna-kalinskaya/info",
+      "slug": "paula-badosa-vs-anna-kalinskaya",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Jessica Pegula vs Diana Shnaider",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-family-circle-cup/ma11777782/jessica-pegula_diana-shnaider/info",
+      "slug": "jessica-pegula-vs-diana-shnaider",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Madison Keys vs Belinda Bencic",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-family-circle-cup/ma11777788/madison-keys_belinda-bencic/info",
+      "slug": "madison-keys-vs-belinda-bencic",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Iva Jovic vs Anna Kalinskaya",
+      "time": "19:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-family-circle-cup/ma11777785/iva-jovic_anna-kalinskaya/info",
+      "slug": "iva-jovic-vs-anna-kalinskaya",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Corentin Moutet vs Marco Trungelliti",
+      "time": "12:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-marokko-grand-prix-hassan-ii/ma11751868/corentin-moutet_marco-trungelliti/info",
+      "slug": "corentin-moutet-vs-marco-trungelliti",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Luciano Darderi vs Yannick Hanfmann",
+      "time": "13:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-marokko-grand-prix-hassan-ii/ma11751865/luciano-darderi_yannick-hanfmann/info",
+      "slug": "luciano-darderi-vs-yannick-hanfmann",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alexandre Muller vs Rafael Jodar",
+      "time": "14:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-marokko-grand-prix-hassan-ii/ma11751871/alexandre-muller_rafael-jodar/info",
+      "slug": "alexandre-muller-vs-rafael-jodar",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Camilo Ugo Carabelli vs Luca Van Assche",
+      "time": "16:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-marokko-grand-prix-hassan-ii/ma11751874/camilo-ugo-carabelli_luca-van-assche/info",
+      "slug": "camilo-ugo-carabelli-vs-luca-van-assche",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Daniel Merida Aguilar vs Adrian Mannarino",
+      "time": "09:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-rumaenien-brd-nastase-tiriac-trophy/ma11751769/daniel-merida-aguilar_adrian-mannarino/info",
+      "slug": "daniel-merida-aguilar-vs-adrian-mannarino",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Sebastian Baez vs Titouan Droguet",
+          "time": "09:00",
+          "sender": "Sportschau Live",
+          "slug": "sebastian-baez-vs-titouan-droguet"
+        }
+      ]
+    },
+    {
+      "title": "Sebastian Baez vs Titouan Droguet",
+      "time": "09:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-rumaenien-brd-nastase-tiriac-trophy/ma11751766/sebastian-baez_titouan-droguet/info",
+      "slug": "sebastian-baez-vs-titouan-droguet",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Daniel Merida Aguilar vs Adrian Mannarino",
+          "time": "09:00",
+          "sender": "Sportschau Live",
+          "slug": "daniel-merida-aguilar-vs-adrian-mannarino"
+        }
+      ]
+    },
+    {
+      "title": "Stefanos Sakellaridis vs Fabian Marozsan",
+      "time": "10:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-rumaenien-brd-nastase-tiriac-trophy/ma11751763/stefanos-sakellaridis_fabian-marozsan/info",
+      "slug": "stefanos-sakellaridis-vs-fabian-marozsan",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Daniel Altmaier vs Dino Prižmić",
+          "time": "10:10",
+          "sender": "Sportschau Live",
+          "slug": "daniel-altmaier-vs-dino-prizmic"
+        }
+      ]
+    },
+    {
+      "title": "Daniel Altmaier vs Dino Prižmić",
+      "time": "10:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-rumaenien-brd-nastase-tiriac-trophy/ma11751760/daniel-altmaier_dino-prizmic/info",
+      "slug": "daniel-altmaier-vs-dino-prizmic",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Stefanos Sakellaridis vs Fabian Marozsan",
+          "time": "10:10",
+          "sender": "Sportschau Live",
+          "slug": "stefanos-sakellaridis-vs-fabian-marozsan"
+        }
+      ]
+    },
+    {
+      "title": "Damir Džumhur vs Botic van de Zandschulp",
+      "time": "11:15",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-rumaenien-brd-nastase-tiriac-trophy/ma11751775/damir-dzumhur_botic-van-de-zandschulp/info",
+      "slug": "damir-dzumhur-vs-botic-van-de-zandschulp",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alex Molčan vs Mariano Navone",
+      "time": "12:25",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-rumaenien-brd-nastase-tiriac-trophy/ma11751772/alex-molcan_mariano-navone/info",
+      "slug": "alex-molcan-vs-mariano-navone",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Rinky Hijikata vs Frances Tiafoe",
+      "time": "01:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-us-mens-clay-court-championships/ma11751676/rinky-hijikata_frances-tiafoe/info",
+      "slug": "rinky-hijikata-vs-frances-tiafoe",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alex Michelsen vs Alexei Popyrin",
+      "time": "04:45",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-us-mens-clay-court-championships/ma11751673/alex-michelsen_alexei-popyrin/info",
+      "slug": "alex-michelsen-vs-alexei-popyrin",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Learner Tien vs Roman Burruchaga",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-us-mens-clay-court-championships/ma11751682/learner-tien_roman-burruchaga/info",
+      "slug": "learner-tien-vs-roman-burruchaga",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Ben Shelton vs Thiago Tirante",
+      "time": "20:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-us-mens-clay-court-championships/ma11751679/ben-shelton_thiago-tirante/info",
+      "slug": "ben-shelton-vs-thiago-tirante",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Tomas Martin Etcheverry vs Tommy Paul",
+      "time": "21:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-us-mens-clay-court-championships/ma11751685/tomas-martin-etcheverry_tommy-paul/info",
+      "slug": "tomas-martin-etcheverry-vs-tommy-paul",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Planica | Teamfliegen",
+      "subtitle": "Weltcup | Männer | HS 240",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:22",
+      "iso_time": "2026-04-03T01:22:21+02:00",
+      "link": "",
+      "slug": "planica-teamfliegen",
+      "related_events": []
+    },
+    {
+      "title": "Tour Championship | Viertelfinale | Session 2",
+      "subtitle": "Mit Mark Selby - John Higgins | Manchester",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:01",
+      "iso_time": "2026-04-03T03:01:21+02:00",
+      "link": "",
+      "slug": "tour-championship-viertelfinale-session-2",
+      "related_events": []
+    },
+    {
+      "title": "Planica | Teamfliegen",
+      "subtitle": "Weltcup | Männer | HS 240",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:23",
+      "iso_time": "2026-04-03T04:23:24+02:00",
+      "link": "",
+      "slug": "planica-teamfliegen",
+      "related_events": [
+        {
+          "title": "Planica | Einzelfliegen",
+          "time": "05:28",
+          "sender": "Eurosport",
+          "slug": "planica-einzelfliegen"
+        }
+      ]
+    },
+    {
+      "title": "Planica | Einzelfliegen",
+      "subtitle": "Weltcup | Männer | HS 240",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:28",
+      "iso_time": "2026-04-03T05:28:40+02:00",
+      "link": "https://play.hbomax.com/sport/5782facb-add1-5a92-a524-5da6ca917fbc?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "planica-einzelfliegen",
+      "related_events": [
+        {
+          "title": "Planica | Teamfliegen",
+          "time": "04:23",
+          "sender": "Eurosport",
+          "slug": "planica-teamfliegen"
+        }
+      ]
+    },
+    {
+      "title": "Tour Championship | Viertelfinale | Session 2",
+      "subtitle": "Mit Mark Selby - John Higgins | Manchester",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:30",
+      "iso_time": "2026-04-03T06:30:01+02:00",
+      "link": "https://play.hbomax.com/sport/f5e51b6f-ddd7-52e2-a72f-88b38fdcb641?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-championship-viertelfinale-session-2",
+      "related_events": []
+    },
+    {
+      "title": "Dwars door Vlaanderen",
+      "subtitle": "UCI World Tour | Männer | Roeselare – Waregem (184,6km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:28",
+      "iso_time": "2026-04-03T08:28:35+02:00",
+      "link": "https://play.hbomax.com/sport/089925d2-aa29-593f-a07c-36a8f71dbc5e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "dwars-door-vlaanderen",
+      "related_events": []
+    },
+    {
+      "title": "Madrid | Highlights",
+      "subtitle": "WM",
+      "sport": "Formel E",
+      "sport_slug": "formel-e",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:33",
+      "iso_time": "2026-04-03T08:33:20+02:00",
+      "link": "https://play.hbomax.com/sport/1afb9714-0e27-5795-88d2-c7d3787a481b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "madrid-highlights",
+      "related_events": []
+    },
+    {
+      "title": "Tour Championship | Viertelfinale | Session 2",
+      "subtitle": "Mit Mark Selby - John Higgins | Manchester",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:37",
+      "iso_time": "2026-04-03T09:37:57+02:00",
+      "link": "https://play.hbomax.com/sport/50179221-05d0-5657-8e21-05752c944c7c?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-championship-viertelfinale-session-2",
+      "related_events": []
+    },
+    {
+      "title": "Dwars door Vlaanderen",
+      "subtitle": "UCI World Tour | Frauen | Waregem – Waregem (128,9km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:44",
+      "iso_time": "2026-04-03T09:44:12+02:00",
+      "link": "https://play.hbomax.com/sport/a3298740-e903-56f9-ad69-300ad87df433?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "dwars-door-vlaanderen",
+      "related_events": []
+    },
+    {
+      "title": "Mont-Sainte-Anne | Snowboardcross",
+      "subtitle": "Weltcup | Frauen / Männer",
+      "sport": "Snowboard",
+      "sport_slug": "snowboard",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:30",
+      "iso_time": "2026-04-03T10:30:13+02:00",
+      "link": "https://play.hbomax.com/sport/6e14a531-cf0e-5c09-b138-6a7836e02546?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "mont-sainte-anne-snowboardcross",
+      "related_events": []
+    },
+    {
+      "title": "Gold Coast T100 | Highlights",
+      "subtitle": "T100 Triathlon World Tour | Männer / Frauen | 1. Station",
+      "sport": "Triathlon",
+      "sport_slug": "triathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:31",
+      "iso_time": "2026-04-03T10:31:47+02:00",
+      "link": "https://play.hbomax.com/sport/070c7105-d863-551d-8478-57d9aafb35e6?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "gold-coast-t100-highlights",
+      "related_events": []
+    },
+    {
+      "title": "Tour Championship | Viertelfinale | Session 2",
+      "subtitle": "Mit Mark Selby - John Higgins | Manchester",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:02",
+      "iso_time": "2026-04-03T11:02:22+02:00",
+      "link": "https://play.hbomax.com/sport/c3e16ea7-4db3-52e5-8e30-697bbc4e0c01?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-championship-viertelfinale-session-2",
+      "related_events": [
+        {
+          "title": "Neil Robertson - Judd Trump",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "neil-robertson-judd-trump"
+        },
+        {
+          "title": "Tour Championship | Halbfinale | 1. Session",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "tour-championship-halbfinale-1-session"
+        }
+      ]
+    },
+    {
+      "title": "Gällivare | Skicross",
+      "subtitle": "Weltcup | Frauen Männer",
+      "sport": "Ski Freestyle",
+      "sport_slug": "ski-freestyle",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:29",
+      "iso_time": "2026-04-03T11:29:31+02:00",
+      "link": "https://play.hbomax.com/sport/416f0e69-0583-57b2-8a45-401dbdf7fa9b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "gallivare-skicross",
+      "related_events": []
+    },
+    {
+      "title": "Dwars door Vlaanderen",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:05",
+      "iso_time": "2026-04-03T12:05:29+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "dwars-door-vlaanderen",
+      "related_events": [
+        {
+          "title": "Classic Velox Adélie de Vitré",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "classic-velox-adelie-de-vitre"
+        },
+        {
+          "title": "Classic Velox Adélie de Vitré",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "classic-velox-adelie-de-vitre"
+        }
+      ]
+    },
+    {
+      "title": "Tour Championship | Viertelfinale | Session 2",
+      "subtitle": "Mit Mark Selby - John Higgins | Manchester",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:30",
+      "iso_time": "2026-04-03T12:30:21+02:00",
+      "link": "https://play.hbomax.com/sport/a3fbc9b4-273d-50f5-98a3-14bdfe0c6a8e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-championship-viertelfinale-session-2",
+      "related_events": [
+        {
+          "title": "Neil Robertson - Judd Trump",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "neil-robertson-judd-trump"
+        },
+        {
+          "title": "Tour Championship | Halbfinale | 1. Session",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "tour-championship-halbfinale-1-session"
+        }
+      ]
+    },
+    {
+      "title": "Planica | Teamfliegen",
+      "subtitle": "Weltcup | Männer | HS 240",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:30",
+      "iso_time": "2026-04-03T12:30:59+02:00",
+      "link": "https://play.hbomax.com/sport/db45af13-92c0-5642-8742-1982bbac0113?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "planica-teamfliegen",
+      "related_events": []
+    },
+    {
+      "title": "Dwars door Vlaanderen",
+      "subtitle": "UCI World Tour | Frauen | Waregem – Waregem (128,9km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:31",
+      "iso_time": "2026-04-03T13:31:06+02:00",
+      "link": "https://play.hbomax.com/sport/f32b5372-cb06-5630-aa73-9db4834d1361?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "dwars-door-vlaanderen",
+      "related_events": [
+        {
+          "title": "Classic Velox Adélie de Vitré",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "classic-velox-adelie-de-vitre"
+        },
+        {
+          "title": "Classic Velox Adélie de Vitré",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "classic-velox-adelie-de-vitre"
+        },
+        {
+          "title": "Flandern-Rundfahrt",
+          "time": "16:30",
+          "sender": "Eurosport",
+          "slug": "flandern-rundfahrt"
+        }
+      ]
+    },
+    {
+      "title": "Neil Robertson - Judd Trump",
+      "subtitle": "Tour Championship | Halbfinale | 1. Session | Manchester",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:00",
+      "iso_time": "2026-04-03T14:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/83e14e01-65b9-5359-8d48-b0a94463c423?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "neil-robertson-judd-trump",
+      "related_events": [
+        {
+          "title": "Tour Championship | Viertelfinale | Session 2",
+          "time": "11:02",
+          "sender": "Eurosport",
+          "slug": "tour-championship-viertelfinale-session-2"
+        },
+        {
+          "title": "Tour Championship | Viertelfinale | Session 2",
+          "time": "12:30",
+          "sender": "Eurosport",
+          "slug": "tour-championship-viertelfinale-session-2"
+        },
+        {
+          "title": "Tour Championship | Halbfinale | 1. Session",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "tour-championship-halbfinale-1-session"
+        }
+      ]
+    },
+    {
+      "title": "Tour Championship | Halbfinale | 1. Session",
+      "subtitle": "Neil Robertson - Judd Trump | Manchester",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:00",
+      "iso_time": "2026-04-03T14:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/168c055d-02f2-55b6-b77a-82db38d30207?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-championship-halbfinale-1-session",
+      "related_events": [
+        {
+          "title": "Tour Championship | Viertelfinale | Session 2",
+          "time": "11:02",
+          "sender": "Eurosport",
+          "slug": "tour-championship-viertelfinale-session-2"
+        },
+        {
+          "title": "Tour Championship | Viertelfinale | Session 2",
+          "time": "12:30",
+          "sender": "Eurosport",
+          "slug": "tour-championship-viertelfinale-session-2"
+        },
+        {
+          "title": "Neil Robertson - Judd Trump",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "neil-robertson-judd-trump"
+        }
+      ]
+    },
+    {
+      "title": "Classic Velox Adélie de Vitré",
+      "subtitle": "UCI Europe Tour Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:30",
+      "iso_time": "2026-04-03T14:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/17bc771c-9be9-5c03-9d74-f669ae4f6c31?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "classic-velox-adelie-de-vitre",
+      "related_events": [
+        {
+          "title": "Dwars door Vlaanderen",
+          "time": "12:05",
+          "sender": "Eurosport",
+          "slug": "dwars-door-vlaanderen"
+        },
+        {
+          "title": "Dwars door Vlaanderen",
+          "time": "13:31",
+          "sender": "Eurosport",
+          "slug": "dwars-door-vlaanderen"
+        },
+        {
+          "title": "Flandern-Rundfahrt",
+          "time": "16:30",
+          "sender": "Eurosport",
+          "slug": "flandern-rundfahrt"
+        }
+      ]
+    },
+    {
+      "title": "Classic Velox Adélie de Vitré",
+      "subtitle": "UCI Europe Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:30",
+      "iso_time": "2026-04-03T14:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/fd69f201-d8bb-5b66-b850-a47bce42c719?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "classic-velox-adelie-de-vitre",
+      "related_events": [
+        {
+          "title": "Dwars door Vlaanderen",
+          "time": "12:05",
+          "sender": "Eurosport",
+          "slug": "dwars-door-vlaanderen"
+        },
+        {
+          "title": "Dwars door Vlaanderen",
+          "time": "13:31",
+          "sender": "Eurosport",
+          "slug": "dwars-door-vlaanderen"
+        },
+        {
+          "title": "Flandern-Rundfahrt",
+          "time": "16:30",
+          "sender": "Eurosport",
+          "slug": "flandern-rundfahrt"
+        }
+      ]
+    },
+    {
+      "title": "Flandern-Rundfahrt",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:30",
+      "iso_time": "2026-04-03T16:30:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "flandern-rundfahrt",
+      "related_events": [
+        {
+          "title": "Dwars door Vlaanderen",
+          "time": "13:31",
+          "sender": "Eurosport",
+          "slug": "dwars-door-vlaanderen"
+        },
+        {
+          "title": "Classic Velox Adélie de Vitré",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "classic-velox-adelie-de-vitre"
+        },
+        {
+          "title": "Classic Velox Adélie de Vitré",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "classic-velox-adelie-de-vitre"
+        }
+      ]
+    },
+    {
+      "title": "Madrid | Highlights",
+      "subtitle": "WM",
+      "sport": "Formel E",
+      "sport_slug": "formel-e",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2026-04-03T17:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/48a40777-43fe-5aba-ba37-89ec73f36bfe?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "madrid-highlights",
+      "related_events": []
+    },
+    {
+      "title": "The Cycling Show | Tudor Pro Cycling Team",
+      "subtitle": "Radsport-Magazin | Saison 2026 | Folge 1",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:30",
+      "iso_time": "2026-04-03T17:30:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "the-cycling-show-tudor-pro-cycling-team",
+      "related_events": [
+        {
+          "title": "Classic Velox Adélie de Vitré",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "classic-velox-adelie-de-vitre"
+        },
+        {
+          "title": "Classic Velox Adélie de Vitré",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "classic-velox-adelie-de-vitre"
+        },
+        {
+          "title": "Flandern-Rundfahrt",
+          "time": "16:30",
+          "sender": "Eurosport",
+          "slug": "flandern-rundfahrt"
+        }
+      ]
+    },
+    {
+      "title": "Gällivare | Skicross",
+      "subtitle": "Weltcup | Frauen Männer",
+      "sport": "Ski Freestyle",
+      "sport_slug": "ski-freestyle",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2026-04-03T18:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/3f48ec2a-09cd-53f8-9fc0-3b8d36f05ed6?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "gallivare-skicross",
+      "related_events": []
+    },
+    {
+      "title": "The Cycling Show",
+      "subtitle": "",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2026-04-03T18:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "the-cycling-show",
+      "related_events": [
+        {
+          "title": "Flandern-Rundfahrt",
+          "time": "16:30",
+          "sender": "Eurosport",
+          "slug": "flandern-rundfahrt"
+        },
+        {
+          "title": "The Cycling Show | Tudor Pro Cycling Team",
+          "time": "17:30",
+          "sender": "Eurosport",
+          "slug": "the-cycling-show-tudor-pro-cycling-team"
+        },
+        {
+          "title": "Route Adélie de Vitré",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "route-adelie-de-vitre"
+        }
+      ]
+    },
+    {
+      "title": "Spirit of Yachting",
+      "subtitle": "Magazin | Deutscher Kommentar",
+      "sport": "Yachtrennen",
+      "sport_slug": "yachtrennen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2026-04-03T18:30:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "spirit-of-yachting",
+      "related_events": []
+    },
+    {
+      "title": "Tour Championship | Halbfinale | 1. Session",
+      "subtitle": "Neil Robertson - Judd Trump | Manchester",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2026-04-03T19:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/c2cadd93-d03e-5700-a49e-65a3ab43f921?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-championship-halbfinale-1-session",
+      "related_events": [
+        {
+          "title": "Neil Robertson - Judd Trump",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "neil-robertson-judd-trump"
+        },
+        {
+          "title": "Tour Championship | Halbfinale | 2. Session",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "tour-championship-halbfinale-2-session"
+        }
+      ]
+    },
+    {
+      "title": "Planica | Teamfliegen",
+      "subtitle": "Weltcup | Männer | HS 240",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2026-04-03T19:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/eeb2f63f-4a3c-56aa-bb89-fb4e765be610?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "planica-teamfliegen",
+      "related_events": [
+        {
+          "title": "Planica | Einzelfliegen",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "planica-einzelfliegen"
+        }
+      ]
+    },
+    {
+      "title": "Neil Robertson - Judd Trump",
+      "subtitle": "Tour Championship | Halbfinale | 2. Session | Manchester",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-04-03T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/8a8dbc9b-c4c5-524e-8ffc-931131d28b21?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "neil-robertson-judd-trump",
+      "related_events": [
+        {
+          "title": "Tour Championship | Halbfinale | 1. Session",
+          "time": "19:00",
+          "sender": "Eurosport",
+          "slug": "tour-championship-halbfinale-1-session"
+        },
+        {
+          "title": "Tour Championship | Halbfinale | 2. Session",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "tour-championship-halbfinale-2-session"
+        }
+      ]
+    },
+    {
+      "title": "Tour Championship | Halbfinale | 2. Session",
+      "subtitle": "Neil Robertson - Judd Trump | Manchester",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-04-03T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/ad2e1274-1d2f-5b48-99f3-86f4bbd9a753?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-championship-halbfinale-2-session",
+      "related_events": [
+        {
+          "title": "Tour Championship | Halbfinale | 1. Session",
+          "time": "19:00",
+          "sender": "Eurosport",
+          "slug": "tour-championship-halbfinale-1-session"
+        },
+        {
+          "title": "Neil Robertson - Judd Trump",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "neil-robertson-judd-trump"
+        }
+      ]
+    },
+    {
+      "title": "Planica | Einzelfliegen",
+      "subtitle": "Weltcup | Männer | HS 240",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-04-03T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/36d760ed-5742-5dfd-9b77-99b41d5708cf?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "planica-einzelfliegen",
+      "related_events": [
+        {
+          "title": "Planica | Teamfliegen",
+          "time": "19:00",
+          "sender": "Eurosport",
+          "slug": "planica-teamfliegen"
+        }
+      ]
+    },
+    {
+      "title": "Route Adélie de Vitré",
+      "subtitle": "UCI World Tour | Männer | Vitré (174.2km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2026-04-03T21:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/ad6c50e9-c9e6-56f1-a97e-85f617bb4dc2?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "route-adelie-de-vitre",
+      "related_events": [
+        {
+          "title": "The Cycling Show",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "the-cycling-show"
+        },
+        {
+          "title": "In Flanders Fields - From Middelkerke to Wevelgem",
+          "time": "23:00",
+          "sender": "Eurosport",
+          "slug": "in-flanders-fields-from-middelkerke-to-wevelgem"
+        }
+      ]
+    },
+    {
+      "title": "Gällivare | Skicross",
+      "subtitle": "Weltcup | Frauen Männer",
+      "sport": "Ski Freestyle",
+      "sport_slug": "ski-freestyle",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-04-03T22:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/ba1582fa-8676-5280-95a6-ba75aeba80ba?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "gallivare-skicross",
+      "related_events": []
+    },
+    {
+      "title": "WM |",
+      "subtitle": "Halbfinale | Männer | Ogden",
+      "sport": "Curling",
+      "sport_slug": "curling",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2026-04-03T23:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/8fa78aab-d7f7-5812-9047-34df81acebb3?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm",
+      "related_events": []
+    },
+    {
+      "title": "In Flanders Fields - From Middelkerke to Wevelgem",
+      "subtitle": "UCI World Tour | Männer | Middelkerke – Wevelgem (240,8km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2026-04-03T23:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/ff336297-cf57-5567-92a9-bbc88a158cdf?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "in-flanders-fields-from-middelkerke-to-wevelgem",
+      "related_events": [
+        {
+          "title": "Route Adélie de Vitré",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "route-adelie-de-vitre"
+        },
+        {
+          "title": "In Flanders Fields - In Wevelgem",
+          "time": "00:30",
+          "sender": "Eurosport",
+          "slug": "in-flanders-fields-in-wevelgem"
+        }
+      ]
+    },
+    {
+      "title": "Mont-Sainte-Anne | Snowboardcross",
+      "subtitle": "Weltcup | Frauen / Männer",
+      "sport": "Snowboard",
+      "sport_slug": "snowboard",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2026-04-03T23:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/447e0caa-17d4-58ac-8b9f-ee8bc3beb571?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "mont-sainte-anne-snowboardcross",
+      "related_events": []
+    },
+    {
+      "title": "Planica | Einzelfliegen",
+      "subtitle": "Weltcup | Männer | HS 240",
+      "sport": "Skispringen",
+      "sport_slug": "skispringen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-04-04T00:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/b35d778d-13ae-54fe-92e4-a6a6b3279403?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "planica-einzelfliegen",
+      "related_events": []
+    },
+    {
+      "title": "In Flanders Fields - In Wevelgem",
+      "subtitle": "UCI World Tour | Frauen | Wevelgem – Wevelgem (134,9km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:30",
+      "iso_time": "2026-04-04T00:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/24d0902a-e91b-53d6-afbb-95146eb518db?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "in-flanders-fields-in-wevelgem",
+      "related_events": [
+        {
+          "title": "In Flanders Fields - From Middelkerke to Wevelgem",
+          "time": "23:00",
+          "sender": "Eurosport",
+          "slug": "in-flanders-fields-from-middelkerke-to-wevelgem"
+        }
+      ]
+    },
+    {
+      "title": "Mont-Sainte-Anne | Snowboardcross",
+      "subtitle": "Weltcup | Frauen / Männer",
+      "sport": "Snowboard",
+      "sport_slug": "snowboard",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:00",
+      "iso_time": "2026-04-04T01:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/0924fd7d-3d87-5110-aee7-c51a198f41a1?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "mont-sainte-anne-snowboardcross",
+      "related_events": []
+    },
+    {
+      "title": "Gällivare | Skicross",
+      "subtitle": "Weltcup | Frauen Männer",
+      "sport": "Ski Freestyle",
+      "sport_slug": "ski-freestyle",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:00",
+      "iso_time": "2026-04-04T02:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/9ffcc85b-e917-562f-a9dc-f9e59ae9413a?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "gallivare-skicross",
+      "related_events": []
+    }
+  ]
+}
