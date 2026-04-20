@@ -1,0 +1,980 @@
+{
+  "date": "2026-04-20",
+  "events": [
+    {
+      "title": "Crystal Palace vs West Ham United",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/england-premier-league/ma11152488/crystal-palace_west-ham-united/info",
+      "slug": "crystal-palace-vs-west-ham-united",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "ALBA BERLIN vs Telekom Baskets Bonn",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/deutschland-bbl/ma11488058/alba-berlin_telekom-baskets-bonn/info",
+      "slug": "alba-berlin-vs-telekom-baskets-bonn",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "VET-CONCEPT Gladiators Trier vs FC Bayern München",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "vet-concept-gladiators-trier-vs-fc-bayern-munchen"
+        }
+      ]
+    },
+    {
+      "title": "VET-CONCEPT Gladiators Trier vs FC Bayern München",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/deutschland-bbl/ma11488061/vet-concept-gladiators-trier_fc-bayern-muenchen/info",
+      "slug": "vet-concept-gladiators-trier-vs-fc-bayern-munchen",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "ALBA BERLIN vs Telekom Baskets Bonn",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "alba-berlin-vs-telekom-baskets-bonn"
+        }
+      ]
+    },
+    {
+      "title": "Kölner Haie vs Eisbären Berlin",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma11980121/koelner-haie_eisbaeren-berlin/info",
+      "slug": "kolner-haie-vs-eisbaren-berlin",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "US Lecce vs AC Florenz",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/italien-serie-a/ma11129577/us-lecce_ac-florenz/info",
+      "slug": "us-lecce-vs-ac-florenz",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Gaziantep FK vs Kayserispor",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/tuerkei-sueper-lig/ma11303570/gaziantep-fk_kayserispor/info",
+      "slug": "gaziantep-fk-vs-kayserispor",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Lechia Gdańsk vs Piast Gliwice",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "lechia-gdansk-vs-piast-gliwice"
+        },
+        {
+          "title": "FC Midtjylland vs Aarhus GF",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-midtjylland-vs-aarhus-gf"
+        }
+      ]
+    },
+    {
+      "title": "Lechia Gdańsk vs Piast Gliwice",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/polen-ekstraklasa/ma11128437/lechia-gdansk_piast-gliwice/info",
+      "slug": "lechia-gdansk-vs-piast-gliwice",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Gaziantep FK vs Kayserispor",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "gaziantep-fk-vs-kayserispor"
+        },
+        {
+          "title": "FC Midtjylland vs Aarhus GF",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-midtjylland-vs-aarhus-gf"
+        }
+      ]
+    },
+    {
+      "title": "FC Midtjylland vs Aarhus GF",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/daenemark-superliga/ma11935591/fc-midtjylland_aarhus-gf/info",
+      "slug": "fc-midtjylland-vs-aarhus-gf",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Gaziantep FK vs Kayserispor",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "gaziantep-fk-vs-kayserispor"
+        },
+        {
+          "title": "Lechia Gdańsk vs Piast Gliwice",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "lechia-gdansk-vs-piast-gliwice"
+        }
+      ]
+    },
+    {
+      "title": "Moreirense FC vs GD Estoril",
+      "time": "21:15",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/portugal-primeira-liga/ma11306096/moreirense-fc_gd-estoril/info",
+      "slug": "moreirense-fc-vs-gd-estoril",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Detroit Pistons vs Orlando Magic",
+      "time": "00:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma12000560/detroit-pistons_orlando-magic/info",
+      "slug": "detroit-pistons-vs-orlando-magic",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "San Antonio Spurs vs Portland Trail Blazers",
+      "time": "03:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11978972/san-antonio-spurs_portland-trail-blazers/info",
+      "slug": "san-antonio-spurs-vs-portland-trail-blazers",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Buffalo Sabres vs Boston Bruins",
+      "time": "01:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma12000113/buffalo-sabres_boston-bruins/info",
+      "slug": "buffalo-sabres-vs-boston-bruins",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Vegas Golden Knights vs Utah Mammoth",
+      "time": "04:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma12000107/vegas-golden-knights_utah-mammoth/info",
+      "slug": "vegas-golden-knights-vs-utah-mammoth",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "O Gran Camiño | 5. Etappe",
+      "subtitle": "UCI Europe Tour | Männer | As Neves - Monte Trega (154,7km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:03",
+      "iso_time": "2026-04-20T02:03:00+02:00",
+      "link": "",
+      "slug": "o-gran-camino-5-etappe",
+      "related_events": [
+        {
+          "title": "Amstel Gold Race",
+          "time": "03:01",
+          "sender": "Eurosport",
+          "slug": "amstel-gold-race"
+        },
+        {
+          "title": "Amstel Gold Race",
+          "time": "04:25",
+          "sender": "Eurosport",
+          "slug": "amstel-gold-race"
+        }
+      ]
+    },
+    {
+      "title": "Amstel Gold Race",
+      "subtitle": "UCI World Tour | Frauen",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:01",
+      "iso_time": "2026-04-20T03:01:31+02:00",
+      "link": "",
+      "slug": "amstel-gold-race",
+      "related_events": [
+        {
+          "title": "O Gran Camiño | 5. Etappe",
+          "time": "02:03",
+          "sender": "Eurosport",
+          "slug": "o-gran-camino-5-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Amstel Gold Race",
+      "subtitle": "UCI World Tour | Männer | Maastricht - Berg en Terblijt (257,4km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:25",
+      "iso_time": "2026-04-20T04:25:53+02:00",
+      "link": "",
+      "slug": "amstel-gold-race",
+      "related_events": [
+        {
+          "title": "O Gran Camiño | 5. Etappe",
+          "time": "02:03",
+          "sender": "Eurosport",
+          "slug": "o-gran-camino-5-etappe"
+        }
+      ]
+    },
+    {
+      "title": "FIA WEC | 6h von Imola | Rennen",
+      "subtitle": "Langstrecken-WM | 1. Station",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:57",
+      "iso_time": "2026-04-20T05:57:25+02:00",
+      "link": "https://play.hbomax.com/sport/ff2715dd-e683-585a-a3c2-41002997145f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "fia-wec-6h-von-imola-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Trentino | MX2 | 1. Rennen",
+      "subtitle": "WM | Pietramurata",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:00",
+      "iso_time": "2026-04-20T08:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/26760a97-c3d1-566a-8b76-23e469155874?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "trentino-mx2-1-rennen",
+      "related_events": [
+        {
+          "title": "Trentino | MXGP | 1. Rennen",
+          "time": "08:54",
+          "sender": "Eurosport",
+          "slug": "trentino-mxgp-1-rennen"
+        },
+        {
+          "title": "Trentino | MX2 | 2. Rennen",
+          "time": "10:02",
+          "sender": "Eurosport",
+          "slug": "trentino-mx2-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Amstel Gold Race",
+      "subtitle": "UCI World Tour | Männer | Maastricht - Berg en Terblijt (257,4km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:34",
+      "iso_time": "2026-04-20T08:34:30+02:00",
+      "link": "https://play.hbomax.com/sport/81b1c989-d1c4-5ed7-93c5-a7d97fa3e25e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "amstel-gold-race",
+      "related_events": []
+    },
+    {
+      "title": "Trentino | MXGP | 1. Rennen",
+      "subtitle": "WM | Pietramurata",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:54",
+      "iso_time": "2026-04-20T08:54:02+02:00",
+      "link": "https://play.hbomax.com/sport/9e253667-f804-57ba-aa0b-6f8000bc03cb?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "trentino-mxgp-1-rennen",
+      "related_events": [
+        {
+          "title": "Trentino | MX2 | 1. Rennen",
+          "time": "08:00",
+          "sender": "Eurosport",
+          "slug": "trentino-mx2-1-rennen"
+        },
+        {
+          "title": "Trentino | MX2 | 2. Rennen",
+          "time": "10:02",
+          "sender": "Eurosport",
+          "slug": "trentino-mx2-2-rennen"
+        },
+        {
+          "title": "Trentino | MXGP | 2. Rennen",
+          "time": "11:03",
+          "sender": "Eurosport",
+          "slug": "trentino-mxgp-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Global Champions Tour | Mexico City",
+      "subtitle": "Springreiten | 3. Station",
+      "sport": "Reitsport",
+      "sport_slug": "reitsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:00",
+      "iso_time": "2026-04-20T09:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/a436d668-1986-52cb-899b-1de0ca7e786b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "global-champions-tour-mexico-city",
+      "related_events": []
+    },
+    {
+      "title": "Trentino | MX2 | 2. Rennen",
+      "subtitle": "WM | Pietramurata",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:02",
+      "iso_time": "2026-04-20T10:02:35+02:00",
+      "link": "https://play.hbomax.com/sport/3143aaef-97b4-5e03-afad-f3d1d7786ec7?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "trentino-mx2-2-rennen",
+      "related_events": [
+        {
+          "title": "Trentino | MX2 | 1. Rennen",
+          "time": "08:00",
+          "sender": "Eurosport",
+          "slug": "trentino-mx2-1-rennen"
+        },
+        {
+          "title": "Trentino | MXGP | 1. Rennen",
+          "time": "08:54",
+          "sender": "Eurosport",
+          "slug": "trentino-mxgp-1-rennen"
+        },
+        {
+          "title": "Trentino | MXGP | 2. Rennen",
+          "time": "11:03",
+          "sender": "Eurosport",
+          "slug": "trentino-mxgp-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "WM | Kyren Wilson - Stan Moody",
+      "subtitle": "Sheffield | 1. Runde | 1. Session | Englischer Kommentar",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-04-20T11:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/11bc1e6c-eef8-5327-8add-afdb36fc1d41?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-kyren-wilson-stan-moody",
+      "related_events": [
+        {
+          "title": "WM | Ding Junhui - David Gilbert",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "wm-ding-junhui-david-gilbert"
+        },
+        {
+          "title": "WM | 1. Runde",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "wm-1-runde"
+        }
+      ]
+    },
+    {
+      "title": "WM | Ding Junhui - David Gilbert",
+      "subtitle": "Sheffield | 1. Runde | 2. Session",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-04-20T11:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/593e53e6-2f6f-55d9-ad32-806b389fa1e2?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-ding-junhui-david-gilbert",
+      "related_events": [
+        {
+          "title": "WM | Kyren Wilson - Stan Moody",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "wm-kyren-wilson-stan-moody"
+        },
+        {
+          "title": "WM | 1. Runde",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "wm-1-runde"
+        }
+      ]
+    },
+    {
+      "title": "WM | 1. Runde",
+      "subtitle": "Mit Ding Junhui u.a. | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-04-20T11:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/42c449fa-c910-5e97-b91e-4aab670df91b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-1-runde",
+      "related_events": [
+        {
+          "title": "WM | Kyren Wilson - Stan Moody",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "wm-kyren-wilson-stan-moody"
+        },
+        {
+          "title": "WM | Ding Junhui - David Gilbert",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "wm-ding-junhui-david-gilbert"
+        }
+      ]
+    },
+    {
+      "title": "Trentino | MXGP | 2. Rennen",
+      "subtitle": "WM | Pietramurata",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:03",
+      "iso_time": "2026-04-20T11:03:33+02:00",
+      "link": "https://play.hbomax.com/sport/9c2f7b7d-0d5f-5beb-988a-dc97735b3db8?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "trentino-mxgp-2-rennen",
+      "related_events": [
+        {
+          "title": "Trentino | MXGP | 1. Rennen",
+          "time": "08:54",
+          "sender": "Eurosport",
+          "slug": "trentino-mxgp-1-rennen"
+        },
+        {
+          "title": "Trentino | MX2 | 2. Rennen",
+          "time": "10:02",
+          "sender": "Eurosport",
+          "slug": "trentino-mx2-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Weltcup | Fort Worth",
+      "subtitle": "Springreiten",
+      "sport": "Reitsport",
+      "sport_slug": "reitsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:06",
+      "iso_time": "2026-04-20T12:06:17+02:00",
+      "link": "https://play.hbomax.com/sport/3ee9b839-124f-5388-b02f-15078dd112a2?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "weltcup-fort-worth",
+      "related_events": []
+    },
+    {
+      "title": "Amstel Gold Race",
+      "subtitle": "UCI World Tour | Männer | Maastricht - Berg en Terblijt (257,4km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:07",
+      "iso_time": "2026-04-20T13:07:05+02:00",
+      "link": "https://play.hbomax.com/sport/b0a5d40e-e10b-560a-aaef-83771358aef3?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "amstel-gold-race",
+      "related_events": [
+        {
+          "title": "Tour of the Alps | 1. Etappe",
+          "time": "13:35",
+          "sender": "Eurosport",
+          "slug": "tour-of-the-alps-1-etappe"
+        },
+        {
+          "title": "Tour of the Alps | 1. Etappe",
+          "time": "13:35",
+          "sender": "Eurosport",
+          "slug": "tour-of-the-alps-1-etappe"
+        },
+        {
+          "title": "Tour of the Alps | 1. Etappe",
+          "time": "13:57",
+          "sender": "Eurosport",
+          "slug": "tour-of-the-alps-1-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour of the Alps | 1. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Innsbruck - Innsbruck (144,3km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:35",
+      "iso_time": "2026-04-20T13:35:00+02:00",
+      "link": "https://play.hbomax.com/sport/59fd63e3-96b2-58ad-babf-4a0ddf5e9d55?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-of-the-alps-1-etappe",
+      "related_events": [
+        {
+          "title": "Amstel Gold Race",
+          "time": "13:07",
+          "sender": "Eurosport",
+          "slug": "amstel-gold-race"
+        }
+      ]
+    },
+    {
+      "title": "Tour of the Alps | 1. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Innsbruck - Innsbruck (144,3km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:35",
+      "iso_time": "2026-04-20T13:35:00+02:00",
+      "link": "https://play.hbomax.com/sport/487fed3a-ba52-5b7d-8e82-56544065c970?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-of-the-alps-1-etappe",
+      "related_events": [
+        {
+          "title": "Amstel Gold Race",
+          "time": "13:07",
+          "sender": "Eurosport",
+          "slug": "amstel-gold-race"
+        }
+      ]
+    },
+    {
+      "title": "Tour of the Alps | 1. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Innsbruck - Innsbruck (144,3km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:57",
+      "iso_time": "2026-04-20T13:57:57+02:00",
+      "link": "https://play.hbomax.com/sport/a9a3438d-14b2-59e4-a80c-cdea2f15da05?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-of-the-alps-1-etappe",
+      "related_events": [
+        {
+          "title": "Amstel Gold Race",
+          "time": "13:07",
+          "sender": "Eurosport",
+          "slug": "amstel-gold-race"
+        }
+      ]
+    },
+    {
+      "title": "Boston-Marathon",
+      "subtitle": "130. Austragung | Männer / Frauen",
+      "sport": "Leichtathletik",
+      "sport_slug": "leichtathletik",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:00",
+      "iso_time": "2026-04-20T15:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/416cc9b3-0cae-5e1c-acf4-0eca8c99e408?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "boston-marathon",
+      "related_events": []
+    },
+    {
+      "title": "WM | John Higgins - Ali Carter",
+      "subtitle": "Sheffield | 1. Runde | 2. Session",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:15",
+      "iso_time": "2026-04-20T15:15:00+02:00",
+      "link": "https://play.hbomax.com/sport/3a2b7eb3-0ac7-5773-b444-5959beb1601e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-john-higgins-ali-carter",
+      "related_events": [
+        {
+          "title": "WM | 1. Runde",
+          "time": "15:26",
+          "sender": "Eurosport",
+          "slug": "wm-1-runde"
+        },
+        {
+          "title": "WM | Wu Yize - Lei Peifan",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "wm-wu-yize-lei-peifan"
+        }
+      ]
+    },
+    {
+      "title": "WM | 1. Runde",
+      "subtitle": "Mit J. Higgins - A. Carter u.a. | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:26",
+      "iso_time": "2026-04-20T15:26:20+02:00",
+      "link": "https://play.hbomax.com/sport/63be1ff0-9d6e-58f4-8d2b-8f32437dde18?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-1-runde",
+      "related_events": [
+        {
+          "title": "WM | John Higgins - Ali Carter",
+          "time": "15:15",
+          "sender": "Eurosport",
+          "slug": "wm-john-higgins-ali-carter"
+        },
+        {
+          "title": "WM | Wu Yize - Lei Peifan",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "wm-wu-yize-lei-peifan"
+        }
+      ]
+    },
+    {
+      "title": "WM | Wu Yize - Lei Peifan",
+      "subtitle": "Sheffield | 1. Runde | 1. Session | Englischer Kommentar",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:30",
+      "iso_time": "2026-04-20T15:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/f7a70808-0166-5eb0-82b2-8dea9c9906a8?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-wu-yize-lei-peifan",
+      "related_events": [
+        {
+          "title": "WM | John Higgins - Ali Carter",
+          "time": "15:15",
+          "sender": "Eurosport",
+          "slug": "wm-john-higgins-ali-carter"
+        },
+        {
+          "title": "WM | 1. Runde",
+          "time": "15:26",
+          "sender": "Eurosport",
+          "slug": "wm-1-runde"
+        },
+        {
+          "title": "WM | 1. Runde",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "wm-1-runde"
+        }
+      ]
+    },
+    {
+      "title": "Boston-Marathon",
+      "subtitle": "130. Austragung | Männer / Frauen",
+      "sport": "Leichtathletik",
+      "sport_slug": "leichtathletik",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:30",
+      "iso_time": "2026-04-20T15:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/7e4a0618-e75b-5e92-8eee-5159fb6d7b53?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "boston-marathon",
+      "related_events": []
+    },
+    {
+      "title": "Tour of the Alps | 1. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Innsbruck - Innsbruck (144,3km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:15",
+      "iso_time": "2026-04-20T18:15:00+02:00",
+      "link": "https://play.hbomax.com/sport/47ff8443-ae2a-5bcb-8317-b8b35b53618d?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-of-the-alps-1-etappe",
+      "related_events": []
+    },
+    {
+      "title": "WM | 1. Runde",
+      "subtitle": "Mit Ding Junhui u.a. | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2026-04-20T18:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/b1327d17-0240-5014-a2d7-b4d0deaebf0b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-1-runde",
+      "related_events": [
+        {
+          "title": "WM | Wu Yize - Lei Peifan",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "wm-wu-yize-lei-peifan"
+        },
+        {
+          "title": "WM | Kyren Wilson - Stan Moody",
+          "time": "19:30",
+          "sender": "Eurosport",
+          "slug": "wm-kyren-wilson-stan-moody"
+        },
+        {
+          "title": "WM | Shaun Murphy - Fan Zhengyi",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "wm-shaun-murphy-fan-zhengyi"
+        }
+      ]
+    },
+    {
+      "title": "Global Champions Tour | Mexico City",
+      "subtitle": "Springreiten | 3. Station",
+      "sport": "Reitsport",
+      "sport_slug": "reitsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2026-04-20T19:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/f347028d-a5b9-5fc1-8247-bd1c9ae221b7?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "global-champions-tour-mexico-city",
+      "related_events": []
+    },
+    {
+      "title": "WM | Kyren Wilson - Stan Moody",
+      "subtitle": "Sheffield | 1. Runde | 2. Session",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:30",
+      "iso_time": "2026-04-20T19:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/585a888d-c690-52af-8793-5384e6a46b3f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-kyren-wilson-stan-moody",
+      "related_events": [
+        {
+          "title": "WM | 1. Runde",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "wm-1-runde"
+        },
+        {
+          "title": "WM | 1. Runde",
+          "time": "19:30",
+          "sender": "Eurosport",
+          "slug": "wm-1-runde"
+        },
+        {
+          "title": "WM | Shaun Murphy - Fan Zhengyi",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "wm-shaun-murphy-fan-zhengyi"
+        }
+      ]
+    },
+    {
+      "title": "WM | 1. Runde",
+      "subtitle": "Mit Kyren Wilson u.a. | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:30",
+      "iso_time": "2026-04-20T19:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/ba048372-5832-524c-bd01-ef4eb829da01?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-1-runde",
+      "related_events": [
+        {
+          "title": "WM | Kyren Wilson - Stan Moody",
+          "time": "19:30",
+          "sender": "Eurosport",
+          "slug": "wm-kyren-wilson-stan-moody"
+        },
+        {
+          "title": "WM | Shaun Murphy - Fan Zhengyi",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "wm-shaun-murphy-fan-zhengyi"
+        }
+      ]
+    },
+    {
+      "title": "WM | Shaun Murphy - Fan Zhengyi",
+      "subtitle": "Sheffield | 1. Runde | 1. Session | Englischer Kommentar",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-04-20T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/fcb31cdd-d002-5048-889c-84c88ab6501b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-shaun-murphy-fan-zhengyi",
+      "related_events": [
+        {
+          "title": "WM | 1. Runde",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "wm-1-runde"
+        },
+        {
+          "title": "WM | Kyren Wilson - Stan Moody",
+          "time": "19:30",
+          "sender": "Eurosport",
+          "slug": "wm-kyren-wilson-stan-moody"
+        },
+        {
+          "title": "WM | 1. Runde",
+          "time": "19:30",
+          "sender": "Eurosport",
+          "slug": "wm-1-runde"
+        }
+      ]
+    },
+    {
+      "title": "Boston-Marathon",
+      "subtitle": "130. Austragung | Männer / Frauen",
+      "sport": "Leichtathletik",
+      "sport_slug": "leichtathletik",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2026-04-20T21:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/3a42651f-ba82-5382-ae03-bcccb78a06c1?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "boston-marathon",
+      "related_events": []
+    },
+    {
+      "title": "Tour of the Alps | 1. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Innsbruck - Innsbruck (144,3km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-04-20T22:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/2ff87b60-dc87-5cf2-b8af-204f96a0bf01?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-of-the-alps-1-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Weltcup | Fort Worth",
+      "subtitle": "Springreiten",
+      "sport": "Reitsport",
+      "sport_slug": "reitsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2026-04-20T23:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/012e2e91-74a2-57ee-b1a2-13965ba80761?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "weltcup-fort-worth",
+      "related_events": []
+    },
+    {
+      "title": "Boston-Marathon",
+      "subtitle": "130. Austragung | Männer / Frauen",
+      "sport": "Leichtathletik",
+      "sport_slug": "leichtathletik",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2026-04-20T23:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/2e64a228-7761-5e46-bec0-81a4644baa00?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "boston-marathon",
+      "related_events": []
+    },
+    {
+      "title": "Tour of the Alps | 1. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Innsbruck - Innsbruck (144,3km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-04-21T00:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/467baf84-595c-51db-8798-87921d20a75d?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-of-the-alps-1-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Australian Open | Finale",
+      "subtitle": "A. Sabalenka - E. Rybakina | Melbourne",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-04-21T00:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/eef80be7-1bf5-5c0c-ac90-26f12d848a11?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "australian-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "WM | 1. Runde",
+      "subtitle": "Mit Kyren Wilson u.a. | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:00",
+      "iso_time": "2026-04-21T01:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/ef922284-97f2-53e7-be11-1c8723a27d87?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-1-runde",
+      "related_events": []
+    }
+  ]
+}
