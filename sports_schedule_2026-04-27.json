@@ -1,0 +1,1388 @@
+{
+  "date": "2026-04-27",
+  "events": [
+    {
+      "title": "1899 Hoffenheim vs 1. FC Köln",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga-frauen/ma11376440/1899-hoffenheim_1-fc-koeln/info",
+      "slug": "1899-hoffenheim-vs-1-fc-koln",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Manchester United vs Brentford FC",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/england-premier-league/ma11152536/manchester-united_brentford-fc/info",
+      "slug": "manchester-united-vs-brentford-fc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Espanyol Barcelona vs Levante UD",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "espanyol-barcelona-vs-levante-ud"
+        }
+      ]
+    },
+    {
+      "title": "FC Bayern München vs ROSTOCK SEAWOLVES",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/deutschland-bbl/ma11487848/fc-bayern-muenchen_rostock-seawolves/info",
+      "slug": "fc-bayern-munchen-vs-rostock-seawolves",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "NINERS Chemnitz vs Bamberg Baskets",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "niners-chemnitz-vs-bamberg-baskets"
+        }
+      ]
+    },
+    {
+      "title": "NINERS Chemnitz vs Bamberg Baskets",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/deutschland-bbl/ma11488085/niners-chemnitz_bamberg-baskets/info",
+      "slug": "niners-chemnitz-vs-bamberg-baskets",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Bayern München vs ROSTOCK SEAWOLVES",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-bayern-munchen-vs-rostock-seawolves"
+        }
+      ]
+    },
+    {
+      "title": "Espanyol Barcelona vs Levante UD",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-primera-division/ma11223803/espanyol-barcelona_levante-ud/info",
+      "slug": "espanyol-barcelona-vs-levante-ud",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Manchester United vs Brentford FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "manchester-united-vs-brentford-fc"
+        }
+      ]
+    },
+    {
+      "title": "Cagliari Calcio vs Atalanta",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/italien-serie-a/ma11129586/cagliari-calcio_atalanta/info",
+      "slug": "cagliari-calcio-vs-atalanta",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Lazio Rom vs Udinese Calcio",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/italien-serie-a/ma11129601/lazio-rom_udinese-calcio/info",
+      "slug": "lazio-rom-vs-udinese-calcio",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alanyaspor vs Samsunspor",
+      "time": "16:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/tuerkei-sueper-lig/ma11303582/alanyaspor_samsunspor/info",
+      "slug": "alanyaspor-vs-samsunspor",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Konyaspor vs Trabzonspor",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/tuerkei-sueper-lig/ma11303579/konyaspor_trabzonspor/info",
+      "slug": "konyaspor-vs-trabzonspor",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Beşiktaş vs Fatih Karagümrük",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "besiktas-vs-fatih-karagumruk"
+        },
+        {
+          "title": "Piast Gliwice vs Arka Gdynia",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "piast-gliwice-vs-arka-gdynia"
+        },
+        {
+          "title": "FC Kopenhagen vs Vejle BK",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-kopenhagen-vs-vejle-bk"
+        }
+      ]
+    },
+    {
+      "title": "Beşiktaş vs Fatih Karagümrük",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/tuerkei-sueper-lig/ma11303585/besiktas_fatih-karaguemruek/info",
+      "slug": "besiktas-vs-fatih-karagumruk",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Konyaspor vs Trabzonspor",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "konyaspor-vs-trabzonspor"
+        },
+        {
+          "title": "Piast Gliwice vs Arka Gdynia",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "piast-gliwice-vs-arka-gdynia"
+        },
+        {
+          "title": "FC Kopenhagen vs Vejle BK",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-kopenhagen-vs-vejle-bk"
+        }
+      ]
+    },
+    {
+      "title": "Piast Gliwice vs Arka Gdynia",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/polen-ekstraklasa/ma11128470/piast-gliwice_arka-gdynia/info",
+      "slug": "piast-gliwice-vs-arka-gdynia",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Konyaspor vs Trabzonspor",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "konyaspor-vs-trabzonspor"
+        },
+        {
+          "title": "Beşiktaş vs Fatih Karagümrük",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "besiktas-vs-fatih-karagumruk"
+        },
+        {
+          "title": "FC Kopenhagen vs Vejle BK",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-kopenhagen-vs-vejle-bk"
+        }
+      ]
+    },
+    {
+      "title": "FC Kopenhagen vs Vejle BK",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/daenemark-superliga/ma11935519/fc-kopenhagen_vejle-bk/info",
+      "slug": "fc-kopenhagen-vs-vejle-bk",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Konyaspor vs Trabzonspor",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "konyaspor-vs-trabzonspor"
+        },
+        {
+          "title": "Beşiktaş vs Fatih Karagümrük",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "besiktas-vs-fatih-karagumruk"
+        },
+        {
+          "title": "Piast Gliwice vs Arka Gdynia",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "piast-gliwice-vs-arka-gdynia"
+        }
+      ]
+    },
+    {
+      "title": "Gil Vicente vs Casa Pia AC",
+      "time": "21:15",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/portugal-primeira-liga/ma11306120/gil-vicente_casa-pia-ac/info",
+      "slug": "gil-vicente-vs-casa-pia-ac",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Philadelphia 76ers vs Boston Celtics",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11992775/philadelphia-76ers_boston-celtics/info",
+      "slug": "philadelphia-76ers-vs-boston-celtics",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Houston Rockets vs Los Angeles Lakers",
+      "time": "03:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma11979017/houston-rockets_los-angeles-lakers/info",
+      "slug": "houston-rockets-vs-los-angeles-lakers",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Montréal Canadiens vs Tampa Bay Lightning",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma12000182/montreal-canadiens_tampa-bay-lightning/info",
+      "slug": "montreal-canadiens-vs-tampa-bay-lightning",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Anaheim Ducks vs Edmonton Oilers",
+      "time": "03:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma12000188/anaheim-ducks_edmonton-oilers/info",
+      "slug": "anaheim-ducks-vs-edmonton-oilers",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Ann Li vs Leylah Fernandez",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-spanien-mutua-madrilena-madrid-open/ma11778517/ann-li_leylah-fernandez/info",
+      "slug": "ann-li-vs-leylah-fernandez",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Belinda Bencic vs Hailey Baptiste",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "belinda-bencic-vs-hailey-baptiste"
+        },
+        {
+          "title": "Alejandro Davidovich Fokina vs Casper Ruud",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "alejandro-davidovich-fokina-vs-casper-ruud"
+        }
+      ]
+    },
+    {
+      "title": "Belinda Bencic vs Hailey Baptiste",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-spanien-mutua-madrilena-madrid-open/ma11778514/belinda-bencic_hailey-baptiste/info",
+      "slug": "belinda-bencic-vs-hailey-baptiste",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ann Li vs Leylah Fernandez",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "ann-li-vs-leylah-fernandez"
+        },
+        {
+          "title": "Alejandro Davidovich Fokina vs Casper Ruud",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "alejandro-davidovich-fokina-vs-casper-ruud"
+        }
+      ]
+    },
+    {
+      "title": "Solana Sierra vs Karolina Plíšková",
+      "time": "13:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-spanien-mutua-madrilena-madrid-open/ma11778529/solana-sierra_karolina-pliskova/info",
+      "slug": "solana-sierra-vs-karolina-pliskova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Aryna Sabalenka vs Naomi Osaka",
+          "time": "13:00",
+          "sender": "Sportschau Live",
+          "slug": "aryna-sabalenka-vs-naomi-osaka"
+        }
+      ]
+    },
+    {
+      "title": "Aryna Sabalenka vs Naomi Osaka",
+      "time": "13:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-spanien-mutua-madrilena-madrid-open/ma11778511/aryna-sabalenka_naomi-osaka/info",
+      "slug": "aryna-sabalenka-vs-naomi-osaka",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Solana Sierra vs Karolina Plíšková",
+          "time": "13:00",
+          "sender": "Sportschau Live",
+          "slug": "solana-sierra-vs-karolina-pliskova"
+        }
+      ]
+    },
+    {
+      "title": "Mirra Andreeva vs Anna Bondar",
+      "time": "15:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-spanien-mutua-madrilena-madrid-open/ma11778520/mirra-andreeva_anna-bondar/info",
+      "slug": "mirra-andreeva-vs-anna-bondar",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Francisco Cerúndolo vs Luciano Darderi",
+          "time": "15:00",
+          "sender": "Sportschau Live",
+          "slug": "francisco-cerundolo-vs-luciano-darderi"
+        }
+      ]
+    },
+    {
+      "title": "Linda Noskova vs Coco Gauff",
+      "time": "16:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-spanien-mutua-madrilena-madrid-open/ma11778526/linda-noskova_coco-gauff/info",
+      "slug": "linda-noskova-vs-coco-gauff",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Marta Kostyuk vs Caty McNally",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-spanien-mutua-madrilena-madrid-open/ma11778523/marta-kostyuk_caty-mcnally/info",
+      "slug": "marta-kostyuk-vs-caty-mcnally",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Anastasia Potapova vs Elena Rybakina",
+      "time": "21:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-spanien-mutua-madrilena-madrid-open/ma11778532/anastasia-potapova_elena-rybakina/info",
+      "slug": "anastasia-potapova-vs-elena-rybakina",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alejandro Davidovich Fokina vs Casper Ruud",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-spanien-mutua-madrilena-madrid-open/ma11752483/alejandro-davidovich-fokina_casper-ruud/info",
+      "slug": "alejandro-davidovich-fokina-vs-casper-ruud",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ann Li vs Leylah Fernandez",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "ann-li-vs-leylah-fernandez"
+        },
+        {
+          "title": "Belinda Bencic vs Hailey Baptiste",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "belinda-bencic-vs-hailey-baptiste"
+        }
+      ]
+    },
+    {
+      "title": "Stefanos Tsitsipas vs Daniel Merida Aguilar",
+      "time": "12:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-spanien-mutua-madrilena-madrid-open/ma11752480/stefanos-tsitsipas_daniel-merida-aguilar/info",
+      "slug": "stefanos-tsitsipas-vs-daniel-merida-aguilar",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Daniil Medvedev vs Nicolai Budkov",
+      "time": "13:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-spanien-mutua-madrilena-madrid-open/ma11752492/daniil-medvedev_nicolai-budkov/info",
+      "slug": "daniil-medvedev-vs-nicolai-budkov",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Francisco Cerúndolo vs Luciano Darderi",
+      "time": "15:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-spanien-mutua-madrilena-madrid-open/ma11752486/francisco-cerundolo_luciano-darderi/info",
+      "slug": "francisco-cerundolo-vs-luciano-darderi",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Mirra Andreeva vs Anna Bondar",
+          "time": "15:00",
+          "sender": "Sportschau Live",
+          "slug": "mirra-andreeva-vs-anna-bondar"
+        }
+      ]
+    },
+    {
+      "title": "Alexander Blockx vs Felix Auger-Aliassime",
+      "time": "16:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-spanien-mutua-madrilena-madrid-open/ma11752489/alexander-blockx_felix-auger-aliassime/info",
+      "slug": "alexander-blockx-vs-felix-auger-aliassime",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Adolfo Daniel Vallejo vs Flavio Cobolli",
+      "time": "17:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-spanien-mutua-madrilena-madrid-open/ma11752495/adolfo-daniel-vallejo_flavio-cobolli/info",
+      "slug": "adolfo-daniel-vallejo-vs-flavio-cobolli",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Terence Atmane vs Alexander Zverev",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-spanien-mutua-madrilena-madrid-open/ma11752501/terence-atmane_alexander-zverev/info",
+      "slug": "terence-atmane-vs-alexander-zverev",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Karen Khachanov vs Jakub Mensik",
+      "time": "20:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-spanien-mutua-madrilena-madrid-open/ma11752498/karen-khachanov_jakub-mensik/info",
+      "slug": "karen-khachanov-vs-jakub-mensik",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "FIA WEC | 6h von Imola | Rennen",
+      "subtitle": "Langstrecken-WM | 1. Station",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:56",
+      "iso_time": "2026-04-26T23:56:14+02:00",
+      "link": "",
+      "slug": "fia-wec-6h-von-imola-rennen",
+      "related_events": []
+    },
+    {
+      "title": "WM | 2. Runde",
+      "subtitle": "Mit J. Higgins - R. O'Sullivan u.a. | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:30",
+      "iso_time": "2026-04-27T02:30:00+02:00",
+      "link": "",
+      "slug": "wm-2-runde",
+      "related_events": []
+    },
+    {
+      "title": "Lüttich-Bastogne-Lüttich",
+      "subtitle": "UCI World Tour | Männer | Lüttich - Lüttich (259,5km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:30",
+      "iso_time": "2026-04-27T04:30:41+02:00",
+      "link": "",
+      "slug": "luttich-bastogne-luttich",
+      "related_events": []
+    },
+    {
+      "title": "WM | 2. Runde",
+      "subtitle": "Mit J. Higgins - R. O'Sullivan u.a. | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:29",
+      "iso_time": "2026-04-27T06:29:29+02:00",
+      "link": "https://play.hbomax.com/sport/f867bd3e-2027-52d2-a3d0-07eaa9ee4d6a?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-2-runde",
+      "related_events": []
+    },
+    {
+      "title": "The Cycling Show",
+      "subtitle": "",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:19",
+      "iso_time": "2026-04-27T08:19:29+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "the-cycling-show",
+      "related_events": [
+        {
+          "title": "Lüttich-Bastogne-Lüttich",
+          "time": "08:32",
+          "sender": "Eurosport",
+          "slug": "luttich-bastogne-luttich"
+        },
+        {
+          "title": "Lüttich-Bastogne-Lüttich",
+          "time": "09:58",
+          "sender": "Eurosport",
+          "slug": "luttich-bastogne-luttich"
+        }
+      ]
+    },
+    {
+      "title": "Lüttich-Bastogne-Lüttich",
+      "subtitle": "UCI World Tour | Männer | Lüttich - Lüttich (259,5km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:32",
+      "iso_time": "2026-04-27T08:32:16+02:00",
+      "link": "https://play.hbomax.com/sport/b294f666-52af-5ccd-83f0-85cbf419b340?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "luttich-bastogne-luttich",
+      "related_events": [
+        {
+          "title": "The Cycling Show",
+          "time": "08:19",
+          "sender": "Eurosport",
+          "slug": "the-cycling-show"
+        }
+      ]
+    },
+    {
+      "title": "Marathon | London",
+      "subtitle": "|",
+      "sport": "Leichtathletik",
+      "sport_slug": "leichtathletik",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:35",
+      "iso_time": "2026-04-27T08:35:22+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "marathon-london",
+      "related_events": [
+        {
+          "title": "London-Marathon",
+          "time": "10:58",
+          "sender": "Eurosport",
+          "slug": "london-marathon"
+        }
+      ]
+    },
+    {
+      "title": "Lüttich-Bastogne-Lüttich",
+      "subtitle": "UCI World Tour | Männer | Lüttich - Lüttich (259,5km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:58",
+      "iso_time": "2026-04-27T09:58:33+02:00",
+      "link": "https://play.hbomax.com/sport/a5f89080-ee66-592a-a3ef-205a4fa7012f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "luttich-bastogne-luttich",
+      "related_events": [
+        {
+          "title": "The Cycling Show",
+          "time": "08:19",
+          "sender": "Eurosport",
+          "slug": "the-cycling-show"
+        },
+        {
+          "title": "Türkei-Rundfahrt | 1. Etappe",
+          "time": "12:28",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-1-etappe"
+        }
+      ]
+    },
+    {
+      "title": "WM | 2. Runde",
+      "subtitle": "Mit J. Higgins - R. O'Sullivan u.a. | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:01",
+      "iso_time": "2026-04-27T10:01:14+02:00",
+      "link": "https://play.hbomax.com/sport/ef203436-99ff-56eb-9f38-2faf24405a3e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-2-runde",
+      "related_events": []
+    },
+    {
+      "title": "London-Marathon",
+      "subtitle": "46. Austragung | Englischer Kommentar",
+      "sport": "Leichtathletik",
+      "sport_slug": "leichtathletik",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:58",
+      "iso_time": "2026-04-27T10:58:17+02:00",
+      "link": "https://play.hbomax.com/sport/8cad4ad5-2f0e-5815-bbd1-4016b5695729?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "london-marathon",
+      "related_events": [
+        {
+          "title": "Marathon | London",
+          "time": "08:35",
+          "sender": "Eurosport",
+          "slug": "marathon-london"
+        }
+      ]
+    },
+    {
+      "title": "WM | 2. Runde",
+      "subtitle": "Mit H. Vafaei - J. Trump u.a. | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:59",
+      "iso_time": "2026-04-27T10:59:29+02:00",
+      "link": "https://play.hbomax.com/sport/2f3317ae-815c-5f2a-a2dd-2a5c0be70ffc?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-2-runde",
+      "related_events": [
+        {
+          "title": "WM | Mark Selby - Wu Yize",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "wm-mark-selby-wu-yize"
+        },
+        {
+          "title": "WM | John Higgins - Ronnie O'Sullivan",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "wm-john-higgins-ronnie-o-sullivan"
+        },
+        {
+          "title": "WM | Achtelfinale",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "wm-achtelfinale"
+        }
+      ]
+    },
+    {
+      "title": "WM | 2. Runde",
+      "subtitle": "Mit J. Higgins - R. O'Sullivan u.a. | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:27",
+      "iso_time": "2026-04-27T12:27:43+02:00",
+      "link": "https://play.hbomax.com/sport/61bc71fa-b0f7-5a09-8bb7-20bf59d0bef5?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-2-runde",
+      "related_events": [
+        {
+          "title": "WM | Mark Selby - Wu Yize",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "wm-mark-selby-wu-yize"
+        },
+        {
+          "title": "WM | John Higgins - Ronnie O'Sullivan",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "wm-john-higgins-ronnie-o-sullivan"
+        },
+        {
+          "title": "WM | Achtelfinale",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "wm-achtelfinale"
+        }
+      ]
+    },
+    {
+      "title": "Türkei-Rundfahrt | 1. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Çeşme - Selçuk (148,7km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:28",
+      "iso_time": "2026-04-27T12:28:31+02:00",
+      "link": "https://play.hbomax.com/sport/7563e5af-1da2-5b40-ac2e-5394d97c202d?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "turkei-rundfahrt-1-etappe",
+      "related_events": [
+        {
+          "title": "Lüttich-Bastogne-Lüttich",
+          "time": "09:58",
+          "sender": "Eurosport",
+          "slug": "luttich-bastogne-luttich"
+        },
+        {
+          "title": "Türkei-Rundfahrt | 2. Etappe",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-2-etappe"
+        },
+        {
+          "title": "Türkei-Rundfahrt | 2. Etappe",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Türkei-Rundfahrt | 2. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Aydin – Marmaris (152,8km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:30",
+      "iso_time": "2026-04-27T13:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/8917ea7a-1db3-51ac-a31a-2e2d0666e39e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "turkei-rundfahrt-2-etappe",
+      "related_events": [
+        {
+          "title": "Türkei-Rundfahrt | 1. Etappe",
+          "time": "12:28",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-1-etappe"
+        },
+        {
+          "title": "Lüttich-Bastogne-Lüttich",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "luttich-bastogne-luttich"
+        }
+      ]
+    },
+    {
+      "title": "Türkei-Rundfahrt | 2. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Aydin – Marmaris (152,8km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:30",
+      "iso_time": "2026-04-27T13:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/d51da042-951c-5d07-a52a-ab490e4af738?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "turkei-rundfahrt-2-etappe",
+      "related_events": [
+        {
+          "title": "Türkei-Rundfahrt | 1. Etappe",
+          "time": "12:28",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-1-etappe"
+        },
+        {
+          "title": "Lüttich-Bastogne-Lüttich",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "luttich-bastogne-luttich"
+        }
+      ]
+    },
+    {
+      "title": "WM | Mark Selby - Wu Yize",
+      "subtitle": "Sheffield | Achtelfinale | Original Sound",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:00",
+      "iso_time": "2026-04-27T14:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/17b91244-8109-544f-8e63-8f005d7b28b7?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-mark-selby-wu-yize",
+      "related_events": [
+        {
+          "title": "WM | 2. Runde",
+          "time": "12:27",
+          "sender": "Eurosport",
+          "slug": "wm-2-runde"
+        },
+        {
+          "title": "WM | John Higgins - Ronnie O'Sullivan",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "wm-john-higgins-ronnie-o-sullivan"
+        },
+        {
+          "title": "WM | Achtelfinale",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "wm-achtelfinale"
+        }
+      ]
+    },
+    {
+      "title": "WM | John Higgins - Ronnie O'Sullivan",
+      "subtitle": "Sheffield | Achtelfinale",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:00",
+      "iso_time": "2026-04-27T14:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/b75f62cd-cf89-55bf-977b-557e3ca21697?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-john-higgins-ronnie-o-sullivan",
+      "related_events": [
+        {
+          "title": "WM | 2. Runde",
+          "time": "12:27",
+          "sender": "Eurosport",
+          "slug": "wm-2-runde"
+        },
+        {
+          "title": "WM | Mark Selby - Wu Yize",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "wm-mark-selby-wu-yize"
+        },
+        {
+          "title": "WM | Achtelfinale",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "wm-achtelfinale"
+        }
+      ]
+    },
+    {
+      "title": "WM | Achtelfinale",
+      "subtitle": "J. Higgins - R. O'Sullivan | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:00",
+      "iso_time": "2026-04-27T14:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/6834b7c3-396d-5ed0-a80c-2ca6ecddfa45?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-achtelfinale",
+      "related_events": [
+        {
+          "title": "WM | 2. Runde",
+          "time": "12:27",
+          "sender": "Eurosport",
+          "slug": "wm-2-runde"
+        },
+        {
+          "title": "WM | Mark Selby - Wu Yize",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "wm-mark-selby-wu-yize"
+        },
+        {
+          "title": "WM | John Higgins - Ronnie O'Sullivan",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "wm-john-higgins-ronnie-o-sullivan"
+        }
+      ]
+    },
+    {
+      "title": "Lüttich-Bastogne-Lüttich",
+      "subtitle": "UCI World Tour | Männer | Lüttich - Lüttich (259,5km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:30",
+      "iso_time": "2026-04-27T15:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/1e9d4180-55e2-524a-8b07-6737d82eeb51?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "luttich-bastogne-luttich",
+      "related_events": [
+        {
+          "title": "Türkei-Rundfahrt | 2. Etappe",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-2-etappe"
+        },
+        {
+          "title": "Türkei-Rundfahrt | 2. Etappe",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Marathon | London",
+      "subtitle": "|",
+      "sport": "Leichtathletik",
+      "sport_slug": "leichtathletik",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2026-04-27T17:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "marathon-london",
+      "related_events": []
+    },
+    {
+      "title": "WM | 2. Runde",
+      "subtitle": "Mit H. Vafaei - J. Trump u.a. | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2026-04-27T17:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/c6c38544-cc50-50de-81ad-a002f09898c5?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-2-runde",
+      "related_events": [
+        {
+          "title": "WM | Mark Selby - Wu Yize",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "wm-mark-selby-wu-yize"
+        },
+        {
+          "title": "WM | John Higgins - Ronnie O'Sullivan",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "wm-john-higgins-ronnie-o-sullivan"
+        },
+        {
+          "title": "WM | Achtelfinale",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "wm-achtelfinale"
+        }
+      ]
+    },
+    {
+      "title": "Türkei-Rundfahrt | 2. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Aydin – Marmaris (152,8km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:45",
+      "iso_time": "2026-04-27T18:45:00+02:00",
+      "link": "https://play.hbomax.com/sport/a54d47b7-0207-52a7-bfab-6eace12b5a74?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "turkei-rundfahrt-2-etappe",
+      "related_events": [
+        {
+          "title": "Lüttich-Bastogne-Lüttich",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "luttich-bastogne-luttich"
+        }
+      ]
+    },
+    {
+      "title": "UCI Weltcup",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Olympic",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2026-04-27T19:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uci-weltcup",
+      "related_events": []
+    },
+    {
+      "title": "WM | Achtelfinale",
+      "subtitle": "Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:30",
+      "iso_time": "2026-04-27T19:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/1c27a93d-91f8-5e5f-9857-54beec506de3?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-achtelfinale",
+      "related_events": [
+        {
+          "title": "WM | 2. Runde",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "wm-2-runde"
+        },
+        {
+          "title": "WM | Hossein Vafaei - Judd Trump",
+          "time": "19:30",
+          "sender": "Eurosport",
+          "slug": "wm-hossein-vafaei-judd-trump"
+        },
+        {
+          "title": "WM | Chris Wakelin - Neil Robertson",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "wm-chris-wakelin-neil-robertson"
+        }
+      ]
+    },
+    {
+      "title": "WM | Hossein Vafaei - Judd Trump",
+      "subtitle": "Sheffield | Achtelfinale",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:30",
+      "iso_time": "2026-04-27T19:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/a72e3616-0bb9-5575-8141-81c903af274c?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-hossein-vafaei-judd-trump",
+      "related_events": [
+        {
+          "title": "WM | 2. Runde",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "wm-2-runde"
+        },
+        {
+          "title": "WM | Achtelfinale",
+          "time": "19:30",
+          "sender": "Eurosport",
+          "slug": "wm-achtelfinale"
+        },
+        {
+          "title": "WM | Chris Wakelin - Neil Robertson",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "wm-chris-wakelin-neil-robertson"
+        }
+      ]
+    },
+    {
+      "title": "WM | Chris Wakelin - Neil Robertson",
+      "subtitle": "Sheffield | Achtelfinale | Englischer Kommentar",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-04-27T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/624ea9b2-3da5-5b63-9722-8431822ad1a8?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-chris-wakelin-neil-robertson",
+      "related_events": [
+        {
+          "title": "WM | 2. Runde",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "wm-2-runde"
+        },
+        {
+          "title": "WM | Achtelfinale",
+          "time": "19:30",
+          "sender": "Eurosport",
+          "slug": "wm-achtelfinale"
+        },
+        {
+          "title": "WM | Hossein Vafaei - Judd Trump",
+          "time": "19:30",
+          "sender": "Eurosport",
+          "slug": "wm-hossein-vafaei-judd-trump"
+        }
+      ]
+    },
+    {
+      "title": "UCI Weltcup",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Abfahrt",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-04-27T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uci-weltcup",
+      "related_events": []
+    },
+    {
+      "title": "Lüttich-Bastogne-Lüttich",
+      "subtitle": "UCI World Tour | Männer | Lüttich - Lüttich (259,5km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2026-04-27T21:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/3a2faef4-cbd7-5785-860c-f4f811f55d49?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "luttich-bastogne-luttich",
+      "related_events": [
+        {
+          "title": "Türkei-Rundfahrt | 2. Etappe",
+          "time": "18:45",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-2-etappe"
+        },
+        {
+          "title": "Liège-Bastogne-Liège Femmes",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "liege-bastogne-liege-femmes"
+        },
+        {
+          "title": "Türkei-Rundfahrt | 2. Etappe",
+          "time": "22:30",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Liège-Bastogne-Liège Femmes",
+      "subtitle": "UCI World Tour | Frauen | Bastogne - Lüttich (156km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-04-27T22:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/33c9f5cb-64cc-5cba-85a7-83a25707d51d?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "liege-bastogne-liege-femmes",
+      "related_events": [
+        {
+          "title": "Lüttich-Bastogne-Lüttich",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "luttich-bastogne-luttich"
+        },
+        {
+          "title": "Türkei-Rundfahrt | 2. Etappe",
+          "time": "22:30",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-2-etappe"
+        },
+        {
+          "title": "Türkei-Rundfahrt | 2. Etappe",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Türkei-Rundfahrt | 2. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Aydin – Marmaris (152,8km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:30",
+      "iso_time": "2026-04-27T22:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/06966f6d-4ad2-5579-a24d-50fba1b371f8?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "turkei-rundfahrt-2-etappe",
+      "related_events": [
+        {
+          "title": "Lüttich-Bastogne-Lüttich",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "luttich-bastogne-luttich"
+        },
+        {
+          "title": "Liège-Bastogne-Liège Femmes",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "liege-bastogne-liege-femmes"
+        }
+      ]
+    },
+    {
+      "title": "WM | 2. Runde",
+      "subtitle": "WM",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2026-04-27T23:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-2-runde",
+      "related_events": [
+        {
+          "title": "WM | Chris Wakelin - Neil Robertson",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "wm-chris-wakelin-neil-robertson"
+        }
+      ]
+    },
+    {
+      "title": "24h von Le Mans | Rennen",
+      "subtitle": "FIM EWC | 1. Station",
+      "sport": "Motorrad-Langstrecke",
+      "sport_slug": "motorrad-langstrecke",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-04-28T00:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/5ebbc99d-d8f1-5aa9-a5df-db21ce18a184?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "24h-von-le-mans-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Türkei-Rundfahrt | 2. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Aydin – Marmaris (152,8km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-04-28T00:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/6cf86326-7d68-5c14-a26b-11bc6ec2b2a7?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "turkei-rundfahrt-2-etappe",
+      "related_events": [
+        {
+          "title": "Lüttich-Bastogne-Lüttich",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "luttich-bastogne-luttich"
+        },
+        {
+          "title": "Liège-Bastogne-Liège Femmes",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "liege-bastogne-liege-femmes"
+        }
+      ]
+    }
+  ]
+}
