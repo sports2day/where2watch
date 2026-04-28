@@ -1,0 +1,1378 @@
+{
+  "date": "2026-04-28",
+  "events": [
+    {
+      "title": "Paris Saint-Germain vs Bayern München",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league/ma11584298/paris-saint-germain_bayern-muenchen/info",
+      "slug": "paris-saint-germain-vs-bayern-munchen",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "RK Nexe Našice vs THW Kiel",
+      "time": "18:45",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-european-league/ma11975194/rk-nexe-nasice_thw-kiel/info",
+      "slug": "rk-nexe-nasice-vs-thw-kiel",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "MT Melsungen vs FC Porto",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-european-league/ma11975197/mt-melsungen_fc-porto/info",
+      "slug": "mt-melsungen-vs-fc-porto",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Montpellier HB vs Vardar Skopje",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "montpellier-hb-vs-vardar-skopje"
+        }
+      ]
+    },
+    {
+      "title": "Montpellier HB vs Vardar Skopje",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-european-league/ma11975200/montpellier-hb_vardar-skopje/info",
+      "slug": "montpellier-hb-vs-vardar-skopje",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "MT Melsungen vs FC Porto",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "mt-melsungen-vs-fc-porto"
+        }
+      ]
+    },
+    {
+      "title": "Fenerbahçe vs Žalgiris Kaunas",
+      "time": "19:45",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma12000581/fenerbahce_zalgiris-kaunas/info",
+      "slug": "fenerbahce-vs-zalgiris-kaunas",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Olympiakos Piraeus vs AS Monaco",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma12012470/olympiakos-piraeus_as-monaco/info",
+      "slug": "olympiakos-piraeus-vs-as-monaco",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Valencia Basket vs Panathinaikos",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/euroleague-basketball/ma12003908/valencia-basket_panathinaikos/info",
+      "slug": "valencia-basket-vs-panathinaikos",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "JL Bourg vs Beşiktaş JK",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/uleb-euro-cup/ma11974354/jl-bourg_besiktas-jk/info",
+      "slug": "jl-bourg-vs-besiktas-jk",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Adler Mannheim vs Eisbären Berlin",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma12002810/adler-mannheim_eisbaeren-berlin/info",
+      "slug": "adler-mannheim-vs-eisbaren-berlin",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Orlando Magic vs Detroit Pistons",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma12000701/orlando-magic_detroit-pistons/info",
+      "slug": "orlando-magic-vs-detroit-pistons",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Phoenix Suns vs Oklahoma City Thunder",
+      "time": "03:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma12000704/phoenix-suns_oklahoma-city-thunder/info",
+      "slug": "phoenix-suns-vs-oklahoma-city-thunder",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Denver Nuggets vs Minnesota Timberwolves",
+      "time": "04:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma12004241/denver-nuggets_minnesota-timberwolves/info",
+      "slug": "denver-nuggets-vs-minnesota-timberwolves",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Pittsburgh Penguins vs Philadelphia Flyers",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma12012671/pittsburgh-penguins_philadelphia-flyers/info",
+      "slug": "pittsburgh-penguins-vs-philadelphia-flyers",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Utah Mammoth vs Vegas Golden Knights",
+      "time": "03:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma12000185/utah-mammoth_vegas-golden-knights/info",
+      "slug": "utah-mammoth-vs-vegas-golden-knights",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Leylah Fernandez vs Mirra Andreeva",
+      "time": "13:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-spanien-mutua-madrilena-madrid-open/ma11778538/leylah-fernandez_mirra-andreeva/info",
+      "slug": "leylah-fernandez-vs-mirra-andreeva",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Aryna Sabalenka vs Hailey Baptiste",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-spanien-mutua-madrilena-madrid-open/ma11778535/aryna-sabalenka_hailey-baptiste/info",
+      "slug": "aryna-sabalenka-vs-hailey-baptiste",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Tomas Martin Etcheverry vs Arthur Fils",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-spanien-mutua-madrilena-madrid-open/ma11752510/tomas-martin-etcheverry_arthur-fils/info",
+      "slug": "tomas-martin-etcheverry-vs-arthur-fils",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Jannik Sinner vs Cameron Norrie",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "jannik-sinner-vs-cameron-norrie"
+        }
+      ]
+    },
+    {
+      "title": "Jannik Sinner vs Cameron Norrie",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-spanien-mutua-madrilena-madrid-open/ma11752504/jannik-sinner_cameron-norrie/info",
+      "slug": "jannik-sinner-vs-cameron-norrie",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Tomas Martin Etcheverry vs Arthur Fils",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "tomas-martin-etcheverry-vs-arthur-fils"
+        }
+      ]
+    },
+    {
+      "title": "Jiří Lehečka vs Lorenzo Musetti",
+      "time": "12:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-spanien-mutua-madrilena-madrid-open/ma11752513/jiri-lehecka_lorenzo-musetti/info",
+      "slug": "jiri-lehecka-vs-lorenzo-musetti",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Stefanos Tsitsipas vs Casper Ruud",
+      "time": "13:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-spanien-mutua-madrilena-madrid-open/ma11752516/stefanos-tsitsipas_casper-ruud/info",
+      "slug": "stefanos-tsitsipas-vs-casper-ruud",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Vit Kopriva vs Rafael Jodar",
+      "time": "16:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-spanien-mutua-madrilena-madrid-open/ma11752507/vit-kopriva_rafael-jodar/info",
+      "slug": "vit-kopriva-vs-rafael-jodar",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Francisco Cerúndolo vs Alexander Blockx",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-spanien-mutua-madrilena-madrid-open/ma11752519/francisco-cerundolo_alexander-blockx/info",
+      "slug": "francisco-cerundolo-vs-alexander-blockx",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Daniil Medvedev vs Flavio Cobolli",
+      "time": "20:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-spanien-mutua-madrilena-madrid-open/ma11752522/daniil-medvedev_flavio-cobolli/info",
+      "slug": "daniil-medvedev-vs-flavio-cobolli",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Jakub Mensik vs Alexander Zverev",
+      "time": "21:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-spanien-mutua-madrilena-madrid-open/ma11752525/jakub-mensik_alexander-zverev/info",
+      "slug": "jakub-mensik-vs-alexander-zverev",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "24h von Le Mans | Rennen",
+      "subtitle": "FIM EWC | 1. Station",
+      "sport": "Motorrad-Langstrecke",
+      "sport_slug": "motorrad-langstrecke",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:59",
+      "iso_time": "2026-04-27T23:59:47+02:00",
+      "link": "",
+      "slug": "24h-von-le-mans-rennen",
+      "related_events": []
+    },
+    {
+      "title": "WM | Achtelfinale",
+      "subtitle": "Mit J. Trump - H. Vafaei u.a. | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:28",
+      "iso_time": "2026-04-28T02:28:59+02:00",
+      "link": "",
+      "slug": "wm-achtelfinale",
+      "related_events": []
+    },
+    {
+      "title": "Liège-Bastogne-Liège Femmes",
+      "subtitle": "UCI World Tour | Frauen | Bastogne - Lüttich (156km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:30",
+      "iso_time": "2026-04-28T04:30:16+02:00",
+      "link": "",
+      "slug": "liege-bastogne-liege-femmes",
+      "related_events": [
+        {
+          "title": "Türkei-Rundfahrt | 2. Etappe",
+          "time": "05:29",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Türkei-Rundfahrt | 2. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Aydin – Marmaris (152,8km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:29",
+      "iso_time": "2026-04-28T05:29:17+02:00",
+      "link": "",
+      "slug": "turkei-rundfahrt-2-etappe",
+      "related_events": [
+        {
+          "title": "Liège-Bastogne-Liège Femmes",
+          "time": "04:30",
+          "sender": "Eurosport",
+          "slug": "liege-bastogne-liege-femmes"
+        }
+      ]
+    },
+    {
+      "title": "WM | Achtelfinale",
+      "subtitle": "Mit J. Trump - H. Vafaei u.a. | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:31",
+      "iso_time": "2026-04-28T06:31:27+02:00",
+      "link": "https://play.hbomax.com/sport/14386e9f-c1fb-59c0-a327-c65034e5db51?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-achtelfinale",
+      "related_events": []
+    },
+    {
+      "title": "Australian Open | Finale | Damen-Einzel",
+      "subtitle": "A. Sabalenka - E. Rybakina | Melbourne",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:30",
+      "iso_time": "2026-04-28T08:30:55+02:00",
+      "link": "https://play.hbomax.com/sport/5222e0b3-0a79-50a1-b673-735f7973cb8a?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "australian-open-finale-damen-einzel",
+      "related_events": []
+    },
+    {
+      "title": "Türkei-Rundfahrt | 2. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Aydin – Marmaris (152,8km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:36",
+      "iso_time": "2026-04-28T08:36:06+02:00",
+      "link": "https://play.hbomax.com/sport/c799a625-6cb5-53f3-8d0b-4b2be0720a80?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "turkei-rundfahrt-2-etappe",
+      "related_events": []
+    },
+    {
+      "title": "WM | Achtelfinale",
+      "subtitle": "Mit J. Trump - H. Vafaei u.a. | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:00",
+      "iso_time": "2026-04-28T10:00:54+02:00",
+      "link": "https://play.hbomax.com/sport/b3424040-50e7-55c7-b1ed-ce7839fac9b0?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-achtelfinale",
+      "related_events": [
+        {
+          "title": "WM | Zhao Xintong - Shaun Murphy",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "wm-zhao-xintong-shaun-murphy"
+        },
+        {
+          "title": "WM | Mark Allen - Barry Hawkins",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "wm-mark-allen-barry-hawkins"
+        },
+        {
+          "title": "WM | Viertelfinale",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "wm-viertelfinale"
+        }
+      ]
+    },
+    {
+      "title": "UCI XCO Weltcup | Saisonrückblick",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Olympic",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:32",
+      "iso_time": "2026-04-28T10:32:20+02:00",
+      "link": "https://play.hbomax.com/sport/e4d2fd1e-b84c-587e-9044-894b164ca08c?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uci-xco-weltcup-saisonruckblick",
+      "related_events": [
+        {
+          "title": "UCI Downhill Weltcup | Saisonrückblick",
+          "time": "11:30",
+          "sender": "Eurosport",
+          "slug": "uci-downhill-weltcup-saisonruckblick"
+        }
+      ]
+    },
+    {
+      "title": "WM | Zhao Xintong - Shaun Murphy",
+      "subtitle": "Sheffield | Viertelfinale | 1. Session",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-04-28T11:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/3319f5ca-4188-5f44-9a0b-7ecfaafb4e67?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-zhao-xintong-shaun-murphy",
+      "related_events": [
+        {
+          "title": "WM | Achtelfinale",
+          "time": "10:00",
+          "sender": "Eurosport",
+          "slug": "wm-achtelfinale"
+        },
+        {
+          "title": "WM | Mark Allen - Barry Hawkins",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "wm-mark-allen-barry-hawkins"
+        },
+        {
+          "title": "WM | Viertelfinale",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "wm-viertelfinale"
+        }
+      ]
+    },
+    {
+      "title": "WM | Mark Allen - Barry Hawkins",
+      "subtitle": "Sheffield | Viertelfinale | 1. Session | Englischer Kommentar",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-04-28T11:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/89f9657e-3a22-5e92-9d54-b9d583440bd2?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-mark-allen-barry-hawkins",
+      "related_events": [
+        {
+          "title": "WM | Achtelfinale",
+          "time": "10:00",
+          "sender": "Eurosport",
+          "slug": "wm-achtelfinale"
+        },
+        {
+          "title": "WM | Zhao Xintong - Shaun Murphy",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "wm-zhao-xintong-shaun-murphy"
+        },
+        {
+          "title": "WM | Viertelfinale",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "wm-viertelfinale"
+        }
+      ]
+    },
+    {
+      "title": "WM | Viertelfinale",
+      "subtitle": "Mit Zhao X. - S. Murphy u.a. | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-04-28T11:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/9c122573-57ed-5432-bf03-b9795f1f049b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-viertelfinale",
+      "related_events": [
+        {
+          "title": "WM | Achtelfinale",
+          "time": "10:00",
+          "sender": "Eurosport",
+          "slug": "wm-achtelfinale"
+        },
+        {
+          "title": "WM | Zhao Xintong - Shaun Murphy",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "wm-zhao-xintong-shaun-murphy"
+        },
+        {
+          "title": "WM | Mark Allen - Barry Hawkins",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "wm-mark-allen-barry-hawkins"
+        }
+      ]
+    },
+    {
+      "title": "UCI Downhill Weltcup | Saisonrückblick",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Abfahrt",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:30",
+      "iso_time": "2026-04-28T11:30:12+02:00",
+      "link": "https://play.hbomax.com/sport/5012521b-2d38-5985-a906-870d56816985?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uci-downhill-weltcup-saisonruckblick",
+      "related_events": [
+        {
+          "title": "UCI XCO Weltcup | Saisonrückblick",
+          "time": "10:32",
+          "sender": "Eurosport",
+          "slug": "uci-xco-weltcup-saisonruckblick"
+        }
+      ]
+    },
+    {
+      "title": "Türkei-Rundfahrt | 2. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Aydin – Marmaris (152,8km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:28",
+      "iso_time": "2026-04-28T12:28:36+02:00",
+      "link": "https://play.hbomax.com/sport/1a3df039-6333-5147-b0c8-0b97b4895b50?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "turkei-rundfahrt-2-etappe",
+      "related_events": [
+        {
+          "title": "Türkei-Rundfahrt | 3. Etappe",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-3-etappe"
+        },
+        {
+          "title": "Türkei-Rundfahrt | 3. Etappe",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-3-etappe"
+        },
+        {
+          "title": "The Cycling Show | FDJ - Suez",
+          "time": "15:15",
+          "sender": "Eurosport",
+          "slug": "the-cycling-show-fdj-suez"
+        }
+      ]
+    },
+    {
+      "title": "Türkei-Rundfahrt | 3. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Marmaris - Kıran (132,7km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:30",
+      "iso_time": "2026-04-28T13:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/9255ade7-cfd0-587f-87e9-18800320a1fe?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "turkei-rundfahrt-3-etappe",
+      "related_events": [
+        {
+          "title": "Türkei-Rundfahrt | 2. Etappe",
+          "time": "12:28",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-2-etappe"
+        },
+        {
+          "title": "The Cycling Show | FDJ - Suez",
+          "time": "15:15",
+          "sender": "Eurosport",
+          "slug": "the-cycling-show-fdj-suez"
+        },
+        {
+          "title": "Tour de Romandie | Prolog",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-romandie-prolog"
+        }
+      ]
+    },
+    {
+      "title": "Türkei-Rundfahrt | 3. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Marmaris - Kıran (132,7km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:30",
+      "iso_time": "2026-04-28T13:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/e1f853fd-8e74-5b7e-ba83-45a7c53f9bc3?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "turkei-rundfahrt-3-etappe",
+      "related_events": [
+        {
+          "title": "Türkei-Rundfahrt | 2. Etappe",
+          "time": "12:28",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-2-etappe"
+        },
+        {
+          "title": "The Cycling Show | FDJ - Suez",
+          "time": "15:15",
+          "sender": "Eurosport",
+          "slug": "the-cycling-show-fdj-suez"
+        },
+        {
+          "title": "Tour de Romandie | Prolog",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-romandie-prolog"
+        }
+      ]
+    },
+    {
+      "title": "WM | Achtelfinale",
+      "subtitle": "Mit J. Trump - H. Vafaei u.a. | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:59",
+      "iso_time": "2026-04-28T13:59:51+02:00",
+      "link": "https://play.hbomax.com/sport/9a744946-e44d-5db5-bbd4-5fccc41cd594?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-achtelfinale",
+      "related_events": [
+        {
+          "title": "WM | Zhao Xintong - Shaun Murphy",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "wm-zhao-xintong-shaun-murphy"
+        },
+        {
+          "title": "WM | Mark Allen - Barry Hawkins",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "wm-mark-allen-barry-hawkins"
+        },
+        {
+          "title": "WM | Viertelfinale",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "wm-viertelfinale"
+        }
+      ]
+    },
+    {
+      "title": "WM | Viertelfinale",
+      "subtitle": "Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:14",
+      "iso_time": "2026-04-28T15:14:51+02:00",
+      "link": "https://play.hbomax.com/sport/11d8cec0-e6bb-530a-a2ef-4b88d14cb6b8?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-viertelfinale",
+      "related_events": [
+        {
+          "title": "WM | Achtelfinale",
+          "time": "13:59",
+          "sender": "Eurosport",
+          "slug": "wm-achtelfinale"
+        },
+        {
+          "title": "WM",
+          "time": "15:15",
+          "sender": "Eurosport",
+          "slug": "wm"
+        },
+        {
+          "title": "WM",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "wm"
+        }
+      ]
+    },
+    {
+      "title": "WM",
+      "subtitle": "Sheffield | Viertelfinale | 2. Session",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:15",
+      "iso_time": "2026-04-28T15:15:00+02:00",
+      "link": "https://play.hbomax.com/sport/8f641a38-78bd-5dc2-a5d6-1768b0518217?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm",
+      "related_events": [
+        {
+          "title": "WM | Achtelfinale",
+          "time": "13:59",
+          "sender": "Eurosport",
+          "slug": "wm-achtelfinale"
+        },
+        {
+          "title": "WM | Viertelfinale",
+          "time": "15:14",
+          "sender": "Eurosport",
+          "slug": "wm-viertelfinale"
+        }
+      ]
+    },
+    {
+      "title": "The Cycling Show | FDJ - Suez",
+      "subtitle": "Radsport-Magazin | Saison 2026 | Folge 5",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:15",
+      "iso_time": "2026-04-28T15:15:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "the-cycling-show-fdj-suez",
+      "related_events": [
+        {
+          "title": "Türkei-Rundfahrt | 2. Etappe",
+          "time": "12:28",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-2-etappe"
+        },
+        {
+          "title": "Türkei-Rundfahrt | 3. Etappe",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-3-etappe"
+        },
+        {
+          "title": "Türkei-Rundfahrt | 3. Etappe",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "WM",
+      "subtitle": "Sheffield | Viertelfinale | 2. Session",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:30",
+      "iso_time": "2026-04-28T15:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/14b19ec9-1a63-58c0-9480-1a4dbc23049a?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm",
+      "related_events": [
+        {
+          "title": "WM | Achtelfinale",
+          "time": "13:59",
+          "sender": "Eurosport",
+          "slug": "wm-achtelfinale"
+        },
+        {
+          "title": "WM | Viertelfinale",
+          "time": "15:14",
+          "sender": "Eurosport",
+          "slug": "wm-viertelfinale"
+        },
+        {
+          "title": "WM | Viertelfinale",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "wm-viertelfinale"
+        }
+      ]
+    },
+    {
+      "title": "Tour de Romandie | Prolog",
+      "subtitle": "UCI World Tour | Männer | Villars-sur-Glâne - Villars-sur-Glâne (3,2km / EZF)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:30",
+      "iso_time": "2026-04-28T15:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/186ebc9e-3bee-533a-9ecc-c436a83245a3?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-romandie-prolog",
+      "related_events": [
+        {
+          "title": "Türkei-Rundfahrt | 3. Etappe",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-3-etappe"
+        },
+        {
+          "title": "Türkei-Rundfahrt | 3. Etappe",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-3-etappe"
+        },
+        {
+          "title": "The Cycling Show | FDJ - Suez",
+          "time": "15:15",
+          "sender": "Eurosport",
+          "slug": "the-cycling-show-fdj-suez"
+        }
+      ]
+    },
+    {
+      "title": "Tour de Romandie | Prolog",
+      "subtitle": "UCI World Tour | Männer | Villars-sur-Glâne - Villars-sur-Glâne (3,2km / EZF)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:30",
+      "iso_time": "2026-04-28T15:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/e758fdb2-e014-5755-91da-10f98c3ce499?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-romandie-prolog",
+      "related_events": [
+        {
+          "title": "Türkei-Rundfahrt | 3. Etappe",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-3-etappe"
+        },
+        {
+          "title": "Türkei-Rundfahrt | 3. Etappe",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-3-etappe"
+        },
+        {
+          "title": "The Cycling Show | FDJ - Suez",
+          "time": "15:15",
+          "sender": "Eurosport",
+          "slug": "the-cycling-show-fdj-suez"
+        }
+      ]
+    },
+    {
+      "title": "Race Bikes",
+      "subtitle": "Mountainbike-Magazin | Folge 4",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:45",
+      "iso_time": "2026-04-28T17:45:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "race-bikes",
+      "related_events": []
+    },
+    {
+      "title": "The Cycling Show | FDJ - Suez",
+      "subtitle": "Radsport-Magazin | Saison 2026 | Folge 5",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:15",
+      "iso_time": "2026-04-28T18:15:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "the-cycling-show-fdj-suez",
+      "related_events": [
+        {
+          "title": "Tour de Romandie | Prolog",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-romandie-prolog"
+        },
+        {
+          "title": "Tour de Romandie | Prolog",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-romandie-prolog"
+        },
+        {
+          "title": "Türkei-Rundfahrt | 3. Etappe",
+          "time": "19:15",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "WM | Viertelfinale",
+      "subtitle": "Mit Zhao X. - S. Murphy u.a. | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2026-04-28T18:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/a9054e89-f951-5b12-a10e-5b313805492a?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-viertelfinale",
+      "related_events": [
+        {
+          "title": "WM",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "wm"
+        },
+        {
+          "title": "WM | Zhao Xintong - Shaun Murphy",
+          "time": "19:30",
+          "sender": "Eurosport",
+          "slug": "wm-zhao-xintong-shaun-murphy"
+        },
+        {
+          "title": "WM | Mark Allen - Barry Hawkins",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "wm-mark-allen-barry-hawkins"
+        }
+      ]
+    },
+    {
+      "title": "Singapore T100 | Highlights",
+      "subtitle": "T100 Triathlon World Tour | Männer / Frauen",
+      "sport": "Triathlon",
+      "sport_slug": "triathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:45",
+      "iso_time": "2026-04-28T18:45:00+02:00",
+      "link": "https://play.hbomax.com/sport/c854112d-c840-5fa2-86fa-125cd50aa9bd?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "singapore-t100-highlights",
+      "related_events": []
+    },
+    {
+      "title": "Türkei-Rundfahrt | 3. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Marmaris - Kıran (132,7km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:15",
+      "iso_time": "2026-04-28T19:15:00+02:00",
+      "link": "https://play.hbomax.com/sport/df01fbdc-3288-500b-a5fd-166ba1d845b9?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "turkei-rundfahrt-3-etappe",
+      "related_events": [
+        {
+          "title": "The Cycling Show | FDJ - Suez",
+          "time": "18:15",
+          "sender": "Eurosport",
+          "slug": "the-cycling-show-fdj-suez"
+        },
+        {
+          "title": "Tour de Romandie | Prolog",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-romandie-prolog"
+        }
+      ]
+    },
+    {
+      "title": "WM | Viertelfinale",
+      "subtitle": "Mit Zhao X. - S. Murphy u.a. | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:30",
+      "iso_time": "2026-04-28T19:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/48a2c004-67c4-5d26-abf4-0e37baa3ddde?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-viertelfinale",
+      "related_events": [
+        {
+          "title": "WM | Zhao Xintong - Shaun Murphy",
+          "time": "19:30",
+          "sender": "Eurosport",
+          "slug": "wm-zhao-xintong-shaun-murphy"
+        },
+        {
+          "title": "WM | Mark Allen - Barry Hawkins",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "wm-mark-allen-barry-hawkins"
+        }
+      ]
+    },
+    {
+      "title": "WM | Zhao Xintong - Shaun Murphy",
+      "subtitle": "Sheffield | Viertelfinale | 2. Session",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:30",
+      "iso_time": "2026-04-28T19:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/f9681728-0e1d-5c36-af00-8b3bb0d963b3?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-zhao-xintong-shaun-murphy",
+      "related_events": [
+        {
+          "title": "WM | Viertelfinale",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "wm-viertelfinale"
+        },
+        {
+          "title": "WM | Viertelfinale",
+          "time": "19:30",
+          "sender": "Eurosport",
+          "slug": "wm-viertelfinale"
+        },
+        {
+          "title": "WM | Mark Allen - Barry Hawkins",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "wm-mark-allen-barry-hawkins"
+        }
+      ]
+    },
+    {
+      "title": "WM | Mark Allen - Barry Hawkins",
+      "subtitle": "Sheffield | Viertelfinale | 2. Session | Englischer Kommentar",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-04-28T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/9180341a-bcd6-5d4d-85cd-a3ce527a7dc9?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-mark-allen-barry-hawkins",
+      "related_events": [
+        {
+          "title": "WM | Viertelfinale",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "wm-viertelfinale"
+        },
+        {
+          "title": "WM | Viertelfinale",
+          "time": "19:30",
+          "sender": "Eurosport",
+          "slug": "wm-viertelfinale"
+        },
+        {
+          "title": "WM | Zhao Xintong - Shaun Murphy",
+          "time": "19:30",
+          "sender": "Eurosport",
+          "slug": "wm-zhao-xintong-shaun-murphy"
+        }
+      ]
+    },
+    {
+      "title": "Tour de Romandie | Prolog",
+      "subtitle": "UCI World Tour | Männer | Villars-sur-Glâne - Villars-sur-Glâne (3,2km / EZF)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-04-28T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/855c2c20-4de8-5f8c-984a-9ff80cf2c530?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-romandie-prolog",
+      "related_events": [
+        {
+          "title": "The Cycling Show | FDJ - Suez",
+          "time": "18:15",
+          "sender": "Eurosport",
+          "slug": "the-cycling-show-fdj-suez"
+        },
+        {
+          "title": "Türkei-Rundfahrt | 3. Etappe",
+          "time": "19:15",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-3-etappe"
+        },
+        {
+          "title": "Türkei-Rundfahrt | 3. Etappe",
+          "time": "22:30",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "London-Marathon",
+      "subtitle": "46. Austragung | Englischer Kommentar",
+      "sport": "Leichtathletik",
+      "sport_slug": "leichtathletik",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:30",
+      "iso_time": "2026-04-28T20:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/a1e72cc8-f382-5e1d-b650-bf3154aa4a42?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "london-marathon",
+      "related_events": []
+    },
+    {
+      "title": "Türkei-Rundfahrt | 3. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Marmaris - Kıran (132,7km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:30",
+      "iso_time": "2026-04-28T22:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/ef5bfce7-2dc8-5fbb-ae0c-38c7b577107d?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "turkei-rundfahrt-3-etappe",
+      "related_events": [
+        {
+          "title": "Tour de Romandie | Prolog",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-romandie-prolog"
+        },
+        {
+          "title": "The Cycling Show | FDJ - Suez",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "the-cycling-show-fdj-suez"
+        },
+        {
+          "title": "Tour de Romandie | Prolog",
+          "time": "01:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-romandie-prolog"
+        }
+      ]
+    },
+    {
+      "title": "WM | Viertelfinale",
+      "subtitle": "WM",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2026-04-28T23:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-viertelfinale",
+      "related_events": [
+        {
+          "title": "WM | Mark Allen - Barry Hawkins",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "wm-mark-allen-barry-hawkins"
+        }
+      ]
+    },
+    {
+      "title": "Race Bikes",
+      "subtitle": "Mountainbike-Magazin | Folge 4",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:30",
+      "iso_time": "2026-04-28T23:30:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "race-bikes",
+      "related_events": []
+    },
+    {
+      "title": "Trentino | MX2 | 2. Rennen",
+      "subtitle": "WM | Pietramurata",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-04-29T00:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/38f07416-95df-5be0-9850-606f0ecd55ed?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "trentino-mx2-2-rennen",
+      "related_events": [
+        {
+          "title": "Trentino | MXGP | 2. Rennen",
+          "time": "00:45",
+          "sender": "Eurosport",
+          "slug": "trentino-mxgp-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "The Cycling Show | FDJ - Suez",
+      "subtitle": "Radsport-Magazin | Saison 2026 | Folge 5",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-04-29T00:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "the-cycling-show-fdj-suez",
+      "related_events": [
+        {
+          "title": "Türkei-Rundfahrt | 3. Etappe",
+          "time": "22:30",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-3-etappe"
+        },
+        {
+          "title": "Türkei-Rundfahrt | 3. Etappe",
+          "time": "00:30",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-3-etappe"
+        },
+        {
+          "title": "Tour de Romandie | Prolog",
+          "time": "01:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-romandie-prolog"
+        }
+      ]
+    },
+    {
+      "title": "Türkei-Rundfahrt | 3. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Marmaris - Kıran (132,7km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:30",
+      "iso_time": "2026-04-29T00:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/a2ccf2d2-844d-56b8-b101-ff1dbaedb0f7?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "turkei-rundfahrt-3-etappe",
+      "related_events": [
+        {
+          "title": "The Cycling Show | FDJ - Suez",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "the-cycling-show-fdj-suez"
+        },
+        {
+          "title": "Tour de Romandie | Prolog",
+          "time": "01:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-romandie-prolog"
+        }
+      ]
+    },
+    {
+      "title": "Trentino | MXGP | 2. Rennen",
+      "subtitle": "WM | Pietramurata",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:45",
+      "iso_time": "2026-04-29T00:45:00+02:00",
+      "link": "https://play.hbomax.com/sport/4bd7837b-394b-53f1-bdb5-36b2e6b836f1?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "trentino-mxgp-2-rennen",
+      "related_events": [
+        {
+          "title": "Trentino | MX2 | 2. Rennen",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "trentino-mx2-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Tour de Romandie | Prolog",
+      "subtitle": "UCI World Tour | Männer | Villars-sur-Glâne - Villars-sur-Glâne (3,2km / EZF)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:30",
+      "iso_time": "2026-04-29T01:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/10112423-a8d6-5b07-bff7-22ba62e7d683?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-romandie-prolog",
+      "related_events": [
+        {
+          "title": "Türkei-Rundfahrt | 3. Etappe",
+          "time": "22:30",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-3-etappe"
+        },
+        {
+          "title": "The Cycling Show | FDJ - Suez",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "the-cycling-show-fdj-suez"
+        },
+        {
+          "title": "Türkei-Rundfahrt | 3. Etappe",
+          "time": "00:30",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-3-etappe"
+        }
+      ]
+    }
+  ]
+}
