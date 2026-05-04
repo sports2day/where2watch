@@ -1,0 +1,976 @@
+{
+  "date": "2026-05-04",
+  "events": [
+    {
+      "title": "Eintracht Frankfurt vs 1. FC Nürnberg",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga-frauen/ma11376509/eintracht-frankfurt_1-fc-nuernberg/info",
+      "slug": "eintracht-frankfurt-vs-1-fc-nurnberg",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Chelsea FC vs Nottingham Forest",
+      "time": "16:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/england-premier-league/ma11152557/chelsea-fc_nottingham-forest/info",
+      "slug": "chelsea-fc-vs-nottingham-forest",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Everton FC vs Manchester City",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/england-premier-league/ma11152560/everton-fc_manchester-city/info",
+      "slug": "everton-fc-vs-manchester-city",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Sevilla FC vs Real Sociedad San Sebastian",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "sevilla-fc-vs-real-sociedad-san-sebastian"
+        }
+      ]
+    },
+    {
+      "title": "Aston Villa WFC vs West Ham United WFC",
+      "time": "14:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/england-womens-super-league/ma11454200/aston-villa-wfc_west-ham-united-wfc/info",
+      "slug": "aston-villa-wfc-vs-west-ham-united-wfc",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "MLP Academics Heidelberg vs SYNTAINICS MBC",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/deutschland-bbl/ma11488112/mlp-academics-heidelberg_syntainics-mbc/info",
+      "slug": "mlp-academics-heidelberg-vs-syntainics-mbc",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Sevilla FC vs Real Sociedad San Sebastian",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-primera-division/ma11223884/sevilla-fc_real-sociedad-san-sebastian/info",
+      "slug": "sevilla-fc-vs-real-sociedad-san-sebastian",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Everton FC vs Manchester City",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "everton-fc-vs-manchester-city"
+        }
+      ]
+    },
+    {
+      "title": "US Cremonese vs Lazio Rom",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/italien-serie-a/ma11129637/us-cremonese_lazio-rom/info",
+      "slug": "us-cremonese-vs-lazio-rom",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "SCR Altach vs Wolfsberger AC",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "scr-altach-vs-wolfsberger-ac"
+        },
+        {
+          "title": "Heart of Midlothian vs Rangers FC",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "heart-of-midlothian-vs-rangers-fc"
+        }
+      ]
+    },
+    {
+      "title": "AS Rom vs AC Florenz",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/italien-serie-a/ma11129610/as-rom_ac-florenz/info",
+      "slug": "as-rom-vs-ac-florenz",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Radomiak Radom vs Lechia Gdańsk",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/polen-ekstraklasa/ma11128500/radomiak-radom_lechia-gdansk/info",
+      "slug": "radomiak-radom-vs-lechia-gdansk",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Midtjylland vs Viborg FF",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-midtjylland-vs-viborg-ff"
+        }
+      ]
+    },
+    {
+      "title": "LASK vs Rapid Wien",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/oesterreich-bundesliga/ma11935780/lask_rapid-wien/info",
+      "slug": "lask-vs-rapid-wien",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "SCR Altach vs Wolfsberger AC",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/oesterreich-bundesliga/ma11935858/scr-altach_wolfsberger-ac/info",
+      "slug": "scr-altach-vs-wolfsberger-ac",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "US Cremonese vs Lazio Rom",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "us-cremonese-vs-lazio-rom"
+        },
+        {
+          "title": "Heart of Midlothian vs Rangers FC",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "heart-of-midlothian-vs-rangers-fc"
+        }
+      ]
+    },
+    {
+      "title": "Heart of Midlothian vs Rangers FC",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/schottland-premiership/ma11977478/heart-of-midlothian_rangers-fc/info",
+      "slug": "heart-of-midlothian-vs-rangers-fc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "US Cremonese vs Lazio Rom",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "us-cremonese-vs-lazio-rom"
+        },
+        {
+          "title": "SCR Altach vs Wolfsberger AC",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "scr-altach-vs-wolfsberger-ac"
+        }
+      ]
+    },
+    {
+      "title": "FC Midtjylland vs Viborg FF",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/daenemark-superliga/ma11935618/fc-midtjylland_viborg-ff/info",
+      "slug": "fc-midtjylland-vs-viborg-ff",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Radomiak Radom vs Lechia Gdańsk",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "radomiak-radom-vs-lechia-gdansk"
+        }
+      ]
+    },
+    {
+      "title": "Sporting CP vs Vitória Guimarães",
+      "time": "21:15",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/portugal-primeira-liga/ma11306162/sporting-cp_vitoria-guimaraes/info",
+      "slug": "sporting-cp-vs-vitoria-guimaraes",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Cleveland Cavaliers vs Toronto Raptors",
+      "time": "01:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma12025613/cleveland-cavaliers_toronto-raptors/info",
+      "slug": "cleveland-cavaliers-vs-toronto-raptors",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Tampa Bay Lightning vs Montréal Canadiens",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma12025616/tampa-bay-lightning_montreal-canadiens/info",
+      "slug": "tampa-bay-lightning-vs-montreal-canadiens",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Colorado Avalanche vs Minnesota Wild",
+      "time": "03:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma12025622/colorado-avalanche_minnesota-wild/info",
+      "slug": "colorado-avalanche-vs-minnesota-wild",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "FIA WEC | 6h von Imola | Rennen",
+      "subtitle": "Langstrecken-WM | 1. Station",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:00",
+      "iso_time": "2026-05-04T01:00:30+02:00",
+      "link": "",
+      "slug": "fia-wec-6h-von-imola-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Tour de Romandie | 5. Etappe",
+      "subtitle": "UCI World Tour | Männer | Lucens - Leysin (178,2km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:01",
+      "iso_time": "2026-05-04T03:01:30+02:00",
+      "link": "",
+      "slug": "tour-de-romandie-5-etappe",
+      "related_events": [
+        {
+          "title": "La Vuelta Femenina | 1. Etappe",
+          "time": "03:59",
+          "sender": "Eurosport",
+          "slug": "la-vuelta-femenina-1-etappe"
+        }
+      ]
+    },
+    {
+      "title": "La Vuelta Femenina | 1. Etappe",
+      "subtitle": "UCI World Tour | Frauen | Marín - Salvaterra de Miño (113,9km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:59",
+      "iso_time": "2026-05-04T03:59:30+02:00",
+      "link": "",
+      "slug": "la-vuelta-femenina-1-etappe",
+      "related_events": [
+        {
+          "title": "Tour de Romandie | 5. Etappe",
+          "time": "03:01",
+          "sender": "Eurosport",
+          "slug": "tour-de-romandie-5-etappe"
+        },
+        {
+          "title": "Türkei-Rundfahrt | 8. Etappe",
+          "time": "06:31",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-8-etappe"
+        }
+      ]
+    },
+    {
+      "title": "WM | Finale",
+      "subtitle": "S. Murphy - Wu Y. | 2. Session | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:59",
+      "iso_time": "2026-05-04T04:59:11+02:00",
+      "link": "",
+      "slug": "wm-finale",
+      "related_events": []
+    },
+    {
+      "title": "Türkei-Rundfahrt | 8. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Ankara - Ankara (105,2km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:31",
+      "iso_time": "2026-05-04T06:31:38+02:00",
+      "link": "https://play.hbomax.com/sport/e19b1856-3ad1-50c4-8a38-9f8a324dc750?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "turkei-rundfahrt-8-etappe",
+      "related_events": [
+        {
+          "title": "La Vuelta Femenina | 1. Etappe",
+          "time": "03:59",
+          "sender": "Eurosport",
+          "slug": "la-vuelta-femenina-1-etappe"
+        },
+        {
+          "title": "La Vuelta Femenina | 1. Etappe",
+          "time": "07:31",
+          "sender": "Eurosport",
+          "slug": "la-vuelta-femenina-1-etappe"
+        },
+        {
+          "title": "La Vuelta Femenina | 1. Etappe",
+          "time": "08:35",
+          "sender": "Eurosport",
+          "slug": "la-vuelta-femenina-1-etappe"
+        }
+      ]
+    },
+    {
+      "title": "La Vuelta Femenina | 1. Etappe",
+      "subtitle": "UCI World Tour | Frauen | Marín - Salvaterra de Miño (113,9km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:31",
+      "iso_time": "2026-05-04T07:31:41+02:00",
+      "link": "https://play.hbomax.com/sport/b5948029-f8f1-53b1-9447-108ee4e113f4?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "la-vuelta-femenina-1-etappe",
+      "related_events": [
+        {
+          "title": "Türkei-Rundfahrt | 8. Etappe",
+          "time": "06:31",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-8-etappe"
+        },
+        {
+          "title": "Türkei-Rundfahrt | 8. Etappe",
+          "time": "09:59",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-8-etappe"
+        }
+      ]
+    },
+    {
+      "title": "World Series | Bouldern | Finale",
+      "subtitle": "Keqiao | Frauen",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:31",
+      "iso_time": "2026-05-04T08:31:28+02:00",
+      "link": "https://play.hbomax.com/sport/624cfb1c-5dc4-596e-acf0-d00f727540c8?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "world-series-bouldern-finale",
+      "related_events": []
+    },
+    {
+      "title": "La Vuelta Femenina | 1. Etappe",
+      "subtitle": "UCI World Tour | Frauen | Marín - Salvaterra de Miño (113,9km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:35",
+      "iso_time": "2026-05-04T08:35:28+02:00",
+      "link": "https://play.hbomax.com/sport/b1fa249a-71fa-5fcb-93e4-ca04a42bb623?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "la-vuelta-femenina-1-etappe",
+      "related_events": [
+        {
+          "title": "Türkei-Rundfahrt | 8. Etappe",
+          "time": "06:31",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-8-etappe"
+        },
+        {
+          "title": "Türkei-Rundfahrt | 8. Etappe",
+          "time": "09:59",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-8-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Türkei-Rundfahrt | 8. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Ankara - Ankara (105,2km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:59",
+      "iso_time": "2026-05-04T09:59:58+02:00",
+      "link": "https://play.hbomax.com/sport/96a55a49-3083-5013-8955-42d9847720e7?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "turkei-rundfahrt-8-etappe",
+      "related_events": [
+        {
+          "title": "La Vuelta Femenina | 1. Etappe",
+          "time": "07:31",
+          "sender": "Eurosport",
+          "slug": "la-vuelta-femenina-1-etappe"
+        },
+        {
+          "title": "La Vuelta Femenina | 1. Etappe",
+          "time": "08:35",
+          "sender": "Eurosport",
+          "slug": "la-vuelta-femenina-1-etappe"
+        },
+        {
+          "title": "Tour de Romandie | 5. Etappe",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-romandie-5-etappe"
+        }
+      ]
+    },
+    {
+      "title": "World Series | Bouldern | Finale",
+      "subtitle": "World Series | Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:03",
+      "iso_time": "2026-05-04T10:03:07+02:00",
+      "link": "https://play.hbomax.com/sport/475c9ef7-d4e7-5df0-9f3e-e827e05b554a?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "world-series-bouldern-finale",
+      "related_events": []
+    },
+    {
+      "title": "UCI XCO Weltcup | Yongpyong | Männer Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Olympic",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:59",
+      "iso_time": "2026-05-04T10:59:14+02:00",
+      "link": "https://play.hbomax.com/sport/5b5f7fa5-8344-5c49-8cd7-fed50e5d4422?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uci-xco-weltcup-yongpyong-manner-elite",
+      "related_events": []
+    },
+    {
+      "title": "World Series | Bouldern | Finale",
+      "subtitle": "World Series | Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:03",
+      "iso_time": "2026-05-04T11:03:38+02:00",
+      "link": "https://play.hbomax.com/sport/0c05b64b-e619-5b8e-8999-24814ce6708a?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "world-series-bouldern-finale",
+      "related_events": []
+    },
+    {
+      "title": "BSB | Oulton Park",
+      "subtitle": "WM",
+      "sport": "Superbike",
+      "sport_slug": "superbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:10",
+      "iso_time": "2026-05-04T11:10:00+02:00",
+      "link": "https://play.hbomax.com/sport/d14e5f1d-256a-5f2b-b2e5-b4166357c03c?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "bsb-oulton-park",
+      "related_events": []
+    },
+    {
+      "title": "WM | Finale",
+      "subtitle": "S. Murphy - Wu Y. | 2. Session | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:58",
+      "iso_time": "2026-05-04T11:58:22+02:00",
+      "link": "https://play.hbomax.com/sport/d12bd721-7241-51d0-b9fe-02f7643fa9ae?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-finale",
+      "related_events": [
+        {
+          "title": "WM | Shaun Murphy - Wu Yize",
+          "time": "13:45",
+          "sender": "Eurosport",
+          "slug": "wm-shaun-murphy-wu-yize"
+        }
+      ]
+    },
+    {
+      "title": "Türkei-Rundfahrt | 8. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Ankara - Ankara (105,2km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:59",
+      "iso_time": "2026-05-04T11:59:50+02:00",
+      "link": "https://play.hbomax.com/sport/359ae569-2aed-5f6d-95ac-52d13ee8ddc8?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "turkei-rundfahrt-8-etappe",
+      "related_events": [
+        {
+          "title": "Tour de Romandie | 5. Etappe",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-romandie-5-etappe"
+        },
+        {
+          "title": "La Vuelta Femenina | 1. Etappe",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "la-vuelta-femenina-1-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de Romandie | 5. Etappe",
+      "subtitle": "UCI World Tour | Männer | Lucens - Leysin (178,2km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:00",
+      "iso_time": "2026-05-04T13:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/8c4e2335-a042-562e-9ecc-9676bcd76069?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-romandie-5-etappe",
+      "related_events": [
+        {
+          "title": "Türkei-Rundfahrt | 8. Etappe",
+          "time": "11:59",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-8-etappe"
+        },
+        {
+          "title": "La Vuelta Femenina | 1. Etappe",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "la-vuelta-femenina-1-etappe"
+        },
+        {
+          "title": "La Vuelta Femenina | 2. Etappe",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "la-vuelta-femenina-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "WM | Shaun Murphy - Wu Yize",
+      "subtitle": "Sheffield | Finale | 3. Session",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:45",
+      "iso_time": "2026-05-04T13:45:00+02:00",
+      "link": "https://play.hbomax.com/sport/f86b95c9-f3da-566a-80c2-462f11c11212?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-shaun-murphy-wu-yize",
+      "related_events": [
+        {
+          "title": "WM | Finale",
+          "time": "11:58",
+          "sender": "Eurosport",
+          "slug": "wm-finale"
+        },
+        {
+          "title": "WM | Finale",
+          "time": "13:45",
+          "sender": "Eurosport",
+          "slug": "wm-finale"
+        }
+      ]
+    },
+    {
+      "title": "WM | Finale",
+      "subtitle": "S. Murphy - Wu Y. | 3. Session | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:45",
+      "iso_time": "2026-05-04T13:45:00+02:00",
+      "link": "https://play.hbomax.com/sport/a8bfa466-0ba9-5b00-a266-6b37def5a2fd?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-finale",
+      "related_events": [
+        {
+          "title": "WM | Shaun Murphy - Wu Yize",
+          "time": "13:45",
+          "sender": "Eurosport",
+          "slug": "wm-shaun-murphy-wu-yize"
+        }
+      ]
+    },
+    {
+      "title": "La Vuelta Femenina | 1. Etappe",
+      "subtitle": "UCI World Tour | Frauen | Marín - Salvaterra de Miño (113,9km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:00",
+      "iso_time": "2026-05-04T14:00:20+02:00",
+      "link": "https://play.hbomax.com/sport/e0c5eac4-7ece-54c9-89d0-827c21bcadc6?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "la-vuelta-femenina-1-etappe",
+      "related_events": [
+        {
+          "title": "Türkei-Rundfahrt | 8. Etappe",
+          "time": "11:59",
+          "sender": "Eurosport",
+          "slug": "turkei-rundfahrt-8-etappe"
+        },
+        {
+          "title": "Tour de Romandie | 5. Etappe",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-romandie-5-etappe"
+        },
+        {
+          "title": "La Vuelta Femenina | 2. Etappe",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "la-vuelta-femenina-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "La Vuelta Femenina | 2. Etappe",
+      "subtitle": "UCI World Tour | Frauen | Lobios - San Cibrao das Viñas (109,8km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:30",
+      "iso_time": "2026-05-04T15:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/bf278904-a93f-54de-990d-50faf27a3654?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "la-vuelta-femenina-2-etappe",
+      "related_events": [
+        {
+          "title": "Tour de Romandie | 5. Etappe",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-romandie-5-etappe"
+        },
+        {
+          "title": "La Vuelta Femenina | 1. Etappe",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "la-vuelta-femenina-1-etappe"
+        }
+      ]
+    },
+    {
+      "title": "La Vuelta Femenina | 2. Etappe",
+      "subtitle": "UCI World Tour | Frauen | Lobios - San Cibrao das Viñas (109,8km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:30",
+      "iso_time": "2026-05-04T15:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/19e3c402-444f-5a09-9fbc-db9a26b0ff3b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "la-vuelta-femenina-2-etappe",
+      "related_events": [
+        {
+          "title": "Tour de Romandie | 5. Etappe",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-romandie-5-etappe"
+        },
+        {
+          "title": "La Vuelta Femenina | 1. Etappe",
+          "time": "14:00",
+          "sender": "Eurosport",
+          "slug": "la-vuelta-femenina-1-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Racing on the Edge",
+      "subtitle": "SailGP-Magazin | Saison 2026 | Folge 1",
+      "sport": "Segeln",
+      "sport_slug": "segeln",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2026-05-04T17:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "racing-on-the-edge",
+      "related_events": []
+    },
+    {
+      "title": "World Series | Bouldern | Finale",
+      "subtitle": "Keqiao | Frauen",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:30",
+      "iso_time": "2026-05-04T17:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/bef98e6d-ce88-53d2-bc5b-321d34982ab0?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "world-series-bouldern-finale",
+      "related_events": []
+    },
+    {
+      "title": "Global Champions Tour | Shanghai",
+      "subtitle": "Springreiten | 4. Station",
+      "sport": "Reitsport",
+      "sport_slug": "reitsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:45",
+      "iso_time": "2026-05-04T17:45:00+02:00",
+      "link": "https://play.hbomax.com/sport/277b8e1b-4e17-51c6-bd44-36bc548b4db0?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "global-champions-tour-shanghai",
+      "related_events": []
+    },
+    {
+      "title": "World Series | Bouldern | Finale",
+      "subtitle": "World Series | Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:15",
+      "iso_time": "2026-05-04T18:15:00+02:00",
+      "link": "https://play.hbomax.com/sport/db3dd5df-b684-58c4-9b3d-166551d9f0fc?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "world-series-bouldern-finale",
+      "related_events": []
+    },
+    {
+      "title": "WM | Finale",
+      "subtitle": "S. Murphy - Wu Y. | 3. Session | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2026-05-04T19:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/d09b9000-79e2-510e-af28-dd818f57c485?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-finale",
+      "related_events": [
+        {
+          "title": "WM | Shaun Murphy - Wu Yize",
+          "time": "19:30",
+          "sender": "Eurosport",
+          "slug": "wm-shaun-murphy-wu-yize"
+        }
+      ]
+    },
+    {
+      "title": "WM | Shaun Murphy - Wu Yize",
+      "subtitle": "Sheffield | Finale | 4. Session",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:30",
+      "iso_time": "2026-05-04T19:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/4f0dcc08-a0cd-5202-ad9a-e3839ab8d6a8?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-shaun-murphy-wu-yize",
+      "related_events": [
+        {
+          "title": "WM | Finale",
+          "time": "19:00",
+          "sender": "Eurosport",
+          "slug": "wm-finale"
+        },
+        {
+          "title": "WM | Finale",
+          "time": "19:30",
+          "sender": "Eurosport",
+          "slug": "wm-finale"
+        }
+      ]
+    },
+    {
+      "title": "WM | Finale",
+      "subtitle": "S. Murphy - Wu Y. | 4. Session | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:30",
+      "iso_time": "2026-05-04T19:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/98818b9a-a23f-5fd9-9614-58de435c5882?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-finale",
+      "related_events": [
+        {
+          "title": "WM | Shaun Murphy - Wu Yize",
+          "time": "19:30",
+          "sender": "Eurosport",
+          "slug": "wm-shaun-murphy-wu-yize"
+        }
+      ]
+    },
+    {
+      "title": "La Vuelta Femenina | 2. Etappe",
+      "subtitle": "UCI World Tour | Frauen | Lobios - San Cibrao das Viñas (109,8km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-05-04T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/2eef530f-625a-5a15-8ce2-53a6c5521035?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "la-vuelta-femenina-2-etappe",
+      "related_events": []
+    },
+    {
+      "title": "World Series | Bouldern | Finale",
+      "subtitle": "Keqiao | Frauen",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-05-04T22:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/82a52a7b-5019-50a9-b9a5-543889030b4f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "world-series-bouldern-finale",
+      "related_events": []
+    },
+    {
+      "title": "World Series | Bouldern | Finale",
+      "subtitle": "World Series | Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2026-05-04T23:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/e274ac86-a844-5526-8e4d-f3ba1066c35f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "world-series-bouldern-finale",
+      "related_events": []
+    },
+    {
+      "title": "La Vuelta Femenina | 2. Etappe",
+      "subtitle": "UCI World Tour | Frauen | Lobios - San Cibrao das Viñas (109,8km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2026-05-04T23:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/5c1a05bc-e47b-5295-b0b6-a57a3b93a3a4?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "la-vuelta-femenina-2-etappe",
+      "related_events": []
+    },
+    {
+      "title": "La Vuelta Femenina | 2. Etappe",
+      "subtitle": "UCI World Tour | Frauen | Lobios - San Cibrao das Viñas (109,8km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-05-05T00:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/67c6179d-1ab6-5f64-a28c-3cc30de6be86?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "la-vuelta-femenina-2-etappe",
+      "related_events": []
+    },
+    {
+      "title": "World Series | Bouldern | Finale",
+      "subtitle": "Keqiao | Frauen",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-05-05T00:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/c2463543-7fb0-5008-85f9-44b641dfba50?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "world-series-bouldern-finale",
+      "related_events": []
+    },
+    {
+      "title": "WM | Finale",
+      "subtitle": "S. Murphy - Wu Y. | 4. Session | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:00",
+      "iso_time": "2026-05-05T01:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/e3c7975d-c755-5f74-aafe-034b1b634648?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-finale",
+      "related_events": []
+    },
+    {
+      "title": "UCI Downhill Weltcup | Yongpyong | Frauen Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:00",
+      "iso_time": "2026-05-05T01:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/6442840c-86ef-53c6-b65c-a240c1dbd5bf?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uci-downhill-weltcup-yongpyong-frauen-elite",
+      "related_events": []
+    }
+  ]
+}
