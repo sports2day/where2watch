@@ -1,0 +1,1405 @@
+{
+  "date": "2026-05-11",
+  "events": [
+    {
+      "title": "RB Leipzig vs Bayer Leverkusen",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga-frauen/ma11376548/rb-leipzig_bayer-leverkusen/info",
+      "slug": "rb-leipzig-vs-bayer-leverkusen",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Tottenham Hotspur vs Leeds United",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/england-premier-league/ma11152599/tottenham-hotspur_leeds-united/info",
+      "slug": "tottenham-hotspur-vs-leeds-united",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Rayo Vallecano vs Girona FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "rayo-vallecano-vs-girona-fc"
+        }
+      ]
+    },
+    {
+      "title": "Madrid CFF vs Sevilla FC",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-frauen-primera-division/ma11242418/madrid-cff_sevilla-fc/info",
+      "slug": "madrid-cff-vs-sevilla-fc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "KS Cracovia vs Radomiak Radom",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "ks-cracovia-vs-radomiak-radom"
+        },
+        {
+          "title": "Randers FC vs Odense BK",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "randers-fc-vs-odense-bk"
+        }
+      ]
+    },
+    {
+      "title": "Rayo Vallecano vs Girona FC",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-primera-division/ma11223914/rayo-vallecano_girona-fc/info",
+      "slug": "rayo-vallecano-vs-girona-fc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Tottenham Hotspur vs Leeds United",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "tottenham-hotspur-vs-leeds-united"
+        }
+      ]
+    },
+    {
+      "title": "SSC Neapel vs Bologna FC",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/italien-serie-a/ma11129661/ssc-neapel_bologna-fc/info",
+      "slug": "ssc-neapel-vs-bologna-fc",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "KS Cracovia vs Radomiak Radom",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/polen-ekstraklasa/ma11128515/ks-cracovia_radomiak-radom/info",
+      "slug": "ks-cracovia-vs-radomiak-radom",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Madrid CFF vs Sevilla FC",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "madrid-cff-vs-sevilla-fc"
+        },
+        {
+          "title": "Randers FC vs Odense BK",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "randers-fc-vs-odense-bk"
+        }
+      ]
+    },
+    {
+      "title": "NAC Breda vs Sc Heerenveen",
+      "time": "14:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/niederlande-eredivisie/ma11151486/nac-breda_sc-heerenveen/info",
+      "slug": "nac-breda-vs-sc-heerenveen",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Randers FC vs Odense BK",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/daenemark-superliga/ma11935537/randers-fc_odense-bk/info",
+      "slug": "randers-fc-vs-odense-bk",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Madrid CFF vs Sevilla FC",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "madrid-cff-vs-sevilla-fc"
+        },
+        {
+          "title": "KS Cracovia vs Radomiak Radom",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "ks-cracovia-vs-radomiak-radom"
+        }
+      ]
+    },
+    {
+      "title": "Vitória Guimarães vs Casa Pia AC",
+      "time": "21:15",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/portugal-primeira-liga/ma11306174/vitoria-guimaraes_casa-pia-ac/info",
+      "slug": "vitoria-guimaraes-vs-casa-pia-ac",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Gil Vicente vs FC Arouca",
+          "time": "21:15",
+          "sender": "Sportschau Live",
+          "slug": "gil-vicente-vs-fc-arouca"
+        },
+        {
+          "title": "CD Tondela vs Moreirense FC",
+          "time": "21:15",
+          "sender": "Sportschau Live",
+          "slug": "cd-tondela-vs-moreirense-fc"
+        },
+        {
+          "title": "Estrela Amadora vs FC Famalicão",
+          "time": "21:15",
+          "sender": "Sportschau Live",
+          "slug": "estrela-amadora-vs-fc-famalicao"
+        }
+      ]
+    },
+    {
+      "title": "Gil Vicente vs FC Arouca",
+      "time": "21:15",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/portugal-primeira-liga/ma11306177/gil-vicente_fc-arouca/info",
+      "slug": "gil-vicente-vs-fc-arouca",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Vitória Guimarães vs Casa Pia AC",
+          "time": "21:15",
+          "sender": "Sportschau Live",
+          "slug": "vitoria-guimaraes-vs-casa-pia-ac"
+        },
+        {
+          "title": "CD Tondela vs Moreirense FC",
+          "time": "21:15",
+          "sender": "Sportschau Live",
+          "slug": "cd-tondela-vs-moreirense-fc"
+        },
+        {
+          "title": "Estrela Amadora vs FC Famalicão",
+          "time": "21:15",
+          "sender": "Sportschau Live",
+          "slug": "estrela-amadora-vs-fc-famalicao"
+        }
+      ]
+    },
+    {
+      "title": "CD Tondela vs Moreirense FC",
+      "time": "21:15",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/portugal-primeira-liga/ma11306180/cd-tondela_moreirense-fc/info",
+      "slug": "cd-tondela-vs-moreirense-fc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Vitória Guimarães vs Casa Pia AC",
+          "time": "21:15",
+          "sender": "Sportschau Live",
+          "slug": "vitoria-guimaraes-vs-casa-pia-ac"
+        },
+        {
+          "title": "Gil Vicente vs FC Arouca",
+          "time": "21:15",
+          "sender": "Sportschau Live",
+          "slug": "gil-vicente-vs-fc-arouca"
+        },
+        {
+          "title": "Estrela Amadora vs FC Famalicão",
+          "time": "21:15",
+          "sender": "Sportschau Live",
+          "slug": "estrela-amadora-vs-fc-famalicao"
+        }
+      ]
+    },
+    {
+      "title": "Estrela Amadora vs FC Famalicão",
+      "time": "21:15",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/portugal-primeira-liga/ma11306186/estrela-amadora_fc-famalicao/info",
+      "slug": "estrela-amadora-vs-fc-famalicao",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Vitória Guimarães vs Casa Pia AC",
+          "time": "21:15",
+          "sender": "Sportschau Live",
+          "slug": "vitoria-guimaraes-vs-casa-pia-ac"
+        },
+        {
+          "title": "Gil Vicente vs FC Arouca",
+          "time": "21:15",
+          "sender": "Sportschau Live",
+          "slug": "gil-vicente-vs-fc-arouca"
+        },
+        {
+          "title": "CD Tondela vs Moreirense FC",
+          "time": "21:15",
+          "sender": "Sportschau Live",
+          "slug": "cd-tondela-vs-moreirense-fc"
+        }
+      ]
+    },
+    {
+      "title": "Rio Ave FC vs Sporting CP",
+      "time": "21:15",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/portugal-primeira-liga/ma11306192/rio-ave-fc_sporting-cp/info",
+      "slug": "rio-ave-fc-vs-sporting-cp",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Vitória Guimarães vs Casa Pia AC",
+          "time": "21:15",
+          "sender": "Sportschau Live",
+          "slug": "vitoria-guimaraes-vs-casa-pia-ac"
+        },
+        {
+          "title": "Gil Vicente vs FC Arouca",
+          "time": "21:15",
+          "sender": "Sportschau Live",
+          "slug": "gil-vicente-vs-fc-arouca"
+        },
+        {
+          "title": "CD Tondela vs Moreirense FC",
+          "time": "21:15",
+          "sender": "Sportschau Live",
+          "slug": "cd-tondela-vs-moreirense-fc"
+        }
+      ]
+    },
+    {
+      "title": "CD Santa Clara vs CD Nacional",
+      "time": "21:15",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/portugal-primeira-liga/ma11306195/cd-santa-clara_cd-nacional/info",
+      "slug": "cd-santa-clara-vs-cd-nacional",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Vitória Guimarães vs Casa Pia AC",
+          "time": "21:15",
+          "sender": "Sportschau Live",
+          "slug": "vitoria-guimaraes-vs-casa-pia-ac"
+        },
+        {
+          "title": "Gil Vicente vs FC Arouca",
+          "time": "21:15",
+          "sender": "Sportschau Live",
+          "slug": "gil-vicente-vs-fc-arouca"
+        },
+        {
+          "title": "CD Tondela vs Moreirense FC",
+          "time": "21:15",
+          "sender": "Sportschau Live",
+          "slug": "cd-tondela-vs-moreirense-fc"
+        }
+      ]
+    },
+    {
+      "title": "SL Benfica vs Sporting Braga",
+      "time": "21:15",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/portugal-primeira-liga/ma11306198/sl-benfica_sporting-braga/info",
+      "slug": "sl-benfica-vs-sporting-braga",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Vitória Guimarães vs Casa Pia AC",
+          "time": "21:15",
+          "sender": "Sportschau Live",
+          "slug": "vitoria-guimaraes-vs-casa-pia-ac"
+        },
+        {
+          "title": "Gil Vicente vs FC Arouca",
+          "time": "21:15",
+          "sender": "Sportschau Live",
+          "slug": "gil-vicente-vs-fc-arouca"
+        },
+        {
+          "title": "CD Tondela vs Moreirense FC",
+          "time": "21:15",
+          "sender": "Sportschau Live",
+          "slug": "cd-tondela-vs-moreirense-fc"
+        }
+      ]
+    },
+    {
+      "title": "Minnesota Timberwolves vs San Antonio Spurs",
+      "time": "01:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma12025703/minnesota-timberwolves_san-antonio-spurs/info",
+      "slug": "minnesota-timberwolves-vs-san-antonio-spurs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Montréal Canadiens vs Buffalo Sabres",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma12026714/montreal-canadiens_buffalo-sabres/info",
+      "slug": "montreal-canadiens-vs-buffalo-sabres",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Anaheim Ducks vs Vegas Golden Knights",
+      "time": "03:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma12025958/anaheim-ducks_vegas-golden-knights/info",
+      "slug": "anaheim-ducks-vs-vegas-golden-knights",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Sorana Cirstea vs Linda Noskova",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-italien-internazionali-bnl-ditalia/ma11778892/sorana-cirstea_linda-noskova/info",
+      "slug": "sorana-cirstea-vs-linda-noskova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Mattia Bellucci vs Martín Landaluce",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "mattia-bellucci-vs-martin-landaluce"
+        },
+        {
+          "title": "Andrey Rublev vs Alejandro Davidovich Fokina",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "andrey-rublev-vs-alejandro-davidovich-fokina"
+        }
+      ]
+    },
+    {
+      "title": "Coco Gauff vs Iva Jovic",
+      "time": "12:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-italien-internazionali-bnl-ditalia/ma11778898/coco-gauff_iva-jovic/info",
+      "slug": "coco-gauff-vs-iva-jovic",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Anna Kalinskaya vs Jelena Ostapenko",
+      "time": "13:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-italien-internazionali-bnl-ditalia/ma11778895/anna-kalinskaya_jelena-ostapenko/info",
+      "slug": "anna-kalinskaya-vs-jelena-ostapenko",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Elise Mertens vs Mirra Andreeva",
+      "time": "13:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-italien-internazionali-bnl-ditalia/ma11778901/elise-mertens_mirra-andreeva/info",
+      "slug": "elise-mertens-vs-mirra-andreeva",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Elina Svitolina vs Nikola Bartunkova",
+      "time": "15:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-italien-internazionali-bnl-ditalia/ma11778910/elina-svitolina_nikola-bartunkova/info",
+      "slug": "elina-svitolina-vs-nikola-bartunkova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Jannik Sinner vs Alexei Popyrin",
+          "time": "15:00",
+          "sender": "Sportschau Live",
+          "slug": "jannik-sinner-vs-alexei-popyrin"
+        }
+      ]
+    },
+    {
+      "title": "Jessica Pegula vs Anastasia Potapova",
+      "time": "15:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-italien-internazionali-bnl-ditalia/ma11778904/jessica-pegula_anastasia-potapova/info",
+      "slug": "jessica-pegula-vs-anastasia-potapova",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Naomi Osaka vs Iga Świątek",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-italien-internazionali-bnl-ditalia/ma11778907/naomi-osaka_iga-swiatek/info",
+      "slug": "naomi-osaka-vs-iga-swiatek",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Karolina Plíšková vs Elena Rybakina",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-italien-internazionali-bnl-ditalia/ma11778913/karolina-pliskova_elena-rybakina/info",
+      "slug": "karolina-pliskova-vs-elena-rybakina",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Mattia Bellucci vs Martín Landaluce",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-italien-internazionali-bnl-ditalia/ma12027530/mattia-bellucci_martin-landaluce/info",
+      "slug": "mattia-bellucci-vs-martin-landaluce",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Sorana Cirstea vs Linda Noskova",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "sorana-cirstea-vs-linda-noskova"
+        },
+        {
+          "title": "Andrey Rublev vs Alejandro Davidovich Fokina",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "andrey-rublev-vs-alejandro-davidovich-fokina"
+        }
+      ]
+    },
+    {
+      "title": "Andrey Rublev vs Alejandro Davidovich Fokina",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-italien-internazionali-bnl-ditalia/ma12027521/andrey-rublev_alejandro-davidovich-fokina/info",
+      "slug": "andrey-rublev-vs-alejandro-davidovich-fokina",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Sorana Cirstea vs Linda Noskova",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "sorana-cirstea-vs-linda-noskova"
+        },
+        {
+          "title": "Mattia Bellucci vs Martín Landaluce",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "mattia-bellucci-vs-martin-landaluce"
+        }
+      ]
+    },
+    {
+      "title": "Brandon Nakashima vs Nikoloz Basilashvili",
+      "time": "12:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-italien-internazionali-bnl-ditalia/ma12027524/brandon-nakashima_nikoloz-basilashvili/info",
+      "slug": "brandon-nakashima-vs-nikoloz-basilashvili",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Frances Tiafoe vs Andrea Pellegrino",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "frances-tiafoe-vs-andrea-pellegrino"
+        }
+      ]
+    },
+    {
+      "title": "Frances Tiafoe vs Andrea Pellegrino",
+      "time": "12:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-italien-internazionali-bnl-ditalia/ma12027518/frances-tiafoe_andrea-pellegrino/info",
+      "slug": "frances-tiafoe-vs-andrea-pellegrino",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Brandon Nakashima vs Nikoloz Basilashvili",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "brandon-nakashima-vs-nikoloz-basilashvili"
+        }
+      ]
+    },
+    {
+      "title": "Mariano Navone vs Hamad Medjedovic",
+      "time": "14:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-italien-internazionali-bnl-ditalia/ma12027527/mariano-navone_hamad-medjedovic/info",
+      "slug": "mariano-navone-vs-hamad-medjedovic",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Jannik Sinner vs Alexei Popyrin",
+      "time": "15:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-italien-internazionali-bnl-ditalia/ma12027515/jannik-sinner_alexei-popyrin/info",
+      "slug": "jannik-sinner-vs-alexei-popyrin",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Elina Svitolina vs Nikola Bartunkova",
+          "time": "15:00",
+          "sender": "Sportschau Live",
+          "slug": "elina-svitolina-vs-nikola-bartunkova"
+        }
+      ]
+    },
+    {
+      "title": "Pablo Llamas Ruiz vs Daniil Medvedev",
+      "time": "16:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-italien-internazionali-bnl-ditalia/ma12027536/pablo-llamas-ruiz_daniil-medvedev/info",
+      "slug": "pablo-llamas-ruiz-vs-daniil-medvedev",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Flavio Cobolli vs Thiago Tirante",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-italien-internazionali-bnl-ditalia/ma12027533/flavio-cobolli_thiago-tirante/info",
+      "slug": "flavio-cobolli-vs-thiago-tirante",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "English Open | Finale",
+      "subtitle": "Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:32",
+      "iso_time": "2026-05-11T01:32:00+02:00",
+      "link": "",
+      "slug": "english-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Giro d'Italia | 3. Etappe",
+      "subtitle": "Plovdiv - Sofia (175km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:32",
+      "iso_time": "2026-05-11T03:32:06+02:00",
+      "link": "",
+      "slug": "giro-d-italia-3-etappe",
+      "related_events": []
+    },
+    {
+      "title": "English Open | Finale",
+      "subtitle": "Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:31",
+      "iso_time": "2026-05-11T05:31:01+02:00",
+      "link": "",
+      "slug": "english-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "FIA WEC | 6h von Spa | Rennen",
+      "subtitle": "Langstrecken-WM | 2. Saisonlauf",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:58",
+      "iso_time": "2026-05-11T06:58:49+02:00",
+      "link": "https://play.hbomax.com/sport/9bab06e9-1395-5972-b97e-4186e15d741d?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "fia-wec-6h-von-spa-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Giro d'Italia | 3. Etappe",
+      "subtitle": "Plovdiv - Sofia (175km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:29",
+      "iso_time": "2026-05-11T08:29:47+02:00",
+      "link": "https://play.hbomax.com/sport/9bfc30bc-76ff-5bd5-be09-021c056e251f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-3-etappe",
+      "related_events": [
+        {
+          "title": "Baku-Khankendi Azerbaijan Cycling Race | 2. Etappe",
+          "time": "10:00",
+          "sender": "Eurosport",
+          "slug": "baku-khankendi-azerbaijan-cycling-race-2-etappe"
+        },
+        {
+          "title": "Baku-Khankendi Azerbaijan Cycling Race | 2. Etappe",
+          "time": "10:00",
+          "sender": "Eurosport",
+          "slug": "baku-khankendi-azerbaijan-cycling-race-2-etappe"
+        },
+        {
+          "title": "Giro d'Italia | 2. Etappe",
+          "time": "11:29",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "FIA WEC | 6h von Spa | Rennen",
+      "subtitle": "Langstrecken-WM | 2. Saisonlauf",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:34",
+      "iso_time": "2026-05-11T08:34:23+02:00",
+      "link": "https://play.hbomax.com/sport/489ee6dc-df6e-5815-8381-f5226d6ce434?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "fia-wec-6h-von-spa-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Baku-Khankendi Azerbaijan Cycling Race | 2. Etappe",
+      "subtitle": "UCI Europe Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:00",
+      "iso_time": "2026-05-11T10:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/92a8448c-12a9-5429-82d9-17ea228cb91f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "baku-khankendi-azerbaijan-cycling-race-2-etappe",
+      "related_events": [
+        {
+          "title": "Giro d'Italia | 3. Etappe",
+          "time": "08:29",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-3-etappe"
+        },
+        {
+          "title": "Giro d'Italia | 2. Etappe",
+          "time": "11:29",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Baku-Khankendi Azerbaijan Cycling Race | 2. Etappe",
+      "subtitle": "UCI Europe Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:00",
+      "iso_time": "2026-05-11T10:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/a7f7653a-7b6d-54fa-923b-4da8c1b57d12?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "baku-khankendi-azerbaijan-cycling-race-2-etappe",
+      "related_events": [
+        {
+          "title": "Giro d'Italia | 3. Etappe",
+          "time": "08:29",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-3-etappe"
+        },
+        {
+          "title": "Giro d'Italia | 2. Etappe",
+          "time": "11:29",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "English Open | Finale",
+      "subtitle": "Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:00",
+      "iso_time": "2026-05-11T10:00:01+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "english-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Giro d'Italia | 2. Etappe",
+      "subtitle": "Burgas - Veliko Tarnovo (221km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:29",
+      "iso_time": "2026-05-11T11:29:30+02:00",
+      "link": "https://play.hbomax.com/sport/c436bc85-abd9-5c86-b975-b0d164707cd6?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-2-etappe",
+      "related_events": [
+        {
+          "title": "Giro d'Italia | 3. Etappe",
+          "time": "08:29",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-3-etappe"
+        },
+        {
+          "title": "Baku-Khankendi Azerbaijan Cycling Race | 2. Etappe",
+          "time": "10:00",
+          "sender": "Eurosport",
+          "slug": "baku-khankendi-azerbaijan-cycling-race-2-etappe"
+        },
+        {
+          "title": "Baku-Khankendi Azerbaijan Cycling Race | 2. Etappe",
+          "time": "10:00",
+          "sender": "Eurosport",
+          "slug": "baku-khankendi-azerbaijan-cycling-race-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Wujiang | Speed | Finale",
+      "subtitle": "World Series | Frauen / Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:30",
+      "iso_time": "2026-05-11T11:30:36+02:00",
+      "link": "https://play.hbomax.com/sport/e3889616-bf26-5bd5-bd26-0bb4214dd701?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wujiang-speed-finale",
+      "related_events": []
+    },
+    {
+      "title": "English Open | Finale",
+      "subtitle": "Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:28",
+      "iso_time": "2026-05-11T12:28:15+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "english-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Giro d'Italia | 3. Etappe",
+      "subtitle": "Plovdiv - Sofia (175km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:01",
+      "iso_time": "2026-05-11T13:01:13+02:00",
+      "link": "https://play.hbomax.com/sport/b3579473-4c04-5acd-90f8-28f763160153?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-3-etappe",
+      "related_events": [
+        {
+          "title": "Giro d'Italia | 2. Etappe",
+          "time": "11:29",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-2-etappe"
+        },
+        {
+          "title": "La Vuelta Femenina | 6. Etappe",
+          "time": "14:01",
+          "sender": "Eurosport",
+          "slug": "la-vuelta-femenina-6-etappe"
+        },
+        {
+          "title": "La Vuelta Femenina | 7. Etappe",
+          "time": "15:04",
+          "sender": "Eurosport",
+          "slug": "la-vuelta-femenina-7-etappe"
+        }
+      ]
+    },
+    {
+      "title": "La Vuelta Femenina | 6. Etappe",
+      "subtitle": "Gijón - Les Praeres. Nava (106,5km) | Frauen | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:01",
+      "iso_time": "2026-05-11T14:01:10+02:00",
+      "link": "https://play.hbomax.com/sport/0c1d559b-a440-55a8-ae9f-6e3edb982cb5?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "la-vuelta-femenina-6-etappe",
+      "related_events": [
+        {
+          "title": "Giro d'Italia | 2. Etappe",
+          "time": "11:29",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-2-etappe"
+        },
+        {
+          "title": "Giro d'Italia | 3. Etappe",
+          "time": "13:01",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-3-etappe"
+        },
+        {
+          "title": "La Vuelta Femenina | 7. Etappe",
+          "time": "15:04",
+          "sender": "Eurosport",
+          "slug": "la-vuelta-femenina-7-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Wujiang | Lead | Finale",
+      "subtitle": "World Series | Frauen / Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:59",
+      "iso_time": "2026-05-11T14:59:54+02:00",
+      "link": "https://play.hbomax.com/sport/e1d2490a-4736-57f2-a192-67f0c05b2664?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wujiang-lead-finale",
+      "related_events": [
+        {
+          "title": "Wujiang | Speed | Finale",
+          "time": "16:01",
+          "sender": "Eurosport",
+          "slug": "wujiang-speed-finale"
+        }
+      ]
+    },
+    {
+      "title": "La Vuelta Femenina | 7. Etappe",
+      "subtitle": "La Pola Llaviana - L'Angliru (132,9km) | Frauen | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:04",
+      "iso_time": "2026-05-11T15:04:48+02:00",
+      "link": "https://play.hbomax.com/sport/a8f7621f-38b2-5231-bd45-10d2284aa492?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "la-vuelta-femenina-7-etappe",
+      "related_events": [
+        {
+          "title": "Giro d'Italia | 3. Etappe",
+          "time": "13:01",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-3-etappe"
+        },
+        {
+          "title": "La Vuelta Femenina | 6. Etappe",
+          "time": "14:01",
+          "sender": "Eurosport",
+          "slug": "la-vuelta-femenina-6-etappe"
+        },
+        {
+          "title": "Tro-Bro Léon",
+          "time": "16:01",
+          "sender": "Eurosport",
+          "slug": "tro-bro-leon"
+        }
+      ]
+    },
+    {
+      "title": "Tro-Bro Léon",
+      "subtitle": "UCI Pro Series | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:01",
+      "iso_time": "2026-05-11T16:01:31+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tro-bro-leon",
+      "related_events": [
+        {
+          "title": "La Vuelta Femenina | 6. Etappe",
+          "time": "14:01",
+          "sender": "Eurosport",
+          "slug": "la-vuelta-femenina-6-etappe"
+        },
+        {
+          "title": "La Vuelta Femenina | 7. Etappe",
+          "time": "15:04",
+          "sender": "Eurosport",
+          "slug": "la-vuelta-femenina-7-etappe"
+        },
+        {
+          "title": "Baku-Khankendi Azerbaijan Cycling Race | 2. Etappe",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "baku-khankendi-azerbaijan-cycling-race-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Wujiang | Speed | Finale",
+      "subtitle": "World Series | Frauen / Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:01",
+      "iso_time": "2026-05-11T16:01:54+02:00",
+      "link": "https://play.hbomax.com/sport/ab1874d2-7763-59bb-9bf2-3e008c3e4b73?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wujiang-speed-finale",
+      "related_events": [
+        {
+          "title": "Wujiang | Lead | Finale",
+          "time": "14:59",
+          "sender": "Eurosport",
+          "slug": "wujiang-lead-finale"
+        }
+      ]
+    },
+    {
+      "title": "London-Marathon",
+      "subtitle": "46. Austragung | Männer / Frauen",
+      "sport": "Leichtathletik",
+      "sport_slug": "leichtathletik",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2026-05-11T17:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/cecaf7a2-4fd9-5c75-9db9-a60924b22a0e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "london-marathon",
+      "related_events": []
+    },
+    {
+      "title": "Baku-Khankendi Azerbaijan Cycling Race | 2. Etappe",
+      "subtitle": "UCI Europe Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2026-05-11T17:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/b56a9a41-9bca-5aee-9d16-f80e9ba41244?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "baku-khankendi-azerbaijan-cycling-race-2-etappe",
+      "related_events": [
+        {
+          "title": "La Vuelta Femenina | 6. Etappe",
+          "time": "14:01",
+          "sender": "Eurosport",
+          "slug": "la-vuelta-femenina-6-etappe"
+        },
+        {
+          "title": "La Vuelta Femenina | 7. Etappe",
+          "time": "15:04",
+          "sender": "Eurosport",
+          "slug": "la-vuelta-femenina-7-etappe"
+        },
+        {
+          "title": "Tro-Bro Léon",
+          "time": "16:01",
+          "sender": "Eurosport",
+          "slug": "tro-bro-leon"
+        }
+      ]
+    },
+    {
+      "title": "English Open | Finale",
+      "subtitle": "Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2026-05-11T18:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "english-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tro-Bro Léon",
+      "subtitle": "UCI Pro Series | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2026-05-11T19:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tro-bro-leon",
+      "related_events": [
+        {
+          "title": "Baku-Khankendi Azerbaijan Cycling Race | 2. Etappe",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "baku-khankendi-azerbaijan-cycling-race-2-etappe"
+        },
+        {
+          "title": "Giro d'Italia | 3. Etappe",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "FIA WEC | 6h von Spa | Rennen",
+      "subtitle": "Langstrecken-WM | 2. Saisonlauf",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-05-11T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/07567713-3605-5b71-a918-4f30ab84e830?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "fia-wec-6h-von-spa-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Giro d'Italia | 3. Etappe",
+      "subtitle": "Plovdiv - Sofia (175km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-05-11T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/4f6bba0f-f15f-5549-92e3-dbc40c48a6b5?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-3-etappe",
+      "related_events": [
+        {
+          "title": "Baku-Khankendi Azerbaijan Cycling Race | 2. Etappe",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "baku-khankendi-azerbaijan-cycling-race-2-etappe"
+        },
+        {
+          "title": "Tro-Bro Léon",
+          "time": "19:00",
+          "sender": "Eurosport",
+          "slug": "tro-bro-leon"
+        },
+        {
+          "title": "Tro-Bro Léon",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "tro-bro-leon"
+        }
+      ]
+    },
+    {
+      "title": "Seoul | Highlights",
+      "subtitle": "Grand Prix | Säbel | Männer / Frauen",
+      "sport": "Fechten",
+      "sport_slug": "fechten",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2026-05-11T21:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/71848edc-6b32-5a0e-8067-2f668cd80d33?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "seoul-highlights",
+      "related_events": []
+    },
+    {
+      "title": "English Open | Finale",
+      "subtitle": "Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-05-11T22:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "english-open-finale",
+      "related_events": [
+        {
+          "title": "Northern Ireland Open | Finale",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "northern-ireland-open-finale"
+        }
+      ]
+    },
+    {
+      "title": "Tro-Bro Léon",
+      "subtitle": "UCI Pro Series | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-05-11T22:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tro-bro-leon",
+      "related_events": [
+        {
+          "title": "Giro d'Italia | 3. Etappe",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-3-etappe"
+        },
+        {
+          "title": "La Vuelta Femenina | 7. Etappe",
+          "time": "23:00",
+          "sender": "Eurosport",
+          "slug": "la-vuelta-femenina-7-etappe"
+        },
+        {
+          "title": "La Vuelta Femenina | 6. Etappe",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "la-vuelta-femenina-6-etappe"
+        }
+      ]
+    },
+    {
+      "title": "La Vuelta Femenina | 7. Etappe",
+      "subtitle": "La Pola Llaviana - L'Angliru (132,9km) | Frauen | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2026-05-11T23:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/4a1ed9b2-8456-5311-878e-f0a567d87e7d?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "la-vuelta-femenina-7-etappe",
+      "related_events": [
+        {
+          "title": "Giro d'Italia | 3. Etappe",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-3-etappe"
+        },
+        {
+          "title": "Tro-Bro Léon",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "tro-bro-leon"
+        },
+        {
+          "title": "La Vuelta Femenina | 6. Etappe",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "la-vuelta-femenina-6-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Northern Ireland Open | Finale",
+      "subtitle": "Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-05-12T00:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "northern-ireland-open-finale",
+      "related_events": [
+        {
+          "title": "English Open | Finale",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "english-open-finale"
+        }
+      ]
+    },
+    {
+      "title": "La Vuelta Femenina | 6. Etappe",
+      "subtitle": "Gijón - Les Praeres. Nava (106,5km) | Frauen | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-05-12T00:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/1901bc2f-ed9d-5585-b1ee-e916e9824f01?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "la-vuelta-femenina-6-etappe",
+      "related_events": [
+        {
+          "title": "Tro-Bro Léon",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "tro-bro-leon"
+        },
+        {
+          "title": "La Vuelta Femenina | 7. Etappe",
+          "time": "23:00",
+          "sender": "Eurosport",
+          "slug": "la-vuelta-femenina-7-etappe"
+        },
+        {
+          "title": "La Vuelta Femenina | 7. Etappe",
+          "time": "00:45",
+          "sender": "Eurosport",
+          "slug": "la-vuelta-femenina-7-etappe"
+        }
+      ]
+    },
+    {
+      "title": "La Vuelta Femenina | 7. Etappe",
+      "subtitle": "La Pola Llaviana - L'Angliru (132,9km) | Frauen | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:45",
+      "iso_time": "2026-05-12T00:45:00+02:00",
+      "link": "https://play.hbomax.com/sport/c6d6773c-b96b-5c8d-aa82-c88c42663764?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "la-vuelta-femenina-7-etappe",
+      "related_events": [
+        {
+          "title": "Tro-Bro Léon",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "tro-bro-leon"
+        },
+        {
+          "title": "La Vuelta Femenina | 6. Etappe",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "la-vuelta-femenina-6-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Northern Ireland Open | Finale",
+      "subtitle": "Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:30",
+      "iso_time": "2026-05-12T01:30:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "northern-ireland-open-finale",
+      "related_events": []
+    }
+  ]
+}
