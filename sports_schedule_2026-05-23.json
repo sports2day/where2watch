@@ -1,0 +1,2338 @@
+{
+  "date": "2026-05-23",
+  "events": [
+    {
+      "title": "Bayern München vs VfB Stuttgart",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-dfb-pokal/ma11109657/bayern-muenchen_vfb-stuttgart/info",
+      "slug": "bayern-munchen-vs-vfb-stuttgart",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "FC Barcelona vs OL Lyonnes",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-frauen/ma11787661/fc-barcelona_ol-lyonnes/info",
+      "slug": "fc-barcelona-vs-ol-lyonnes",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Bologna FC vs Inter Mailand",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "bologna-fc-vs-inter-mailand"
+        }
+      ]
+    },
+    {
+      "title": "Lettland vs USA",
+      "time": "12:20",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/iihf-wm/ma11560517/lettland_usa/info",
+      "slug": "lettland-vs-usa",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dänemark vs Slowenien",
+          "time": "12:20",
+          "sender": "Sportschau Live",
+          "slug": "danemark-vs-slowenien"
+        }
+      ]
+    },
+    {
+      "title": "Schweiz vs Ungarn",
+      "time": "16:20",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/iihf-wm/ma11560523/schweiz_ungarn/info",
+      "slug": "schweiz-vs-ungarn",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Slowakei vs Tschechien",
+          "time": "16:20",
+          "sender": "Sportschau Live",
+          "slug": "slowakei-vs-tschechien"
+        }
+      ]
+    },
+    {
+      "title": "Österreich vs Deutschland",
+      "time": "20:20",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/iihf-wm/ma11560529/oesterreich_deutschland/info",
+      "slug": "osterreich-vs-deutschland",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Norwegen vs Schweden",
+          "time": "20:20",
+          "sender": "Sportschau Live",
+          "slug": "norwegen-vs-schweden"
+        }
+      ]
+    },
+    {
+      "title": "Dänemark vs Slowenien",
+      "time": "12:20",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/iihf-wm/ma11560520/daenemark_slowenien/info",
+      "slug": "danemark-vs-slowenien",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Lettland vs USA",
+          "time": "12:20",
+          "sender": "Sportschau Live",
+          "slug": "lettland-vs-usa"
+        }
+      ]
+    },
+    {
+      "title": "Slowakei vs Tschechien",
+      "time": "16:20",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/iihf-wm/ma11560526/slowakei_tschechien/info",
+      "slug": "slowakei-vs-tschechien",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Schweiz vs Ungarn",
+          "time": "16:20",
+          "sender": "Sportschau Live",
+          "slug": "schweiz-vs-ungarn"
+        }
+      ]
+    },
+    {
+      "title": "Norwegen vs Schweden",
+      "time": "20:20",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/iihf-wm/ma11560532/norwegen_schweden/info",
+      "slug": "norwegen-vs-schweden",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Österreich vs Deutschland",
+          "time": "20:20",
+          "sender": "Sportschau Live",
+          "slug": "osterreich-vs-deutschland"
+        }
+      ]
+    },
+    {
+      "title": "HSG Wetzlar vs HC Erlangen",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/ma11406020/hsg-wetzlar_hc-erlangen/info",
+      "slug": "hsg-wetzlar-vs-hc-erlangen",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Union Halle-Neustadt vs BSV Sachsen Zwickau",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "union-halle-neustadt-vs-bsv-sachsen-zwickau"
+        }
+      ]
+    },
+    {
+      "title": "VfL Gummersbach vs TSV GWD Minden",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/ma11406008/vfl-gummersbach_tsv-gwd-minden/info",
+      "slug": "vfl-gummersbach-vs-tsv-gwd-minden",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "HSG Bensheim/Auerbach vs Thüringer HC",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbf-frauen/ma12035453/hsg-bensheim-auerbach_thueringer-hc/info",
+      "slug": "hsg-bensheim-auerbach-vs-thuringer-hc",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Buxtehuder SV vs Frisch Auf! Göppingen",
+      "time": "16:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbf-frauen/ma11973268/buxtehuder-sv_frisch-auf-goeppingen/info",
+      "slug": "buxtehuder-sv-vs-frisch-auf-goppingen",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "VfL Oldenburg vs TuS Metzingen",
+      "time": "16:30",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbf-frauen/ma11973271/vfl-oldenburg_tus-metzingen/info",
+      "slug": "vfl-oldenburg-vs-tus-metzingen",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Union Halle-Neustadt vs BSV Sachsen Zwickau",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbf-frauen/ma11973274/union-halle-neustadt_bsv-sachsen-zwickau/info",
+      "slug": "union-halle-neustadt-vs-bsv-sachsen-zwickau",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "HSG Wetzlar vs HC Erlangen",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "hsg-wetzlar-vs-hc-erlangen"
+        }
+      ]
+    },
+    {
+      "title": "VET-CONCEPT Gladiators Trier vs FC Bayern München",
+      "time": "14:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/deutschland-bbl/ma12082352/vet-concept-gladiators-trier_fc-bayern-muenchen/info",
+      "slug": "vet-concept-gladiators-trier-vs-fc-bayern-munchen",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Ratiopharm Ulm vs Bamberg Baskets",
+      "time": "16:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/deutschland-bbl/ma12082349/ratiopharm-ulm_bamberg-baskets/info",
+      "slug": "ratiopharm-ulm-vs-bamberg-baskets",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": " vs ",
+      "time": "22:00",
+      "iso_time": "",
+      "sport": "Formel 1",
+      "sport_slug": "formel-1",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/motorsport/formel-1/co549/grosser-preis-von-kanada/ma11135688/ergebnisse",
+      "slug": "vs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": " vs ",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Formel 1",
+      "sport_slug": "formel-1",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/motorsport/formel-1/co549/grosser-preis-von-kanada/ma11135685/ergebnisse",
+      "slug": "vs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "CD Alavés vs Rayo Vallecano",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-primera-division/ma11223977/cd-alaves_rayo-vallecano/info",
+      "slug": "cd-alaves-vs-rayo-vallecano",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Betis Sevilla vs Levante UD",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "betis-sevilla-vs-levante-ud"
+        },
+        {
+          "title": "RC Celta vs Sevilla FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "rc-celta-vs-sevilla-fc"
+        },
+        {
+          "title": "Espanyol Barcelona vs Real Sociedad San Sebastian",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "espanyol-barcelona-vs-real-sociedad-san-sebastian"
+        }
+      ]
+    },
+    {
+      "title": "Betis Sevilla vs Levante UD",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-primera-division/ma11223980/betis-sevilla_levante-ud/info",
+      "slug": "betis-sevilla-vs-levante-ud",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "CD Alavés vs Rayo Vallecano",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "cd-alaves-vs-rayo-vallecano"
+        },
+        {
+          "title": "RC Celta vs Sevilla FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "rc-celta-vs-sevilla-fc"
+        },
+        {
+          "title": "Espanyol Barcelona vs Real Sociedad San Sebastian",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "espanyol-barcelona-vs-real-sociedad-san-sebastian"
+        }
+      ]
+    },
+    {
+      "title": "RC Celta vs Sevilla FC",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-primera-division/ma11223983/rc-celta_sevilla-fc/info",
+      "slug": "rc-celta-vs-sevilla-fc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "CD Alavés vs Rayo Vallecano",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "cd-alaves-vs-rayo-vallecano"
+        },
+        {
+          "title": "Betis Sevilla vs Levante UD",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "betis-sevilla-vs-levante-ud"
+        },
+        {
+          "title": "Espanyol Barcelona vs Real Sociedad San Sebastian",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "espanyol-barcelona-vs-real-sociedad-san-sebastian"
+        }
+      ]
+    },
+    {
+      "title": "Espanyol Barcelona vs Real Sociedad San Sebastian",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-primera-division/ma11223986/espanyol-barcelona_real-sociedad-san-sebastian/info",
+      "slug": "espanyol-barcelona-vs-real-sociedad-san-sebastian",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "CD Alavés vs Rayo Vallecano",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "cd-alaves-vs-rayo-vallecano"
+        },
+        {
+          "title": "Betis Sevilla vs Levante UD",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "betis-sevilla-vs-levante-ud"
+        },
+        {
+          "title": "RC Celta vs Sevilla FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "rc-celta-vs-sevilla-fc"
+        }
+      ]
+    },
+    {
+      "title": "Getafe CF vs CA Osasuna",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-primera-division/ma11223989/getafe-cf_ca-osasuna/info",
+      "slug": "getafe-cf-vs-ca-osasuna",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "CD Alavés vs Rayo Vallecano",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "cd-alaves-vs-rayo-vallecano"
+        },
+        {
+          "title": "Betis Sevilla vs Levante UD",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "betis-sevilla-vs-levante-ud"
+        },
+        {
+          "title": "RC Celta vs Sevilla FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "rc-celta-vs-sevilla-fc"
+        }
+      ]
+    },
+    {
+      "title": "RCD Mallorca vs Real Oviedo",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-primera-division/ma11223992/rcd-mallorca_real-oviedo/info",
+      "slug": "rcd-mallorca-vs-real-oviedo",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "CD Alavés vs Rayo Vallecano",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "cd-alaves-vs-rayo-vallecano"
+        },
+        {
+          "title": "Betis Sevilla vs Levante UD",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "betis-sevilla-vs-levante-ud"
+        },
+        {
+          "title": "RC Celta vs Sevilla FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "rc-celta-vs-sevilla-fc"
+        }
+      ]
+    },
+    {
+      "title": "Real Madrid vs Athletic Club",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-primera-division/ma11223995/real-madrid_athletic-club/info",
+      "slug": "real-madrid-vs-athletic-club",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "CD Alavés vs Rayo Vallecano",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "cd-alaves-vs-rayo-vallecano"
+        },
+        {
+          "title": "Betis Sevilla vs Levante UD",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "betis-sevilla-vs-levante-ud"
+        },
+        {
+          "title": "RC Celta vs Sevilla FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "rc-celta-vs-sevilla-fc"
+        }
+      ]
+    },
+    {
+      "title": "Valencia CF vs FC Barcelona",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-primera-division/ma11224001/valencia-cf_fc-barcelona/info",
+      "slug": "valencia-cf-vs-fc-barcelona",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "CD Alavés vs Rayo Vallecano",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "cd-alaves-vs-rayo-vallecano"
+        },
+        {
+          "title": "Betis Sevilla vs Levante UD",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "betis-sevilla-vs-levante-ud"
+        },
+        {
+          "title": "RC Celta vs Sevilla FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "rc-celta-vs-sevilla-fc"
+        }
+      ]
+    },
+    {
+      "title": "Girona FC vs Elche CF",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-primera-division/ma11224004/girona-fc_elche-cf/info",
+      "slug": "girona-fc-vs-elche-cf",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "CD Alavés vs Rayo Vallecano",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "cd-alaves-vs-rayo-vallecano"
+        },
+        {
+          "title": "Betis Sevilla vs Levante UD",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "betis-sevilla-vs-levante-ud"
+        },
+        {
+          "title": "RC Celta vs Sevilla FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "rc-celta-vs-sevilla-fc"
+        }
+      ]
+    },
+    {
+      "title": "Bologna FC vs Inter Mailand",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/italien-serie-a/ma11129706/bologna-fc_inter-mailand/info",
+      "slug": "bologna-fc-vs-inter-mailand",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Barcelona vs OL Lyonnes",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-barcelona-vs-ol-lyonnes"
+        }
+      ]
+    },
+    {
+      "title": "Lazio Rom vs Pisa SC",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/italien-serie-a/ma11129715/lazio-rom_pisa-sc/info",
+      "slug": "lazio-rom-vs-pisa-sc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Royal Antwerp FC vs KVC Westerlo",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "royal-antwerp-fc-vs-kvc-westerlo"
+        },
+        {
+          "title": "Standard Lüttich vs Sporting Charleroi",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "standard-luttich-vs-sporting-charleroi"
+        },
+        {
+          "title": "Oud-Heverlee Leuven vs KRC Genk",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "oud-heverlee-leuven-vs-krc-genk"
+        }
+      ]
+    },
+    {
+      "title": "Górnik Zabrze vs Radomiak Radom",
+      "time": "17:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/polen-ekstraklasa/ma11128563/gornik-zabrze_radomiak-radom/info",
+      "slug": "gornik-zabrze-vs-radomiak-radom",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Jagiellonia Białystok vs Zagłębie Lubin",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "jagiellonia-bialystok-vs-zaglebie-lubin"
+        },
+        {
+          "title": "KS Cracovia vs Korona Kielce",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "ks-cracovia-vs-korona-kielce"
+        },
+        {
+          "title": "Lech Poznań vs Wisła Płock",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "lech-poznan-vs-wisla-plock"
+        }
+      ]
+    },
+    {
+      "title": "Jagiellonia Białystok vs Zagłębie Lubin",
+      "time": "17:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/polen-ekstraklasa/ma11128566/jagiellonia-bialystok_zaglebie-lubin/info",
+      "slug": "jagiellonia-bialystok-vs-zaglebie-lubin",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Górnik Zabrze vs Radomiak Radom",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "gornik-zabrze-vs-radomiak-radom"
+        },
+        {
+          "title": "KS Cracovia vs Korona Kielce",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "ks-cracovia-vs-korona-kielce"
+        },
+        {
+          "title": "Lech Poznań vs Wisła Płock",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "lech-poznan-vs-wisla-plock"
+        }
+      ]
+    },
+    {
+      "title": "KS Cracovia vs Korona Kielce",
+      "time": "17:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/polen-ekstraklasa/ma11128569/ks-cracovia_korona-kielce/info",
+      "slug": "ks-cracovia-vs-korona-kielce",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Górnik Zabrze vs Radomiak Radom",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "gornik-zabrze-vs-radomiak-radom"
+        },
+        {
+          "title": "Jagiellonia Białystok vs Zagłębie Lubin",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "jagiellonia-bialystok-vs-zaglebie-lubin"
+        },
+        {
+          "title": "Lech Poznań vs Wisła Płock",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "lech-poznan-vs-wisla-plock"
+        }
+      ]
+    },
+    {
+      "title": "Lech Poznań vs Wisła Płock",
+      "time": "17:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/polen-ekstraklasa/ma11128572/lech-poznan_wisla-plock/info",
+      "slug": "lech-poznan-vs-wisla-plock",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Górnik Zabrze vs Radomiak Radom",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "gornik-zabrze-vs-radomiak-radom"
+        },
+        {
+          "title": "Jagiellonia Białystok vs Zagłębie Lubin",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "jagiellonia-bialystok-vs-zaglebie-lubin"
+        },
+        {
+          "title": "KS Cracovia vs Korona Kielce",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "ks-cracovia-vs-korona-kielce"
+        }
+      ]
+    },
+    {
+      "title": "Legia Warschau vs Motor Lublin",
+      "time": "17:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/polen-ekstraklasa/ma11128575/legia-warschau_motor-lublin/info",
+      "slug": "legia-warschau-vs-motor-lublin",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Górnik Zabrze vs Radomiak Radom",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "gornik-zabrze-vs-radomiak-radom"
+        },
+        {
+          "title": "Jagiellonia Białystok vs Zagłębie Lubin",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "jagiellonia-bialystok-vs-zaglebie-lubin"
+        },
+        {
+          "title": "KS Cracovia vs Korona Kielce",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "ks-cracovia-vs-korona-kielce"
+        }
+      ]
+    },
+    {
+      "title": "Pogoń Szczecin vs GKS Katowice",
+      "time": "17:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/polen-ekstraklasa/ma11128578/pogon-szczecin_gks-katowice/info",
+      "slug": "pogon-szczecin-vs-gks-katowice",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Górnik Zabrze vs Radomiak Radom",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "gornik-zabrze-vs-radomiak-radom"
+        },
+        {
+          "title": "Jagiellonia Białystok vs Zagłębie Lubin",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "jagiellonia-bialystok-vs-zaglebie-lubin"
+        },
+        {
+          "title": "KS Cracovia vs Korona Kielce",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "ks-cracovia-vs-korona-kielce"
+        }
+      ]
+    },
+    {
+      "title": "Raków Częstochowa vs Arka Gdynia",
+      "time": "17:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/polen-ekstraklasa/ma11128581/rakow-czestochowa_arka-gdynia/info",
+      "slug": "rakow-czestochowa-vs-arka-gdynia",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Górnik Zabrze vs Radomiak Radom",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "gornik-zabrze-vs-radomiak-radom"
+        },
+        {
+          "title": "Jagiellonia Białystok vs Zagłębie Lubin",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "jagiellonia-bialystok-vs-zaglebie-lubin"
+        },
+        {
+          "title": "KS Cracovia vs Korona Kielce",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "ks-cracovia-vs-korona-kielce"
+        }
+      ]
+    },
+    {
+      "title": "Bruk-Bet Termalica Nieciecza vs Lechia Gdańsk",
+      "time": "17:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/polen-ekstraklasa/ma11128584/bruk-bet-termalica-nieciecza_lechia-gdansk/info",
+      "slug": "bruk-bet-termalica-nieciecza-vs-lechia-gdansk",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Górnik Zabrze vs Radomiak Radom",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "gornik-zabrze-vs-radomiak-radom"
+        },
+        {
+          "title": "Jagiellonia Białystok vs Zagłębie Lubin",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "jagiellonia-bialystok-vs-zaglebie-lubin"
+        },
+        {
+          "title": "KS Cracovia vs Korona Kielce",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "ks-cracovia-vs-korona-kielce"
+        }
+      ]
+    },
+    {
+      "title": "Widzew Łódź vs Piast Gliwice",
+      "time": "17:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/polen-ekstraklasa/ma11128587/widzew-lodz_piast-gliwice/info",
+      "slug": "widzew-lodz-vs-piast-gliwice",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Górnik Zabrze vs Radomiak Radom",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "gornik-zabrze-vs-radomiak-radom"
+        },
+        {
+          "title": "Jagiellonia Białystok vs Zagłębie Lubin",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "jagiellonia-bialystok-vs-zaglebie-lubin"
+        },
+        {
+          "title": "KS Cracovia vs Korona Kielce",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "ks-cracovia-vs-korona-kielce"
+        }
+      ]
+    },
+    {
+      "title": "Sigma Olomouc vs MFK Karviná",
+      "time": "14:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/tschechien-1-fotbalova-liga/ma12083333/sigma-olomouc_mfk-karvina/info",
+      "slug": "sigma-olomouc-vs-mfk-karvina",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FK Dukla Praha vs Baník Ostrava",
+          "time": "14:00",
+          "sender": "Sportschau Live",
+          "slug": "fk-dukla-praha-vs-banik-ostrava"
+        },
+        {
+          "title": "FC Zlín vs 1. FC Slovácko",
+          "time": "14:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-zlin-vs-1-fc-slovacko"
+        },
+        {
+          "title": "FK Mladá Boleslav vs FK Teplice",
+          "time": "14:00",
+          "sender": "Sportschau Live",
+          "slug": "fk-mlada-boleslav-vs-fk-teplice"
+        }
+      ]
+    },
+    {
+      "title": "FK Dukla Praha vs Baník Ostrava",
+      "time": "14:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/tschechien-1-fotbalova-liga/ma12023102/fk-dukla-praha_banik-ostrava/info",
+      "slug": "fk-dukla-praha-vs-banik-ostrava",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Sigma Olomouc vs MFK Karviná",
+          "time": "14:00",
+          "sender": "Sportschau Live",
+          "slug": "sigma-olomouc-vs-mfk-karvina"
+        },
+        {
+          "title": "FC Zlín vs 1. FC Slovácko",
+          "time": "14:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-zlin-vs-1-fc-slovacko"
+        },
+        {
+          "title": "FK Mladá Boleslav vs FK Teplice",
+          "time": "14:00",
+          "sender": "Sportschau Live",
+          "slug": "fk-mlada-boleslav-vs-fk-teplice"
+        }
+      ]
+    },
+    {
+      "title": "FC Zlín vs 1. FC Slovácko",
+      "time": "14:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/tschechien-1-fotbalova-liga/ma12023105/fc-zlin_1-fc-slovacko/info",
+      "slug": "fc-zlin-vs-1-fc-slovacko",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Sigma Olomouc vs MFK Karviná",
+          "time": "14:00",
+          "sender": "Sportschau Live",
+          "slug": "sigma-olomouc-vs-mfk-karvina"
+        },
+        {
+          "title": "FK Dukla Praha vs Baník Ostrava",
+          "time": "14:00",
+          "sender": "Sportschau Live",
+          "slug": "fk-dukla-praha-vs-banik-ostrava"
+        },
+        {
+          "title": "FK Mladá Boleslav vs FK Teplice",
+          "time": "14:00",
+          "sender": "Sportschau Live",
+          "slug": "fk-mlada-boleslav-vs-fk-teplice"
+        }
+      ]
+    },
+    {
+      "title": "FK Mladá Boleslav vs FK Teplice",
+      "time": "14:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/tschechien-1-fotbalova-liga/ma12023108/fk-mlada-boleslav_fk-teplice/info",
+      "slug": "fk-mlada-boleslav-vs-fk-teplice",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Sigma Olomouc vs MFK Karviná",
+          "time": "14:00",
+          "sender": "Sportschau Live",
+          "slug": "sigma-olomouc-vs-mfk-karvina"
+        },
+        {
+          "title": "FK Dukla Praha vs Baník Ostrava",
+          "time": "14:00",
+          "sender": "Sportschau Live",
+          "slug": "fk-dukla-praha-vs-banik-ostrava"
+        },
+        {
+          "title": "FC Zlín vs 1. FC Slovácko",
+          "time": "14:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-zlin-vs-1-fc-slovacko"
+        }
+      ]
+    },
+    {
+      "title": "Royal Antwerp FC vs KVC Westerlo",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/belgien-eerste-klasse/ma11953417/royal-antwerp-fc_kvc-westerlo/info",
+      "slug": "royal-antwerp-fc-vs-kvc-westerlo",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Lazio Rom vs Pisa SC",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "lazio-rom-vs-pisa-sc"
+        },
+        {
+          "title": "Standard Lüttich vs Sporting Charleroi",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "standard-luttich-vs-sporting-charleroi"
+        },
+        {
+          "title": "Oud-Heverlee Leuven vs KRC Genk",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "oud-heverlee-leuven-vs-krc-genk"
+        }
+      ]
+    },
+    {
+      "title": "Standard Lüttich vs Sporting Charleroi",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/belgien-eerste-klasse/ma11953420/standard-luettich_sporting-charleroi/info",
+      "slug": "standard-luttich-vs-sporting-charleroi",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Lazio Rom vs Pisa SC",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "lazio-rom-vs-pisa-sc"
+        },
+        {
+          "title": "Royal Antwerp FC vs KVC Westerlo",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "royal-antwerp-fc-vs-kvc-westerlo"
+        },
+        {
+          "title": "Oud-Heverlee Leuven vs KRC Genk",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "oud-heverlee-leuven-vs-krc-genk"
+        }
+      ]
+    },
+    {
+      "title": "Oud-Heverlee Leuven vs KRC Genk",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/belgien-eerste-klasse/ma11953423/oud-heverlee-leuven_krc-genk/info",
+      "slug": "oud-heverlee-leuven-vs-krc-genk",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Lazio Rom vs Pisa SC",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "lazio-rom-vs-pisa-sc"
+        },
+        {
+          "title": "Royal Antwerp FC vs KVC Westerlo",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "royal-antwerp-fc-vs-kvc-westerlo"
+        },
+        {
+          "title": "Standard Lüttich vs Sporting Charleroi",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "standard-luttich-vs-sporting-charleroi"
+        }
+      ]
+    },
+    {
+      "title": "FC Volendam vs Willem II",
+      "time": "16:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/niederlande-playoffs-eredivisie/ma12089015/fc-volendam_willem-ii/info",
+      "slug": "fc-volendam-vs-willem-ii",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Mexiko vs Ghana",
+      "time": "04:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-freundschaft/ma11943278/mexiko_ghana/liveticker",
+      "slug": "mexiko-vs-ghana",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "San Antonio Spurs vs Oklahoma City Thunder",
+      "time": "02:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma12088919/san-antonio-spurs_oklahoma-city-thunder/info",
+      "slug": "san-antonio-spurs-vs-oklahoma-city-thunder",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Colorado Avalanche vs Vegas Golden Knights",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma12088778/colorado-avalanche_vegas-golden-knights/info",
+      "slug": "colorado-avalanche-vs-vegas-golden-knights",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Victoria Mboko vs Emma Navarro",
+      "time": "14:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-frankreich-internationaux-de-strasbourg/ma11779027/victoria-mboko_emma-navarro/info",
+      "slug": "victoria-mboko-vs-emma-navarro",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Anhelina Kalinina vs Petra Marcinko",
+          "time": "14:00",
+          "sender": "Sportschau Live",
+          "slug": "anhelina-kalinina-vs-petra-marcinko"
+        }
+      ]
+    },
+    {
+      "title": "Anhelina Kalinina vs Petra Marcinko",
+      "time": "14:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-marokko-grand-prix-de-sar-la-princesse-lalla-meryem/ma11779690/anhelina-kalinina_petra-marcinko/info",
+      "slug": "anhelina-kalinina-vs-petra-marcinko",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Victoria Mboko vs Emma Navarro",
+          "time": "14:00",
+          "sender": "Sportschau Live",
+          "slug": "victoria-mboko-vs-emma-navarro"
+        }
+      ]
+    },
+    {
+      "title": "Ignacio Buse vs Tommy Paul",
+      "time": "14:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-deutschland-bet-at-home-open/ma11753113/ignacio-buse_tommy-paul/info",
+      "slug": "ignacio-buse-vs-tommy-paul",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Mariano Navone vs Learner Tien",
+      "time": "15:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-schweiz-geneva-open/ma11753206/mariano-navone_learner-tien/info",
+      "slug": "mariano-navone-vs-learner-tien",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": " vs ",
+      "time": "09:45",
+      "iso_time": "",
+      "sport": "DTM",
+      "sport_slug": "dtm",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/motorsport/dtm/co577/zandvoort/ma11749660/ergebnisse",
+      "slug": "vs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": " vs ",
+      "time": "13:30",
+      "iso_time": "",
+      "sport": "DTM",
+      "sport_slug": "dtm",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/motorsport/dtm/co577/zandvoort/ma11749663/ergebnisse",
+      "slug": "vs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Welsh Open | Finale",
+      "subtitle": "B. Hawkins - J. Lisowski | 2. Session | Llandudno | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:31",
+      "iso_time": "2026-05-23T01:31:56+02:00",
+      "link": "",
+      "slug": "welsh-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Giro d'Italia | 13. Etappe",
+      "subtitle": "Alessandria - Verbania (189km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:01",
+      "iso_time": "2026-05-23T03:01:28+02:00",
+      "link": "",
+      "slug": "giro-d-italia-13-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Welsh Open | Finale",
+      "subtitle": "B. Hawkins - J. Lisowski | 2. Session | Llandudno | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:57",
+      "iso_time": "2026-05-23T04:57:53+02:00",
+      "link": "https://play.hbomax.com/sport/a346f418-5a1c-5c05-894d-29f54951f4b7?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "welsh-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Giro d'Italia | 13. Etappe",
+      "subtitle": "Alessandria - Verbania (189km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:57",
+      "iso_time": "2026-05-23T06:57:48+02:00",
+      "link": "https://play.hbomax.com/sport/57cc886b-6f6c-5019-b3c9-3198918d8a9f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-13-etappe",
+      "related_events": []
+    },
+    {
+      "title": "WM | Finale",
+      "subtitle": "S. Murphy - Wu Y. | 4. Session | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:30",
+      "iso_time": "2026-05-23T08:30:30+02:00",
+      "link": "https://play.hbomax.com/sport/2b1b4099-d1b6-5af2-bf4a-9d73a35499e6?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-finale",
+      "related_events": []
+    },
+    {
+      "title": "Giro d'Italia | 13. Etappe",
+      "subtitle": "Alessandria - Verbania (189km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:34",
+      "iso_time": "2026-05-23T08:34:53+02:00",
+      "link": "https://play.hbomax.com/sport/4eee04b0-f975-528d-8fd1-6416891e67ff?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-13-etappe",
+      "related_events": []
+    },
+    {
+      "title": "UCI XCO Weltcup | Yongpyong | Männer Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Olympic",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:16",
+      "iso_time": "2026-05-23T09:16:58+02:00",
+      "link": "https://play.hbomax.com/sport/bb7b2df3-1121-5590-a900-0926ac2d7045?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uci-xco-weltcup-yongpyong-manner-elite",
+      "related_events": [
+        {
+          "title": "UCI Weltcup | Nove Mesto | Frauen Elite",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-nove-mesto-frauen-elite"
+        },
+        {
+          "title": "UCI Weltcup | Nove Mesto | Frauen Elite",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-nove-mesto-frauen-elite"
+        },
+        {
+          "title": "UCI Weltcup | Nove Mesto | Männer Elite",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-nove-mesto-manner-elite"
+        }
+      ]
+    },
+    {
+      "title": "Golden Trail World Series | Zegama | Highlights",
+      "subtitle": "Spanien | Männer / Frauen | Englischer Kommentar",
+      "sport": "Trail Running",
+      "sport_slug": "trail-running",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:30",
+      "iso_time": "2026-05-23T09:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/84a54b1b-94e2-5cc7-928e-a841ecddd02e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "golden-trail-world-series-zegama-highlights",
+      "related_events": []
+    },
+    {
+      "title": "T100 Triathlon World Tour | Singapur T100",
+      "subtitle": "Männer | 2. Station",
+      "sport": "Triathlon",
+      "sport_slug": "triathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:55",
+      "iso_time": "2026-05-23T09:55:06+02:00",
+      "link": "https://play.hbomax.com/sport/b4926a5e-5364-5444-8979-149c422f3451?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "t100-triathlon-world-tour-singapur-t100",
+      "related_events": [
+        {
+          "title": "T100 Triathlon World Tour",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "t100-triathlon-world-tour"
+        },
+        {
+          "title": "T100 Triathlon World Tour",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "t100-triathlon-world-tour"
+        }
+      ]
+    },
+    {
+      "title": "Bern | Bouldern | Halbfinale",
+      "subtitle": "World Series | Frauen",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:00",
+      "iso_time": "2026-05-23T10:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/7c824ecf-f19d-5bcc-bf8d-004a0d9f2cc7?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "bern-bouldern-halbfinale",
+      "related_events": []
+    },
+    {
+      "title": "Giro d'Italia | 13. Etappe",
+      "subtitle": "Alessandria - Verbania (189km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:03",
+      "iso_time": "2026-05-23T10:03:38+02:00",
+      "link": "https://play.hbomax.com/sport/57bb98be-aa36-5cd1-8e3b-5a494cce17bd?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-13-etappe",
+      "related_events": [
+        {
+          "title": "Giro d'Italia | 14. Etappe",
+          "time": "12:45",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-14-etappe"
+        },
+        {
+          "title": "Giro d'Italia | 14. Etappe",
+          "time": "12:45",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-14-etappe"
+        },
+        {
+          "title": "Giro d'Italia | 14. Etappe",
+          "time": "12:45",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-14-etappe"
+        }
+      ]
+    },
+    {
+      "title": "UCI Weltcup | Nove Mesto | Frauen Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Short Track",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-05-23T11:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/23d9402b-1a76-5ec3-8884-b9ef5eec2343?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uci-weltcup-nove-mesto-frauen-elite",
+      "related_events": [
+        {
+          "title": "UCI XCO Weltcup | Yongpyong | Männer Elite",
+          "time": "09:16",
+          "sender": "Eurosport",
+          "slug": "uci-xco-weltcup-yongpyong-manner-elite"
+        },
+        {
+          "title": "UCI Weltcup | Nove Mesto | Männer Elite",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-nove-mesto-manner-elite"
+        },
+        {
+          "title": "UCI Weltcup | Nove Mesto | Männer Elite",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-nove-mesto-manner-elite"
+        }
+      ]
+    },
+    {
+      "title": "UCI Weltcup | Nove Mesto | Frauen Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Short Track",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-05-23T11:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/6c04d36a-0a44-5b6d-a111-a83fbb1edf79?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uci-weltcup-nove-mesto-frauen-elite",
+      "related_events": [
+        {
+          "title": "UCI XCO Weltcup | Yongpyong | Männer Elite",
+          "time": "09:16",
+          "sender": "Eurosport",
+          "slug": "uci-xco-weltcup-yongpyong-manner-elite"
+        },
+        {
+          "title": "UCI Weltcup | Nove Mesto | Männer Elite",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-nove-mesto-manner-elite"
+        },
+        {
+          "title": "UCI Weltcup | Nove Mesto | Männer Elite",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-nove-mesto-manner-elite"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros | Finale",
+      "subtitle": "Grand Slam",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:01",
+      "iso_time": "2026-05-23T11:01:13+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-finale",
+      "related_events": []
+    },
+    {
+      "title": "T100 Triathlon World Tour",
+      "subtitle": "Women | Navarra-Pamplona",
+      "sport": "Triathlon",
+      "sport_slug": "triathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:00",
+      "iso_time": "2026-05-23T12:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/712d71e3-26dc-5f7a-a86b-3069ba78562f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "t100-triathlon-world-tour",
+      "related_events": [
+        {
+          "title": "T100 Triathlon World Tour | Singapur T100",
+          "time": "09:55",
+          "sender": "Eurosport",
+          "slug": "t100-triathlon-world-tour-singapur-t100"
+        }
+      ]
+    },
+    {
+      "title": "T100 Triathlon World Tour",
+      "subtitle": "Frauen | Navarra-Pamplona",
+      "sport": "Triathlon",
+      "sport_slug": "triathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:00",
+      "iso_time": "2026-05-23T12:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/96387097-1d15-5708-b11e-e2b25dcdc4c5?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "t100-triathlon-world-tour",
+      "related_events": [
+        {
+          "title": "T100 Triathlon World Tour | Singapur T100",
+          "time": "09:55",
+          "sender": "Eurosport",
+          "slug": "t100-triathlon-world-tour-singapur-t100"
+        }
+      ]
+    },
+    {
+      "title": "UCI Weltcup | Nove Mesto | Männer Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Short Track",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:00",
+      "iso_time": "2026-05-23T12:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/8487c6fd-77b0-59fb-a408-85afb6da3a6e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uci-weltcup-nove-mesto-manner-elite",
+      "related_events": [
+        {
+          "title": "UCI XCO Weltcup | Yongpyong | Männer Elite",
+          "time": "09:16",
+          "sender": "Eurosport",
+          "slug": "uci-xco-weltcup-yongpyong-manner-elite"
+        },
+        {
+          "title": "UCI Weltcup | Nove Mesto | Frauen Elite",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-nove-mesto-frauen-elite"
+        },
+        {
+          "title": "UCI Weltcup | Nove Mesto | Frauen Elite",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-nove-mesto-frauen-elite"
+        }
+      ]
+    },
+    {
+      "title": "UCI Weltcup | Nove Mesto | Männer Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Short Track",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:00",
+      "iso_time": "2026-05-23T12:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/193e3049-3a40-5bfa-b972-81a37b1b6cad?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uci-weltcup-nove-mesto-manner-elite",
+      "related_events": [
+        {
+          "title": "UCI XCO Weltcup | Yongpyong | Männer Elite",
+          "time": "09:16",
+          "sender": "Eurosport",
+          "slug": "uci-xco-weltcup-yongpyong-manner-elite"
+        },
+        {
+          "title": "UCI Weltcup | Nove Mesto | Frauen Elite",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-nove-mesto-frauen-elite"
+        },
+        {
+          "title": "UCI Weltcup | Nove Mesto | Frauen Elite",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-nove-mesto-frauen-elite"
+        }
+      ]
+    },
+    {
+      "title": "Giro d'Italia | 14. Etappe",
+      "subtitle": "UCI World Tour | Männer | Internationaler Kommentar",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:45",
+      "iso_time": "2026-05-23T12:45:00+02:00",
+      "link": "https://play.hbomax.com/sport/4ac01216-70ec-5574-8e7e-3d0a89f1eaee?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-14-etappe",
+      "related_events": [
+        {
+          "title": "Giro d'Italia | 13. Etappe",
+          "time": "10:03",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-13-etappe"
+        },
+        {
+          "title": "Giro d'Italia | 14. Etappe | Multi-Screen",
+          "time": "13:05",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-14-etappe-multi-screen"
+        },
+        {
+          "title": "Vuelta a Burgos | 3. Etappe",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-burgos-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Giro d'Italia | 14. Etappe",
+      "subtitle": "Aosta - Pila (Gressan) (133km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:45",
+      "iso_time": "2026-05-23T12:45:00+02:00",
+      "link": "https://play.hbomax.com/sport/1c2a5e92-eaa8-5ce3-894d-65ccabd82c4c?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-14-etappe",
+      "related_events": [
+        {
+          "title": "Giro d'Italia | 13. Etappe",
+          "time": "10:03",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-13-etappe"
+        },
+        {
+          "title": "Giro d'Italia | 14. Etappe | Multi-Screen",
+          "time": "13:05",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-14-etappe-multi-screen"
+        },
+        {
+          "title": "Vuelta a Burgos | 3. Etappe",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-burgos-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Giro d'Italia | 14. Etappe",
+      "subtitle": "Aosta - Pila (Gressan) (133km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:45",
+      "iso_time": "2026-05-23T12:45:00+02:00",
+      "link": "https://play.hbomax.com/sport/58d84c1b-f27e-5860-9584-2c981e6f8758?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-14-etappe",
+      "related_events": [
+        {
+          "title": "Giro d'Italia | 13. Etappe",
+          "time": "10:03",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-13-etappe"
+        },
+        {
+          "title": "Giro d'Italia | 14. Etappe | Multi-Screen",
+          "time": "13:05",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-14-etappe-multi-screen"
+        },
+        {
+          "title": "Vuelta a Burgos | 3. Etappe",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-burgos-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Giro d'Italia | 14. Etappe | Multi-Screen",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:05",
+      "iso_time": "2026-05-23T13:05:00+02:00",
+      "link": "https://play.hbomax.com/sport/2b452c4c-1fa7-5b30-926d-8b5a03754af3?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-14-etappe-multi-screen",
+      "related_events": [
+        {
+          "title": "Giro d'Italia | 14. Etappe",
+          "time": "12:45",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-14-etappe"
+        },
+        {
+          "title": "Giro d'Italia | 14. Etappe",
+          "time": "12:45",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-14-etappe"
+        },
+        {
+          "title": "Giro d'Italia | 14. Etappe",
+          "time": "12:45",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-14-etappe"
+        }
+      ]
+    },
+    {
+      "title": "FIM Speedway GP | Prag | Qualifikation",
+      "subtitle": "Qualifikation",
+      "sport": "Speedway",
+      "sport_slug": "speedway",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:00",
+      "iso_time": "2026-05-23T14:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/c12ad888-24b0-5e65-98c2-1c485da1c67f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "fim-speedway-gp-prag-qualifikation",
+      "related_events": []
+    },
+    {
+      "title": "Vuelta a Burgos | 3. Etappe",
+      "subtitle": "UCI World Tour | Frauen | Gumiel de Mercado - Lagunas de Neila (120km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:30",
+      "iso_time": "2026-05-23T14:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/d903e179-fc81-5586-80f0-dc2f2ee17a16?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "vuelta-a-burgos-3-etappe",
+      "related_events": [
+        {
+          "title": "Giro d'Italia | 14. Etappe",
+          "time": "12:45",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-14-etappe"
+        },
+        {
+          "title": "Giro d'Italia | 14. Etappe",
+          "time": "12:45",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-14-etappe"
+        },
+        {
+          "title": "Giro d'Italia | 14. Etappe",
+          "time": "12:45",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-14-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Veenendaal-Veenendaal Classic",
+      "subtitle": "UCI | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:45",
+      "iso_time": "2026-05-23T14:45:00+02:00",
+      "link": "https://play.hbomax.com/sport/d1f2044a-8aa8-5b83-bc86-93ad9f67f7d8?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "veenendaal-veenendaal-classic",
+      "related_events": [
+        {
+          "title": "Giro d'Italia | 14. Etappe",
+          "time": "12:45",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-14-etappe"
+        },
+        {
+          "title": "Giro d'Italia | 14. Etappe",
+          "time": "12:45",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-14-etappe"
+        },
+        {
+          "title": "Giro d'Italia | 14. Etappe",
+          "time": "12:45",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-14-etappe"
+        }
+      ]
+    },
+    {
+      "title": "4 Tage von Dünkirchen | 4. Etappe",
+      "subtitle": "UCI Pro Series | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:00",
+      "iso_time": "2026-05-23T15:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/1896aae6-e762-5e54-a246-5c8d27d8bf4f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "4-tage-von-dunkirchen-4-etappe",
+      "related_events": [
+        {
+          "title": "Giro d'Italia | 14. Etappe",
+          "time": "12:45",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-14-etappe"
+        },
+        {
+          "title": "Giro d'Italia | 14. Etappe",
+          "time": "12:45",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-14-etappe"
+        },
+        {
+          "title": "Giro d'Italia | 14. Etappe",
+          "time": "12:45",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-14-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Wujiang | Lead | Finale",
+      "subtitle": "World Series | Frauen / Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2026-05-23T16:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/d3cc782f-235b-5934-a685-0aa57cacf37e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wujiang-lead-finale",
+      "related_events": [
+        {
+          "title": "Wujiang | Speed | Finale",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "wujiang-speed-finale"
+        },
+        {
+          "title": "Bern | Bouldern | Finale",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "bern-bouldern-finale"
+        },
+        {
+          "title": "Bern | Bouldern | Finale",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "bern-bouldern-finale"
+        }
+      ]
+    },
+    {
+      "title": "Wujiang | Speed | Finale",
+      "subtitle": "World Series | Frauen / Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2026-05-23T17:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/a0097650-8a36-5e85-8503-9623c3f97e52?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wujiang-speed-finale",
+      "related_events": [
+        {
+          "title": "Wujiang | Lead | Finale",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "wujiang-lead-finale"
+        },
+        {
+          "title": "Bern | Bouldern | Finale",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "bern-bouldern-finale"
+        },
+        {
+          "title": "Bern | Bouldern | Finale",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "bern-bouldern-finale"
+        }
+      ]
+    },
+    {
+      "title": "Velo Club | Giro-Show zur 14. Etappe",
+      "subtitle": "Experten-Talk zum Giro d'Italia",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:15",
+      "iso_time": "2026-05-23T17:15:00+02:00",
+      "link": "https://play.hbomax.com/sport/e77a1df5-f143-5f50-885b-05362c51bbf3?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "velo-club-giro-show-zur-14-etappe",
+      "related_events": [
+        {
+          "title": "Vuelta a Burgos | 3. Etappe",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-burgos-3-etappe"
+        },
+        {
+          "title": "Veenendaal-Veenendaal Classic",
+          "time": "14:45",
+          "sender": "Eurosport",
+          "slug": "veenendaal-veenendaal-classic"
+        },
+        {
+          "title": "4 Tage von Dünkirchen | 4. Etappe",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "4-tage-von-dunkirchen-4-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Velo Club | Giro-Show zur 14. Etappe",
+      "subtitle": "Experten-Talk zum Giro d’Italia",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:15",
+      "iso_time": "2026-05-23T17:15:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "velo-club-giro-show-zur-14-etappe",
+      "related_events": [
+        {
+          "title": "Vuelta a Burgos | 3. Etappe",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "vuelta-a-burgos-3-etappe"
+        },
+        {
+          "title": "Veenendaal-Veenendaal Classic",
+          "time": "14:45",
+          "sender": "Eurosport",
+          "slug": "veenendaal-veenendaal-classic"
+        },
+        {
+          "title": "4 Tage von Dünkirchen | 4. Etappe",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "4-tage-von-dunkirchen-4-etappe"
+        }
+      ]
+    },
+    {
+      "title": "The Cycling Show | Red Bull - Bora-hansgrohe",
+      "subtitle": "Radsport-Magazin | Saison 2026 | Folge 6",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:45",
+      "iso_time": "2026-05-23T17:45:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "the-cycling-show-red-bull-bora-hansgrohe",
+      "related_events": [
+        {
+          "title": "Veenendaal-Veenendaal Classic",
+          "time": "14:45",
+          "sender": "Eurosport",
+          "slug": "veenendaal-veenendaal-classic"
+        },
+        {
+          "title": "4 Tage von Dünkirchen | 4. Etappe",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "4-tage-von-dunkirchen-4-etappe"
+        },
+        {
+          "title": "Velo Club | Giro-Show zur 14. Etappe",
+          "time": "17:15",
+          "sender": "Eurosport",
+          "slug": "velo-club-giro-show-zur-14-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Bern | Bouldern | Finale",
+      "subtitle": "World Series | Frauen",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2026-05-23T18:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/13941232-b932-5578-b74c-ce8c6d4d8283?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "bern-bouldern-finale",
+      "related_events": [
+        {
+          "title": "Wujiang | Lead | Finale",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "wujiang-lead-finale"
+        },
+        {
+          "title": "Wujiang | Speed | Finale",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "wujiang-speed-finale"
+        }
+      ]
+    },
+    {
+      "title": "Bern | Bouldern | Finale",
+      "subtitle": "World Series | Frauen",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2026-05-23T18:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/b5a75b38-9144-54cd-aeee-d4461b737ee6?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "bern-bouldern-finale",
+      "related_events": [
+        {
+          "title": "Wujiang | Lead | Finale",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "wujiang-lead-finale"
+        },
+        {
+          "title": "Wujiang | Speed | Finale",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "wujiang-speed-finale"
+        }
+      ]
+    },
+    {
+      "title": "UCI Weltcup | Nove Mesto | Frauen Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Short Track",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2026-05-23T18:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/611cf10e-e608-5134-9c51-c901822cae57?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uci-weltcup-nove-mesto-frauen-elite",
+      "related_events": [
+        {
+          "title": "UCI Weltcup | Nove Mesto | Männer Elite",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-nove-mesto-manner-elite"
+        }
+      ]
+    },
+    {
+      "title": "UCI Weltcup | Nove Mesto | Männer Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Short Track",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2026-05-23T18:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/f4b1a391-8332-5f53-aa0d-4a12ea58c4c6?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uci-weltcup-nove-mesto-manner-elite",
+      "related_events": [
+        {
+          "title": "UCI Weltcup | Nove Mesto | Frauen Elite",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-nove-mesto-frauen-elite"
+        }
+      ]
+    },
+    {
+      "title": "FIM Speedway GP | Prag | Rennen",
+      "subtitle": "Rennen",
+      "sport": "Speedway",
+      "sport_slug": "speedway",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:40",
+      "iso_time": "2026-05-23T18:40:00+02:00",
+      "link": "https://play.hbomax.com/sport/231584c9-6851-53ca-ba6d-a8e599caa03f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "fim-speedway-gp-prag-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Giro d'Italia | 14. Etappe",
+      "subtitle": "Aosta - Pila (Gressan) (133km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2026-05-23T19:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/6664c6c2-d8cb-5b4b-a3a9-3bf1378cd0ca?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-14-etappe",
+      "related_events": [
+        {
+          "title": "Velo Club | Giro-Show zur 14. Etappe",
+          "time": "17:15",
+          "sender": "Eurosport",
+          "slug": "velo-club-giro-show-zur-14-etappe"
+        },
+        {
+          "title": "Velo Club | Giro-Show zur 14. Etappe",
+          "time": "17:15",
+          "sender": "Eurosport",
+          "slug": "velo-club-giro-show-zur-14-etappe"
+        },
+        {
+          "title": "The Cycling Show | Red Bull - Bora-hansgrohe",
+          "time": "17:45",
+          "sender": "Eurosport",
+          "slug": "the-cycling-show-red-bull-bora-hansgrohe"
+        }
+      ]
+    },
+    {
+      "title": "Best Of Roland-Garros",
+      "subtitle": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-05-23T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "best-of-roland-garros",
+      "related_events": []
+    },
+    {
+      "title": "T100 Triathlon World Tour",
+      "subtitle": "Frauen | Navarra-Pamplona",
+      "sport": "Triathlon",
+      "sport_slug": "triathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2026-05-23T21:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/ee92fe7d-6434-5ddb-9300-7c59a62ace96?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "t100-triathlon-world-tour",
+      "related_events": []
+    },
+    {
+      "title": "T100 Triathlon World Tour",
+      "subtitle": "Frauen | Navarra-Pamplona",
+      "sport": "Triathlon",
+      "sport_slug": "triathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2026-05-23T21:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/44bd9ad3-4c23-50df-a141-42847e0589ca?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "t100-triathlon-world-tour",
+      "related_events": []
+    },
+    {
+      "title": "Giro d'Italia | 14. Etappe",
+      "subtitle": "Aosta - Pila (Gressan) (133km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-05-23T22:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/89f650fa-fa79-54d4-8cea-aeda8c125cb4?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-14-etappe",
+      "related_events": []
+    },
+    {
+      "title": "UCI Weltcup | Nove Mesto | Frauen Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Short Track",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2026-05-23T23:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/40f7127f-1ae5-5f17-9811-d4ffda28e4aa?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uci-weltcup-nove-mesto-frauen-elite",
+      "related_events": [
+        {
+          "title": "UCI Weltcup | Nove Mesto | Männer Elite",
+          "time": "23:30",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-nove-mesto-manner-elite"
+        }
+      ]
+    },
+    {
+      "title": "UCI Weltcup | Nove Mesto | Männer Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Short Track",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:30",
+      "iso_time": "2026-05-23T23:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/86b2392b-c3d7-590c-8b5c-e45afec99e5d?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uci-weltcup-nove-mesto-manner-elite",
+      "related_events": [
+        {
+          "title": "UCI Weltcup | Nove Mesto | Frauen Elite",
+          "time": "23:00",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-nove-mesto-frauen-elite"
+        }
+      ]
+    },
+    {
+      "title": "Giro d'Italia | 14. Etappe",
+      "subtitle": "Aosta - Pila (Gressan) (133km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-05-24T00:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/3b2f3c52-7c5a-5fb6-9365-216329647a53?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-14-etappe",
+      "related_events": []
+    },
+    {
+      "title": "WM | Finale",
+      "subtitle": "S. Murphy - Wu Y. | 4. Session | Sheffield",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-05-24T00:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/71d40149-c3c5-53cd-89a8-f39a35ac9173?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-finale",
+      "related_events": []
+    },
+    {
+      "title": "WM | Finale",
+      "subtitle": "WM",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:30",
+      "iso_time": "2026-05-24T01:30:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-finale",
+      "related_events": []
+    }
+  ]
+}
