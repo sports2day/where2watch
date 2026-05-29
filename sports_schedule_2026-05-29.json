@@ -1,0 +1,3529 @@
+{
+  "date": "2026-05-29",
+  "events": [
+    {
+      "title": "HC Erlangen vs Bergischer HC",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/ma11406053/hc-erlangen_bergischer-hc/info",
+      "slug": "hc-erlangen-vs-bergischer-hc",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "ThSV Eisenach vs Füchse Berlin",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/ma11405963/thsv-eisenach_fuechse-berlin/info",
+      "slug": "thsv-eisenach-vs-fuchse-berlin",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "OGC Nizza vs AS Saint-Étienne",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/frankreich-relegation-ligue-1/ma12088802/ogc-nizza_as-saint-etienne/info",
+      "slug": "ogc-nizza-vs-as-saint-etienne",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Iran vs Gambia",
+      "time": "17:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-freundschaft/ma12036038/iran_gambia/info",
+      "slug": "iran-vs-gambia",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Südafrika vs Nicaragua",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-freundschaft/ma12027017/suedafrika_nicaragua/info",
+      "slug": "sudafrika-vs-nicaragua",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Andorra vs Irak",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "andorra-vs-irak"
+        }
+      ]
+    },
+    {
+      "title": "Andorra vs Irak",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-freundschaft/ma12036035/andorra_irak/info",
+      "slug": "andorra-vs-irak",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Südafrika vs Nicaragua",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "sudafrika-vs-nicaragua"
+        }
+      ]
+    },
+    {
+      "title": "Bosnien-Herzegowina vs Nordmazedonien",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-freundschaft/ma12001772/bosnien-herzegowina_nordmazedonien/info",
+      "slug": "bosnien-herzegowina-vs-nordmazedonien",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "San Antonio Spurs vs Oklahoma City Thunder",
+      "time": "02:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma12097409/san-antonio-spurs_oklahoma-city-thunder/info",
+      "slug": "san-antonio-spurs-vs-oklahoma-city-thunder",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Xiyu Wang vs Yulia Starodubtseva",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/french-open-frauen/ma11779363/xiyu-wang_yulia-starodubtseva/info",
+      "slug": "xiyu-wang-vs-yulia-starodubtseva",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Marta Kostyuk vs Viktorija Golubic",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "marta-kostyuk-vs-viktorija-golubic"
+        },
+        {
+          "title": "Kalinina, A. / Yastremska, D. vs Sonmez, Z. / Maria, T.",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "kalinina-a-yastremska-d-vs-sonmez-z-maria-t"
+        },
+        {
+          "title": "Guo, H. / Mladenovic, K. vs Hsieh, S.-W. / Wang, X.",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "guo-h-mladenovic-k-vs-hsieh-s-w-wang-x"
+        }
+      ]
+    },
+    {
+      "title": "Marta Kostyuk vs Viktorija Golubic",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/french-open-frauen/ma11779348/marta-kostyuk_viktorija-golubic/info",
+      "slug": "marta-kostyuk-vs-viktorija-golubic",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Xiyu Wang vs Yulia Starodubtseva",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "xiyu-wang-vs-yulia-starodubtseva"
+        },
+        {
+          "title": "Kalinina, A. / Yastremska, D. vs Sonmez, Z. / Maria, T.",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "kalinina-a-yastremska-d-vs-sonmez-z-maria-t"
+        },
+        {
+          "title": "Guo, H. / Mladenovic, K. vs Hsieh, S.-W. / Wang, X.",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "guo-h-mladenovic-k-vs-hsieh-s-w-wang-x"
+        }
+      ]
+    },
+    {
+      "title": "Magda Linette vs Iga Świątek",
+      "time": "12:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/french-open-frauen/ma11779351/magda-linette_iga-swiatek/info",
+      "slug": "magda-linette-vs-iga-swiatek",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Magda Linette - Iga Swiatek",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "magda-linette-iga-swiatek"
+        }
+      ]
+    },
+    {
+      "title": "Solana Sierra vs Sorana Cirstea",
+      "time": "12:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/french-open-frauen/ma11779360/solana-sierra_sorana-cirstea/info",
+      "slug": "solana-sierra-vs-sorana-cirstea",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Jil Teichmann vs Karolina Muchova",
+      "time": "13:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/french-open-frauen/ma11779357/jil-teichmann_karolina-muchova/info",
+      "slug": "jil-teichmann-vs-karolina-muchova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "First Serve Rittner | Analyse der Morning Session",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-analyse-der-morning-session"
+        },
+        {
+          "title": "First Serve Rittner | Analyse der Morning Session",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-analyse-der-morning-session"
+        }
+      ]
+    },
+    {
+      "title": "Mirra Andreeva vs Marie Bouzkova",
+      "time": "13:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/french-open-frauen/ma11779354/mirra-andreeva_marie-bouzkova/info",
+      "slug": "mirra-andreeva-vs-marie-bouzkova",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Elina Svitolina vs Tamara Korpatsch",
+      "time": "14:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/french-open-frauen/ma11779342/elina-svitolina_tamara-korpatsch/info",
+      "slug": "elina-svitolina-vs-tamara-korpatsch",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Peyton Stearns vs Belinda Bencic",
+      "time": "15:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/french-open-frauen/ma11779345/peyton-stearns_belinda-bencic/info",
+      "slug": "peyton-stearns-vs-belinda-bencic",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Joint, M. / Vandewinkel, H. vs Krunić, A. / Danilina, A.",
+          "time": "15:30",
+          "sender": "Sportschau Live",
+          "slug": "joint-m-vandewinkel-h-vs-krunic-a-danilina-a"
+        },
+        {
+          "title": "João Fonseca vs Novak Djokovic",
+          "time": "15:30",
+          "sender": "Sportschau Live",
+          "slug": "joao-fonseca-vs-novak-djokovic"
+        }
+      ]
+    },
+    {
+      "title": "Linette, M. / Starodubtseva, J. vs Jacquemot, E. / Rakotomanga Rajaonah, T.",
+      "time": "13:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1020/roland-garros/ma11779426/linette-m---starodubtseva-j_jacquemot-e---rakotomanga-rajaonah-t/info",
+      "slug": "linette-m-starodubtseva-j-vs-jacquemot-e-rakotomanga-rajaonah-t",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Jil Teichmann - Karolína Muchová",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "jil-teichmann-karolina-muchova"
+        },
+        {
+          "title": "R. Cash / J. Tracy - T. Droguet / H. Gaston",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "r-cash-j-tracy-t-droguet-h-gaston"
+        },
+        {
+          "title": "Alex Michelsen - Rafael Jódar",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "alex-michelsen-rafael-jodar"
+        }
+      ]
+    },
+    {
+      "title": "Kalinina, A. / Yastremska, D. vs Sonmez, Z. / Maria, T.",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1020/roland-garros/ma11779549/kalinina-a---yastremska-d_sonmez-z---maria-t/info",
+      "slug": "kalinina-a-yastremska-d-vs-sonmez-z-maria-t",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Xiyu Wang vs Yulia Starodubtseva",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "xiyu-wang-vs-yulia-starodubtseva"
+        },
+        {
+          "title": "Marta Kostyuk vs Viktorija Golubic",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "marta-kostyuk-vs-viktorija-golubic"
+        },
+        {
+          "title": "Guo, H. / Mladenovic, K. vs Hsieh, S.-W. / Wang, X.",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "guo-h-mladenovic-k-vs-hsieh-s-w-wang-x"
+        }
+      ]
+    },
+    {
+      "title": "Guo, H. / Mladenovic, K. vs Hsieh, S.-W. / Wang, X.",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1020/roland-garros/ma11779537/guo-h---mladenovic-k_hsieh-s-w---wang-x/info",
+      "slug": "guo-h-mladenovic-k-vs-hsieh-s-w-wang-x",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Xiyu Wang vs Yulia Starodubtseva",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "xiyu-wang-vs-yulia-starodubtseva"
+        },
+        {
+          "title": "Marta Kostyuk vs Viktorija Golubic",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "marta-kostyuk-vs-viktorija-golubic"
+        },
+        {
+          "title": "Kalinina, A. / Yastremska, D. vs Sonmez, Z. / Maria, T.",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "kalinina-a-yastremska-d-vs-sonmez-z-maria-t"
+        }
+      ]
+    },
+    {
+      "title": "N.N. vs Bucsa, C. / Melichar-Martinez, N.",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": null,
+      "slug": "n-n-vs-bucsa-c-melichar-martinez-n",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Xiyu Wang vs Yulia Starodubtseva",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "xiyu-wang-vs-yulia-starodubtseva"
+        },
+        {
+          "title": "Marta Kostyuk vs Viktorija Golubic",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "marta-kostyuk-vs-viktorija-golubic"
+        },
+        {
+          "title": "Kalinina, A. / Yastremska, D. vs Sonmez, Z. / Maria, T.",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "kalinina-a-yastremska-d-vs-sonmez-z-maria-t"
+        }
+      ]
+    },
+    {
+      "title": "Ostapenko, J. / Routliffe, E. vs Aoyama, S. / Liang, E.",
+      "time": "12:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1020/roland-garros/ma11779531/ostapenko-j---routliffe-e_aoyama-s---liang-e/info",
+      "slug": "ostapenko-j-routliffe-e-vs-aoyama-s-liang-e",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dabrowski, G. / Stefani, L. vs Pridankina, E. / Tang, Q.",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "dabrowski-g-stefani-l-vs-pridankina-e-tang-q"
+        },
+        {
+          "title": "Alex Michelsen vs Rafael Jodar",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "alex-michelsen-vs-rafael-jodar"
+        },
+        {
+          "title": "Bellucci, M. / Marozsan, F. vs Heliovaara, H. / Patten H.",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "bellucci-m-marozsan-f-vs-heliovaara-h-patten-h"
+        }
+      ]
+    },
+    {
+      "title": "Dabrowski, G. / Stefani, L. vs Pridankina, E. / Tang, Q.",
+      "time": "12:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1020/roland-garros/ma11779519/dabrowski-g---stefani-l_pridankina-e---tang-q/info",
+      "slug": "dabrowski-g-stefani-l-vs-pridankina-e-tang-q",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ostapenko, J. / Routliffe, E. vs Aoyama, S. / Liang, E.",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "ostapenko-j-routliffe-e-vs-aoyama-s-liang-e"
+        },
+        {
+          "title": "Alex Michelsen vs Rafael Jodar",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "alex-michelsen-vs-rafael-jodar"
+        },
+        {
+          "title": "Bellucci, M. / Marozsan, F. vs Heliovaara, H. / Patten H.",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "bellucci-m-marozsan-f-vs-heliovaara-h-patten-h"
+        }
+      ]
+    },
+    {
+      "title": "Siniakova, K. / Townsend, T. vs Arango, E. / Jovic, I.",
+      "time": "14:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1020/roland-garros/ma11779507/siniakova-k---townsend-t_arango-e---jovic-i/info",
+      "slug": "siniakova-k-townsend-t-vs-arango-e-jovic-i",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Bergs, Z. / Collignon, R. vs Nouza, P. / Oberleitner, N.",
+          "time": "14:30",
+          "sender": "Sportschau Live",
+          "slug": "bergs-z-collignon-r-vs-nouza-p-oberleitner-n"
+        },
+        {
+          "title": "Mirra Andreeva - Marie Bouzková",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "mirra-andreeva-marie-bouzkova"
+        }
+      ]
+    },
+    {
+      "title": "Joint, M. / Vandewinkel, H. vs Krunić, A. / Danilina, A.",
+      "time": "15:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1020/roland-garros/ma11779552/joint-m---vandewinkel-h_krunic-a---danilina-a/info",
+      "slug": "joint-m-vandewinkel-h-vs-krunic-a-danilina-a",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Peyton Stearns vs Belinda Bencic",
+          "time": "15:30",
+          "sender": "Sportschau Live",
+          "slug": "peyton-stearns-vs-belinda-bencic"
+        },
+        {
+          "title": "João Fonseca vs Novak Djokovic",
+          "time": "15:30",
+          "sender": "Sportschau Live",
+          "slug": "joao-fonseca-vs-novak-djokovic"
+        }
+      ]
+    },
+    {
+      "title": "Schuurs, D. / Perez, E. vs Tagger, L. / Errani, S.",
+      "time": "15:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1020/roland-garros/ma11779543/schuurs-d---perez-e_tagger-l---errani-s/info",
+      "slug": "schuurs-d-perez-e-vs-tagger-l-errani-s",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Balaji, S. / Demoliner, M. vs Schnaitter, J. / Wallner, M.",
+          "time": "15:40",
+          "sender": "Sportschau Live",
+          "slug": "balaji-s-demoliner-m-vs-schnaitter-j-wallner-m"
+        }
+      ]
+    },
+    {
+      "title": "Thiago Tirante vs Pablo Carreno Busta",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/french-open/ma11753536/thiago-tirante_pablo-carreno-busta/info",
+      "slug": "thiago-tirante-vs-pablo-carreno-busta",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Xiyu Wang vs Yulia Starodubtseva",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "xiyu-wang-vs-yulia-starodubtseva"
+        },
+        {
+          "title": "Marta Kostyuk vs Viktorija Golubic",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "marta-kostyuk-vs-viktorija-golubic"
+        },
+        {
+          "title": "Kalinina, A. / Yastremska, D. vs Sonmez, Z. / Maria, T.",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "kalinina-a-yastremska-d-vs-sonmez-z-maria-t"
+        }
+      ]
+    },
+    {
+      "title": "Nuno Borges vs Andrey Rublev",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/french-open/ma11753524/nuno-borges_andrey-rublev/info",
+      "slug": "nuno-borges-vs-andrey-rublev",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Xiyu Wang vs Yulia Starodubtseva",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "xiyu-wang-vs-yulia-starodubtseva"
+        },
+        {
+          "title": "Marta Kostyuk vs Viktorija Golubic",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "marta-kostyuk-vs-viktorija-golubic"
+        },
+        {
+          "title": "Kalinina, A. / Yastremska, D. vs Sonmez, Z. / Maria, T.",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "kalinina-a-yastremska-d-vs-sonmez-z-maria-t"
+        }
+      ]
+    },
+    {
+      "title": "Alex Michelsen vs Rafael Jodar",
+      "time": "12:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/french-open/ma11753533/alex-michelsen_rafael-jodar/info",
+      "slug": "alex-michelsen-vs-rafael-jodar",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ostapenko, J. / Routliffe, E. vs Aoyama, S. / Liang, E.",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "ostapenko-j-routliffe-e-vs-aoyama-s-liang-e"
+        },
+        {
+          "title": "Dabrowski, G. / Stefani, L. vs Pridankina, E. / Tang, Q.",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "dabrowski-g-stefani-l-vs-pridankina-e-tang-q"
+        },
+        {
+          "title": "Bellucci, M. / Marozsan, F. vs Heliovaara, H. / Patten H.",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "bellucci-m-marozsan-f-vs-heliovaara-h-patten-h"
+        }
+      ]
+    },
+    {
+      "title": "Karen Khachanov vs Jesper De Jong",
+      "time": "13:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/french-open/ma11753539/karen-khachanov_jesper-de-jong/info",
+      "slug": "karen-khachanov-vs-jesper-de-jong",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Alex de Minaur vs Jakub Mensik",
+          "time": "13:50",
+          "sender": "Sportschau Live",
+          "slug": "alex-de-minaur-vs-jakub-mensik"
+        }
+      ]
+    },
+    {
+      "title": "Alex de Minaur vs Jakub Mensik",
+      "time": "13:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/french-open/ma11753521/alex-de-minaur_jakub-mensik/info",
+      "slug": "alex-de-minaur-vs-jakub-mensik",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Karen Khachanov vs Jesper De Jong",
+          "time": "13:50",
+          "sender": "Sportschau Live",
+          "slug": "karen-khachanov-vs-jesper-de-jong"
+        }
+      ]
+    },
+    {
+      "title": "Casper Ruud vs Tommy Paul",
+      "time": "15:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/french-open/ma11753527/casper-ruud_tommy-paul/info",
+      "slug": "casper-ruud-vs-tommy-paul",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "João Fonseca vs Novak Djokovic",
+      "time": "15:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/french-open/ma11753530/joao-fonseca_novak-djokovic/info",
+      "slug": "joao-fonseca-vs-novak-djokovic",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Peyton Stearns vs Belinda Bencic",
+          "time": "15:30",
+          "sender": "Sportschau Live",
+          "slug": "peyton-stearns-vs-belinda-bencic"
+        },
+        {
+          "title": "Joint, M. / Vandewinkel, H. vs Krunić, A. / Danilina, A.",
+          "time": "15:30",
+          "sender": "Sportschau Live",
+          "slug": "joint-m-vandewinkel-h-vs-krunic-a-danilina-a"
+        }
+      ]
+    },
+    {
+      "title": "Quentin Halys vs Alexander Zverev",
+      "time": "20:15",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/french-open/ma11753542/quentin-halys_alexander-zverev/info",
+      "slug": "quentin-halys-vs-alexander-zverev",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Gonzalez, M. / Gonzalez, S. vs Burruchaga, R. / Tirante, T.",
+      "time": "13:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co908/roland-garros/ma11753665/gonzalez-m---gonzalez-s_burruchaga-r---tirante-t/info",
+      "slug": "gonzalez-m-gonzalez-s-vs-burruchaga-r-tirante-t",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Cash, J. / Glasspool, L. vs Pavlasek, A. / Rikl, P.",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co908/roland-garros/ma11753698/cash-j---glasspool-l_pavlasek-a---rikl-p/info",
+      "slug": "cash-j-glasspool-l-vs-pavlasek-a-rikl-p",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Xiyu Wang vs Yulia Starodubtseva",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "xiyu-wang-vs-yulia-starodubtseva"
+        },
+        {
+          "title": "Marta Kostyuk vs Viktorija Golubic",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "marta-kostyuk-vs-viktorija-golubic"
+        },
+        {
+          "title": "Kalinina, A. / Yastremska, D. vs Sonmez, Z. / Maria, T.",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "kalinina-a-yastremska-d-vs-sonmez-z-maria-t"
+        }
+      ]
+    },
+    {
+      "title": "Granollers, M. / Zeballos, H. vs Kirkov, V. / Stevens, B.",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co908/roland-garros/ma11753686/granollers-m---zeballos-h_kirkov-v---stevens-b/info",
+      "slug": "granollers-m-zeballos-h-vs-kirkov-v-stevens-b",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Xiyu Wang vs Yulia Starodubtseva",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "xiyu-wang-vs-yulia-starodubtseva"
+        },
+        {
+          "title": "Marta Kostyuk vs Viktorija Golubic",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "marta-kostyuk-vs-viktorija-golubic"
+        },
+        {
+          "title": "Kalinina, A. / Yastremska, D. vs Sonmez, Z. / Maria, T.",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "kalinina-a-yastremska-d-vs-sonmez-z-maria-t"
+        }
+      ]
+    },
+    {
+      "title": "Bellucci, M. / Marozsan, F. vs Heliovaara, H. / Patten H.",
+      "time": "12:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co908/roland-garros/ma11753731/bellucci-m---marozsan-f_heliovaara-h---patten-h/info",
+      "slug": "bellucci-m-marozsan-f-vs-heliovaara-h-patten-h",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ostapenko, J. / Routliffe, E. vs Aoyama, S. / Liang, E.",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "ostapenko-j-routliffe-e-vs-aoyama-s-liang-e"
+        },
+        {
+          "title": "Dabrowski, G. / Stefani, L. vs Pridankina, E. / Tang, Q.",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "dabrowski-g-stefani-l-vs-pridankina-e-tang-q"
+        },
+        {
+          "title": "Alex Michelsen vs Rafael Jodar",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "alex-michelsen-vs-rafael-jodar"
+        }
+      ]
+    },
+    {
+      "title": "Cash, R. / Tracy, J. vs Droguet, T. / Gaston, H.",
+      "time": "12:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co908/roland-garros/ma11753716/cash-r---tracy-j_droguet-t---gaston-h/info",
+      "slug": "cash-r-tracy-j-vs-droguet-t-gaston-h",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ostapenko, J. / Routliffe, E. vs Aoyama, S. / Liang, E.",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "ostapenko-j-routliffe-e-vs-aoyama-s-liang-e"
+        },
+        {
+          "title": "Dabrowski, G. / Stefani, L. vs Pridankina, E. / Tang, Q.",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "dabrowski-g-stefani-l-vs-pridankina-e-tang-q"
+        },
+        {
+          "title": "Alex Michelsen vs Rafael Jodar",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "alex-michelsen-vs-rafael-jodar"
+        }
+      ]
+    },
+    {
+      "title": "Nys, H. / Roger-Vasselin, E. vs Ho, R. / Jebens, H.",
+      "time": "12:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co908/roland-garros/ma11753692/nys-h---roger-vasselin-e_ho-r---jebens-h/info",
+      "slug": "nys-h-roger-vasselin-e-vs-ho-r-jebens-h",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ostapenko, J. / Routliffe, E. vs Aoyama, S. / Liang, E.",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "ostapenko-j-routliffe-e-vs-aoyama-s-liang-e"
+        },
+        {
+          "title": "Dabrowski, G. / Stefani, L. vs Pridankina, E. / Tang, Q.",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "dabrowski-g-stefani-l-vs-pridankina-e-tang-q"
+        },
+        {
+          "title": "Alex Michelsen vs Rafael Jodar",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "alex-michelsen-vs-rafael-jodar"
+        }
+      ]
+    },
+    {
+      "title": "Bergs, Z. / Collignon, R. vs Nouza, P. / Oberleitner, N.",
+      "time": "14:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co908/roland-garros/ma11753701/bergs-z---collignon-r_nouza-p---oberleitner-n/info",
+      "slug": "bergs-z-collignon-r-vs-nouza-p-oberleitner-n",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Siniakova, K. / Townsend, T. vs Arango, E. / Jovic, I.",
+          "time": "14:30",
+          "sender": "Sportschau Live",
+          "slug": "siniakova-k-townsend-t-vs-arango-e-jovic-i"
+        },
+        {
+          "title": "Mirra Andreeva - Marie Bouzková",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "mirra-andreeva-marie-bouzkova"
+        }
+      ]
+    },
+    {
+      "title": "Arends, S. / Pel, D. vs Krajicek, A. / Mektic, N.",
+      "time": "14:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co908/roland-garros/ma11753713/arends-s---pel-d_krajicek-a---mektic-n/info",
+      "slug": "arends-s-pel-d-vs-krajicek-a-mektic-n",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Balaji, S. / Demoliner, M. vs Schnaitter, J. / Wallner, M.",
+      "time": "15:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co908/roland-garros/ma11753725/balaji-s---demoliner-m_schnaitter-j---wallner-m/info",
+      "slug": "balaji-s-demoliner-m-vs-schnaitter-j-wallner-m",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Schuurs, D. / Perez, E. vs Tagger, L. / Errani, S.",
+          "time": "15:40",
+          "sender": "Sportschau Live",
+          "slug": "schuurs-d-perez-e-vs-tagger-l-errani-s"
+        }
+      ]
+    },
+    {
+      "title": "Bhambri, Y. / Venus, M. vs Bolelli, S. / Vavassori, A.",
+      "time": "16:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co908/roland-garros/ma11753707/bhambri-y---venus-m_bolelli-s---vavassori-a/info",
+      "slug": "bhambri-y-venus-m-vs-bolelli-s-vavassori-a",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Roland-Garros |",
+      "subtitle": "Grand Slam",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:29",
+      "iso_time": "2026-05-29T01:29:06+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros",
+      "related_events": []
+    },
+    {
+      "title": "Giro d'Italia | 18. Etappe",
+      "subtitle": "Fai della Paganella - Pieve di Soligo (171km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:00",
+      "iso_time": "2026-05-29T03:00:00+02:00",
+      "link": "",
+      "slug": "giro-d-italia-18-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Roland-Garros |",
+      "subtitle": "Grand Slam",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:59",
+      "iso_time": "2026-05-29T04:59:28+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros",
+      "related_events": []
+    },
+    {
+      "title": "Roland-Garros |",
+      "subtitle": "Grand Slam",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:03",
+      "iso_time": "2026-05-29T06:03:25+02:00",
+      "link": "",
+      "slug": "roland-garros",
+      "related_events": []
+    },
+    {
+      "title": "Giro d'Italia | 18. Etappe",
+      "subtitle": "Fai della Paganella - Pieve di Soligo (171km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:01",
+      "iso_time": "2026-05-29T07:01:46+02:00",
+      "link": "https://play.hbomax.com/sport/f34e8809-0d09-5cd6-9935-c8e7c3f2d29b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-18-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Spain T100 | Highlights",
+      "subtitle": "T100 Triathlon World Tour | Frauen | 2. Station",
+      "sport": "Triathlon",
+      "sport_slug": "triathlon",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:32",
+      "iso_time": "2026-05-29T08:32:34+02:00",
+      "link": "https://play.hbomax.com/sport/c85ecfd8-eb8b-5409-aaf2-a680acdd3024?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "spain-t100-highlights",
+      "related_events": []
+    },
+    {
+      "title": "Giro d'Italia | 18. Etappe",
+      "subtitle": "Fai della Paganella - Pieve di Soligo (171km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:34",
+      "iso_time": "2026-05-29T08:34:54+02:00",
+      "link": "https://play.hbomax.com/sport/8e65f418-cbfe-5fb2-b122-c6c492293754?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-18-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Ledro Sky Trentino | Highlights",
+      "subtitle": "Golden Trail World Series | Italien | Männer / Frauen",
+      "sport": "Trail Running",
+      "sport_slug": "trail-running",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:02",
+      "iso_time": "2026-05-29T09:02:40+02:00",
+      "link": "https://play.hbomax.com/sport/6727ee4b-f777-59cf-bed0-34ed2d6424ab?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "ledro-sky-trentino-highlights",
+      "related_events": []
+    },
+    {
+      "title": "Racing on the Edge",
+      "subtitle": "SailGP-Magazin | Saison 2026 | Folge 2",
+      "sport": "Segeln",
+      "sport_slug": "segeln",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:30",
+      "iso_time": "2026-05-29T09:30:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "racing-on-the-edge",
+      "related_events": []
+    },
+    {
+      "title": "Roland-Garros |",
+      "subtitle": "Grand Slam",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:33",
+      "iso_time": "2026-05-29T09:33:14+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros",
+      "related_events": [
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "Roland-Garros Courtside | Tagesvorschau",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside-tagesvorschau"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den sechsten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-sechsten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros |",
+      "subtitle": "Grand Slam",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:03",
+      "iso_time": "2026-05-29T10:03:58+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros",
+      "related_events": [
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "Roland-Garros Courtside | Tagesvorschau",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside-tagesvorschau"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den sechsten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-sechsten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "Madrid | Bouldern | Halbfinale",
+      "subtitle": "World Series | Frauen | Englischer Kommentar",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:30",
+      "iso_time": "2026-05-29T10:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/05e66a73-c22e-5750-8802-2bae55b529dd?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "madrid-bouldern-halbfinale",
+      "related_events": []
+    },
+    {
+      "title": "Roland-Garros | 3. Runde",
+      "subtitle": "N. Borges - A. Rublev | Paris",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:30",
+      "iso_time": "2026-05-29T10:30:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-3-runde",
+      "related_events": [
+        {
+          "title": "Roland-Garros |",
+          "time": "09:33",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        },
+        {
+          "title": "Roland-Garros |",
+          "time": "10:03",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        },
+        {
+          "title": "Roland-Garros Courtside | Tagesvorschau",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside-tagesvorschau"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros Courtside | Tagesvorschau",
+      "subtitle": "Roland-Garros-Show | Tag 6 | Englischer Kommentar",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:30",
+      "iso_time": "2026-05-29T10:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/61fbb085-f53a-55ad-a5e9-2cd09085fe55?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-courtside-tagesvorschau",
+      "related_events": [
+        {
+          "title": "Roland-Garros |",
+          "time": "09:33",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        },
+        {
+          "title": "Roland-Garros |",
+          "time": "10:03",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        }
+      ]
+    },
+    {
+      "title": "First Serve Rittner | Ausblick auf den sechsten Turniertag",
+      "subtitle": "Roland-Garros-Magazin mit Barbara Rittner | Tag 6 | Folge 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:45",
+      "iso_time": "2026-05-29T10:45:00+02:00",
+      "link": "https://play.hbomax.com/sport/1aee18ae-453b-5162-a91f-a12816933cb8?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "first-serve-rittner-ausblick-auf-den-sechsten-turniertag",
+      "related_events": [
+        {
+          "title": "Roland-Garros |",
+          "time": "09:33",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        },
+        {
+          "title": "Roland-Garros |",
+          "time": "10:03",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        }
+      ]
+    },
+    {
+      "title": "First Serve Rittner | Ausblick auf den sechsten Turniertag",
+      "subtitle": "Roland-Garros-Magazin mit Barbara Rittner | Tag 6 | Folge 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:45",
+      "iso_time": "2026-05-29T10:45:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "first-serve-rittner-ausblick-auf-den-sechsten-turniertag",
+      "related_events": [
+        {
+          "title": "Roland-Garros |",
+          "time": "09:33",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        },
+        {
+          "title": "Roland-Garros |",
+          "time": "10:03",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        }
+      ]
+    },
+    {
+      "title": "Thiago Agustín Tirante - Pablo Carreño Busta",
+      "subtitle": "Roland-Garros | 3. Runde | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:55",
+      "iso_time": "2026-05-29T10:55:00+02:00",
+      "link": "https://play.hbomax.com/sport/3d5d0bbe-36c5-5774-b689-0b73199df364?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "thiago-agustin-tirante-pablo-carreno-busta",
+      "related_events": [
+        {
+          "title": "Roland-Garros |",
+          "time": "09:33",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        },
+        {
+          "title": "Roland-Garros |",
+          "time": "10:03",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        }
+      ]
+    },
+    {
+      "title": "Marta Kostyuk - Viktorija Golubic",
+      "subtitle": "Roland-Garros | 3. Runde | Simonne-Mathieu",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:55",
+      "iso_time": "2026-05-29T10:55:00+02:00",
+      "link": "https://play.hbomax.com/sport/49e8a70e-f701-5f08-860b-f8721b925a91?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "marta-kostyuk-viktorija-golubic",
+      "related_events": [
+        {
+          "title": "Roland-Garros |",
+          "time": "09:33",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        },
+        {
+          "title": "Roland-Garros |",
+          "time": "10:03",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        }
+      ]
+    },
+    {
+      "title": "H. Guo / K. Mladenovic - SW. Hsieh / X. Wang",
+      "subtitle": "Roland-Garros | 3. Runde | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:55",
+      "iso_time": "2026-05-29T10:55:00+02:00",
+      "link": "https://play.hbomax.com/sport/9bac5a19-6b57-59d0-89e2-b81ddde3c964?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "h-guo-k-mladenovic-sw-hsieh-x-wang",
+      "related_events": [
+        {
+          "title": "Roland-Garros |",
+          "time": "09:33",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        },
+        {
+          "title": "Roland-Garros |",
+          "time": "10:03",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        }
+      ]
+    },
+    {
+      "title": "A. Kalinina / D. Yastremska - T. Maria / Z. Sonmez",
+      "subtitle": "Roland-Garros | 3. Runde | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:55",
+      "iso_time": "2026-05-29T10:55:00+02:00",
+      "link": "https://play.hbomax.com/sport/9d381884-b546-5b2a-83e0-a98ace8ab78f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "a-kalinina-d-yastremska-t-maria-z-sonmez",
+      "related_events": [
+        {
+          "title": "Roland-Garros |",
+          "time": "09:33",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        },
+        {
+          "title": "Roland-Garros |",
+          "time": "10:03",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        }
+      ]
+    },
+    {
+      "title": "M. Granollers / H. Zeballos - V. Kirkov / B. Stevens",
+      "subtitle": "Roland-Garros | 3. Runde | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:55",
+      "iso_time": "2026-05-29T10:55:00+02:00",
+      "link": "https://play.hbomax.com/sport/c30717ea-a7e7-5496-977b-78261f8aa379?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "m-granollers-h-zeballos-v-kirkov-b-stevens",
+      "related_events": [
+        {
+          "title": "Roland-Garros |",
+          "time": "09:33",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        },
+        {
+          "title": "Roland-Garros |",
+          "time": "10:03",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        }
+      ]
+    },
+    {
+      "title": "J. Cash / L. Glasspool - A. Pavlasek / P. Rikl",
+      "subtitle": "Roland-Garros | 3. Runde | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:55",
+      "iso_time": "2026-05-29T10:55:00+02:00",
+      "link": "https://play.hbomax.com/sport/d4eb1e83-1452-5cca-b909-b1b852deaeff?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "j-cash-l-glasspool-a-pavlasek-p-rikl",
+      "related_events": [
+        {
+          "title": "Roland-Garros |",
+          "time": "09:33",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        },
+        {
+          "title": "Roland-Garros |",
+          "time": "10:03",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        }
+      ]
+    },
+    {
+      "title": "O. Selekhmeteva / A. Zakharova - C. Bucsa / N. Melichar-Martinez",
+      "subtitle": "Roland-Garros | 3. Runde | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:55",
+      "iso_time": "2026-05-29T10:55:00+02:00",
+      "link": "https://play.hbomax.com/sport/20c5ac4a-d205-5d41-b597-e91411d1fdc5?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "o-selekhmeteva-a-zakharova-c-bucsa-n-melichar-martinez",
+      "related_events": [
+        {
+          "title": "Roland-Garros |",
+          "time": "09:33",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        },
+        {
+          "title": "Roland-Garros |",
+          "time": "10:03",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        }
+      ]
+    },
+    {
+      "title": "Wang Xiyu - Yuliia Starodubtseva",
+      "subtitle": "Roland-Garros | 3. Runde | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:55",
+      "iso_time": "2026-05-29T10:55:00+02:00",
+      "link": "https://play.hbomax.com/sport/24934a25-9a7d-5bb7-848f-357e6e39283e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wang-xiyu-yuliia-starodubtseva",
+      "related_events": [
+        {
+          "title": "Roland-Garros |",
+          "time": "09:33",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        },
+        {
+          "title": "Roland-Garros |",
+          "time": "10:03",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros | Multiview",
+      "subtitle": "Paris | Tag 6 | Multi-Court-Feed",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-05-29T11:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/bb03c99e-f3a8-5b45-bf0d-035ac47fab87?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-multiview",
+      "related_events": [
+        {
+          "title": "Xiyu Wang vs Yulia Starodubtseva",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "xiyu-wang-vs-yulia-starodubtseva"
+        },
+        {
+          "title": "Marta Kostyuk vs Viktorija Golubic",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "marta-kostyuk-vs-viktorija-golubic"
+        },
+        {
+          "title": "Kalinina, A. / Yastremska, D. vs Sonmez, Z. / Maria, T.",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "kalinina-a-yastremska-d-vs-sonmez-z-maria-t"
+        }
+      ]
+    },
+    {
+      "title": "Nuno Borges - Andrey Rublev",
+      "subtitle": "Roland-Garros | 3. Runde | Suzanne-Lenglen",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-05-29T11:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/d0f04340-bf8b-5129-a6cf-13837a1092f1?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "nuno-borges-andrey-rublev",
+      "related_events": [
+        {
+          "title": "Xiyu Wang vs Yulia Starodubtseva",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "xiyu-wang-vs-yulia-starodubtseva"
+        },
+        {
+          "title": "Marta Kostyuk vs Viktorija Golubic",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "marta-kostyuk-vs-viktorija-golubic"
+        },
+        {
+          "title": "Kalinina, A. / Yastremska, D. vs Sonmez, Z. / Maria, T.",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "kalinina-a-yastremska-d-vs-sonmez-z-maria-t"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros | Tag 6 | Deutsche Konferenz",
+      "subtitle": "Mit Marta Kostyuk, Iga Swiatek u.a. | 3. Runde",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-05-29T11:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/c23ffff8-8662-51ee-984a-ba3cb8005b89?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-tag-6-deutsche-konferenz",
+      "related_events": [
+        {
+          "title": "Xiyu Wang vs Yulia Starodubtseva",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "xiyu-wang-vs-yulia-starodubtseva"
+        },
+        {
+          "title": "Marta Kostyuk vs Viktorija Golubic",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "marta-kostyuk-vs-viktorija-golubic"
+        },
+        {
+          "title": "Kalinina, A. / Yastremska, D. vs Sonmez, Z. / Maria, T.",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "kalinina-a-yastremska-d-vs-sonmez-z-maria-t"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros | 3. Runde",
+      "subtitle": "Mit Marta Kostyuk, Iga Swiatek u.a. | Paris",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-05-29T11:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-3-runde",
+      "related_events": [
+        {
+          "title": "Xiyu Wang vs Yulia Starodubtseva",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "xiyu-wang-vs-yulia-starodubtseva"
+        },
+        {
+          "title": "Marta Kostyuk vs Viktorija Golubic",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "marta-kostyuk-vs-viktorija-golubic"
+        },
+        {
+          "title": "Kalinina, A. / Yastremska, D. vs Sonmez, Z. / Maria, T.",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "kalinina-a-yastremska-d-vs-sonmez-z-maria-t"
+        }
+      ]
+    },
+    {
+      "title": "Magda Linette - Iga Swiatek",
+      "subtitle": "Roland-Garros | 3. Runde | Philippe-Chatrier",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:00",
+      "iso_time": "2026-05-29T12:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/68ee1918-a37c-5827-9156-30048af512c8?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "magda-linette-iga-swiatek",
+      "related_events": [
+        {
+          "title": "Magda Linette vs Iga Świątek",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "magda-linette-vs-iga-swiatek"
+        },
+        {
+          "title": "Roland-Garros |",
+          "time": "09:33",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        },
+        {
+          "title": "Roland-Garros |",
+          "time": "10:03",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        }
+      ]
+    },
+    {
+      "title": "Giro d'Italia | 19. Etappe",
+      "subtitle": "UCI World Tour | Männer | Internationaler Kommentar",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:15",
+      "iso_time": "2026-05-29T12:15:00+02:00",
+      "link": "https://play.hbomax.com/sport/110eda1d-f446-5430-a419-75347c421514?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-19-etappe",
+      "related_events": [
+        {
+          "title": "Giro d'Italia | 19. Etappe | Multi-Screen",
+          "time": "12:45",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-19-etappe-multi-screen"
+        },
+        {
+          "title": "Boucles de la Mayenne | 1. Etappe",
+          "time": "13:45",
+          "sender": "Eurosport",
+          "slug": "boucles-de-la-mayenne-1-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Giro d'Italia | 19. Etappe",
+      "subtitle": "Feltre - Alleghe (Piani di Pezzè) (151km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:15",
+      "iso_time": "2026-05-29T12:15:00+02:00",
+      "link": "https://play.hbomax.com/sport/061f098a-e7bd-5e2a-b733-016bce6a06af?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-19-etappe",
+      "related_events": [
+        {
+          "title": "Giro d'Italia | 19. Etappe | Multi-Screen",
+          "time": "12:45",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-19-etappe-multi-screen"
+        },
+        {
+          "title": "Boucles de la Mayenne | 1. Etappe",
+          "time": "13:45",
+          "sender": "Eurosport",
+          "slug": "boucles-de-la-mayenne-1-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Giro d'Italia | 19. Etappe | Multi-Screen",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:45",
+      "iso_time": "2026-05-29T12:45:00+02:00",
+      "link": "https://play.hbomax.com/sport/fe91a765-8c4a-5b3d-ab7a-fa67437f0839?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-19-etappe-multi-screen",
+      "related_events": [
+        {
+          "title": "Giro d'Italia | 19. Etappe",
+          "time": "12:15",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-19-etappe"
+        },
+        {
+          "title": "Giro d'Italia | 19. Etappe",
+          "time": "12:15",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-19-etappe"
+        },
+        {
+          "title": "Giro d'Italia | 19. Etappe",
+          "time": "13:15",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-19-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros | 3. Runde",
+      "subtitle": "J. Teichmann - K. Muchova | Paris",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:00",
+      "iso_time": "2026-05-29T13:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/7378f520-3748-56d0-a205-ec751632ca23?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-3-runde",
+      "related_events": [
+        {
+          "title": "Jil Teichmann vs Karolina Muchova",
+          "time": "13:00",
+          "sender": "Sportschau Live",
+          "slug": "jil-teichmann-vs-karolina-muchova"
+        },
+        {
+          "title": "Roland-Garros |",
+          "time": "10:03",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        },
+        {
+          "title": "Roland-Garros Courtside | Tagesvorschau",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside-tagesvorschau"
+        }
+      ]
+    },
+    {
+      "title": "First Serve Rittner | Analyse der Morning Session",
+      "subtitle": "Roland-Garros-Magazin mit Barbara Rittner | Tag 6 | Folge 2",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:00",
+      "iso_time": "2026-05-29T13:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/9b354870-922f-5de8-ae94-dc9637582a2f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "first-serve-rittner-analyse-der-morning-session",
+      "related_events": [
+        {
+          "title": "Jil Teichmann vs Karolina Muchova",
+          "time": "13:00",
+          "sender": "Sportschau Live",
+          "slug": "jil-teichmann-vs-karolina-muchova"
+        },
+        {
+          "title": "Roland-Garros |",
+          "time": "10:03",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        }
+      ]
+    },
+    {
+      "title": "First Serve Rittner | Analyse der Morning Session",
+      "subtitle": "Roland-Garros-Magazin mit Barbara Rittner | Tag 6 | Folge 2",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:00",
+      "iso_time": "2026-05-29T13:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "first-serve-rittner-analyse-der-morning-session",
+      "related_events": [
+        {
+          "title": "Jil Teichmann vs Karolina Muchova",
+          "time": "13:00",
+          "sender": "Sportschau Live",
+          "slug": "jil-teichmann-vs-karolina-muchova"
+        },
+        {
+          "title": "Roland-Garros |",
+          "time": "10:03",
+          "sender": "Eurosport",
+          "slug": "roland-garros"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros | Tag 6 | Deutsche Konferenz",
+      "subtitle": "Mit Mirra Andreeva, Tamara Korpatsch, Novak Djokovic u.a. | 3. Runde",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:15",
+      "iso_time": "2026-05-29T13:15:00+02:00",
+      "link": "https://play.hbomax.com/sport/17ce9260-4f94-5f2f-bad2-1a0056a89c72?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-tag-6-deutsche-konferenz",
+      "related_events": [
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "Roland-Garros Courtside | Tagesvorschau",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside-tagesvorschau"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den sechsten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-sechsten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "Giro d'Italia | 19. Etappe",
+      "subtitle": "Feltre - Alleghe (Piani di Pezzè) (151km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:15",
+      "iso_time": "2026-05-29T13:15:00+02:00",
+      "link": "https://play.hbomax.com/sport/0e1e1f25-ccfe-525b-b26f-322d905524bb?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-19-etappe",
+      "related_events": [
+        {
+          "title": "Giro d'Italia | 19. Etappe | Multi-Screen",
+          "time": "12:45",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-19-etappe-multi-screen"
+        },
+        {
+          "title": "Boucles de la Mayenne | 1. Etappe",
+          "time": "13:45",
+          "sender": "Eurosport",
+          "slug": "boucles-de-la-mayenne-1-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Jil Teichmann - Karolína Muchová",
+      "subtitle": "Roland-Garros | 3. Runde | Suzanne-Lenglen",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:30",
+      "iso_time": "2026-05-29T13:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/79715cc7-6f66-58b0-82f2-2753c05b50ab?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "jil-teichmann-karolina-muchova",
+      "related_events": [
+        {
+          "title": "Linette, M. / Starodubtseva, J. vs Jacquemot, E. / Rakotomanga Rajaonah, T.",
+          "time": "13:30",
+          "sender": "Sportschau Live",
+          "slug": "linette-m-starodubtseva-j-vs-jacquemot-e-rakotomanga-rajaonah-t"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "Roland-Garros Courtside | Tagesvorschau",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside-tagesvorschau"
+        }
+      ]
+    },
+    {
+      "title": "R. Cash / J. Tracy - T. Droguet / H. Gaston",
+      "subtitle": "Roland-Garros | 3. Runde | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:30",
+      "iso_time": "2026-05-29T13:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/bc66f601-5d24-5cd9-9f6a-6a61be5063c0?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "r-cash-j-tracy-t-droguet-h-gaston",
+      "related_events": [
+        {
+          "title": "Linette, M. / Starodubtseva, J. vs Jacquemot, E. / Rakotomanga Rajaonah, T.",
+          "time": "13:30",
+          "sender": "Sportschau Live",
+          "slug": "linette-m-starodubtseva-j-vs-jacquemot-e-rakotomanga-rajaonah-t"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "Roland-Garros Courtside | Tagesvorschau",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside-tagesvorschau"
+        }
+      ]
+    },
+    {
+      "title": "Alex Michelsen - Rafael Jódar",
+      "subtitle": "Roland-Garros | 3. Runde | Simonne-Mathieu",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:30",
+      "iso_time": "2026-05-29T13:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/b8c40592-f7e7-5ea7-9dd5-6187725f34be?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "alex-michelsen-rafael-jodar",
+      "related_events": [
+        {
+          "title": "Linette, M. / Starodubtseva, J. vs Jacquemot, E. / Rakotomanga Rajaonah, T.",
+          "time": "13:30",
+          "sender": "Sportschau Live",
+          "slug": "linette-m-starodubtseva-j-vs-jacquemot-e-rakotomanga-rajaonah-t"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "Roland-Garros Courtside | Tagesvorschau",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside-tagesvorschau"
+        }
+      ]
+    },
+    {
+      "title": "Solana Sierra - Sorana Cîrstea",
+      "subtitle": "Roland-Garros | 3. Runde | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:30",
+      "iso_time": "2026-05-29T13:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/c56cc7ed-dca4-56b4-8ee2-714c7210967b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "solana-sierra-sorana-cirstea",
+      "related_events": [
+        {
+          "title": "Linette, M. / Starodubtseva, J. vs Jacquemot, E. / Rakotomanga Rajaonah, T.",
+          "time": "13:30",
+          "sender": "Sportschau Live",
+          "slug": "linette-m-starodubtseva-j-vs-jacquemot-e-rakotomanga-rajaonah-t"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "Roland-Garros Courtside | Tagesvorschau",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside-tagesvorschau"
+        }
+      ]
+    },
+    {
+      "title": "M. Bellucci / F. Marozsan - H. Heliovaara / H. Patten",
+      "subtitle": "Roland-Garros | 3. Runde | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:30",
+      "iso_time": "2026-05-29T13:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/e322e726-94fe-5230-a0da-2cd6cbc33621?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "m-bellucci-f-marozsan-h-heliovaara-h-patten",
+      "related_events": [
+        {
+          "title": "Linette, M. / Starodubtseva, J. vs Jacquemot, E. / Rakotomanga Rajaonah, T.",
+          "time": "13:30",
+          "sender": "Sportschau Live",
+          "slug": "linette-m-starodubtseva-j-vs-jacquemot-e-rakotomanga-rajaonah-t"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "Roland-Garros Courtside | Tagesvorschau",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside-tagesvorschau"
+        }
+      ]
+    },
+    {
+      "title": "H. Nys / E. Roger-Vasselin - R. Ho / H. Jebens",
+      "subtitle": "Roland-Garros | 3. Runde | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:30",
+      "iso_time": "2026-05-29T13:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/f2d5b0b6-ea89-5db1-b298-9aac45d2a5a4?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "h-nys-e-roger-vasselin-r-ho-h-jebens",
+      "related_events": [
+        {
+          "title": "Linette, M. / Starodubtseva, J. vs Jacquemot, E. / Rakotomanga Rajaonah, T.",
+          "time": "13:30",
+          "sender": "Sportschau Live",
+          "slug": "linette-m-starodubtseva-j-vs-jacquemot-e-rakotomanga-rajaonah-t"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "Roland-Garros Courtside | Tagesvorschau",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside-tagesvorschau"
+        }
+      ]
+    },
+    {
+      "title": "G. Dabrowski / L. Stefani - E. Pridankina / Q. Tang",
+      "subtitle": "Roland-Garros | 3. Runde | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:30",
+      "iso_time": "2026-05-29T13:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/0b5759b2-d2fa-562f-9dae-ffec327a9415?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "g-dabrowski-l-stefani-e-pridankina-q-tang",
+      "related_events": [
+        {
+          "title": "Linette, M. / Starodubtseva, J. vs Jacquemot, E. / Rakotomanga Rajaonah, T.",
+          "time": "13:30",
+          "sender": "Sportschau Live",
+          "slug": "linette-m-starodubtseva-j-vs-jacquemot-e-rakotomanga-rajaonah-t"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "Roland-Garros Courtside | Tagesvorschau",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside-tagesvorschau"
+        }
+      ]
+    },
+    {
+      "title": "J. Ostapenko / E. Routliffe - S. Aoyama / E. Liang",
+      "subtitle": "Roland-Garros | 3. Runde | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:30",
+      "iso_time": "2026-05-29T13:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/1afd4d43-6b28-5be5-9570-4a4eab9588d0?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "j-ostapenko-e-routliffe-s-aoyama-e-liang",
+      "related_events": [
+        {
+          "title": "Linette, M. / Starodubtseva, J. vs Jacquemot, E. / Rakotomanga Rajaonah, T.",
+          "time": "13:30",
+          "sender": "Sportschau Live",
+          "slug": "linette-m-starodubtseva-j-vs-jacquemot-e-rakotomanga-rajaonah-t"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "Roland-Garros Courtside | Tagesvorschau",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside-tagesvorschau"
+        }
+      ]
+    },
+    {
+      "title": "HC. Chan / O. Luz - F. Stollar / C. Harrison",
+      "subtitle": "Roland-Garros | 3. Runde | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:30",
+      "iso_time": "2026-05-29T13:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/391e3c99-fc7f-506e-ba07-268e75d38b31?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "hc-chan-o-luz-f-stollar-c-harrison",
+      "related_events": [
+        {
+          "title": "Linette, M. / Starodubtseva, J. vs Jacquemot, E. / Rakotomanga Rajaonah, T.",
+          "time": "13:30",
+          "sender": "Sportschau Live",
+          "slug": "linette-m-starodubtseva-j-vs-jacquemot-e-rakotomanga-rajaonah-t"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "Roland-Garros Courtside | Tagesvorschau",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside-tagesvorschau"
+        }
+      ]
+    },
+    {
+      "title": "Boucles de la Mayenne | 1. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Laval - Laval (5,4km / EZF)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:45",
+      "iso_time": "2026-05-29T13:45:00+02:00",
+      "link": "https://play.hbomax.com/sport/2a712306-6a47-5bb1-89fb-c9e8a441dbaf?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "boucles-de-la-mayenne-1-etappe",
+      "related_events": [
+        {
+          "title": "Giro d'Italia | 19. Etappe",
+          "time": "12:15",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-19-etappe"
+        },
+        {
+          "title": "Giro d'Italia | 19. Etappe",
+          "time": "12:15",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-19-etappe"
+        },
+        {
+          "title": "Giro d'Italia | 19. Etappe | Multi-Screen",
+          "time": "12:45",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-19-etappe-multi-screen"
+        }
+      ]
+    },
+    {
+      "title": "Mirra Andreeva - Marie Bouzková",
+      "subtitle": "Roland-Garros | 3. Runde | Philippe-Chatrier",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:30",
+      "iso_time": "2026-05-29T14:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/8f53c9e5-accc-52a7-af0b-848f9cd0b23a?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "mirra-andreeva-marie-bouzkova",
+      "related_events": [
+        {
+          "title": "Siniakova, K. / Townsend, T. vs Arango, E. / Jovic, I.",
+          "time": "14:30",
+          "sender": "Sportschau Live",
+          "slug": "siniakova-k-townsend-t-vs-arango-e-jovic-i"
+        },
+        {
+          "title": "Bergs, Z. / Collignon, R. vs Nouza, P. / Oberleitner, N.",
+          "time": "14:30",
+          "sender": "Sportschau Live",
+          "slug": "bergs-z-collignon-r-vs-nouza-p-oberleitner-n"
+        },
+        {
+          "title": "Magda Linette - Iga Swiatek",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "magda-linette-iga-swiatek"
+        }
+      ]
+    },
+    {
+      "title": "M. Gonzalez / S. Gonzalez - RA Burruchaga / TA Tirante",
+      "subtitle": "Roland-Garros | 3. Runde | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2026-05-29T16:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/58f42313-2698-5df3-bc62-ef35e102c1de?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "m-gonzalez-s-gonzalez-ra-burruchaga-ta-tirante",
+      "related_events": [
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "First Serve Rittner | Analyse der Morning Session",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-analyse-der-morning-session"
+        },
+        {
+          "title": "First Serve Rittner | Analyse der Morning Session",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-analyse-der-morning-session"
+        }
+      ]
+    },
+    {
+      "title": "Elina Svitolina - Tamara Korpatsch",
+      "subtitle": "Roland-Garros | 3. Runde | Suzanne-Lenglen",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2026-05-29T16:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/5b95ee2a-4f47-5eb0-ae5f-caca5a0ce898?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "elina-svitolina-tamara-korpatsch",
+      "related_events": [
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "First Serve Rittner | Analyse der Morning Session",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-analyse-der-morning-session"
+        },
+        {
+          "title": "First Serve Rittner | Analyse der Morning Session",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-analyse-der-morning-session"
+        }
+      ]
+    },
+    {
+      "title": "K. Siniakova / T. Townsend - E. Arango / I. Jovic",
+      "subtitle": "Roland-Garros | 3. Runde | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2026-05-29T16:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/878193a0-19f1-5642-bd57-aa87064ad18c?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "k-siniakova-t-townsend-e-arango-i-jovic",
+      "related_events": [
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "First Serve Rittner | Analyse der Morning Session",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-analyse-der-morning-session"
+        },
+        {
+          "title": "First Serve Rittner | Analyse der Morning Session",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-analyse-der-morning-session"
+        }
+      ]
+    },
+    {
+      "title": "Karen Khachanov - Jesper de Jong",
+      "subtitle": "Roland-Garros | 3. Runde | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2026-05-29T16:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/746b6228-3e1c-5905-972d-4c87439230a4?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "karen-khachanov-jesper-de-jong",
+      "related_events": [
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "First Serve Rittner | Analyse der Morning Session",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-analyse-der-morning-session"
+        },
+        {
+          "title": "First Serve Rittner | Analyse der Morning Session",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-analyse-der-morning-session"
+        }
+      ]
+    },
+    {
+      "title": "T. Mihalikova / K. Krawietz - C. Bucsa / R. Matos",
+      "subtitle": "Roland-Garros | 3. Runde | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2026-05-29T16:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/7e6822e9-e40f-518e-bc7e-47c728395043?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "t-mihalikova-k-krawietz-c-bucsa-r-matos",
+      "related_events": [
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "First Serve Rittner | Analyse der Morning Session",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-analyse-der-morning-session"
+        },
+        {
+          "title": "First Serve Rittner | Analyse der Morning Session",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-analyse-der-morning-session"
+        }
+      ]
+    },
+    {
+      "title": "M. Linette / Y. Starodubtseva - E. Jacquemot / T. Rakotomanga Rajaonah",
+      "subtitle": "Roland-Garros | 3. Runde | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2026-05-29T16:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/ac02370e-1b57-546d-860f-890126bf81f2?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "m-linette-y-starodubtseva-e-jacquemot-t-rakotomanga-rajaonah",
+      "related_events": [
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "First Serve Rittner | Analyse der Morning Session",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-analyse-der-morning-session"
+        },
+        {
+          "title": "First Serve Rittner | Analyse der Morning Session",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-analyse-der-morning-session"
+        }
+      ]
+    },
+    {
+      "title": "Alex de Minaur - Jakub Menšík",
+      "subtitle": "Roland-Garros | 3. Runde | Simonne-Mathieu",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2026-05-29T16:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/b9ed6514-5d0b-55ce-ad1f-99ccd95afb30?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "alex-de-minaur-jakub-mensik",
+      "related_events": [
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "First Serve Rittner | Analyse der Morning Session",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-analyse-der-morning-session"
+        },
+        {
+          "title": "First Serve Rittner | Analyse der Morning Session",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-analyse-der-morning-session"
+        }
+      ]
+    },
+    {
+      "title": "Z. Bergs / R. Collignon - P. Nouza / N. Oberleitner",
+      "subtitle": "Roland-Garros | 3. Runde | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2026-05-29T16:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/03cad85d-e335-500f-92f1-9d461acc0d18?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "z-bergs-r-collignon-p-nouza-n-oberleitner",
+      "related_events": [
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "First Serve Rittner | Analyse der Morning Session",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-analyse-der-morning-session"
+        },
+        {
+          "title": "First Serve Rittner | Analyse der Morning Session",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-analyse-der-morning-session"
+        }
+      ]
+    },
+    {
+      "title": "H. Guo / F. Reboul - S. Zhang / T. Puetz",
+      "subtitle": "Roland-Garros | 3. Runde | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2026-05-29T16:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/1bacb35a-9153-52e4-9f80-a091108ac3e6?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "h-guo-f-reboul-s-zhang-t-puetz",
+      "related_events": [
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "First Serve Rittner | Analyse der Morning Session",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-analyse-der-morning-session"
+        },
+        {
+          "title": "First Serve Rittner | Analyse der Morning Session",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-analyse-der-morning-session"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros | 3. Runde",
+      "subtitle": "E. Svitolina - T. Korpatsch | Paris",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2026-05-29T16:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/4ef81648-02a2-59ad-baec-4c773e3b1c85?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-3-runde",
+      "related_events": [
+        {
+          "title": "First Serve Rittner | Analyse der Morning Session",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-analyse-der-morning-session"
+        },
+        {
+          "title": "First Serve Rittner | Analyse der Morning Session",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-analyse-der-morning-session"
+        },
+        {
+          "title": "Roland-Garros | Tag 6 | Deutsche Konferenz",
+          "time": "13:15",
+          "sender": "Eurosport",
+          "slug": "roland-garros-tag-6-deutsche-konferenz"
+        }
+      ]
+    },
+    {
+      "title": "João Fonseca - Novak Djokovic",
+      "subtitle": "Roland-Garros | 3. Runde | Philippe-Chatrier",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2026-05-29T17:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/8322a8e6-2efa-514a-8003-71c1df963f5b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "joao-fonseca-novak-djokovic",
+      "related_events": [
+        {
+          "title": "Mirra Andreeva - Marie Bouzková",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "mirra-andreeva-marie-bouzkova"
+        },
+        {
+          "title": "M. Gonzalez / S. Gonzalez - RA Burruchaga / TA Tirante",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "m-gonzalez-s-gonzalez-ra-burruchaga-ta-tirante"
+        },
+        {
+          "title": "Elina Svitolina - Tamara Korpatsch",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "elina-svitolina-tamara-korpatsch"
+        }
+      ]
+    },
+    {
+      "title": "Velo Club | Giro-Show zur 19. Etappe",
+      "subtitle": "Experten-Talk zum Giro d'Italia",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:15",
+      "iso_time": "2026-05-29T17:15:00+02:00",
+      "link": "https://play.hbomax.com/sport/e0a2fd51-0ab8-5bc4-bbcc-e2a01674fe6f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "velo-club-giro-show-zur-19-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Velo Club | Giro-Show zur 19. Etappe",
+      "subtitle": "Experten-Talk zum Giro d’Italia",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:15",
+      "iso_time": "2026-05-29T17:15:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "velo-club-giro-show-zur-19-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Roland-Garros | 3. Runde",
+      "subtitle": "Mit Novak Djokovic, Belinda Bencic u.a. | Paris",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:45",
+      "iso_time": "2026-05-29T17:45:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-3-runde",
+      "related_events": [
+        {
+          "title": "M. Gonzalez / S. Gonzalez - RA Burruchaga / TA Tirante",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "m-gonzalez-s-gonzalez-ra-burruchaga-ta-tirante"
+        },
+        {
+          "title": "Elina Svitolina - Tamara Korpatsch",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "elina-svitolina-tamara-korpatsch"
+        },
+        {
+          "title": "K. Siniakova / T. Townsend - E. Arango / I. Jovic",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "k-siniakova-t-townsend-e-arango-i-jovic"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros | 3. Runde",
+      "subtitle": "C. Ruud - T. Paul | Paris",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2026-05-29T18:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/bd74ac7e-6549-580c-918e-d55ff8bc26da?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-3-runde",
+      "related_events": [
+        {
+          "title": "M. Gonzalez / S. Gonzalez - RA Burruchaga / TA Tirante",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "m-gonzalez-s-gonzalez-ra-burruchaga-ta-tirante"
+        },
+        {
+          "title": "Elina Svitolina - Tamara Korpatsch",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "elina-svitolina-tamara-korpatsch"
+        },
+        {
+          "title": "K. Siniakova / T. Townsend - E. Arango / I. Jovic",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "k-siniakova-t-townsend-e-arango-i-jovic"
+        }
+      ]
+    },
+    {
+      "title": "Casper Ruud - Tommy Paul",
+      "subtitle": "Roland-Garros | 3. Runde | Suzanne-Lenglen",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2026-05-29T18:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/5e7b590d-98cf-5760-93e7-c0e7154dfbfa?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "casper-ruud-tommy-paul",
+      "related_events": [
+        {
+          "title": "M. Gonzalez / S. Gonzalez - RA Burruchaga / TA Tirante",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "m-gonzalez-s-gonzalez-ra-burruchaga-ta-tirante"
+        },
+        {
+          "title": "Elina Svitolina - Tamara Korpatsch",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "elina-svitolina-tamara-korpatsch"
+        },
+        {
+          "title": "K. Siniakova / T. Townsend - E. Arango / I. Jovic",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "k-siniakova-t-townsend-e-arango-i-jovic"
+        }
+      ]
+    },
+    {
+      "title": "G. Dabrowski / E. King - V. Zvonareva / A. Olivetti",
+      "subtitle": "Roland-Garros | 3. Runde | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2026-05-29T18:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/7ad327d9-7d2c-54ec-b1d2-d1fccbf3508f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "g-dabrowski-e-king-v-zvonareva-a-olivetti",
+      "related_events": [
+        {
+          "title": "M. Gonzalez / S. Gonzalez - RA Burruchaga / TA Tirante",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "m-gonzalez-s-gonzalez-ra-burruchaga-ta-tirante"
+        },
+        {
+          "title": "Elina Svitolina - Tamara Korpatsch",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "elina-svitolina-tamara-korpatsch"
+        },
+        {
+          "title": "K. Siniakova / T. Townsend - E. Arango / I. Jovic",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "k-siniakova-t-townsend-e-arango-i-jovic"
+        }
+      ]
+    },
+    {
+      "title": "Peyton Stearns - Belinda Bencic",
+      "subtitle": "Roland-Garros | 3. Runde | Simonne-Mathieu",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2026-05-29T18:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/bc585459-103a-52d9-9e04-2364ea52f037?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "peyton-stearns-belinda-bencic",
+      "related_events": [
+        {
+          "title": "M. Gonzalez / S. Gonzalez - RA Burruchaga / TA Tirante",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "m-gonzalez-s-gonzalez-ra-burruchaga-ta-tirante"
+        },
+        {
+          "title": "Elina Svitolina - Tamara Korpatsch",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "elina-svitolina-tamara-korpatsch"
+        },
+        {
+          "title": "K. Siniakova / T. Townsend - E. Arango / I. Jovic",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "k-siniakova-t-townsend-e-arango-i-jovic"
+        }
+      ]
+    },
+    {
+      "title": "M. Joint / H. Vandewinkel - A. Danilina / A. Krunic",
+      "subtitle": "Roland-Garros | 3. Runde | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2026-05-29T18:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/9966676f-7fe3-5340-bb20-a172ef69b02e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "m-joint-h-vandewinkel-a-danilina-a-krunic",
+      "related_events": [
+        {
+          "title": "M. Gonzalez / S. Gonzalez - RA Burruchaga / TA Tirante",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "m-gonzalez-s-gonzalez-ra-burruchaga-ta-tirante"
+        },
+        {
+          "title": "Elina Svitolina - Tamara Korpatsch",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "elina-svitolina-tamara-korpatsch"
+        },
+        {
+          "title": "K. Siniakova / T. Townsend - E. Arango / I. Jovic",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "k-siniakova-t-townsend-e-arango-i-jovic"
+        }
+      ]
+    },
+    {
+      "title": "O. Nicholls / H. Patten - N. Melichar-Martinez / T. Arribagé",
+      "subtitle": "Roland-Garros | 3. Runde | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2026-05-29T18:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/c09ddbe9-d2c7-5d11-9650-2b3296f68e7b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "o-nicholls-h-patten-n-melichar-martinez-t-arribage",
+      "related_events": [
+        {
+          "title": "M. Gonzalez / S. Gonzalez - RA Burruchaga / TA Tirante",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "m-gonzalez-s-gonzalez-ra-burruchaga-ta-tirante"
+        },
+        {
+          "title": "Elina Svitolina - Tamara Korpatsch",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "elina-svitolina-tamara-korpatsch"
+        },
+        {
+          "title": "K. Siniakova / T. Townsend - E. Arango / I. Jovic",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "k-siniakova-t-townsend-e-arango-i-jovic"
+        }
+      ]
+    },
+    {
+      "title": "E. Perez / D. Schuurs - S. Errani / L. Tagger",
+      "subtitle": "Roland-Garros | 3. Runde | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2026-05-29T18:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/f4c39c7d-edb0-527f-9ebe-1710a4bca733?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "e-perez-d-schuurs-s-errani-l-tagger",
+      "related_events": [
+        {
+          "title": "M. Gonzalez / S. Gonzalez - RA Burruchaga / TA Tirante",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "m-gonzalez-s-gonzalez-ra-burruchaga-ta-tirante"
+        },
+        {
+          "title": "Elina Svitolina - Tamara Korpatsch",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "elina-svitolina-tamara-korpatsch"
+        },
+        {
+          "title": "K. Siniakova / T. Townsend - E. Arango / I. Jovic",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "k-siniakova-t-townsend-e-arango-i-jovic"
+        }
+      ]
+    },
+    {
+      "title": "S. Arends / D. Pel - A. Krajicek / N. Mektic",
+      "subtitle": "Roland-Garros | 3. Runde | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2026-05-29T18:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/e6dc71bd-2f63-52ef-9b9c-83099dd57bfc?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "s-arends-d-pel-a-krajicek-n-mektic",
+      "related_events": [
+        {
+          "title": "M. Gonzalez / S. Gonzalez - RA Burruchaga / TA Tirante",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "m-gonzalez-s-gonzalez-ra-burruchaga-ta-tirante"
+        },
+        {
+          "title": "Elina Svitolina - Tamara Korpatsch",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "elina-svitolina-tamara-korpatsch"
+        },
+        {
+          "title": "K. Siniakova / T. Townsend - E. Arango / I. Jovic",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "k-siniakova-t-townsend-e-arango-i-jovic"
+        }
+      ]
+    },
+    {
+      "title": "Y. Bhambri / M. Venus - S. Bolelli / A. Vavassori",
+      "subtitle": "Roland-Garros | 3. Runde | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2026-05-29T18:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/eaede04e-bd7b-5f41-b1ac-53b20b985059?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "y-bhambri-m-venus-s-bolelli-a-vavassori",
+      "related_events": [
+        {
+          "title": "M. Gonzalez / S. Gonzalez - RA Burruchaga / TA Tirante",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "m-gonzalez-s-gonzalez-ra-burruchaga-ta-tirante"
+        },
+        {
+          "title": "Elina Svitolina - Tamara Korpatsch",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "elina-svitolina-tamara-korpatsch"
+        },
+        {
+          "title": "K. Siniakova / T. Townsend - E. Arango / I. Jovic",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "k-siniakova-t-townsend-e-arango-i-jovic"
+        }
+      ]
+    },
+    {
+      "title": "NS. Balaji / M. Demoliner - J. Schnaitter / M. Wallner",
+      "subtitle": "Roland-Garros | 3. Runde | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2026-05-29T18:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/18e4cecf-277f-5ab3-be95-e62e90dda5b0?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "ns-balaji-m-demoliner-j-schnaitter-m-wallner",
+      "related_events": [
+        {
+          "title": "M. Gonzalez / S. Gonzalez - RA Burruchaga / TA Tirante",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "m-gonzalez-s-gonzalez-ra-burruchaga-ta-tirante"
+        },
+        {
+          "title": "Elina Svitolina - Tamara Korpatsch",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "elina-svitolina-tamara-korpatsch"
+        },
+        {
+          "title": "K. Siniakova / T. Townsend - E. Arango / I. Jovic",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "k-siniakova-t-townsend-e-arango-i-jovic"
+        }
+      ]
+    },
+    {
+      "title": "Madrid | Bouldern | Finale",
+      "subtitle": "World Series | Frauen",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2026-05-29T19:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/6e660b23-06b7-5895-9219-9e4b71822ca9?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "madrid-bouldern-finale",
+      "related_events": []
+    },
+    {
+      "title": "Roland-Garros Courtside | Vor der Night Session",
+      "subtitle": "Roland-Garros-Show | Tag 6 | Englischer Kommentar",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-05-29T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/92645c26-3c40-5171-a68a-8a3fa0651bac?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-courtside-vor-der-night-session",
+      "related_events": [
+        {
+          "title": "João Fonseca - Novak Djokovic",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "joao-fonseca-novak-djokovic"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "17:45",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        }
+      ]
+    },
+    {
+      "title": "Matchball Becker | Analyse der Day Session",
+      "subtitle": "Roland-Garros-Show mit Boris Becker | Tag 6 | Folge 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-05-29T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/f85d27c6-a416-5a13-95fe-b6b5828146ce?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "matchball-becker-analyse-der-day-session",
+      "related_events": [
+        {
+          "title": "João Fonseca - Novak Djokovic",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "joao-fonseca-novak-djokovic"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "17:45",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        }
+      ]
+    },
+    {
+      "title": "Matchball Becker",
+      "subtitle": "Roland-Garros-Show mit Boris Becker | Tag 6 | Folge 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-05-29T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "matchball-becker",
+      "related_events": [
+        {
+          "title": "João Fonseca - Novak Djokovic",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "joao-fonseca-novak-djokovic"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "17:45",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        }
+      ]
+    },
+    {
+      "title": "Quentin Halys - Alexander Zverev",
+      "subtitle": "Roland-Garros | 3. Runde | Philippe-Chatrier",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:30",
+      "iso_time": "2026-05-29T20:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/e4a6866a-07f3-5990-82ab-a5ae2f1c024a?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "quentin-halys-alexander-zverev",
+      "related_events": [
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "17:45",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "Casper Ruud - Tommy Paul",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "casper-ruud-tommy-paul"
+        }
+      ]
+    },
+    {
+      "title": "Alexander Zverev - Quentin Halys",
+      "subtitle": "Roland-Garros | 3. Runde | Deutsche Konferenz",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:30",
+      "iso_time": "2026-05-29T20:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/10f2b1bb-ab99-5111-8423-1849aa5216f2?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "alexander-zverev-quentin-halys",
+      "related_events": [
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "17:45",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        },
+        {
+          "title": "Casper Ruud - Tommy Paul",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "casper-ruud-tommy-paul"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros | 3. Runde",
+      "subtitle": "Quentin Halys - Alexander Zverev | Paris",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:30",
+      "iso_time": "2026-05-29T20:30:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-3-runde",
+      "related_events": [
+        {
+          "title": "Casper Ruud - Tommy Paul",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "casper-ruud-tommy-paul"
+        },
+        {
+          "title": "G. Dabrowski / E. King - V. Zvonareva / A. Olivetti",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "g-dabrowski-e-king-v-zvonareva-a-olivetti"
+        },
+        {
+          "title": "Peyton Stearns - Belinda Bencic",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "peyton-stearns-belinda-bencic"
+        }
+      ]
+    },
+    {
+      "title": "Giro d'Italia | 19. Etappe",
+      "subtitle": "Feltre - Alleghe (Piani di Pezzè) (151km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2026-05-29T21:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/a4d5df68-e373-57ee-9e60-ca38deabad79?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-19-etappe",
+      "related_events": []
+    },
+    {
+      "title": "TSCHIO Aachen | Großer Preis von Aachen | Highlights",
+      "subtitle": "Springreiten | Grand Slam",
+      "sport": "Reitsport",
+      "sport_slug": "reitsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-05-29T22:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/4521ff37-1350-55fc-a526-b746bfe143bc?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tschio-aachen-grosser-preis-von-aachen-highlights",
+      "related_events": []
+    },
+    {
+      "title": "Giro d'Italia | 19. Etappe",
+      "subtitle": "Feltre - Alleghe (Piani di Pezzè) (151km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2026-05-29T23:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/60e400f4-b4ae-54e3-b365-47fddf5d68f3?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-19-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Roland Garros | Courtside",
+      "subtitle": "Roland-Garros-Show | Tag 6 | Englischer Kommentar",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:30",
+      "iso_time": "2026-05-29T23:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/9d68af23-1624-50e7-aeb4-68a8d098d2d4?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-courtside",
+      "related_events": [
+        {
+          "title": "Quentin Halys - Alexander Zverev",
+          "time": "20:30",
+          "sender": "Eurosport",
+          "slug": "quentin-halys-alexander-zverev"
+        },
+        {
+          "title": "Alexander Zverev - Quentin Halys",
+          "time": "20:30",
+          "sender": "Eurosport",
+          "slug": "alexander-zverev-quentin-halys"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "20:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        }
+      ]
+    },
+    {
+      "title": "Matchball Becker | Analyse des sechsten Tages",
+      "subtitle": "Roland-Garros-Show mit Boris Becker | Tag 6 | Folge 2",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:30",
+      "iso_time": "2026-05-29T23:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/e199ef10-ae3f-5aee-be2e-8c131576bcc4?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "matchball-becker-analyse-des-sechsten-tages",
+      "related_events": [
+        {
+          "title": "Quentin Halys - Alexander Zverev",
+          "time": "20:30",
+          "sender": "Eurosport",
+          "slug": "quentin-halys-alexander-zverev"
+        },
+        {
+          "title": "Alexander Zverev - Quentin Halys",
+          "time": "20:30",
+          "sender": "Eurosport",
+          "slug": "alexander-zverev-quentin-halys"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "20:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        }
+      ]
+    },
+    {
+      "title": "Matchball Becker",
+      "subtitle": "Roland-Garros-Show mit Boris Becker | Tag 6 | Folge 2",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:30",
+      "iso_time": "2026-05-29T23:30:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "matchball-becker",
+      "related_events": [
+        {
+          "title": "Quentin Halys - Alexander Zverev",
+          "time": "20:30",
+          "sender": "Eurosport",
+          "slug": "quentin-halys-alexander-zverev"
+        },
+        {
+          "title": "Alexander Zverev - Quentin Halys",
+          "time": "20:30",
+          "sender": "Eurosport",
+          "slug": "alexander-zverev-quentin-halys"
+        },
+        {
+          "title": "Roland-Garros | 3. Runde",
+          "time": "20:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-3-runde"
+        }
+      ]
+    },
+    {
+      "title": "Racing on the Edge",
+      "subtitle": "",
+      "sport": "Segeln",
+      "sport_slug": "segeln",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:45",
+      "iso_time": "2026-05-29T23:45:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "racing-on-the-edge",
+      "related_events": []
+    },
+    {
+      "title": "Frankreich | MX2 | 2. Rennen",
+      "subtitle": "WM | Lacapelle Marival",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-05-30T00:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/b73dfe3e-01f0-5844-b134-cb1dcc195be3?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "frankreich-mx2-2-rennen",
+      "related_events": [
+        {
+          "title": "Frankreich | MXGP | 2. Rennen",
+          "time": "00:30",
+          "sender": "Eurosport",
+          "slug": "frankreich-mxgp-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros |",
+      "subtitle": "Grand Slam",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:15",
+      "iso_time": "2026-05-30T00:15:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "23:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "Matchball Becker | Analyse des sechsten Tages",
+          "time": "23:30",
+          "sender": "Eurosport",
+          "slug": "matchball-becker-analyse-des-sechsten-tages"
+        },
+        {
+          "title": "Matchball Becker",
+          "time": "23:30",
+          "sender": "Eurosport",
+          "slug": "matchball-becker"
+        }
+      ]
+    },
+    {
+      "title": "Frankreich | MXGP | 2. Rennen",
+      "subtitle": "WM | Lacapelle Marival",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:30",
+      "iso_time": "2026-05-30T00:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/a821ac05-f705-5695-adcc-9acc09913cb3?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "frankreich-mxgp-2-rennen",
+      "related_events": [
+        {
+          "title": "Frankreich | MX2 | 2. Rennen",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "frankreich-mx2-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Giro d'Italia | 19. Etappe",
+      "subtitle": "Feltre - Alleghe (Piani di Pezzè) (151km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:00",
+      "iso_time": "2026-05-30T01:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/a758e733-eb50-5074-99e8-708a929412cc?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-19-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Roland-Garros |",
+      "subtitle": "Grand Slam",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:30",
+      "iso_time": "2026-05-30T01:30:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "23:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "Matchball Becker | Analyse des sechsten Tages",
+          "time": "23:30",
+          "sender": "Eurosport",
+          "slug": "matchball-becker-analyse-des-sechsten-tages"
+        },
+        {
+          "title": "Matchball Becker",
+          "time": "23:30",
+          "sender": "Eurosport",
+          "slug": "matchball-becker"
+        }
+      ]
+    }
+  ]
+}
