@@ -1,0 +1,4019 @@
+{
+  "date": "2026-06-01",
+  "events": [
+    {
+      "title": "Würzburger Kickers vs 1. FC Lok Leipzig",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-aufstieg-3-liga/ma11939642/wuerzburger-kickers_1-fc-lok-leipzig/info",
+      "slug": "wurzburger-kickers-vs-1-fc-lok-leipzig",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "ALBA BERLIN vs Bamberg Baskets",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/deutschland-bbl/ma12101559/alba-berlin_bamberg-baskets/info",
+      "slug": "alba-berlin-vs-bamberg-baskets",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "FC Bayern München vs Telekom Baskets Bonn",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/deutschland-bbl/ma12101562/fc-bayern-muenchen_telekom-baskets-bonn/info",
+      "slug": "fc-bayern-munchen-vs-telekom-baskets-bonn",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Slowakei vs Malta",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-freundschaft/ma12014006/slowakei_malta/info",
+      "slug": "slowakei-vs-malta",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Bulgarien vs Montenegro",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "bulgarien-vs-montenegro"
+        },
+        {
+          "title": "Malediven vs Afghanistan",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "malediven-vs-afghanistan"
+        }
+      ]
+    },
+    {
+      "title": "Bulgarien vs Montenegro",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-freundschaft/ma12014009/bulgarien_montenegro/info",
+      "slug": "bulgarien-vs-montenegro",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Slowakei vs Malta",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "slowakei-vs-malta"
+        },
+        {
+          "title": "Malediven vs Afghanistan",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "malediven-vs-afghanistan"
+        }
+      ]
+    },
+    {
+      "title": "Malediven vs Afghanistan",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-freundschaft/ma12102099/malediven_afghanistan/info",
+      "slug": "malediven-vs-afghanistan",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Slowakei vs Malta",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "slowakei-vs-malta"
+        },
+        {
+          "title": "Bulgarien vs Montenegro",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "bulgarien-vs-montenegro"
+        }
+      ]
+    },
+    {
+      "title": "Norwegen vs Schweden",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-freundschaft/ma11936371/norwegen_schweden/info",
+      "slug": "norwegen-vs-schweden",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Türkei vs Nordmazedonien",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-freundschaft/ma12027056/tuerkei_nordmazedonien/info",
+      "slug": "turkei-vs-nordmazedonien",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Österreich vs Tunesien",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-freundschaft/ma11876272/oesterreich_tunesien/info",
+      "slug": "osterreich-vs-tunesien",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Anastasia Potapova vs Anna Kalinskaya",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/french-open-frauen/ma11779372/anastasia-potapova_anna-kalinskaya/info",
+      "slug": "anastasia-potapova-vs-anna-kalinskaya",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Aoyama, S. / Liang, E. vs Chong, E. / Erjavec, V.",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "aoyama-s-liang-e-vs-chong-e-erjavec-v"
+        },
+        {
+          "title": "Flavio Cobolli vs Zachary Svajda",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "flavio-cobolli-vs-zachary-svajda"
+        },
+        {
+          "title": "Goransson, A. / King, E. vs Heliovaara, H. / Patten H.",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "goransson-a-king-e-vs-heliovaara-h-patten-h"
+        }
+      ]
+    },
+    {
+      "title": "Madison Keys vs Diana Shnaider",
+      "time": "12:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/french-open-frauen/ma11779369/madison-keys_diana-shnaider/info",
+      "slug": "madison-keys-vs-diana-shnaider",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dabrowski, G. / Stefani, L. vs Gleason, Q. / Eikeri, U.",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "dabrowski-g-stefani-l-vs-gleason-q-eikeri-u"
+        },
+        {
+          "title": "Krawietz, K. / Pütz, T. vs Balaji, S. / Demoliner, M.",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "krawietz-k-putz-t-vs-balaji-s-demoliner-m"
+        },
+        {
+          "title": "Droguet, T. / Gaston, H. vs Halys, Q. / Herbert, P.",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "droguet-t-gaston-h-vs-halys-q-herbert-p"
+        }
+      ]
+    },
+    {
+      "title": "Maja Chwalinska vs Diane Parry",
+      "time": "12:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/french-open-frauen/ma11779375/maja-chwalinska_diane-parry/info",
+      "slug": "maja-chwalinska-vs-diane-parry",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Aryna Sabalenka vs Naomi Osaka",
+      "time": "20:15",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/french-open-frauen/ma11779366/aryna-sabalenka_naomi-osaka/info",
+      "slug": "aryna-sabalenka-vs-naomi-osaka",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Aoyama, S. / Liang, E. vs Chong, E. / Erjavec, V.",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1020/roland-garros/ma11779567/aoyama-s---liang-e_chong-e---erjavec-v/info",
+      "slug": "aoyama-s-liang-e-vs-chong-e-erjavec-v",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Anastasia Potapova vs Anna Kalinskaya",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "anastasia-potapova-vs-anna-kalinskaya"
+        },
+        {
+          "title": "Flavio Cobolli vs Zachary Svajda",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "flavio-cobolli-vs-zachary-svajda"
+        },
+        {
+          "title": "Goransson, A. / King, E. vs Heliovaara, H. / Patten H.",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "goransson-a-king-e-vs-heliovaara-h-patten-h"
+        }
+      ]
+    },
+    {
+      "title": "Dabrowski, G. / Stefani, L. vs Gleason, Q. / Eikeri, U.",
+      "time": "12:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1020/roland-garros/ma11779561/dabrowski-g---stefani-l_gleason-q---eikeri-u/info",
+      "slug": "dabrowski-g-stefani-l-vs-gleason-q-eikeri-u",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Madison Keys vs Diana Shnaider",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "madison-keys-vs-diana-shnaider"
+        },
+        {
+          "title": "Krawietz, K. / Pütz, T. vs Balaji, S. / Demoliner, M.",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "krawietz-k-putz-t-vs-balaji-s-demoliner-m"
+        },
+        {
+          "title": "Droguet, T. / Gaston, H. vs Halys, Q. / Herbert, P.",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "droguet-t-gaston-h-vs-halys-q-herbert-p"
+        }
+      ]
+    },
+    {
+      "title": "Schuurs, D. / Perez, E. vs Samsonova, L. / Haddad Maia, B.",
+      "time": "13:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1020/roland-garros/ma11779573/schuurs-d---perez-e_samsonova-l---haddad-maia-b/info",
+      "slug": "schuurs-d-perez-e-vs-samsonova-l-haddad-maia-b",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Guo, H. / Mladenovic, K. vs Mertens, E. / Zhang, S.",
+          "time": "13:20",
+          "sender": "Sportschau Live",
+          "slug": "guo-h-mladenovic-k-vs-mertens-e-zhang-s"
+        },
+        {
+          "title": "Juan Manuel Cerundolo vs Matteo Berrettini",
+          "time": "13:20",
+          "sender": "Sportschau Live",
+          "slug": "juan-manuel-cerundolo-vs-matteo-berrettini"
+        }
+      ]
+    },
+    {
+      "title": "Guo, H. / Mladenovic, K. vs Mertens, E. / Zhang, S.",
+      "time": "13:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1020/roland-garros/ma11779570/guo-h---mladenovic-k_mertens-e---zhang-s/info",
+      "slug": "guo-h-mladenovic-k-vs-mertens-e-zhang-s",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Schuurs, D. / Perez, E. vs Samsonova, L. / Haddad Maia, B.",
+          "time": "13:20",
+          "sender": "Sportschau Live",
+          "slug": "schuurs-d-perez-e-vs-samsonova-l-haddad-maia-b"
+        },
+        {
+          "title": "Juan Manuel Cerundolo vs Matteo Berrettini",
+          "time": "13:20",
+          "sender": "Sportschau Live",
+          "slug": "juan-manuel-cerundolo-vs-matteo-berrettini"
+        }
+      ]
+    },
+    {
+      "title": "Flavio Cobolli vs Zachary Svajda",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/french-open/ma11753554/flavio-cobolli_zachary-svajda/info",
+      "slug": "flavio-cobolli-vs-zachary-svajda",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Anastasia Potapova vs Anna Kalinskaya",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "anastasia-potapova-vs-anna-kalinskaya"
+        },
+        {
+          "title": "Aoyama, S. / Liang, E. vs Chong, E. / Erjavec, V.",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "aoyama-s-liang-e-vs-chong-e-erjavec-v"
+        },
+        {
+          "title": "Goransson, A. / King, E. vs Heliovaara, H. / Patten H.",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "goransson-a-king-e-vs-heliovaara-h-patten-h"
+        }
+      ]
+    },
+    {
+      "title": "Juan Manuel Cerundolo vs Matteo Berrettini",
+      "time": "13:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/french-open/ma11753545/juan-manuel-cerundolo_matteo-berrettini/info",
+      "slug": "juan-manuel-cerundolo-vs-matteo-berrettini",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Schuurs, D. / Perez, E. vs Samsonova, L. / Haddad Maia, B.",
+          "time": "13:20",
+          "sender": "Sportschau Live",
+          "slug": "schuurs-d-perez-e-vs-samsonova-l-haddad-maia-b"
+        },
+        {
+          "title": "Guo, H. / Mladenovic, K. vs Mertens, E. / Zhang, S.",
+          "time": "13:20",
+          "sender": "Sportschau Live",
+          "slug": "guo-h-mladenovic-k-vs-mertens-e-zhang-s"
+        }
+      ]
+    },
+    {
+      "title": "Frances Tiafoe vs Matteo Arnaldi",
+      "time": "15:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/french-open/ma11753548/frances-tiafoe_matteo-arnaldi/info",
+      "slug": "frances-tiafoe-vs-matteo-arnaldi",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Nikita Belozertsev - Yannick Theodor Alexandrescou",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "nikita-belozertsev-yannick-theodor-alexandrescou"
+        },
+        {
+          "title": "Alisa Oktiabreva - Ruien Zhang",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "alisa-oktiabreva-ruien-zhang"
+        },
+        {
+          "title": "Mariia Makarova - Maaya Rajeshwaran Revathi",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "mariia-makarova-maaya-rajeshwaran-revathi"
+        }
+      ]
+    },
+    {
+      "title": "Felix Auger-Aliassime vs Alejandro Tabilo",
+      "time": "15:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/french-open/ma11753551/felix-auger-aliassime_alejandro-tabilo/info",
+      "slug": "felix-auger-aliassime-vs-alejandro-tabilo",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Goransson, A. / King, E. vs Heliovaara, H. / Patten H.",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co908/roland-garros/ma11753755/goransson-a---king-e_heliovaara-h---patten-h/info",
+      "slug": "goransson-a-king-e-vs-heliovaara-h-patten-h",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Anastasia Potapova vs Anna Kalinskaya",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "anastasia-potapova-vs-anna-kalinskaya"
+        },
+        {
+          "title": "Aoyama, S. / Liang, E. vs Chong, E. / Erjavec, V.",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "aoyama-s-liang-e-vs-chong-e-erjavec-v"
+        },
+        {
+          "title": "Flavio Cobolli vs Zachary Svajda",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "flavio-cobolli-vs-zachary-svajda"
+        }
+      ]
+    },
+    {
+      "title": "Arevalo, M. / Pavic, M. vs Arends, S. / Pel, D.",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co908/roland-garros/ma11753746/arevalo-m---pavic-m_arends-s---pel-d/info",
+      "slug": "arevalo-m-pavic-m-vs-arends-s-pel-d",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Anastasia Potapova vs Anna Kalinskaya",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "anastasia-potapova-vs-anna-kalinskaya"
+        },
+        {
+          "title": "Aoyama, S. / Liang, E. vs Chong, E. / Erjavec, V.",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "aoyama-s-liang-e-vs-chong-e-erjavec-v"
+        },
+        {
+          "title": "Flavio Cobolli vs Zachary Svajda",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "flavio-cobolli-vs-zachary-svajda"
+        }
+      ]
+    },
+    {
+      "title": "Krawietz, K. / Pütz, T. vs Balaji, S. / Demoliner, M.",
+      "time": "12:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co908/roland-garros/ma11753752/krawietz-k---puetz-t_balaji-s---demoliner-m/info",
+      "slug": "krawietz-k-putz-t-vs-balaji-s-demoliner-m",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Madison Keys vs Diana Shnaider",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "madison-keys-vs-diana-shnaider"
+        },
+        {
+          "title": "Dabrowski, G. / Stefani, L. vs Gleason, Q. / Eikeri, U.",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "dabrowski-g-stefani-l-vs-gleason-q-eikeri-u"
+        },
+        {
+          "title": "Droguet, T. / Gaston, H. vs Halys, Q. / Herbert, P.",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "droguet-t-gaston-h-vs-halys-q-herbert-p"
+        }
+      ]
+    },
+    {
+      "title": "Droguet, T. / Gaston, H. vs Halys, Q. / Herbert, P.",
+      "time": "12:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co908/roland-garros/ma11753749/droguet-t---gaston-h_halys-q---herbert-p/info",
+      "slug": "droguet-t-gaston-h-vs-halys-q-herbert-p",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Madison Keys vs Diana Shnaider",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "madison-keys-vs-diana-shnaider"
+        },
+        {
+          "title": "Dabrowski, G. / Stefani, L. vs Gleason, Q. / Eikeri, U.",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "dabrowski-g-stefani-l-vs-gleason-q-eikeri-u"
+        },
+        {
+          "title": "Krawietz, K. / Pütz, T. vs Balaji, S. / Demoliner, M.",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "krawietz-k-putz-t-vs-balaji-s-demoliner-m"
+        }
+      ]
+    },
+    {
+      "title": "Nys, H. / Roger-Vasselin, E. vs Tabilo, A. / Reyes-Varela, M.",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co908/roland-garros/ma11753737/nys-h---roger-vasselin-e_tabilo-a---reyes-varela-m/info",
+      "slug": "nys-h-roger-vasselin-e-vs-tabilo-a-reyes-varela-m",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Félix Auger-Aliassime - Alejandro Tabilo",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "felix-auger-aliassime-alejandro-tabilo"
+        },
+        {
+          "title": "Oliver Majdandzic - Thilo Behrmann",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "oliver-majdandzic-thilo-behrmann"
+        },
+        {
+          "title": "Ferdinand Livet Novkirichka - Nicolas Baena",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "ferdinand-livet-novkirichka-nicolas-baena"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros |",
+      "subtitle": "Grand Slam",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:48",
+      "iso_time": "2026-06-01T01:48:39+02:00",
+      "link": "",
+      "slug": "roland-garros",
+      "related_events": []
+    },
+    {
+      "title": "Giro d'Italia | 1. Etappe",
+      "subtitle": "UCI World Tour | Frauen",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:00",
+      "iso_time": "2026-06-01T03:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/b25f84dc-9a44-5b89-b913-8ea066cd1ddf?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-1-etappe",
+      "related_events": [
+        {
+          "title": "Giro d'Italia | 21. Etappe",
+          "time": "03:47",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-21-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Giro d'Italia | 21. Etappe",
+      "subtitle": "Rom - Rom (131km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:47",
+      "iso_time": "2026-06-01T03:47:09+02:00",
+      "link": "",
+      "slug": "giro-d-italia-21-etappe",
+      "related_events": [
+        {
+          "title": "Giro d'Italia | 1. Etappe",
+          "time": "03:00",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-1-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros |",
+      "subtitle": "Grand Slam",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:58",
+      "iso_time": "2026-06-01T04:58:36+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros",
+      "related_events": []
+    },
+    {
+      "title": "Deutschland | MX2 | 1. Rennen",
+      "subtitle": "WM | 7. Station | Teutschenthal",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:00",
+      "iso_time": "2026-06-01T07:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "deutschland-mx2-1-rennen",
+      "related_events": [
+        {
+          "title": "Deutschland | MX2 | 2. Rennen",
+          "time": "07:47",
+          "sender": "Eurosport",
+          "slug": "deutschland-mx2-2-rennen"
+        },
+        {
+          "title": "Deutschland | MXGP | 1. Rennen",
+          "time": "08:32",
+          "sender": "Eurosport",
+          "slug": "deutschland-mxgp-1-rennen"
+        },
+        {
+          "title": "Deutschland | MXGP | 2. Rennen",
+          "time": "09:18",
+          "sender": "Eurosport",
+          "slug": "deutschland-mxgp-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Deutschland | MX2 | 2. Rennen",
+      "subtitle": "WM | 7. Station | Teutschenthal",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:47",
+      "iso_time": "2026-06-01T07:47:32+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "deutschland-mx2-2-rennen",
+      "related_events": [
+        {
+          "title": "Deutschland | MX2 | 1. Rennen",
+          "time": "07:00",
+          "sender": "Eurosport",
+          "slug": "deutschland-mx2-1-rennen"
+        },
+        {
+          "title": "Deutschland | MXGP | 1. Rennen",
+          "time": "08:32",
+          "sender": "Eurosport",
+          "slug": "deutschland-mxgp-1-rennen"
+        },
+        {
+          "title": "Deutschland | MXGP | 2. Rennen",
+          "time": "09:18",
+          "sender": "Eurosport",
+          "slug": "deutschland-mxgp-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Deutschland | MXGP | 1. Rennen",
+      "subtitle": "WM | 7. Station | Teutschenthal",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:32",
+      "iso_time": "2026-06-01T08:32:09+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "deutschland-mxgp-1-rennen",
+      "related_events": [
+        {
+          "title": "Deutschland | MX2 | 1. Rennen",
+          "time": "07:00",
+          "sender": "Eurosport",
+          "slug": "deutschland-mx2-1-rennen"
+        },
+        {
+          "title": "Deutschland | MX2 | 2. Rennen",
+          "time": "07:47",
+          "sender": "Eurosport",
+          "slug": "deutschland-mx2-2-rennen"
+        },
+        {
+          "title": "Deutschland | MXGP | 2. Rennen",
+          "time": "09:18",
+          "sender": "Eurosport",
+          "slug": "deutschland-mxgp-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Giro d'Italia | 21. Etappe",
+      "subtitle": "Rom - Rom (131km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:35",
+      "iso_time": "2026-06-01T08:35:11+02:00",
+      "link": "https://play.hbomax.com/sport/32c2621e-a4d5-547f-8cf9-74303f297076?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-21-etappe",
+      "related_events": [
+        {
+          "title": "Giro d'Italia Women | 2. Etappe",
+          "time": "09:29",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-women-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Deutschland | MXGP | 2. Rennen",
+      "subtitle": "WM | 7. Station | Teutschenthal",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:18",
+      "iso_time": "2026-06-01T09:18:20+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "deutschland-mxgp-2-rennen",
+      "related_events": [
+        {
+          "title": "Deutschland | MX2 | 1. Rennen",
+          "time": "07:00",
+          "sender": "Eurosport",
+          "slug": "deutschland-mx2-1-rennen"
+        },
+        {
+          "title": "Deutschland | MX2 | 2. Rennen",
+          "time": "07:47",
+          "sender": "Eurosport",
+          "slug": "deutschland-mx2-2-rennen"
+        },
+        {
+          "title": "Deutschland | MXGP | 1. Rennen",
+          "time": "08:32",
+          "sender": "Eurosport",
+          "slug": "deutschland-mxgp-1-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Giro d'Italia Women | 2. Etappe",
+      "subtitle": "Roncade - Caorle (156km) | Frauen | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:29",
+      "iso_time": "2026-06-01T09:29:02+02:00",
+      "link": "https://play.hbomax.com/sport/3de3a177-3f4e-5565-aee5-4933d1335699?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-women-2-etappe",
+      "related_events": [
+        {
+          "title": "Giro d'Italia | 21. Etappe",
+          "time": "08:35",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-21-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Madrid | Speed | Finale",
+      "subtitle": "World Series | Frauen / Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:03",
+      "iso_time": "2026-06-01T10:03:09+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "madrid-speed-finale",
+      "related_events": []
+    },
+    {
+      "title": "Roland Garros | Courtside",
+      "subtitle": "Roland-Garros-Show | Tag 9 | Englischer Kommentar",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:30",
+      "iso_time": "2026-06-01T10:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/ef050168-d1a7-5b2c-9386-5694a22b4418?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-courtside",
+      "related_events": [
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "A. Göransson / E. King - H. Heliövaara/ H. Patten",
+          "time": "10:55",
+          "sender": "Eurosport",
+          "slug": "a-goransson-e-king-h-heliovaara-h-patten"
+        }
+      ]
+    },
+    {
+      "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+      "subtitle": "Roland-Garros-Magazin mit Barbara Rittner | Tag 9 | Folge 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:45",
+      "iso_time": "2026-06-01T10:45:00+02:00",
+      "link": "https://play.hbomax.com/sport/6c3a7724-3ff0-5791-8e84-b6d68b6b2241?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "A. Göransson / E. King - H. Heliövaara/ H. Patten",
+          "time": "10:55",
+          "sender": "Eurosport",
+          "slug": "a-goransson-e-king-h-heliovaara-h-patten"
+        },
+        {
+          "title": "Ziga Sesko - Tito Chavez",
+          "time": "10:55",
+          "sender": "Eurosport",
+          "slug": "ziga-sesko-tito-chavez"
+        }
+      ]
+    },
+    {
+      "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+      "subtitle": "Roland-Garros-Magazin mit Barbara Rittner | Tag 9 | Folge 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:45",
+      "iso_time": "2026-06-01T10:45:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "A. Göransson / E. King - H. Heliövaara/ H. Patten",
+          "time": "10:55",
+          "sender": "Eurosport",
+          "slug": "a-goransson-e-king-h-heliovaara-h-patten"
+        },
+        {
+          "title": "Ziga Sesko - Tito Chavez",
+          "time": "10:55",
+          "sender": "Eurosport",
+          "slug": "ziga-sesko-tito-chavez"
+        }
+      ]
+    },
+    {
+      "title": "A. Göransson / E. King - H. Heliövaara/ H. Patten",
+      "subtitle": "Roland-Garros | Achtelfinale | Simonne-Mathieu",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:55",
+      "iso_time": "2026-06-01T10:55:00+02:00",
+      "link": "https://play.hbomax.com/sport/490ff2ab-c38e-5a20-ad3a-5609ddba6430?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "a-goransson-e-king-h-heliovaara-h-patten",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "Ziga Sesko - Tito Chavez",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:55",
+      "iso_time": "2026-06-01T10:55:00+02:00",
+      "link": "https://play.hbomax.com/sport/0d769ef6-117a-5158-8cf9-1479d339083f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "ziga-sesko-tito-chavez",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "Rihards Neimanis - Christopher Thies",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:55",
+      "iso_time": "2026-06-01T10:55:00+02:00",
+      "link": "https://play.hbomax.com/sport/18d2bfd1-cf97-535b-98ba-54857ece558c?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "rihards-neimanis-christopher-thies",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "Jack Kennedy - Emilio Camacho",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:55",
+      "iso_time": "2026-06-01T10:55:00+02:00",
+      "link": "https://play.hbomax.com/sport/fe0f4cd7-03da-5987-9da2-9525455c4937?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "jack-kennedy-emilio-camacho",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "Luis Guto Miguel - Hyu Kawanishi",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:55",
+      "iso_time": "2026-06-01T10:55:00+02:00",
+      "link": "https://play.hbomax.com/sport/460771bb-4d46-50fe-9829-3247f2961932?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "luis-guto-miguel-hyu-kawanishi",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "Pablo Pradat - Leonardo Storck Franca",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:55",
+      "iso_time": "2026-06-01T10:55:00+02:00",
+      "link": "https://play.hbomax.com/sport/4fe62631-fae7-5010-8f97-3d0f02e9b7d8?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "pablo-pradat-leonardo-storck-franca",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "Charo Esquiva Banuls - Renee Alame",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:55",
+      "iso_time": "2026-06-01T10:55:00+02:00",
+      "link": "https://play.hbomax.com/sport/62ac4e67-15ed-538c-b64b-bc123987da13?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "charo-esquiva-banuls-renee-alame",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "Sofie Hettlerova - Ui Su Jeong",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:55",
+      "iso_time": "2026-06-01T10:55:00+02:00",
+      "link": "https://play.hbomax.com/sport/812370c5-bd45-5342-b6f1-eaa1a8d208e6?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "sofie-hettlerova-ui-su-jeong",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "Mathys Domenc - Dan Brand",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:55",
+      "iso_time": "2026-06-01T10:55:00+02:00",
+      "link": "https://play.hbomax.com/sport/98f139b7-9e8c-525e-8ff3-f1dfdbe2c4c6?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "mathys-domenc-dan-brand",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "S. Aoyama / ES. Liang - E. Chong / V. Erjavec",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:55",
+      "iso_time": "2026-06-01T10:55:00+02:00",
+      "link": "https://play.hbomax.com/sport/b7da6794-161e-5658-9e95-161d72d8c29f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "s-aoyama-es-liang-e-chong-v-erjavec",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "Kaan Isik Kosaner - Mickael Kaouk",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:55",
+      "iso_time": "2026-06-01T10:55:00+02:00",
+      "link": "https://play.hbomax.com/sport/c24cc775-eb95-584a-8303-578f0acb8478?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "kaan-isik-kosaner-mickael-kaouk",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "Daphnée Mpetshi Perricard - Carrie-Anne Hoo",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:55",
+      "iso_time": "2026-06-01T10:55:00+02:00",
+      "link": "https://play.hbomax.com/sport/e4f11664-1cf2-583c-9339-b142a4145db0?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "daphnee-mpetshi-perricard-carrie-anne-hoo",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "M. Arevalo / M. Pavic - S. Arends / D. Pel",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:55",
+      "iso_time": "2026-06-01T10:55:00+02:00",
+      "link": "https://play.hbomax.com/sport/e8ea844a-94f2-5f3b-ac14-2216f6aaf76c?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "m-arevalo-m-pavic-s-arends-d-pel",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros | Multiview",
+      "subtitle": "Paris | Tag 9 | Multi-Court-Feed",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-06-01T11:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/750a6e2c-437d-5d63-8e2d-744d734ff18e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-multiview",
+      "related_events": [
+        {
+          "title": "Anastasia Potapova vs Anna Kalinskaya",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "anastasia-potapova-vs-anna-kalinskaya"
+        },
+        {
+          "title": "Aoyama, S. / Liang, E. vs Chong, E. / Erjavec, V.",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "aoyama-s-liang-e-vs-chong-e-erjavec-v"
+        },
+        {
+          "title": "Flavio Cobolli vs Zachary Svajda",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "flavio-cobolli-vs-zachary-svajda"
+        }
+      ]
+    },
+    {
+      "title": "Flavio Cobolli - Zachary Svajda",
+      "subtitle": "Roland-Garros | Achtelfinale | Philippe-Chatrier",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-06-01T11:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/e036276c-3e59-50c8-989f-77771b98749e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "flavio-cobolli-zachary-svajda",
+      "related_events": [
+        {
+          "title": "Anastasia Potapova vs Anna Kalinskaya",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "anastasia-potapova-vs-anna-kalinskaya"
+        },
+        {
+          "title": "Aoyama, S. / Liang, E. vs Chong, E. / Erjavec, V.",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "aoyama-s-liang-e-vs-chong-e-erjavec-v"
+        },
+        {
+          "title": "Flavio Cobolli vs Zachary Svajda",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "flavio-cobolli-vs-zachary-svajda"
+        }
+      ]
+    },
+    {
+      "title": "Anastasia Potapova - Anna Kalinskaya",
+      "subtitle": "Roland-Garros | Achtelfinale | Suzanne-Lenglen",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-06-01T11:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/a69b3bd6-f610-561e-ae66-1837eb6fa266?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "anastasia-potapova-anna-kalinskaya",
+      "related_events": [
+        {
+          "title": "Anastasia Potapova vs Anna Kalinskaya",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "anastasia-potapova-vs-anna-kalinskaya"
+        },
+        {
+          "title": "Aoyama, S. / Liang, E. vs Chong, E. / Erjavec, V.",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "aoyama-s-liang-e-vs-chong-e-erjavec-v"
+        },
+        {
+          "title": "Flavio Cobolli vs Zachary Svajda",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "flavio-cobolli-vs-zachary-svajda"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros | Tag 9 | Konferenz",
+      "subtitle": "Mit Flavio Cobolli - Z. Svajda u.a. | Achtelfinale",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-06-01T11:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/27e628aa-c08c-5b9e-a87c-d4b75c5945a6?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-tag-9-konferenz",
+      "related_events": [
+        {
+          "title": "Anastasia Potapova vs Anna Kalinskaya",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "anastasia-potapova-vs-anna-kalinskaya"
+        },
+        {
+          "title": "Aoyama, S. / Liang, E. vs Chong, E. / Erjavec, V.",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "aoyama-s-liang-e-vs-chong-e-erjavec-v"
+        },
+        {
+          "title": "Flavio Cobolli vs Zachary Svajda",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "flavio-cobolli-vs-zachary-svajda"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros | Achtelfinale",
+      "subtitle": "F. Cobolli - Z. Svajda | Paris",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-06-01T11:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-achtelfinale",
+      "related_events": [
+        {
+          "title": "Anastasia Potapova vs Anna Kalinskaya",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "anastasia-potapova-vs-anna-kalinskaya"
+        },
+        {
+          "title": "Aoyama, S. / Liang, E. vs Chong, E. / Erjavec, V.",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "aoyama-s-liang-e-vs-chong-e-erjavec-v"
+        },
+        {
+          "title": "Flavio Cobolli vs Zachary Svajda",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "flavio-cobolli-vs-zachary-svajda"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros | Achtelfinale",
+      "subtitle": "A. Potapova - A. Kalinskaya | Paris",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-06-01T11:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/78f9734d-561e-5969-94e4-32e4849dfeb0?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-achtelfinale",
+      "related_events": [
+        {
+          "title": "Anastasia Potapova vs Anna Kalinskaya",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "anastasia-potapova-vs-anna-kalinskaya"
+        },
+        {
+          "title": "Aoyama, S. / Liang, E. vs Chong, E. / Erjavec, V.",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "aoyama-s-liang-e-vs-chong-e-erjavec-v"
+        },
+        {
+          "title": "Flavio Cobolli vs Zachary Svajda",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "flavio-cobolli-vs-zachary-svajda"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros | Achtelfinale",
+      "subtitle": "M. Keys - D. Shnaider | Paris",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:00",
+      "iso_time": "2026-06-01T13:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/e0f657b2-39b8-54f2-819b-3226af236b8a?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-achtelfinale",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "Daniel Jade - Valentin Gonzalez-Galino",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:00",
+      "iso_time": "2026-06-01T13:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/05fb58e1-392e-5a6f-9dd9-4f99f60e68ed?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "daniel-jade-valentin-gonzalez-galino",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "Katerina Zajickova - Xinran Sun",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:00",
+      "iso_time": "2026-06-01T13:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/0675039d-2590-5b87-afec-75a9dcf38070?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "katerina-zajickova-xinran-sun",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "Antonina Sushkova - Mariella Thamm",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:00",
+      "iso_time": "2026-06-01T13:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/f487451e-0299-55f6-84ad-e4e45fcc7024?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "antonina-sushkova-mariella-thamm",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "Janae Preston - Cindy Langlais",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:00",
+      "iso_time": "2026-06-01T13:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/378593d1-468c-526f-9c99-5afb1411a4a6?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "janae-preston-cindy-langlais",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "Jana Kovackova - Yui Komada",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:00",
+      "iso_time": "2026-06-01T13:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/662d5737-d996-5423-8f63-1d63917316a5?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "jana-kovackova-yui-komada",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "Matei Todoran - Jamie Mackenzie",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:00",
+      "iso_time": "2026-06-01T13:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/751b9e71-42f7-5021-84f9-14e15e90e4b4?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "matei-todoran-jamie-mackenzie",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "Sofiia Bielinska - Paola Pinera Celorio",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:00",
+      "iso_time": "2026-06-01T13:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/975d915b-b588-58d2-bf67-a645ba0ae8bf?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "sofiia-bielinska-paola-pinera-celorio",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "K. Krawietz / T. Puetz - NS. Balaji / M. Demoliner",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:00",
+      "iso_time": "2026-06-01T13:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/a7aacb33-bc6b-5bdd-b619-b186574e0d93?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "k-krawietz-t-puetz-ns-balaji-m-demoliner",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "Arnav Vijay Paparkar - Kuan-Shou Chen",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:00",
+      "iso_time": "2026-06-01T13:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/b533ded1-059b-58e9-9ca4-3a9f2a058f91?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "arnav-vijay-paparkar-kuan-shou-chen",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "Polina Skliar - Felitsata Dorofeeva-Rybas",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:00",
+      "iso_time": "2026-06-01T13:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/ba6b842c-f4b3-5189-a186-924cc97f069c?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "polina-skliar-felitsata-dorofeeva-rybas",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "Alyssa James - Ha Eum Lee",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:00",
+      "iso_time": "2026-06-01T13:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/ccfdb28c-9473-5e09-9446-6009e8db513c?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "alyssa-james-ha-eum-lee",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "G. Dabrowski / L. Stefani - U. Eikeri / Q. Gleason",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:00",
+      "iso_time": "2026-06-01T13:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/e3cfd8a4-0aec-5c3c-9277-c260602c214a?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "g-dabrowski-l-stefani-u-eikeri-q-gleason",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "First Serve Rittner | Analyse der Morning Session",
+      "subtitle": "Roland-Garros-Magazin mit Barbara Rittner | Tag 9 | Folge 2",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:00",
+      "iso_time": "2026-06-01T13:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/03e77424-03ae-5160-9552-d7dc5057806b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "first-serve-rittner-analyse-der-morning-session",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "First Serve Rittner | Analyse der Morning Session",
+      "subtitle": "Roland-Garros-Magazin mit Barbara Rittner | Tag 9 | Folge 2",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:00",
+      "iso_time": "2026-06-01T13:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "first-serve-rittner-analyse-der-morning-session",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros | Tag 9 | Konferenz",
+      "subtitle": "Mit Maja Chwalińska - Diane Parry u.a. | Achtelfinale",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:15",
+      "iso_time": "2026-06-01T13:15:00+02:00",
+      "link": "https://play.hbomax.com/sport/55e4f518-6e55-5099-932a-a947a0723fcc?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-tag-9-konferenz",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros | Achtelfinale",
+      "subtitle": "M. Chwalinska - D. Parry | Paris",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:15",
+      "iso_time": "2026-06-01T13:15:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-achtelfinale",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "T. Droguet / H. Gaston - Q. Halys / PH. Herbert",
+      "subtitle": "Roland-Garros | Achtelfinale | Simonne-Mathieu",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:30",
+      "iso_time": "2026-06-01T13:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/16ab99d4-6c5a-55cb-a6ae-184de920687e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "t-droguet-h-gaston-q-halys-ph-herbert",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "Madison Keys - Diana Shnaider",
+      "subtitle": "Roland-Garros | Achtelfinale | Suzanne-Lenglen",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:30",
+      "iso_time": "2026-06-01T13:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/a6f8de07-0bf7-5aeb-bbf4-7ddc4a53ac91?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "madison-keys-diana-shnaider",
+      "related_events": [
+        {
+          "title": "Roland Garros | Courtside",
+          "time": "10:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        },
+        {
+          "title": "First Serve Rittner | Ausblick auf den neunten Turniertag",
+          "time": "10:45",
+          "sender": "Eurosport",
+          "slug": "first-serve-rittner-ausblick-auf-den-neunten-turniertag"
+        }
+      ]
+    },
+    {
+      "title": "Maja Chwalinska - Diane Parry",
+      "subtitle": "Roland-Garros | Achtelfinale | Philippe-Chatrier",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:30",
+      "iso_time": "2026-06-01T14:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/dc65325d-fb01-58db-80dc-3c2dc1f0ccd0?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "maja-chwalinska-diane-parry",
+      "related_events": [
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        },
+        {
+          "title": "Daniel Jade - Valentin Gonzalez-Galino",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "daniel-jade-valentin-gonzalez-galino"
+        },
+        {
+          "title": "Katerina Zajickova - Xinran Sun",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "katerina-zajickova-xinran-sun"
+        }
+      ]
+    },
+    {
+      "title": "Nikita Belozertsev - Yannick Theodor Alexandrescou",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:00",
+      "iso_time": "2026-06-01T15:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/113e3d8d-70f6-5aea-a0e1-96382236b9be?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "nikita-belozertsev-yannick-theodor-alexandrescou",
+      "related_events": [
+        {
+          "title": "Frances Tiafoe vs Matteo Arnaldi",
+          "time": "15:00",
+          "sender": "Sportschau Live",
+          "slug": "frances-tiafoe-vs-matteo-arnaldi"
+        },
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        },
+        {
+          "title": "Daniel Jade - Valentin Gonzalez-Galino",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "daniel-jade-valentin-gonzalez-galino"
+        }
+      ]
+    },
+    {
+      "title": "Alisa Oktiabreva - Ruien Zhang",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:00",
+      "iso_time": "2026-06-01T15:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/156f0e10-2c0e-50c6-a7eb-aef5509485d1?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "alisa-oktiabreva-ruien-zhang",
+      "related_events": [
+        {
+          "title": "Frances Tiafoe vs Matteo Arnaldi",
+          "time": "15:00",
+          "sender": "Sportschau Live",
+          "slug": "frances-tiafoe-vs-matteo-arnaldi"
+        },
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        },
+        {
+          "title": "Daniel Jade - Valentin Gonzalez-Galino",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "daniel-jade-valentin-gonzalez-galino"
+        }
+      ]
+    },
+    {
+      "title": "Mariia Makarova - Maaya Rajeshwaran Revathi",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:00",
+      "iso_time": "2026-06-01T15:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/1a310e88-a724-5b64-a15f-218cf020864a?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "mariia-makarova-maaya-rajeshwaran-revathi",
+      "related_events": [
+        {
+          "title": "Frances Tiafoe vs Matteo Arnaldi",
+          "time": "15:00",
+          "sender": "Sportschau Live",
+          "slug": "frances-tiafoe-vs-matteo-arnaldi"
+        },
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        },
+        {
+          "title": "Daniel Jade - Valentin Gonzalez-Galino",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "daniel-jade-valentin-gonzalez-galino"
+        }
+      ]
+    },
+    {
+      "title": "Sonja Zhenikhova - Nauhany Vitoria Leme Da Silva",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:00",
+      "iso_time": "2026-06-01T15:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/245501e5-99d5-5106-a408-580820f9d685?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "sonja-zhenikhova-nauhany-vitoria-leme-da-silva",
+      "related_events": [
+        {
+          "title": "Frances Tiafoe vs Matteo Arnaldi",
+          "time": "15:00",
+          "sender": "Sportschau Live",
+          "slug": "frances-tiafoe-vs-matteo-arnaldi"
+        },
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        },
+        {
+          "title": "Daniel Jade - Valentin Gonzalez-Galino",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "daniel-jade-valentin-gonzalez-galino"
+        }
+      ]
+    },
+    {
+      "title": "Anastasija Cvetkovic - Nehira Sanon",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:00",
+      "iso_time": "2026-06-01T15:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/26e636ec-08f0-5af9-a03b-f15dc363c76b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "anastasija-cvetkovic-nehira-sanon",
+      "related_events": [
+        {
+          "title": "Frances Tiafoe vs Matteo Arnaldi",
+          "time": "15:00",
+          "sender": "Sportschau Live",
+          "slug": "frances-tiafoe-vs-matteo-arnaldi"
+        },
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        },
+        {
+          "title": "Daniel Jade - Valentin Gonzalez-Galino",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "daniel-jade-valentin-gonzalez-galino"
+        }
+      ]
+    },
+    {
+      "title": "Michael Antonius - Kanta Watanabe",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:00",
+      "iso_time": "2026-06-01T15:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/fb0b0bec-2888-5084-8f8d-c9416c8dce42?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "michael-antonius-kanta-watanabe",
+      "related_events": [
+        {
+          "title": "Frances Tiafoe vs Matteo Arnaldi",
+          "time": "15:00",
+          "sender": "Sportschau Live",
+          "slug": "frances-tiafoe-vs-matteo-arnaldi"
+        },
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        },
+        {
+          "title": "Daniel Jade - Valentin Gonzalez-Galino",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "daniel-jade-valentin-gonzalez-galino"
+        }
+      ]
+    },
+    {
+      "title": "Matisse Martin - Flynn Thomas",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:00",
+      "iso_time": "2026-06-01T15:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/2e62f752-4661-5a02-8f2f-3710ebe75f0c?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "matisse-martin-flynn-thomas",
+      "related_events": [
+        {
+          "title": "Frances Tiafoe vs Matteo Arnaldi",
+          "time": "15:00",
+          "sender": "Sportschau Live",
+          "slug": "frances-tiafoe-vs-matteo-arnaldi"
+        },
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        },
+        {
+          "title": "Daniel Jade - Valentin Gonzalez-Galino",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "daniel-jade-valentin-gonzalez-galino"
+        }
+      ]
+    },
+    {
+      "title": "Eleejah Inisan - Sol Ailin Larraya Guidi",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:00",
+      "iso_time": "2026-06-01T15:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/741f3ffa-918b-5957-82ca-7752f1228293?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "eleejah-inisan-sol-ailin-larraya-guidi",
+      "related_events": [
+        {
+          "title": "Frances Tiafoe vs Matteo Arnaldi",
+          "time": "15:00",
+          "sender": "Sportschau Live",
+          "slug": "frances-tiafoe-vs-matteo-arnaldi"
+        },
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        },
+        {
+          "title": "Daniel Jade - Valentin Gonzalez-Galino",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "daniel-jade-valentin-gonzalez-galino"
+        }
+      ]
+    },
+    {
+      "title": "A. Muhammad / N. Mektic - E. Routliffe / A. Goransson",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:00",
+      "iso_time": "2026-06-01T15:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/7b0be14d-b7aa-5381-977b-f40a4a8b8e09?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "a-muhammad-n-mektic-e-routliffe-a-goransson",
+      "related_events": [
+        {
+          "title": "Frances Tiafoe vs Matteo Arnaldi",
+          "time": "15:00",
+          "sender": "Sportschau Live",
+          "slug": "frances-tiafoe-vs-matteo-arnaldi"
+        },
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        },
+        {
+          "title": "Daniel Jade - Valentin Gonzalez-Galino",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "daniel-jade-valentin-gonzalez-galino"
+        }
+      ]
+    },
+    {
+      "title": "Yushan Shao - Anastasia Lizunova",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:00",
+      "iso_time": "2026-06-01T15:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/7f305ea3-f55e-5d06-bc3b-8fbb297ff7f2?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "yushan-shao-anastasia-lizunova",
+      "related_events": [
+        {
+          "title": "Frances Tiafoe vs Matteo Arnaldi",
+          "time": "15:00",
+          "sender": "Sportschau Live",
+          "slug": "frances-tiafoe-vs-matteo-arnaldi"
+        },
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        },
+        {
+          "title": "Daniel Jade - Valentin Gonzalez-Galino",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "daniel-jade-valentin-gonzalez-galino"
+        }
+      ]
+    },
+    {
+      "title": "Agassi Rusher - Zangar Nurlanuly",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:00",
+      "iso_time": "2026-06-01T15:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/b5dedb17-1b6d-5635-bdfd-ac18267af255?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "agassi-rusher-zangar-nurlanuly",
+      "related_events": [
+        {
+          "title": "Frances Tiafoe vs Matteo Arnaldi",
+          "time": "15:00",
+          "sender": "Sportschau Live",
+          "slug": "frances-tiafoe-vs-matteo-arnaldi"
+        },
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        },
+        {
+          "title": "Daniel Jade - Valentin Gonzalez-Galino",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "daniel-jade-valentin-gonzalez-galino"
+        }
+      ]
+    },
+    {
+      "title": "E. Perez / D. Schuurs - B. Haddad Maia / L. Samsonova",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:00",
+      "iso_time": "2026-06-01T15:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/e792ede6-50b2-58ae-b2a4-f0f6728b285c?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "e-perez-d-schuurs-b-haddad-maia-l-samsonova",
+      "related_events": [
+        {
+          "title": "Frances Tiafoe vs Matteo Arnaldi",
+          "time": "15:00",
+          "sender": "Sportschau Live",
+          "slug": "frances-tiafoe-vs-matteo-arnaldi"
+        },
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        },
+        {
+          "title": "Daniel Jade - Valentin Gonzalez-Galino",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "daniel-jade-valentin-gonzalez-galino"
+        }
+      ]
+    },
+    {
+      "title": "Giro d'Italia Women | 3. Etappe",
+      "subtitle": "Bibione - Buja (156km) | Frauen | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:30",
+      "iso_time": "2026-06-01T15:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/8ef3fb87-b4a0-5183-bab9-cbc5c2748fce?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-women-3-etappe",
+      "related_events": [
+        {
+          "title": "Tour de Wallonie | 1. Etappe",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-wallonie-1-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de Wallonie | 1. Etappe",
+      "subtitle": "UCI Pro Series | Männer | Manage - Lobbes (180,7km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:30",
+      "iso_time": "2026-06-01T15:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/dba27201-70b0-5a56-bafe-114d75917786?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-wallonie-1-etappe",
+      "related_events": [
+        {
+          "title": "Giro d'Italia Women | 3. Etappe",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-women-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Juan Manuel Cerundolo - Matteo Berrettini",
+      "subtitle": "Roland-Garros | Achtelfinale | Suzanne-Lenglen",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2026-06-01T16:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/60f03461-345f-5fe6-af62-ed0e47ca0eea?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "juan-manuel-cerundolo-matteo-berrettini",
+      "related_events": [
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        },
+        {
+          "title": "Daniel Jade - Valentin Gonzalez-Galino",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "daniel-jade-valentin-gonzalez-galino"
+        },
+        {
+          "title": "Katerina Zajickova - Xinran Sun",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "katerina-zajickova-xinran-sun"
+        }
+      ]
+    },
+    {
+      "title": "H. Guo / K. Mladenovic - E. Mertens / S. Zhang",
+      "subtitle": "Roland-Garros | Achtelfinale | Simonne-Mathieu",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2026-06-01T16:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/972c5ece-d41e-51b9-ab09-2a6e18d73cbd?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "h-guo-k-mladenovic-e-mertens-s-zhang",
+      "related_events": [
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        },
+        {
+          "title": "Daniel Jade - Valentin Gonzalez-Galino",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "daniel-jade-valentin-gonzalez-galino"
+        },
+        {
+          "title": "Katerina Zajickova - Xinran Sun",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "katerina-zajickova-xinran-sun"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros | Achtelfinale",
+      "subtitle": "F. Auger-Aliassime - A. Tabilo | Paris",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2026-06-01T16:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-achtelfinale",
+      "related_events": [
+        {
+          "title": "Daniel Jade - Valentin Gonzalez-Galino",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "daniel-jade-valentin-gonzalez-galino"
+        },
+        {
+          "title": "Katerina Zajickova - Xinran Sun",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "katerina-zajickova-xinran-sun"
+        },
+        {
+          "title": "Antonina Sushkova - Mariella Thamm",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "antonina-sushkova-mariella-thamm"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros | Achtelfinale",
+      "subtitle": "J. M. Cerúndolo - M. Berrettini | Paris",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:00",
+      "iso_time": "2026-06-01T16:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-achtelfinale",
+      "related_events": [
+        {
+          "title": "Daniel Jade - Valentin Gonzalez-Galino",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "daniel-jade-valentin-gonzalez-galino"
+        },
+        {
+          "title": "Katerina Zajickova - Xinran Sun",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "katerina-zajickova-xinran-sun"
+        },
+        {
+          "title": "Antonina Sushkova - Mariella Thamm",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "antonina-sushkova-mariella-thamm"
+        }
+      ]
+    },
+    {
+      "title": "Félix Auger-Aliassime - Alejandro Tabilo",
+      "subtitle": "Roland-Garros | Achtelfinale | Philippe-Chatrier",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2026-06-01T17:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/91d80cb0-79df-505c-a86a-634023c5a5e5?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "felix-auger-aliassime-alejandro-tabilo",
+      "related_events": [
+        {
+          "title": "Nys, H. / Roger-Vasselin, E. vs Tabilo, A. / Reyes-Varela, M.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "nys-h-roger-vasselin-e-vs-tabilo-a-reyes-varela-m"
+        },
+        {
+          "title": "Maja Chwalinska - Diane Parry",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "maja-chwalinska-diane-parry"
+        },
+        {
+          "title": "Nikita Belozertsev - Yannick Theodor Alexandrescou",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "nikita-belozertsev-yannick-theodor-alexandrescou"
+        }
+      ]
+    },
+    {
+      "title": "Oliver Majdandzic - Thilo Behrmann",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2026-06-01T17:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/0fe97602-da5e-5b34-bad3-dccf4b3d01ff?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "oliver-majdandzic-thilo-behrmann",
+      "related_events": [
+        {
+          "title": "Nys, H. / Roger-Vasselin, E. vs Tabilo, A. / Reyes-Varela, M.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "nys-h-roger-vasselin-e-vs-tabilo-a-reyes-varela-m"
+        },
+        {
+          "title": "Maja Chwalinska - Diane Parry",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "maja-chwalinska-diane-parry"
+        },
+        {
+          "title": "Nikita Belozertsev - Yannick Theodor Alexandrescou",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "nikita-belozertsev-yannick-theodor-alexandrescou"
+        }
+      ]
+    },
+    {
+      "title": "Ferdinand Livet Novkirichka - Nicolas Baena",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2026-06-01T17:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/18069cf4-3a78-5e42-a458-6103674370a9?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "ferdinand-livet-novkirichka-nicolas-baena",
+      "related_events": [
+        {
+          "title": "Nys, H. / Roger-Vasselin, E. vs Tabilo, A. / Reyes-Varela, M.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "nys-h-roger-vasselin-e-vs-tabilo-a-reyes-varela-m"
+        },
+        {
+          "title": "Maja Chwalinska - Diane Parry",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "maja-chwalinska-diane-parry"
+        },
+        {
+          "title": "Nikita Belozertsev - Yannick Theodor Alexandrescou",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "nikita-belozertsev-yannick-theodor-alexandrescou"
+        }
+      ]
+    },
+    {
+      "title": "KI. Kosaner / M. Salbiev - J. Mackenzie / VJ. Reisach",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2026-06-01T17:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/25ac7e9b-15cd-529c-b2f8-b9f71d186585?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "ki-kosaner-m-salbiev-j-mackenzie-vj-reisach",
+      "related_events": [
+        {
+          "title": "Nys, H. / Roger-Vasselin, E. vs Tabilo, A. / Reyes-Varela, M.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "nys-h-roger-vasselin-e-vs-tabilo-a-reyes-varela-m"
+        },
+        {
+          "title": "Maja Chwalinska - Diane Parry",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "maja-chwalinska-diane-parry"
+        },
+        {
+          "title": "Nikita Belozertsev - Yannick Theodor Alexandrescou",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "nikita-belozertsev-yannick-theodor-alexandrescou"
+        }
+      ]
+    },
+    {
+      "title": "V. Gonzalez-Galino / S. Massellani - K. Hance / J. Kennedy",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2026-06-01T17:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/2da1e2d3-5957-53f1-8de4-9fe105bf4d96?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "v-gonzalez-galino-s-massellani-k-hance-j-kennedy",
+      "related_events": [
+        {
+          "title": "Nys, H. / Roger-Vasselin, E. vs Tabilo, A. / Reyes-Varela, M.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "nys-h-roger-vasselin-e-vs-tabilo-a-reyes-varela-m"
+        },
+        {
+          "title": "Maja Chwalinska - Diane Parry",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "maja-chwalinska-diane-parry"
+        },
+        {
+          "title": "Nikita Belozertsev - Yannick Theodor Alexandrescou",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "nikita-belozertsev-yannick-theodor-alexandrescou"
+        }
+      ]
+    },
+    {
+      "title": "LG Miguel / Z. Sesko - E. Camacho / R. Neimanis",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2026-06-01T17:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/3921ee93-82dc-59d7-92cb-d7cad605ba9b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lg-miguel-z-sesko-e-camacho-r-neimanis",
+      "related_events": [
+        {
+          "title": "Nys, H. / Roger-Vasselin, E. vs Tabilo, A. / Reyes-Varela, M.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "nys-h-roger-vasselin-e-vs-tabilo-a-reyes-varela-m"
+        },
+        {
+          "title": "Maja Chwalinska - Diane Parry",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "maja-chwalinska-diane-parry"
+        },
+        {
+          "title": "Nikita Belozertsev - Yannick Theodor Alexandrescou",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "nikita-belozertsev-yannick-theodor-alexandrescou"
+        }
+      ]
+    },
+    {
+      "title": "US. Jeong / P. Rivoli - N. Lagaev / A. Sushkova",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2026-06-01T17:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/36e1af22-3f94-5ab2-86d8-3225d96d12a9?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "us-jeong-p-rivoli-n-lagaev-a-sushkova",
+      "related_events": [
+        {
+          "title": "Nys, H. / Roger-Vasselin, E. vs Tabilo, A. / Reyes-Varela, M.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "nys-h-roger-vasselin-e-vs-tabilo-a-reyes-varela-m"
+        },
+        {
+          "title": "Maja Chwalinska - Diane Parry",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "maja-chwalinska-diane-parry"
+        },
+        {
+          "title": "Nikita Belozertsev - Yannick Theodor Alexandrescou",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "nikita-belozertsev-yannick-theodor-alexandrescou"
+        }
+      ]
+    },
+    {
+      "title": "VL. Barros / P. Pinera Celorio - D. Baranes / N. Carpentier",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2026-06-01T17:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/4bd34295-4790-5a7a-8331-07dabb9aa2a2?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "vl-barros-p-pinera-celorio-d-baranes-n-carpentier",
+      "related_events": [
+        {
+          "title": "Nys, H. / Roger-Vasselin, E. vs Tabilo, A. / Reyes-Varela, M.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "nys-h-roger-vasselin-e-vs-tabilo-a-reyes-varela-m"
+        },
+        {
+          "title": "Maja Chwalinska - Diane Parry",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "maja-chwalinska-diane-parry"
+        },
+        {
+          "title": "Nikita Belozertsev - Yannick Theodor Alexandrescou",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "nikita-belozertsev-yannick-theodor-alexandrescou"
+        }
+      ]
+    },
+    {
+      "title": "S. Azam / D. Brand - M. Todoran / D. Zhalgasbay",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2026-06-01T17:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/7590cf72-7f5e-57e9-a3b0-3df5a655517c?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "s-azam-d-brand-m-todoran-d-zhalgasbay",
+      "related_events": [
+        {
+          "title": "Nys, H. / Roger-Vasselin, E. vs Tabilo, A. / Reyes-Varela, M.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "nys-h-roger-vasselin-e-vs-tabilo-a-reyes-varela-m"
+        },
+        {
+          "title": "Maja Chwalinska - Diane Parry",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "maja-chwalinska-diane-parry"
+        },
+        {
+          "title": "Nikita Belozertsev - Yannick Theodor Alexandrescou",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "nikita-belozertsev-yannick-theodor-alexandrescou"
+        }
+      ]
+    },
+    {
+      "title": "R. Cozad / G. Goode - A. Gabet / M. Kaouk",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2026-06-01T17:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/d40f6895-f0d3-5642-8732-5d854b86022c?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "r-cozad-g-goode-a-gabet-m-kaouk",
+      "related_events": [
+        {
+          "title": "Nys, H. / Roger-Vasselin, E. vs Tabilo, A. / Reyes-Varela, M.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "nys-h-roger-vasselin-e-vs-tabilo-a-reyes-varela-m"
+        },
+        {
+          "title": "Maja Chwalinska - Diane Parry",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "maja-chwalinska-diane-parry"
+        },
+        {
+          "title": "Nikita Belozertsev - Yannick Theodor Alexandrescou",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "nikita-belozertsev-yannick-theodor-alexandrescou"
+        }
+      ]
+    },
+    {
+      "title": "YJ. Lin / YC. Lin - MI. Burcescu / A. James",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2026-06-01T17:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/d5b46f01-6629-5740-abed-920e9464a763?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "yj-lin-yc-lin-mi-burcescu-a-james",
+      "related_events": [
+        {
+          "title": "Nys, H. / Roger-Vasselin, E. vs Tabilo, A. / Reyes-Varela, M.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "nys-h-roger-vasselin-e-vs-tabilo-a-reyes-varela-m"
+        },
+        {
+          "title": "Maja Chwalinska - Diane Parry",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "maja-chwalinska-diane-parry"
+        },
+        {
+          "title": "Nikita Belozertsev - Yannick Theodor Alexandrescou",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "nikita-belozertsev-yannick-theodor-alexandrescou"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros | Achtelfinale",
+      "subtitle": "F. Tiafoe - M. Arnaldi | Paris",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2026-06-01T18:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-achtelfinale",
+      "related_events": [
+        {
+          "title": "Nikita Belozertsev - Yannick Theodor Alexandrescou",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "nikita-belozertsev-yannick-theodor-alexandrescou"
+        },
+        {
+          "title": "Alisa Oktiabreva - Ruien Zhang",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "alisa-oktiabreva-ruien-zhang"
+        },
+        {
+          "title": "Mariia Makarova - Maaya Rajeshwaran Revathi",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "mariia-makarova-maaya-rajeshwaran-revathi"
+        }
+      ]
+    },
+    {
+      "title": "Matchball Becker | Analyse der Day Session",
+      "subtitle": "Roland-Garros-Show mit Boris Becker | Tag 9 | Folge 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2026-06-01T18:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/6625ae67-3d91-5616-8e63-3f471f70b725?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "matchball-becker-analyse-der-day-session",
+      "related_events": [
+        {
+          "title": "Nikita Belozertsev - Yannick Theodor Alexandrescou",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "nikita-belozertsev-yannick-theodor-alexandrescou"
+        },
+        {
+          "title": "Alisa Oktiabreva - Ruien Zhang",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "alisa-oktiabreva-ruien-zhang"
+        },
+        {
+          "title": "Mariia Makarova - Maaya Rajeshwaran Revathi",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "mariia-makarova-maaya-rajeshwaran-revathi"
+        }
+      ]
+    },
+    {
+      "title": "Matchball Becker",
+      "subtitle": "Roland-Garros-Show mit Boris Becker | Tag 9 | Folge 1",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2026-06-01T18:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "matchball-becker",
+      "related_events": [
+        {
+          "title": "Nikita Belozertsev - Yannick Theodor Alexandrescou",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "nikita-belozertsev-yannick-theodor-alexandrescou"
+        },
+        {
+          "title": "Alisa Oktiabreva - Ruien Zhang",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "alisa-oktiabreva-ruien-zhang"
+        },
+        {
+          "title": "Mariia Makarova - Maaya Rajeshwaran Revathi",
+          "time": "15:00",
+          "sender": "Eurosport",
+          "slug": "mariia-makarova-maaya-rajeshwaran-revathi"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros | Achtelfinale",
+      "subtitle": "Mit Matteo Berrettini, Frances Tiafoe  u.a. | Paris",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:15",
+      "iso_time": "2026-06-01T18:15:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-achtelfinale",
+      "related_events": [
+        {
+          "title": "Juan Manuel Cerundolo - Matteo Berrettini",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "juan-manuel-cerundolo-matteo-berrettini"
+        },
+        {
+          "title": "H. Guo / K. Mladenovic - E. Mertens / S. Zhang",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "h-guo-k-mladenovic-e-mertens-s-zhang"
+        },
+        {
+          "title": "Félix Auger-Aliassime - Alejandro Tabilo",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "felix-auger-aliassime-alejandro-tabilo"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros | Tag 9 | Konferenz",
+      "subtitle": "Mit Matteo Berrettini, Frances Tiafoe u.a. | Achtellfinale",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:15",
+      "iso_time": "2026-06-01T18:15:00+02:00",
+      "link": "https://play.hbomax.com/sport/c7bb0123-1a98-54e1-a329-7395f21855b8?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-tag-9-konferenz",
+      "related_events": [
+        {
+          "title": "Juan Manuel Cerundolo - Matteo Berrettini",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "juan-manuel-cerundolo-matteo-berrettini"
+        },
+        {
+          "title": "H. Guo / K. Mladenovic - E. Mertens / S. Zhang",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "h-guo-k-mladenovic-e-mertens-s-zhang"
+        },
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        }
+      ]
+    },
+    {
+      "title": "Frances Tiafoe - Matteo Arnaldi",
+      "subtitle": "Roland-Garros | Achtelfinale | Suzanne-Lenglen",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2026-06-01T18:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/47842264-dc7f-5ff8-b4fc-4a344666f754?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "frances-tiafoe-matteo-arnaldi",
+      "related_events": [
+        {
+          "title": "Juan Manuel Cerundolo - Matteo Berrettini",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "juan-manuel-cerundolo-matteo-berrettini"
+        },
+        {
+          "title": "H. Guo / K. Mladenovic - E. Mertens / S. Zhang",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "h-guo-k-mladenovic-e-mertens-s-zhang"
+        },
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        }
+      ]
+    },
+    {
+      "title": "S. Errani / A. Vavassori - A. Danilina / J. Tracy",
+      "subtitle": "Roland-Garros | Achtelfinale | Simonne-Mathieu",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2026-06-01T18:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/711f2c3a-f35a-5cc3-b7cd-db3dd8cd439b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "s-errani-a-vavassori-a-danilina-j-tracy",
+      "related_events": [
+        {
+          "title": "Juan Manuel Cerundolo - Matteo Berrettini",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "juan-manuel-cerundolo-matteo-berrettini"
+        },
+        {
+          "title": "H. Guo / K. Mladenovic - E. Mertens / S. Zhang",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "h-guo-k-mladenovic-e-mertens-s-zhang"
+        },
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        }
+      ]
+    },
+    {
+      "title": "Z. Nurlanuly / S. Rybkin - D. Jovanovsky / ME. Sik",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2026-06-01T19:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/160cd9bf-7967-5f02-bb29-a4e6cb03dd66?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "z-nurlanuly-s-rybkin-d-jovanovsky-me-sik",
+      "related_events": [
+        {
+          "title": "Juan Manuel Cerundolo - Matteo Berrettini",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "juan-manuel-cerundolo-matteo-berrettini"
+        },
+        {
+          "title": "H. Guo / K. Mladenovic - E. Mertens / S. Zhang",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "h-guo-k-mladenovic-e-mertens-s-zhang"
+        },
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        }
+      ]
+    },
+    {
+      "title": "D. Mpetshi Perricard / N. Sanon - C. Clarke / O. Traynor",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2026-06-01T19:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/24dec979-554a-5a89-a187-d6a9d195569a?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "d-mpetshi-perricard-n-sanon-c-clarke-o-traynor",
+      "related_events": [
+        {
+          "title": "Juan Manuel Cerundolo - Matteo Berrettini",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "juan-manuel-cerundolo-matteo-berrettini"
+        },
+        {
+          "title": "H. Guo / K. Mladenovic - E. Mertens / S. Zhang",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "h-guo-k-mladenovic-e-mertens-s-zhang"
+        },
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        }
+      ]
+    },
+    {
+      "title": "A. Malova / A. Terentyeva - J. Hazelitt / W. Newman",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2026-06-01T19:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/453af846-24d1-5305-86fb-4b2a95ae871e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "a-malova-a-terentyeva-j-hazelitt-w-newman",
+      "related_events": [
+        {
+          "title": "Juan Manuel Cerundolo - Matteo Berrettini",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "juan-manuel-cerundolo-matteo-berrettini"
+        },
+        {
+          "title": "H. Guo / K. Mladenovic - E. Mertens / S. Zhang",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "h-guo-k-mladenovic-e-mertens-s-zhang"
+        },
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        }
+      ]
+    },
+    {
+      "title": "S. Bielinska / EV. Eigelsbach - F. Dorofeeva-Rybas / A. Pushkareva",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2026-06-01T19:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/53c0d0ad-a91f-5df2-be06-0e6a112a9614?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "s-bielinska-ev-eigelsbach-f-dorofeeva-rybas-a-pushkareva",
+      "related_events": [
+        {
+          "title": "Juan Manuel Cerundolo - Matteo Berrettini",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "juan-manuel-cerundolo-matteo-berrettini"
+        },
+        {
+          "title": "H. Guo / K. Mladenovic - E. Mertens / S. Zhang",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "h-guo-k-mladenovic-e-mertens-s-zhang"
+        },
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        }
+      ]
+    },
+    {
+      "title": "K. Pantaratorn / AV. Paparkar - M. Ceban / K. Filaretov",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2026-06-01T19:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/8241461f-f572-56d9-8b9e-689e800d3ada?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "k-pantaratorn-av-paparkar-m-ceban-k-filaretov",
+      "related_events": [
+        {
+          "title": "Juan Manuel Cerundolo - Matteo Berrettini",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "juan-manuel-cerundolo-matteo-berrettini"
+        },
+        {
+          "title": "H. Guo / K. Mladenovic - E. Mertens / S. Zhang",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "h-guo-k-mladenovic-e-mertens-s-zhang"
+        },
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        }
+      ]
+    },
+    {
+      "title": "E. Dotsenko / I. Pistola - T. Hermanova / D. Zoldakova",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2026-06-01T19:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/9c45a28c-1b29-5240-b1d3-9ce89e51af3f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "e-dotsenko-i-pistola-t-hermanova-d-zoldakova",
+      "related_events": [
+        {
+          "title": "Juan Manuel Cerundolo - Matteo Berrettini",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "juan-manuel-cerundolo-matteo-berrettini"
+        },
+        {
+          "title": "H. Guo / K. Mladenovic - E. Mertens / S. Zhang",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "h-guo-k-mladenovic-e-mertens-s-zhang"
+        },
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        }
+      ]
+    },
+    {
+      "title": "H. Kawanishi / K. Watanabe - L. Storck Franca / F. Thomas",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2026-06-01T19:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/b96e686a-7c26-5039-8d54-072e2930f0d3?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "h-kawanishi-k-watanabe-l-storck-franca-f-thomas",
+      "related_events": [
+        {
+          "title": "Juan Manuel Cerundolo - Matteo Berrettini",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "juan-manuel-cerundolo-matteo-berrettini"
+        },
+        {
+          "title": "H. Guo / K. Mladenovic - E. Mertens / S. Zhang",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "h-guo-k-mladenovic-e-mertens-s-zhang"
+        },
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        }
+      ]
+    },
+    {
+      "title": "X. Sun / R. Zhang - R. Alame / S. Hettlerova",
+      "subtitle": "Roland-Garros | Achtelfinale | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2026-06-01T19:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/da51fac8-20f5-5b21-b774-6d27b76d338b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "x-sun-r-zhang-r-alame-s-hettlerova",
+      "related_events": [
+        {
+          "title": "Juan Manuel Cerundolo - Matteo Berrettini",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "juan-manuel-cerundolo-matteo-berrettini"
+        },
+        {
+          "title": "H. Guo / K. Mladenovic - E. Mertens / S. Zhang",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "h-guo-k-mladenovic-e-mertens-s-zhang"
+        },
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "16:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        }
+      ]
+    },
+    {
+      "title": "Matchball Becker | Analyse des neunten Tages",
+      "subtitle": "Roland-Garros-Show mit Boris Becker | Tag 9 | Folge 2",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-06-01T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/01d24adf-10f9-5f7c-bef4-a4f0fff2fe13?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "matchball-becker-analyse-des-neunten-tages",
+      "related_events": [
+        {
+          "title": "Félix Auger-Aliassime - Alejandro Tabilo",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "felix-auger-aliassime-alejandro-tabilo"
+        },
+        {
+          "title": "Oliver Majdandzic - Thilo Behrmann",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "oliver-majdandzic-thilo-behrmann"
+        },
+        {
+          "title": "Ferdinand Livet Novkirichka - Nicolas Baena",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "ferdinand-livet-novkirichka-nicolas-baena"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros Courtside | Vor der Night Session",
+      "subtitle": "Roland-Garros-Show | Tag 9 | Englischer Kommentar",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-06-01T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/244168e0-5b8d-5d2e-a862-f278b9e856de?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-courtside-vor-der-night-session",
+      "related_events": [
+        {
+          "title": "Félix Auger-Aliassime - Alejandro Tabilo",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "felix-auger-aliassime-alejandro-tabilo"
+        },
+        {
+          "title": "Oliver Majdandzic - Thilo Behrmann",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "oliver-majdandzic-thilo-behrmann"
+        },
+        {
+          "title": "Ferdinand Livet Novkirichka - Nicolas Baena",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "ferdinand-livet-novkirichka-nicolas-baena"
+        }
+      ]
+    },
+    {
+      "title": "Matchball Becker | Vor der Night Session",
+      "subtitle": "Roland-Garros-Show mit Boris Becker | Tag 9 | Folge 2",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-06-01T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "matchball-becker-vor-der-night-session",
+      "related_events": [
+        {
+          "title": "Félix Auger-Aliassime - Alejandro Tabilo",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "felix-auger-aliassime-alejandro-tabilo"
+        },
+        {
+          "title": "Oliver Majdandzic - Thilo Behrmann",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "oliver-majdandzic-thilo-behrmann"
+        },
+        {
+          "title": "Ferdinand Livet Novkirichka - Nicolas Baena",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "ferdinand-livet-novkirichka-nicolas-baena"
+        }
+      ]
+    },
+    {
+      "title": "Aryna Sabalenka - Naomi Osaka",
+      "subtitle": "Roland-Garros | Achtelfinale | Philippe-Chatrier",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:30",
+      "iso_time": "2026-06-01T20:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/ad1ee87d-cdb0-50c2-91e0-14738d6b4bec?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "aryna-sabalenka-naomi-osaka",
+      "related_events": [
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        },
+        {
+          "title": "Matchball Becker | Analyse der Day Session",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "matchball-becker-analyse-der-day-session"
+        },
+        {
+          "title": "Matchball Becker",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "matchball-becker"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros | Tag 9 | Konferenz",
+      "subtitle": "Aryna Sabalenka - Naomi Osaka | Achtelfinale",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:30",
+      "iso_time": "2026-06-01T20:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/ad4eaa21-3bf8-5e86-89f9-25058f794cf3?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-tag-9-konferenz",
+      "related_events": [
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        },
+        {
+          "title": "Matchball Becker | Analyse der Day Session",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "matchball-becker-analyse-der-day-session"
+        },
+        {
+          "title": "Matchball Becker",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "matchball-becker"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros | Achtelfinale",
+      "subtitle": "A. Sabalenka - N. Osaka | Paris",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:30",
+      "iso_time": "2026-06-01T20:30:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-achtelfinale",
+      "related_events": [
+        {
+          "title": "Matchball Becker | Analyse der Day Session",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "matchball-becker-analyse-der-day-session"
+        },
+        {
+          "title": "Matchball Becker",
+          "time": "18:00",
+          "sender": "Eurosport",
+          "slug": "matchball-becker"
+        },
+        {
+          "title": "Roland-Garros | Tag 9 | Konferenz",
+          "time": "18:15",
+          "sender": "Eurosport",
+          "slug": "roland-garros-tag-9-konferenz"
+        }
+      ]
+    },
+    {
+      "title": "Giro d'Italia Women | 3. Etappe",
+      "subtitle": "Bibione - Buja (156km) | Frauen | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2026-06-01T21:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/c40fa6c7-c8ff-5a7d-888e-d8212d118d35?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-women-3-etappe",
+      "related_events": [
+        {
+          "title": "Giro d'Italia | 20. Etappe",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-20-etappe"
+        },
+        {
+          "title": "Giro d'Italia | 21. Etappe",
+          "time": "23:00",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-21-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Giro d'Italia | 20. Etappe",
+      "subtitle": "Gemona del Friuli - Piancavallo (200km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-06-01T22:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-20-etappe",
+      "related_events": [
+        {
+          "title": "Giro d'Italia Women | 3. Etappe",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-women-3-etappe"
+        },
+        {
+          "title": "Giro d'Italia | 21. Etappe",
+          "time": "23:00",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-21-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Giro d'Italia | 21. Etappe",
+      "subtitle": "Rom - Rom (131km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2026-06-01T23:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-21-etappe",
+      "related_events": [
+        {
+          "title": "Giro d'Italia Women | 3. Etappe",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-women-3-etappe"
+        },
+        {
+          "title": "Giro d'Italia | 20. Etappe",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-20-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros |",
+      "subtitle": "Grand Slam",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:30",
+      "iso_time": "2026-06-01T23:30:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros",
+      "related_events": [
+        {
+          "title": "Aryna Sabalenka - Naomi Osaka",
+          "time": "20:30",
+          "sender": "Eurosport",
+          "slug": "aryna-sabalenka-naomi-osaka"
+        },
+        {
+          "title": "Roland-Garros | Tag 9 | Konferenz",
+          "time": "20:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-tag-9-konferenz"
+        },
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "20:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        }
+      ]
+    },
+    {
+      "title": "Roland Garros Courtside | Tageszusammenfassung",
+      "subtitle": "Roland-Garros-Show | Tag 9 | Englischer Kommentar",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:30",
+      "iso_time": "2026-06-01T23:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/8787aaa9-3c89-5e07-b3f5-213cd9c85060?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros-courtside-tageszusammenfassung",
+      "related_events": [
+        {
+          "title": "Aryna Sabalenka - Naomi Osaka",
+          "time": "20:30",
+          "sender": "Eurosport",
+          "slug": "aryna-sabalenka-naomi-osaka"
+        },
+        {
+          "title": "Roland-Garros | Tag 9 | Konferenz",
+          "time": "20:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-tag-9-konferenz"
+        },
+        {
+          "title": "Roland-Garros | Achtelfinale",
+          "time": "20:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-achtelfinale"
+        }
+      ]
+    },
+    {
+      "title": "Deutschland | MX2 | 2. Rennen",
+      "subtitle": "WM",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-06-02T00:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "deutschland-mx2-2-rennen",
+      "related_events": [
+        {
+          "title": "Deutschland | MXGP | 2. Rennen",
+          "time": "00:45",
+          "sender": "Eurosport",
+          "slug": "deutschland-mxgp-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros |",
+      "subtitle": "Grand Slam",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:30",
+      "iso_time": "2026-06-02T00:30:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros",
+      "related_events": [
+        {
+          "title": "Roland Garros Courtside | Tageszusammenfassung",
+          "time": "23:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside-tageszusammenfassung"
+        }
+      ]
+    },
+    {
+      "title": "Deutschland | MXGP | 2. Rennen",
+      "subtitle": "WM | 7. Station | Teutschenthal",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:45",
+      "iso_time": "2026-06-02T00:45:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "deutschland-mxgp-2-rennen",
+      "related_events": [
+        {
+          "title": "Deutschland | MX2 | 2. Rennen",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "deutschland-mx2-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Roland-Garros |",
+      "subtitle": "Grand Slam",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:30",
+      "iso_time": "2026-06-02T01:30:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "roland-garros",
+      "related_events": [
+        {
+          "title": "Roland Garros Courtside | Tageszusammenfassung",
+          "time": "23:30",
+          "sender": "Eurosport",
+          "slug": "roland-garros-courtside-tageszusammenfassung"
+        }
+      ]
+    }
+  ]
+}
