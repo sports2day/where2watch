@@ -1,0 +1,2354 @@
+{
+  "date": "2026-06-16",
+  "events": [
+    {
+      "title": "Iran vs Neuseeland",
+      "time": "03:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-wm/ma10713854/iran_neuseeland/liveticker",
+      "slug": "iran-vs-neuseeland",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Saudi-Arabien vs Uruguay",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-wm/ma10713872/saudi-arabien_uruguay/liveticker",
+      "slug": "saudi-arabien-vs-uruguay",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Frankreich vs Sénégal",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-wm/ma10713887/frankreich_senegal/info",
+      "slug": "frankreich-vs-senegal",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Karen Khachanov vs Ethan Quinn",
+      "time": "11:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-deutschland-gerry-weber-open/ma11753986/karen-khachanov_ethan-quinn/info",
+      "slug": "karen-khachanov-vs-ethan-quinn",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Mattia Bellucci vs Alexander Bublik",
+          "time": "11:30",
+          "sender": "Sportschau Live",
+          "slug": "mattia-bellucci-vs-alexander-bublik"
+        },
+        {
+          "title": "Alexei Popyrin vs Raphael Collignon",
+          "time": "11:30",
+          "sender": "Sportschau Live",
+          "slug": "alexei-popyrin-vs-raphael-collignon"
+        },
+        {
+          "title": "Karen Khachanov - Ethan Quinn",
+          "time": "11:30",
+          "sender": "Eurosport",
+          "slug": "karen-khachanov-ethan-quinn"
+        }
+      ]
+    },
+    {
+      "title": "Mattia Bellucci vs Alexander Bublik",
+      "time": "11:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-deutschland-gerry-weber-open/ma11753980/mattia-bellucci_alexander-bublik/info",
+      "slug": "mattia-bellucci-vs-alexander-bublik",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Karen Khachanov vs Ethan Quinn",
+          "time": "11:30",
+          "sender": "Sportschau Live",
+          "slug": "karen-khachanov-vs-ethan-quinn"
+        },
+        {
+          "title": "Alexei Popyrin vs Raphael Collignon",
+          "time": "11:30",
+          "sender": "Sportschau Live",
+          "slug": "alexei-popyrin-vs-raphael-collignon"
+        },
+        {
+          "title": "Karen Khachanov - Ethan Quinn",
+          "time": "11:30",
+          "sender": "Eurosport",
+          "slug": "karen-khachanov-ethan-quinn"
+        }
+      ]
+    },
+    {
+      "title": "Alexei Popyrin vs Raphael Collignon",
+      "time": "11:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-deutschland-gerry-weber-open/ma11753977/alexei-popyrin_raphael-collignon/info",
+      "slug": "alexei-popyrin-vs-raphael-collignon",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Karen Khachanov vs Ethan Quinn",
+          "time": "11:30",
+          "sender": "Sportschau Live",
+          "slug": "karen-khachanov-vs-ethan-quinn"
+        },
+        {
+          "title": "Mattia Bellucci vs Alexander Bublik",
+          "time": "11:30",
+          "sender": "Sportschau Live",
+          "slug": "mattia-bellucci-vs-alexander-bublik"
+        },
+        {
+          "title": "Karen Khachanov - Ethan Quinn",
+          "time": "11:30",
+          "sender": "Eurosport",
+          "slug": "karen-khachanov-ethan-quinn"
+        }
+      ]
+    },
+    {
+      "title": "Tallon Griekspoor vs Sho Shimabukuro",
+      "time": "12:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-deutschland-gerry-weber-open/ma11754010/tallon-griekspoor_sho-shimabukuro/info",
+      "slug": "tallon-griekspoor-vs-sho-shimabukuro",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Andrey Rublev vs Hubert Hurkacz",
+          "time": "12:40",
+          "sender": "Sportschau Live",
+          "slug": "andrey-rublev-vs-hubert-hurkacz"
+        },
+        {
+          "title": "João Fonseca vs Yannick Hanfmann",
+          "time": "12:40",
+          "sender": "Sportschau Live",
+          "slug": "joao-fonseca-vs-yannick-hanfmann"
+        }
+      ]
+    },
+    {
+      "title": "Andrey Rublev vs Hubert Hurkacz",
+      "time": "12:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-deutschland-gerry-weber-open/ma11753995/andrey-rublev_hubert-hurkacz/info",
+      "slug": "andrey-rublev-vs-hubert-hurkacz",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Tallon Griekspoor vs Sho Shimabukuro",
+          "time": "12:40",
+          "sender": "Sportschau Live",
+          "slug": "tallon-griekspoor-vs-sho-shimabukuro"
+        },
+        {
+          "title": "João Fonseca vs Yannick Hanfmann",
+          "time": "12:40",
+          "sender": "Sportschau Live",
+          "slug": "joao-fonseca-vs-yannick-hanfmann"
+        }
+      ]
+    },
+    {
+      "title": "João Fonseca vs Yannick Hanfmann",
+      "time": "12:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-deutschland-gerry-weber-open/ma11753974/joao-fonseca_yannick-hanfmann/info",
+      "slug": "joao-fonseca-vs-yannick-hanfmann",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Tallon Griekspoor vs Sho Shimabukuro",
+          "time": "12:40",
+          "sender": "Sportschau Live",
+          "slug": "tallon-griekspoor-vs-sho-shimabukuro"
+        },
+        {
+          "title": "Andrey Rublev vs Hubert Hurkacz",
+          "time": "12:40",
+          "sender": "Sportschau Live",
+          "slug": "andrey-rublev-vs-hubert-hurkacz"
+        }
+      ]
+    },
+    {
+      "title": "Fabian Marozsan vs Miomir Kecmanović",
+      "time": "13:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-deutschland-gerry-weber-open/ma11753989/fabian-marozsan_miomir-kecmanovic/info",
+      "slug": "fabian-marozsan-vs-miomir-kecmanovic",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alexander Zverev vs Vit Kopriva",
+      "time": "15:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-deutschland-gerry-weber-open/ma11753971/alexander-zverev_vit-kopriva/info",
+      "slug": "alexander-zverev-vs-vit-kopriva",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Tomas Martin Etcheverry vs Daniil Medvedev",
+      "time": "16:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-deutschland-gerry-weber-open/ma11754004/tomas-martin-etcheverry_daniil-medvedev/info",
+      "slug": "tomas-martin-etcheverry-vs-daniil-medvedev",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Jakub Mensik vs Adrian Mannarino",
+      "time": "12:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-aegon-championships/ma11754178/jakub-mensik_adrian-mannarino/info",
+      "slug": "jakub-mensik-vs-adrian-mannarino",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ignacio Buse vs Marcos Giron",
+          "time": "12:30",
+          "sender": "Sportschau Live",
+          "slug": "ignacio-buse-vs-marcos-giron"
+        },
+        {
+          "title": "Brandon Nakashima vs Marton Fucsovics",
+          "time": "12:30",
+          "sender": "Sportschau Live",
+          "slug": "brandon-nakashima-vs-marton-fucsovics"
+        },
+        {
+          "title": "Linda Noskova vs Renata Zarazúa",
+          "time": "12:30",
+          "sender": "Sportschau Live",
+          "slug": "linda-noskova-vs-renata-zarazua"
+        }
+      ]
+    },
+    {
+      "title": "Ignacio Buse vs Marcos Giron",
+      "time": "12:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-aegon-championships/ma11754175/ignacio-buse_marcos-giron/info",
+      "slug": "ignacio-buse-vs-marcos-giron",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Jakub Mensik vs Adrian Mannarino",
+          "time": "12:30",
+          "sender": "Sportschau Live",
+          "slug": "jakub-mensik-vs-adrian-mannarino"
+        },
+        {
+          "title": "Brandon Nakashima vs Marton Fucsovics",
+          "time": "12:30",
+          "sender": "Sportschau Live",
+          "slug": "brandon-nakashima-vs-marton-fucsovics"
+        },
+        {
+          "title": "Linda Noskova vs Renata Zarazúa",
+          "time": "12:30",
+          "sender": "Sportschau Live",
+          "slug": "linda-noskova-vs-renata-zarazua"
+        }
+      ]
+    },
+    {
+      "title": "Brandon Nakashima vs Marton Fucsovics",
+      "time": "12:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-aegon-championships/ma11754172/brandon-nakashima_marton-fucsovics/info",
+      "slug": "brandon-nakashima-vs-marton-fucsovics",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Jakub Mensik vs Adrian Mannarino",
+          "time": "12:30",
+          "sender": "Sportschau Live",
+          "slug": "jakub-mensik-vs-adrian-mannarino"
+        },
+        {
+          "title": "Ignacio Buse vs Marcos Giron",
+          "time": "12:30",
+          "sender": "Sportschau Live",
+          "slug": "ignacio-buse-vs-marcos-giron"
+        },
+        {
+          "title": "Linda Noskova vs Renata Zarazúa",
+          "time": "12:30",
+          "sender": "Sportschau Live",
+          "slug": "linda-noskova-vs-renata-zarazua"
+        }
+      ]
+    },
+    {
+      "title": "Giovanni Mpetshi Perricard vs Corentin Moutet",
+      "time": "13:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-aegon-championships/ma11754196/giovanni-mpetshi-perricard_corentin-moutet/info",
+      "slug": "giovanni-mpetshi-perricard-vs-corentin-moutet",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Jenson Brooksby vs Martin Damm",
+          "time": "13:40",
+          "sender": "Sportschau Live",
+          "slug": "jenson-brooksby-vs-martin-damm"
+        },
+        {
+          "title": "Arthur Fery vs Toby Samuel",
+          "time": "13:40",
+          "sender": "Sportschau Live",
+          "slug": "arthur-fery-vs-toby-samuel"
+        },
+        {
+          "title": "Zeynep Sonmez vs Leylah Fernandez",
+          "time": "13:40",
+          "sender": "Sportschau Live",
+          "slug": "zeynep-sonmez-vs-leylah-fernandez"
+        }
+      ]
+    },
+    {
+      "title": "Jenson Brooksby vs Martin Damm",
+      "time": "13:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-aegon-championships/ma11754184/jenson-brooksby_martin-damm/info",
+      "slug": "jenson-brooksby-vs-martin-damm",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Giovanni Mpetshi Perricard vs Corentin Moutet",
+          "time": "13:40",
+          "sender": "Sportschau Live",
+          "slug": "giovanni-mpetshi-perricard-vs-corentin-moutet"
+        },
+        {
+          "title": "Arthur Fery vs Toby Samuel",
+          "time": "13:40",
+          "sender": "Sportschau Live",
+          "slug": "arthur-fery-vs-toby-samuel"
+        },
+        {
+          "title": "Zeynep Sonmez vs Leylah Fernandez",
+          "time": "13:40",
+          "sender": "Sportschau Live",
+          "slug": "zeynep-sonmez-vs-leylah-fernandez"
+        }
+      ]
+    },
+    {
+      "title": "Arthur Fery vs Toby Samuel",
+      "time": "13:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-aegon-championships/ma11754181/arthur-fery_toby-samuel/info",
+      "slug": "arthur-fery-vs-toby-samuel",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Giovanni Mpetshi Perricard vs Corentin Moutet",
+          "time": "13:40",
+          "sender": "Sportschau Live",
+          "slug": "giovanni-mpetshi-perricard-vs-corentin-moutet"
+        },
+        {
+          "title": "Jenson Brooksby vs Martin Damm",
+          "time": "13:40",
+          "sender": "Sportschau Live",
+          "slug": "jenson-brooksby-vs-martin-damm"
+        },
+        {
+          "title": "Zeynep Sonmez vs Leylah Fernandez",
+          "time": "13:40",
+          "sender": "Sportschau Live",
+          "slug": "zeynep-sonmez-vs-leylah-fernandez"
+        }
+      ]
+    },
+    {
+      "title": "Alex de Minaur vs Gabriel Diallo",
+      "time": "14:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-aegon-championships/ma11754166/alex-de-minaur_gabriel-diallo/info",
+      "slug": "alex-de-minaur-vs-gabriel-diallo",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Arthur Rinderknech vs Hamad Medjedovic",
+      "time": "14:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-aegon-championships/ma11754202/arthur-rinderknech_hamad-medjedovic/info",
+      "slug": "arthur-rinderknech-vs-hamad-medjedovic",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Aleksandar Kovacevic vs Francisco Cerúndolo",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "aleksandar-kovacevic-vs-francisco-cerundolo"
+        },
+        {
+          "title": "Harriet Dart vs Katie Boulter",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "harriet-dart-vs-katie-boulter"
+        }
+      ]
+    },
+    {
+      "title": "Aleksandar Kovacevic vs Francisco Cerúndolo",
+      "time": "14:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-aegon-championships/ma11754187/aleksandar-kovacevic_francisco-cerundolo/info",
+      "slug": "aleksandar-kovacevic-vs-francisco-cerundolo",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Arthur Rinderknech vs Hamad Medjedovic",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "arthur-rinderknech-vs-hamad-medjedovic"
+        },
+        {
+          "title": "Harriet Dart vs Katie Boulter",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "harriet-dart-vs-katie-boulter"
+        }
+      ]
+    },
+    {
+      "title": "Cameron Norrie vs Alejandro Davidovich Fokina",
+      "time": "15:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-aegon-championships/ma11754199/cameron-norrie_alejandro-davidovich-fokina/info",
+      "slug": "cameron-norrie-vs-alejandro-davidovich-fokina",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Rinky Hijikata vs Alejandro Tabilo",
+      "time": "16:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-aegon-championships/ma11754208/rinky-hijikata_alejandro-tabilo/info",
+      "slug": "rinky-hijikata-vs-alejandro-tabilo",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ugo Humbert vs Marin Čilić",
+          "time": "16:00",
+          "sender": "Sportschau Live",
+          "slug": "ugo-humbert-vs-marin-cilic"
+        }
+      ]
+    },
+    {
+      "title": "Ugo Humbert vs Marin Čilić",
+      "time": "16:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-aegon-championships/ma11754205/ugo-humbert_marin-cilic/info",
+      "slug": "ugo-humbert-vs-marin-cilic",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Rinky Hijikata vs Alejandro Tabilo",
+          "time": "16:00",
+          "sender": "Sportschau Live",
+          "slug": "rinky-hijikata-vs-alejandro-tabilo"
+        }
+      ]
+    },
+    {
+      "title": "Kamil Majchrzak vs Jiří Lehečka",
+      "time": "16:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-aegon-championships/ma11754211/kamil-majchrzak_jiri-lehecka/info",
+      "slug": "kamil-majchrzak-vs-jiri-lehecka",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Magdalena Frech vs Eva Lys",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co6210/berlin-tennis-open/ma11780677/magdalena-frech_eva-lys/info",
+      "slug": "magdalena-frech-vs-eva-lys",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Madison Keys vs Xinyu Wang",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "madison-keys-vs-xinyu-wang"
+        },
+        {
+          "title": "Tennis",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "tennis"
+        },
+        {
+          "title": "WTA Berlin | 1. Runde",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "wta-berlin-1-runde"
+        }
+      ]
+    },
+    {
+      "title": "Madison Keys vs Xinyu Wang",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co6210/berlin-tennis-open/ma11780656/madison-keys_xinyu-wang/info",
+      "slug": "madison-keys-vs-xinyu-wang",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Magdalena Frech vs Eva Lys",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "magdalena-frech-vs-eva-lys"
+        },
+        {
+          "title": "Tennis",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "tennis"
+        },
+        {
+          "title": "WTA Berlin | 1. Runde",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "wta-berlin-1-runde"
+        }
+      ]
+    },
+    {
+      "title": "Shuai Zhang vs Karolina Muchova",
+      "time": "12:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co6210/berlin-tennis-open/ma11780659/shuai-zhang_karolina-muchova/info",
+      "slug": "shuai-zhang-vs-karolina-muchova",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Linda Noskova vs Renata Zarazúa",
+      "time": "12:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co6210/berlin-tennis-open/ma11780662/linda-noskova_renata-zarazua/info",
+      "slug": "linda-noskova-vs-renata-zarazua",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Jakub Mensik vs Adrian Mannarino",
+          "time": "12:30",
+          "sender": "Sportschau Live",
+          "slug": "jakub-mensik-vs-adrian-mannarino"
+        },
+        {
+          "title": "Ignacio Buse vs Marcos Giron",
+          "time": "12:30",
+          "sender": "Sportschau Live",
+          "slug": "ignacio-buse-vs-marcos-giron"
+        },
+        {
+          "title": "Brandon Nakashima vs Marton Fucsovics",
+          "time": "12:30",
+          "sender": "Sportschau Live",
+          "slug": "brandon-nakashima-vs-marton-fucsovics"
+        }
+      ]
+    },
+    {
+      "title": "Katerina Siniakova vs Rebeka Masarova",
+      "time": "13:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co6210/berlin-tennis-open/ma11780653/katerina-siniakova_rebeka-masarova/info",
+      "slug": "katerina-siniakova-vs-rebeka-masarova",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Clara Tauson vs Diane Parry",
+      "time": "15:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co6210/berlin-tennis-open/ma11780665/clara-tauson_diane-parry/info",
+      "slug": "clara-tauson-vs-diane-parry",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Elina Svitolina vs Anna Kalinskaya",
+      "time": "15:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co6210/berlin-tennis-open/ma11780674/elina-svitolina_anna-kalinskaya/info",
+      "slug": "elina-svitolina-vs-anna-kalinskaya",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Alexander Zverev - Vít Kopriva",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "alexander-zverev-vit-kopriva"
+        },
+        {
+          "title": "Tennis",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "tennis"
+        },
+        {
+          "title": "Halle | 1. Runde",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "halle-1-runde"
+        }
+      ]
+    },
+    {
+      "title": "Suzan Lamens vs Paula Badosa",
+      "time": "16:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co6210/berlin-tennis-open/ma11780668/suzan-lamens_paula-badosa/info",
+      "slug": "suzan-lamens-vs-paula-badosa",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Ann Li vs Kimberly Birrell",
+      "time": "12:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-aegon-nottingham-open/ma11779918/ann-li_kimberly-birrell/info",
+      "slug": "ann-li-vs-kimberly-birrell",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Mccartney Kessler vs Katie Volynets",
+      "time": "12:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-aegon-nottingham-open/ma11779906/mccartney-kessler_katie-volynets/info",
+      "slug": "mccartney-kessler-vs-katie-volynets",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Jakub Mensik vs Adrian Mannarino",
+          "time": "12:30",
+          "sender": "Sportschau Live",
+          "slug": "jakub-mensik-vs-adrian-mannarino"
+        },
+        {
+          "title": "Ignacio Buse vs Marcos Giron",
+          "time": "12:30",
+          "sender": "Sportschau Live",
+          "slug": "ignacio-buse-vs-marcos-giron"
+        },
+        {
+          "title": "Brandon Nakashima vs Marton Fucsovics",
+          "time": "12:30",
+          "sender": "Sportschau Live",
+          "slug": "brandon-nakashima-vs-marton-fucsovics"
+        }
+      ]
+    },
+    {
+      "title": "Lois Boisson vs Dayana Yastremska",
+      "time": "13:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-aegon-nottingham-open/ma11779900/lois-boisson_dayana-yastremska/info",
+      "slug": "lois-boisson-vs-dayana-yastremska",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Caty McNally vs Antonia Ruzic",
+      "time": "13:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-aegon-nottingham-open/ma11779885/caty-mcnally_antonia-ruzic/info",
+      "slug": "caty-mcnally-vs-antonia-ruzic",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Andrey Rublev - Hubert Hurkacz",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "andrey-rublev-hubert-hurkacz"
+        },
+        {
+          "title": "Tennis",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "tennis"
+        }
+      ]
+    },
+    {
+      "title": "Zeynep Sonmez vs Leylah Fernandez",
+      "time": "13:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-aegon-nottingham-open/ma11779927/zeynep-sonmez_leylah-fernandez/info",
+      "slug": "zeynep-sonmez-vs-leylah-fernandez",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Giovanni Mpetshi Perricard vs Corentin Moutet",
+          "time": "13:40",
+          "sender": "Sportschau Live",
+          "slug": "giovanni-mpetshi-perricard-vs-corentin-moutet"
+        },
+        {
+          "title": "Jenson Brooksby vs Martin Damm",
+          "time": "13:40",
+          "sender": "Sportschau Live",
+          "slug": "jenson-brooksby-vs-martin-damm"
+        },
+        {
+          "title": "Arthur Fery vs Toby Samuel",
+          "time": "13:40",
+          "sender": "Sportschau Live",
+          "slug": "arthur-fery-vs-toby-samuel"
+        }
+      ]
+    },
+    {
+      "title": "Viktorija Golubic vs Sofia Kenin",
+      "time": "14:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-aegon-nottingham-open/ma11779924/viktorija-golubic_sofia-kenin/info",
+      "slug": "viktorija-golubic-vs-sofia-kenin",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Sara Bejlek vs Karolina Plíšková",
+      "time": "14:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-aegon-nottingham-open/ma11779882/sara-bejlek_karolina-pliskova/info",
+      "slug": "sara-bejlek-vs-karolina-pliskova",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Harriet Dart vs Katie Boulter",
+      "time": "14:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-aegon-nottingham-open/ma11779897/harriet-dart_katie-boulter/info",
+      "slug": "harriet-dart-vs-katie-boulter",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Arthur Rinderknech vs Hamad Medjedovic",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "arthur-rinderknech-vs-hamad-medjedovic"
+        },
+        {
+          "title": "Aleksandar Kovacevic vs Francisco Cerúndolo",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "aleksandar-kovacevic-vs-francisco-cerundolo"
+        }
+      ]
+    },
+    {
+      "title": "German Masters | Finale",
+      "subtitle": "",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:04",
+      "iso_time": "2026-06-16T01:04:16+02:00",
+      "link": "",
+      "slug": "german-masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "UCI Weltcup | Leogang | Frauen",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Olympic",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:01",
+      "iso_time": "2026-06-16T03:01:40+02:00",
+      "link": "",
+      "slug": "uci-weltcup-leogang-frauen",
+      "related_events": [
+        {
+          "title": "UCI Weltcup | Leogang | Männer",
+          "time": "03:45",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-leogang-manner"
+        }
+      ]
+    },
+    {
+      "title": "UCI Weltcup | Leogang | Männer",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Olympic",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:45",
+      "iso_time": "2026-06-16T03:45:25+02:00",
+      "link": "",
+      "slug": "uci-weltcup-leogang-manner",
+      "related_events": [
+        {
+          "title": "UCI Weltcup | Leogang | Frauen",
+          "time": "03:01",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-leogang-frauen"
+        },
+        {
+          "title": "UCI Weltcup | Leogang | Frauen",
+          "time": "06:30",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-leogang-frauen"
+        }
+      ]
+    },
+    {
+      "title": "German Masters | Finale",
+      "subtitle": "",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:31",
+      "iso_time": "2026-06-16T04:31:06+02:00",
+      "link": "",
+      "slug": "german-masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "UCI Weltcup | Leogang | Frauen",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Olympic",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:30",
+      "iso_time": "2026-06-16T06:30:22+02:00",
+      "link": "",
+      "slug": "uci-weltcup-leogang-frauen",
+      "related_events": [
+        {
+          "title": "UCI Weltcup | Leogang | Männer",
+          "time": "03:45",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-leogang-manner"
+        },
+        {
+          "title": "UCI Weltcup | Leogang | Männer",
+          "time": "07:30",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-leogang-manner"
+        },
+        {
+          "title": "UCI Weltcup | Leogang | Männer Elite",
+          "time": "08:33",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-leogang-manner-elite"
+        }
+      ]
+    },
+    {
+      "title": "UCI Weltcup | Leogang | Männer",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Olympic",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:30",
+      "iso_time": "2026-06-16T07:30:02+02:00",
+      "link": "",
+      "slug": "uci-weltcup-leogang-manner",
+      "related_events": [
+        {
+          "title": "UCI Weltcup | Leogang | Frauen",
+          "time": "06:30",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-leogang-frauen"
+        },
+        {
+          "title": "UCI Weltcup | Leogang | Männer Elite",
+          "time": "08:33",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-leogang-manner-elite"
+        },
+        {
+          "title": "UCI Weltcup | Leogang | Frauen Elite",
+          "time": "09:05",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-leogang-frauen-elite"
+        }
+      ]
+    },
+    {
+      "title": "German Masters | Finale",
+      "subtitle": "",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:30",
+      "iso_time": "2026-06-16T08:30:02+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "german-masters-finale",
+      "related_events": [
+        {
+          "title": "Oliver Brown - Michael Larkov",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "oliver-brown-michael-larkov"
+        },
+        {
+          "title": "Connor Benzey - Alfie Burden",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "connor-benzey-alfie-burden"
+        },
+        {
+          "title": "Marco Fu - Anton Kazakov",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "marco-fu-anton-kazakov"
+        }
+      ]
+    },
+    {
+      "title": "UCI Weltcup | Leogang | Männer Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Abfahrt",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:33",
+      "iso_time": "2026-06-16T08:33:12+02:00",
+      "link": "https://play.hbomax.com/sport/7664614b-fb72-5b9a-ae7d-80566869e4cd?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uci-weltcup-leogang-manner-elite",
+      "related_events": [
+        {
+          "title": "UCI Weltcup | Leogang | Frauen",
+          "time": "06:30",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-leogang-frauen"
+        },
+        {
+          "title": "UCI Weltcup | Leogang | Männer",
+          "time": "07:30",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-leogang-manner"
+        },
+        {
+          "title": "UCI Weltcup | Leogang | Frauen Elite",
+          "time": "09:05",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-leogang-frauen-elite"
+        }
+      ]
+    },
+    {
+      "title": "UCI Weltcup | Leogang | Frauen Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Abfahrt",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:05",
+      "iso_time": "2026-06-16T09:05:44+02:00",
+      "link": "https://play.hbomax.com/sport/9865503f-b84d-52b2-9f23-62038e64246b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uci-weltcup-leogang-frauen-elite",
+      "related_events": [
+        {
+          "title": "UCI Weltcup | Leogang | Frauen",
+          "time": "06:30",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-leogang-frauen"
+        },
+        {
+          "title": "UCI Weltcup | Leogang | Männer",
+          "time": "07:30",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-leogang-manner"
+        },
+        {
+          "title": "UCI Weltcup | Leogang | Männer Elite",
+          "time": "08:33",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-leogang-manner-elite"
+        }
+      ]
+    },
+    {
+      "title": "UCI Weltcup | Leogang | Frauen",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Olympic",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:30",
+      "iso_time": "2026-06-16T09:30:59+02:00",
+      "link": "https://play.hbomax.com/sport/bb4f91c1-0d00-57c3-b3e7-c496605bd968?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uci-weltcup-leogang-frauen",
+      "related_events": [
+        {
+          "title": "UCI Weltcup | Leogang | Männer",
+          "time": "07:30",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-leogang-manner"
+        },
+        {
+          "title": "UCI Weltcup | Leogang | Männer Elite",
+          "time": "08:33",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-leogang-manner-elite"
+        },
+        {
+          "title": "UCI Weltcup | Leogang | Frauen Elite",
+          "time": "09:05",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-leogang-frauen-elite"
+        }
+      ]
+    },
+    {
+      "title": "UCI Weltcup | Leogang | Männer",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Olympic",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:13",
+      "iso_time": "2026-06-16T10:13:30+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uci-weltcup-leogang-manner",
+      "related_events": [
+        {
+          "title": "UCI Weltcup | Leogang | Männer Elite",
+          "time": "08:33",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-leogang-manner-elite"
+        },
+        {
+          "title": "UCI Weltcup | Leogang | Frauen Elite",
+          "time": "09:05",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-leogang-frauen-elite"
+        },
+        {
+          "title": "UCI Weltcup | Leogang | Frauen",
+          "time": "09:30",
+          "sender": "Eurosport",
+          "slug": "uci-weltcup-leogang-frauen"
+        }
+      ]
+    },
+    {
+      "title": "Oliver Brown - Michael Larkov",
+      "subtitle": "Wuhan Open | Qualifikation | Originalton",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-06-16T11:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/a6a32555-a267-56aa-8fe3-352234475b2d?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "oliver-brown-michael-larkov",
+      "related_events": [
+        {
+          "title": "German Masters | Finale",
+          "time": "08:30",
+          "sender": "Eurosport",
+          "slug": "german-masters-finale"
+        },
+        {
+          "title": "Connor Benzey - Alfie Burden",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "connor-benzey-alfie-burden"
+        },
+        {
+          "title": "Marco Fu - Anton Kazakov",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "marco-fu-anton-kazakov"
+        }
+      ]
+    },
+    {
+      "title": "Connor Benzey - Alfie Burden",
+      "subtitle": "Wuhan Open | Qualifikation | Originalton",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-06-16T11:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/f487dd00-7ab7-536a-8bad-0c42d9a8241f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "connor-benzey-alfie-burden",
+      "related_events": [
+        {
+          "title": "German Masters | Finale",
+          "time": "08:30",
+          "sender": "Eurosport",
+          "slug": "german-masters-finale"
+        },
+        {
+          "title": "Oliver Brown - Michael Larkov",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "oliver-brown-michael-larkov"
+        },
+        {
+          "title": "Marco Fu - Anton Kazakov",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "marco-fu-anton-kazakov"
+        }
+      ]
+    },
+    {
+      "title": "Marco Fu - Anton Kazakov",
+      "subtitle": "Wuhan Open | Qualifikation | Originalton",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-06-16T11:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/8c57d438-7439-5a82-887f-07c78ab2a850?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "marco-fu-anton-kazakov",
+      "related_events": [
+        {
+          "title": "German Masters | Finale",
+          "time": "08:30",
+          "sender": "Eurosport",
+          "slug": "german-masters-finale"
+        },
+        {
+          "title": "Oliver Brown - Michael Larkov",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "oliver-brown-michael-larkov"
+        },
+        {
+          "title": "Connor Benzey - Alfie Burden",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "connor-benzey-alfie-burden"
+        }
+      ]
+    },
+    {
+      "title": "Michal Szubarczyk - Duane Jones",
+      "subtitle": "Wuhan Open | Qualifikation | Originalton",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-06-16T11:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/8e122820-37b0-55ce-9c5d-463de99cd98f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "michal-szubarczyk-duane-jones",
+      "related_events": [
+        {
+          "title": "German Masters | Finale",
+          "time": "08:30",
+          "sender": "Eurosport",
+          "slug": "german-masters-finale"
+        },
+        {
+          "title": "Oliver Brown - Michael Larkov",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "oliver-brown-michael-larkov"
+        },
+        {
+          "title": "Connor Benzey - Alfie Burden",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "connor-benzey-alfie-burden"
+        }
+      ]
+    },
+    {
+      "title": "Tennis",
+      "subtitle": "WTA Berlin | 1. Runde | WTA 500",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-06-16T11:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/98fa40ff-37f7-598a-ba2d-96f8e135f729?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tennis",
+      "related_events": [
+        {
+          "title": "Magdalena Frech vs Eva Lys",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "magdalena-frech-vs-eva-lys"
+        },
+        {
+          "title": "Madison Keys vs Xinyu Wang",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "madison-keys-vs-xinyu-wang"
+        },
+        {
+          "title": "WTA Berlin | 1. Runde",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "wta-berlin-1-runde"
+        }
+      ]
+    },
+    {
+      "title": "WTA Berlin | 1. Runde",
+      "subtitle": "WTA 500",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-06-16T11:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/5e20ce4d-fa7e-5e8c-a5a6-1d0e7df38f7c?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wta-berlin-1-runde",
+      "related_events": [
+        {
+          "title": "Magdalena Frech vs Eva Lys",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "magdalena-frech-vs-eva-lys"
+        },
+        {
+          "title": "Madison Keys vs Xinyu Wang",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "madison-keys-vs-xinyu-wang"
+        },
+        {
+          "title": "Tennis",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "tennis"
+        }
+      ]
+    },
+    {
+      "title": "Prag | Bouldern | Finale",
+      "subtitle": "World Series | Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-06-16T11:00:06+02:00",
+      "link": "https://play.hbomax.com/sport/538694d5-4521-56bb-9b41-41c932787f1e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "prag-bouldern-finale",
+      "related_events": []
+    },
+    {
+      "title": "Karen Khachanov - Ethan Quinn",
+      "subtitle": "ATP Halle | 1. Runde | ATP 500 | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:30",
+      "iso_time": "2026-06-16T11:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/5e22068b-a3b4-5092-ad17-06450585f05d?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "karen-khachanov-ethan-quinn",
+      "related_events": [
+        {
+          "title": "Karen Khachanov vs Ethan Quinn",
+          "time": "11:30",
+          "sender": "Sportschau Live",
+          "slug": "karen-khachanov-vs-ethan-quinn"
+        },
+        {
+          "title": "Mattia Bellucci vs Alexander Bublik",
+          "time": "11:30",
+          "sender": "Sportschau Live",
+          "slug": "mattia-bellucci-vs-alexander-bublik"
+        },
+        {
+          "title": "Alexei Popyrin vs Raphael Collignon",
+          "time": "11:30",
+          "sender": "Sportschau Live",
+          "slug": "alexei-popyrin-vs-raphael-collignon"
+        }
+      ]
+    },
+    {
+      "title": "Mattia Bellucci - Alexander Bublik",
+      "subtitle": "ATP Halle | 1. Runde | ATP 500 | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:30",
+      "iso_time": "2026-06-16T11:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/5185b806-470a-52e4-b108-6166e0b65545?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "mattia-bellucci-alexander-bublik",
+      "related_events": [
+        {
+          "title": "Karen Khachanov vs Ethan Quinn",
+          "time": "11:30",
+          "sender": "Sportschau Live",
+          "slug": "karen-khachanov-vs-ethan-quinn"
+        },
+        {
+          "title": "Mattia Bellucci vs Alexander Bublik",
+          "time": "11:30",
+          "sender": "Sportschau Live",
+          "slug": "mattia-bellucci-vs-alexander-bublik"
+        },
+        {
+          "title": "Alexei Popyrin vs Raphael Collignon",
+          "time": "11:30",
+          "sender": "Sportschau Live",
+          "slug": "alexei-popyrin-vs-raphael-collignon"
+        }
+      ]
+    },
+    {
+      "title": "Tour Auvergne - Rhône-Alpes | 8. Etappe",
+      "subtitle": "UCI World Tour | Männer | Beaufort - Plateau de Solaison (120,1km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:59",
+      "iso_time": "2026-06-16T12:59:21+02:00",
+      "link": "https://play.hbomax.com/sport/b245cfac-7831-539b-a915-36f5b70369bd?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-auvergne-rhone-alpes-8-etappe",
+      "related_events": [
+        {
+          "title": "Copenhagen Sprint",
+          "time": "14:29",
+          "sender": "Eurosport",
+          "slug": "copenhagen-sprint"
+        },
+        {
+          "title": "Giro d'Italia | 3. Etappe",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tennis",
+      "subtitle": "WTA Berlin | 1. Runde | WTA 500",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:00",
+      "iso_time": "2026-06-16T13:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/ecd24ae5-daeb-5ef3-9353-b27863c89d0e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tennis",
+      "related_events": [
+        {
+          "title": "WTA Berlin | 1. Runde",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "wta-berlin-1-runde"
+        },
+        {
+          "title": "Karen Khachanov - Ethan Quinn",
+          "time": "11:30",
+          "sender": "Eurosport",
+          "slug": "karen-khachanov-ethan-quinn"
+        },
+        {
+          "title": "Mattia Bellucci - Alexander Bublik",
+          "time": "11:30",
+          "sender": "Eurosport",
+          "slug": "mattia-bellucci-alexander-bublik"
+        }
+      ]
+    },
+    {
+      "title": "WTA Berlin | 1. Runde",
+      "subtitle": "WTA 500",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:00",
+      "iso_time": "2026-06-16T13:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/d6416d1b-aff4-5571-a674-f10872335f2a?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wta-berlin-1-runde",
+      "related_events": [
+        {
+          "title": "Tennis",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "tennis"
+        },
+        {
+          "title": "Karen Khachanov - Ethan Quinn",
+          "time": "11:30",
+          "sender": "Eurosport",
+          "slug": "karen-khachanov-ethan-quinn"
+        },
+        {
+          "title": "Mattia Bellucci - Alexander Bublik",
+          "time": "11:30",
+          "sender": "Eurosport",
+          "slug": "mattia-bellucci-alexander-bublik"
+        }
+      ]
+    },
+    {
+      "title": "Andrey Rublev - Hubert Hurkacz",
+      "subtitle": "ATP Halle | 1. Runde | ATP 500 | Originalton",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:30",
+      "iso_time": "2026-06-16T13:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/98a869a7-4e82-56d8-82ad-1bf5493a3940?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "andrey-rublev-hubert-hurkacz",
+      "related_events": [
+        {
+          "title": "Caty McNally vs Antonia Ruzic",
+          "time": "13:30",
+          "sender": "Sportschau Live",
+          "slug": "caty-mcnally-vs-antonia-ruzic"
+        },
+        {
+          "title": "Tennis",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "tennis"
+        },
+        {
+          "title": "WTA Berlin | 1. Runde",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "wta-berlin-1-runde"
+        }
+      ]
+    },
+    {
+      "title": "Tennis",
+      "subtitle": "ATP Halle | 1. Runde | ATP 500",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:30",
+      "iso_time": "2026-06-16T13:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/472805dd-9e38-51ef-bcb3-64dbcb563851?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tennis",
+      "related_events": [
+        {
+          "title": "Caty McNally vs Antonia Ruzic",
+          "time": "13:30",
+          "sender": "Sportschau Live",
+          "slug": "caty-mcnally-vs-antonia-ruzic"
+        },
+        {
+          "title": "WTA Berlin | 1. Runde",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "wta-berlin-1-runde"
+        },
+        {
+          "title": "Karen Khachanov - Ethan Quinn",
+          "time": "11:30",
+          "sender": "Eurosport",
+          "slug": "karen-khachanov-ethan-quinn"
+        }
+      ]
+    },
+    {
+      "title": "Copenhagen Sprint",
+      "subtitle": "UCI World Tour | Männer | Roskilde - Kopenhagen (228,2km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:29",
+      "iso_time": "2026-06-16T14:29:55+02:00",
+      "link": "https://play.hbomax.com/sport/97c332f0-0f43-55eb-85e7-11185e7bbeef?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "copenhagen-sprint",
+      "related_events": [
+        {
+          "title": "Tour Auvergne - Rhône-Alpes | 8. Etappe",
+          "time": "12:59",
+          "sender": "Eurosport",
+          "slug": "tour-auvergne-rhone-alpes-8-etappe"
+        },
+        {
+          "title": "Giro d'Italia | 3. Etappe",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-3-etappe"
+        },
+        {
+          "title": "Tour Auvergne - Rhône-Alpes | 8. Etappe",
+          "time": "14:59",
+          "sender": "Eurosport",
+          "slug": "tour-auvergne-rhone-alpes-8-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Giro d'Italia | 3. Etappe",
+      "subtitle": "UCI | U23 Männer | Sibari - Villa d'Agri di Marsicovetere (163km) | Englischer Kommentar",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:30",
+      "iso_time": "2026-06-16T14:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/9e8b4510-8f6c-5fae-8502-da861bcdb216?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "giro-d-italia-3-etappe",
+      "related_events": [
+        {
+          "title": "Tour Auvergne - Rhône-Alpes | 8. Etappe",
+          "time": "12:59",
+          "sender": "Eurosport",
+          "slug": "tour-auvergne-rhone-alpes-8-etappe"
+        },
+        {
+          "title": "Copenhagen Sprint",
+          "time": "14:29",
+          "sender": "Eurosport",
+          "slug": "copenhagen-sprint"
+        },
+        {
+          "title": "Tour Auvergne - Rhône-Alpes | 8. Etappe",
+          "time": "14:59",
+          "sender": "Eurosport",
+          "slug": "tour-auvergne-rhone-alpes-8-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour Auvergne - Rhône-Alpes | 8. Etappe",
+      "subtitle": "UCI World Tour | Männer | Beaufort - Plateau de Solaison (120,1km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:59",
+      "iso_time": "2026-06-16T14:59:12+02:00",
+      "link": "https://play.hbomax.com/sport/9bd472f5-84a2-5a10-90c7-873336f8e434?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-auvergne-rhone-alpes-8-etappe",
+      "related_events": [
+        {
+          "title": "Copenhagen Sprint",
+          "time": "14:29",
+          "sender": "Eurosport",
+          "slug": "copenhagen-sprint"
+        },
+        {
+          "title": "Giro d'Italia | 3. Etappe",
+          "time": "14:30",
+          "sender": "Eurosport",
+          "slug": "giro-d-italia-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Jackson Page - Gong Chenzhi",
+      "subtitle": "Wuhan Open | Qualifikation | Originalton",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:30",
+      "iso_time": "2026-06-16T15:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/b33c5320-fff0-5063-84ac-318365cf2ac2?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "jackson-page-gong-chenzhi",
+      "related_events": [
+        {
+          "title": "Reanne Evans - Artemijs Zizins",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "reanne-evans-artemijs-zizins"
+        },
+        {
+          "title": "Michael Holt - Leone Crowley",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "michael-holt-leone-crowley"
+        },
+        {
+          "title": "Luca Brecel - Steven Hallworth",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "luca-brecel-steven-hallworth"
+        }
+      ]
+    },
+    {
+      "title": "Reanne Evans - Artemijs Zizins",
+      "subtitle": "Wuhan Open | Qualifikation | Originalton",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:30",
+      "iso_time": "2026-06-16T15:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/bbfe1f91-4d8a-5b0a-905f-fdf946dde410?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "reanne-evans-artemijs-zizins",
+      "related_events": [
+        {
+          "title": "Jackson Page - Gong Chenzhi",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "jackson-page-gong-chenzhi"
+        },
+        {
+          "title": "Michael Holt - Leone Crowley",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "michael-holt-leone-crowley"
+        },
+        {
+          "title": "Luca Brecel - Steven Hallworth",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "luca-brecel-steven-hallworth"
+        }
+      ]
+    },
+    {
+      "title": "Michael Holt - Leone Crowley",
+      "subtitle": "Wuhan Open | Qualifikation | Originalton",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:30",
+      "iso_time": "2026-06-16T15:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/c7cdf274-f2cc-50db-9494-1acc564b18de?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "michael-holt-leone-crowley",
+      "related_events": [
+        {
+          "title": "Jackson Page - Gong Chenzhi",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "jackson-page-gong-chenzhi"
+        },
+        {
+          "title": "Reanne Evans - Artemijs Zizins",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "reanne-evans-artemijs-zizins"
+        },
+        {
+          "title": "Luca Brecel - Steven Hallworth",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "luca-brecel-steven-hallworth"
+        }
+      ]
+    },
+    {
+      "title": "Luca Brecel - Steven Hallworth",
+      "subtitle": "Wuhan Open | Qualifikation | Originalton",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:30",
+      "iso_time": "2026-06-16T15:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/7284938c-4ee5-59a1-9584-44872c465b4f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "luca-brecel-steven-hallworth",
+      "related_events": [
+        {
+          "title": "Jackson Page - Gong Chenzhi",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "jackson-page-gong-chenzhi"
+        },
+        {
+          "title": "Reanne Evans - Artemijs Zizins",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "reanne-evans-artemijs-zizins"
+        },
+        {
+          "title": "Michael Holt - Leone Crowley",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "michael-holt-leone-crowley"
+        }
+      ]
+    },
+    {
+      "title": "Alexander Zverev - Vít Kopriva",
+      "subtitle": "ATP Halle | 1. Runde | ATP 500",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:30",
+      "iso_time": "2026-06-16T15:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/c59738d4-f631-594a-9e1a-141a80beb871?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "alexander-zverev-vit-kopriva",
+      "related_events": [
+        {
+          "title": "Elina Svitolina vs Anna Kalinskaya",
+          "time": "15:30",
+          "sender": "Sportschau Live",
+          "slug": "elina-svitolina-vs-anna-kalinskaya"
+        },
+        {
+          "title": "Tennis",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "tennis"
+        },
+        {
+          "title": "WTA Berlin | 1. Runde",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "wta-berlin-1-runde"
+        }
+      ]
+    },
+    {
+      "title": "Tennis",
+      "subtitle": "WTA Berlin | 1. Runde | WTA 500",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:30",
+      "iso_time": "2026-06-16T15:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/f8d57a83-88b0-5265-a48a-762efd35f996?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tennis",
+      "related_events": [
+        {
+          "title": "Elina Svitolina vs Anna Kalinskaya",
+          "time": "15:30",
+          "sender": "Sportschau Live",
+          "slug": "elina-svitolina-vs-anna-kalinskaya"
+        },
+        {
+          "title": "WTA Berlin | 1. Runde",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "wta-berlin-1-runde"
+        },
+        {
+          "title": "Andrey Rublev - Hubert Hurkacz",
+          "time": "13:30",
+          "sender": "Eurosport",
+          "slug": "andrey-rublev-hubert-hurkacz"
+        }
+      ]
+    },
+    {
+      "title": "Halle | 1. Runde",
+      "subtitle": "A. Zverev - V. Kopriva | ATP 500",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:30",
+      "iso_time": "2026-06-16T15:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/c6c8ec03-9fcc-58eb-a78d-c15fbd5905c1?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "halle-1-runde",
+      "related_events": [
+        {
+          "title": "Elina Svitolina vs Anna Kalinskaya",
+          "time": "15:30",
+          "sender": "Sportschau Live",
+          "slug": "elina-svitolina-vs-anna-kalinskaya"
+        },
+        {
+          "title": "Tennis",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "tennis"
+        },
+        {
+          "title": "WTA Berlin | 1. Runde",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "wta-berlin-1-runde"
+        }
+      ]
+    },
+    {
+      "title": "FIA WEC | 24h von Le Mans | Rennen",
+      "subtitle": "Langstrecken-WM | 3. Station",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:30",
+      "iso_time": "2026-06-16T15:30:32+02:00",
+      "link": "https://play.hbomax.com/sport/241afd36-aaa9-589f-bcee-6c456f604549?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "fia-wec-24h-von-le-mans-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Innsbruck | Lead | Final",
+      "subtitle": "World  Paralympic Series | Frauen / Männer | Englischer Kommentar",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:50",
+      "iso_time": "2026-06-16T15:50:00+02:00",
+      "link": "https://play.hbomax.com/sport/00b656db-5f76-56d3-9be2-45b36ae81f69?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "innsbruck-lead-final",
+      "related_events": []
+    },
+    {
+      "title": "Tennis",
+      "subtitle": "Berlin |",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:30",
+      "iso_time": "2026-06-16T17:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/0a6282de-7ee4-5309-a5c6-bbd0c63053f9?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tennis",
+      "related_events": [
+        {
+          "title": "Alexander Zverev - Vít Kopriva",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "alexander-zverev-vit-kopriva"
+        },
+        {
+          "title": "Halle | 1. Runde",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "halle-1-runde"
+        },
+        {
+          "title": "Halle | 1. Runde",
+          "time": "17:30",
+          "sender": "Eurosport",
+          "slug": "halle-1-runde"
+        }
+      ]
+    },
+    {
+      "title": "Tennis",
+      "subtitle": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:30",
+      "iso_time": "2026-06-16T17:30:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tennis",
+      "related_events": [
+        {
+          "title": "Alexander Zverev - Vít Kopriva",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "alexander-zverev-vit-kopriva"
+        },
+        {
+          "title": "Halle | 1. Runde",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "halle-1-runde"
+        },
+        {
+          "title": "Halle | 1. Runde",
+          "time": "17:30",
+          "sender": "Eurosport",
+          "slug": "halle-1-runde"
+        }
+      ]
+    },
+    {
+      "title": "Halle | 1. Runde",
+      "subtitle": "ATP 500",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:30",
+      "iso_time": "2026-06-16T17:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/48dd8a4c-3e57-5f90-8654-5be4a4764671?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "halle-1-runde",
+      "related_events": [
+        {
+          "title": "Alexander Zverev - Vít Kopriva",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "alexander-zverev-vit-kopriva"
+        },
+        {
+          "title": "Tennis",
+          "time": "15:30",
+          "sender": "Eurosport",
+          "slug": "tennis"
+        },
+        {
+          "title": "Tennis",
+          "time": "17:30",
+          "sender": "Eurosport",
+          "slug": "tennis"
+        }
+      ]
+    },
+    {
+      "title": "Klassische Powerlifting Weltmeisterschaft",
+      "subtitle": "Druskininkai | 63kg Frauen / 83kg Männer | Druskininkai",
+      "sport": "Kraftdreikampf",
+      "sport_slug": "kraftdreikampf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2026-06-16T18:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/cd2d0e6b-7cea-5c83-bfbc-1e5b38f1bacd?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "klassische-powerlifting-weltmeisterschaft",
+      "related_events": []
+    },
+    {
+      "title": "Tour Auvergne - Rhône-Alpes | 8. Etappe",
+      "subtitle": "UCI World Tour | Männer | Beaufort - Plateau de Solaison (120,1km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2026-06-16T18:00:06+02:00",
+      "link": "https://play.hbomax.com/sport/ee0dbaa3-eb10-5ff6-8a59-4d03e53bbb9f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-auvergne-rhone-alpes-8-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Europameisterschaft | Tag 1",
+      "subtitle": "Antony | Frauen / Männer",
+      "sport": "Fechten",
+      "sport_slug": "fechten",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:30",
+      "iso_time": "2026-06-16T19:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/4c5bf4e7-d185-5aa0-888d-0ee768d2d039?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "europameisterschaft-tag-1",
+      "related_events": []
+    },
+    {
+      "title": "Klassische Powerlifting Weltmeisterschaft",
+      "subtitle": "Druskininkai | 63kg Frauen / 83kg Männer | Druskininkai",
+      "sport": "Kraftdreikampf",
+      "sport_slug": "kraftdreikampf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:30",
+      "iso_time": "2026-06-16T19:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/aed7afaa-fe39-5383-a05e-1f7e8769259d?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "klassische-powerlifting-weltmeisterschaft",
+      "related_events": []
+    },
+    {
+      "title": "Matthew Selt - Andrew Higginson",
+      "subtitle": "Wuhan Open | Qualifikation | Originalton",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-06-16T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/b5c6cc41-d1ea-51ff-b11b-4a6028992e0b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "matthew-selt-andrew-higginson",
+      "related_events": [
+        {
+          "title": "Aaron Hill - Zetao Luo",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "aaron-hill-zetao-luo"
+        },
+        {
+          "title": "Ben Woollaston - Zhao Hanyang",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "ben-woollaston-zhao-hanyang"
+        },
+        {
+          "title": "Ryan Day - Mitchell Mann",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "ryan-day-mitchell-mann"
+        }
+      ]
+    },
+    {
+      "title": "Aaron Hill - Zetao Luo",
+      "subtitle": "Wuhan Open | Qualifikation | Originalton",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-06-16T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/476181a9-d097-5571-a9c4-95062c994bdb?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "aaron-hill-zetao-luo",
+      "related_events": [
+        {
+          "title": "Matthew Selt - Andrew Higginson",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "matthew-selt-andrew-higginson"
+        },
+        {
+          "title": "Ben Woollaston - Zhao Hanyang",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "ben-woollaston-zhao-hanyang"
+        },
+        {
+          "title": "Ryan Day - Mitchell Mann",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "ryan-day-mitchell-mann"
+        }
+      ]
+    },
+    {
+      "title": "Ben Woollaston - Zhao Hanyang",
+      "subtitle": "Wuhan Open | Qualifikation | Originalton",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-06-16T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/db553d35-604e-518c-b308-9dd5c91c4601?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "ben-woollaston-zhao-hanyang",
+      "related_events": [
+        {
+          "title": "Matthew Selt - Andrew Higginson",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "matthew-selt-andrew-higginson"
+        },
+        {
+          "title": "Aaron Hill - Zetao Luo",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "aaron-hill-zetao-luo"
+        },
+        {
+          "title": "Ryan Day - Mitchell Mann",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "ryan-day-mitchell-mann"
+        }
+      ]
+    },
+    {
+      "title": "Ryan Day - Mitchell Mann",
+      "subtitle": "Wuhan Open | Qualifikation | Originalton",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-06-16T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/8f7056b3-2a20-5c16-953a-662fee87839b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "ryan-day-mitchell-mann",
+      "related_events": [
+        {
+          "title": "Matthew Selt - Andrew Higginson",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "matthew-selt-andrew-higginson"
+        },
+        {
+          "title": "Aaron Hill - Zetao Luo",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "aaron-hill-zetao-luo"
+        },
+        {
+          "title": "Ben Woollaston - Zhao Hanyang",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "ben-woollaston-zhao-hanyang"
+        }
+      ]
+    },
+    {
+      "title": "FIA WEC | 24h von Le Mans | Highlights",
+      "subtitle": "Langstrecken-WM",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2026-06-16T21:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/e6f50b54-9e30-5a39-8cda-c74504347958?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "fia-wec-24h-von-le-mans-highlights",
+      "related_events": []
+    },
+    {
+      "title": "Tour Auvergne - Rhône-Alpes | 8. Etappe",
+      "subtitle": "UCI World Tour | Männer | Beaufort - Plateau de Solaison (120,1km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-06-16T22:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/9bb884f9-f4b8-549a-ab1f-b49f73081c57?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-auvergne-rhone-alpes-8-etappe",
+      "related_events": []
+    },
+    {
+      "title": "WTA Berlin | 1. Runde",
+      "subtitle": "WTA 500",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-06-16T22:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/84d406aa-e4f9-5ab4-939c-22f663ecf1cc?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wta-berlin-1-runde",
+      "related_events": []
+    },
+    {
+      "title": "Prag | Bouldern | Finale",
+      "subtitle": "World Series | Frauen",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2026-06-16T23:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/4f81c127-2a4d-55dd-8a34-b9f889a8ae71?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "prag-bouldern-finale",
+      "related_events": []
+    },
+    {
+      "title": "Europameisterschaft | Tag 1",
+      "subtitle": "Antony | Frauen / Männer",
+      "sport": "Fechten",
+      "sport_slug": "fechten",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2026-06-16T23:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/556f25ed-ae36-5f55-b59f-c825e9fff870?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "europameisterschaft-tag-1",
+      "related_events": []
+    },
+    {
+      "title": "Players Championship | Finale",
+      "subtitle": "",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:00",
+      "iso_time": "2026-06-17T01:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "players-championship-finale",
+      "related_events": []
+    },
+    {
+      "title": "BP Ultimate Rally-Raid Argentinien | Highlights",
+      "subtitle": "FIA World Rally-Raid Championship | Argentinien | 3. Station",
+      "sport": "Cross Country Rallye",
+      "sport_slug": "cross-country-rallye",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:00",
+      "iso_time": "2026-06-17T01:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/5ecb658f-7f86-5494-af9c-07e35499b6a2?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "bp-ultimate-rally-raid-argentinien-highlights",
+      "related_events": []
+    }
+  ]
+}
