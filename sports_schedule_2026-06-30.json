@@ -1,0 +1,2659 @@
+{
+  "date": "2026-06-30",
+  "events": [
+    {
+      "title": "Niederlande vs Marokko",
+      "time": "03:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-wm/ma10713968/niederlande_marokko/liveticker",
+      "slug": "niederlande-vs-marokko",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Elfenbeinküste vs Norwegen",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-wm/ma10713986/elfenbeinkueste_norwegen/info",
+      "slug": "elfenbeinkuste-vs-norwegen",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Frankreich vs Schweden",
+      "time": "23:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-wm/ma10713962/frankreich_schweden/info",
+      "slug": "frankreich-vs-schweden",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Valentin Royer vs Harry Wendelken",
+      "time": "12:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754538/valentin-royer_harry-wendelken/info",
+      "slug": "valentin-royer-vs-harry-wendelken",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Sho Shimabukuro vs Jaime Faria",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "sho-shimabukuro-vs-jaime-faria"
+        },
+        {
+          "title": "Yannick Hanfmann vs Giovanni Mpetshi Perricard",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "yannick-hanfmann-vs-giovanni-mpetshi-perricard"
+        },
+        {
+          "title": "Kamil Majchrzak vs Alejandro Tabilo",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "kamil-majchrzak-vs-alejandro-tabilo"
+        }
+      ]
+    },
+    {
+      "title": "Sho Shimabukuro vs Jaime Faria",
+      "time": "12:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754487/sho-shimabukuro_jaime-faria/info",
+      "slug": "sho-shimabukuro-vs-jaime-faria",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Valentin Royer vs Harry Wendelken",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "valentin-royer-vs-harry-wendelken"
+        },
+        {
+          "title": "Yannick Hanfmann vs Giovanni Mpetshi Perricard",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "yannick-hanfmann-vs-giovanni-mpetshi-perricard"
+        },
+        {
+          "title": "Kamil Majchrzak vs Alejandro Tabilo",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "kamil-majchrzak-vs-alejandro-tabilo"
+        }
+      ]
+    },
+    {
+      "title": "Yannick Hanfmann vs Giovanni Mpetshi Perricard",
+      "time": "12:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754463/yannick-hanfmann_giovanni-mpetshi-perricard/info",
+      "slug": "yannick-hanfmann-vs-giovanni-mpetshi-perricard",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Valentin Royer vs Harry Wendelken",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "valentin-royer-vs-harry-wendelken"
+        },
+        {
+          "title": "Sho Shimabukuro vs Jaime Faria",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "sho-shimabukuro-vs-jaime-faria"
+        },
+        {
+          "title": "Kamil Majchrzak vs Alejandro Tabilo",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "kamil-majchrzak-vs-alejandro-tabilo"
+        }
+      ]
+    },
+    {
+      "title": "Kamil Majchrzak vs Alejandro Tabilo",
+      "time": "12:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754457/kamil-majchrzak_alejandro-tabilo/info",
+      "slug": "kamil-majchrzak-vs-alejandro-tabilo",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Valentin Royer vs Harry Wendelken",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "valentin-royer-vs-harry-wendelken"
+        },
+        {
+          "title": "Sho Shimabukuro vs Jaime Faria",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "sho-shimabukuro-vs-jaime-faria"
+        },
+        {
+          "title": "Yannick Hanfmann vs Giovanni Mpetshi Perricard",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "yannick-hanfmann-vs-giovanni-mpetshi-perricard"
+        }
+      ]
+    },
+    {
+      "title": "Adrian Mannarino vs Titouan Droguet",
+      "time": "12:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754451/adrian-mannarino_titouan-droguet/info",
+      "slug": "adrian-mannarino-vs-titouan-droguet",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Valentin Royer vs Harry Wendelken",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "valentin-royer-vs-harry-wendelken"
+        },
+        {
+          "title": "Sho Shimabukuro vs Jaime Faria",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "sho-shimabukuro-vs-jaime-faria"
+        },
+        {
+          "title": "Yannick Hanfmann vs Giovanni Mpetshi Perricard",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "yannick-hanfmann-vs-giovanni-mpetshi-perricard"
+        }
+      ]
+    },
+    {
+      "title": "Matteo Arnaldi vs Quentin Halys",
+      "time": "13:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754532/matteo-arnaldi_quentin-halys/info",
+      "slug": "matteo-arnaldi-vs-quentin-halys",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Alex Michelsen vs Jacob Fearnley",
+          "time": "13:10",
+          "sender": "Sportschau Live",
+          "slug": "alex-michelsen-vs-jacob-fearnley"
+        },
+        {
+          "title": "Thanasi Kokkinakis vs Alexander Bublik",
+          "time": "13:10",
+          "sender": "Sportschau Live",
+          "slug": "thanasi-kokkinakis-vs-alexander-bublik"
+        },
+        {
+          "title": "Kyrian Jacquet vs Vilius Gaubas",
+          "time": "13:10",
+          "sender": "Sportschau Live",
+          "slug": "kyrian-jacquet-vs-vilius-gaubas"
+        }
+      ]
+    },
+    {
+      "title": "Alex Michelsen vs Jacob Fearnley",
+      "time": "13:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754526/alex-michelsen_jacob-fearnley/info",
+      "slug": "alex-michelsen-vs-jacob-fearnley",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Matteo Arnaldi vs Quentin Halys",
+          "time": "13:10",
+          "sender": "Sportschau Live",
+          "slug": "matteo-arnaldi-vs-quentin-halys"
+        },
+        {
+          "title": "Thanasi Kokkinakis vs Alexander Bublik",
+          "time": "13:10",
+          "sender": "Sportschau Live",
+          "slug": "thanasi-kokkinakis-vs-alexander-bublik"
+        },
+        {
+          "title": "Kyrian Jacquet vs Vilius Gaubas",
+          "time": "13:10",
+          "sender": "Sportschau Live",
+          "slug": "kyrian-jacquet-vs-vilius-gaubas"
+        }
+      ]
+    },
+    {
+      "title": "Thanasi Kokkinakis vs Alexander Bublik",
+      "time": "13:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754517/thanasi-kokkinakis_alexander-bublik/info",
+      "slug": "thanasi-kokkinakis-vs-alexander-bublik",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Matteo Arnaldi vs Quentin Halys",
+          "time": "13:10",
+          "sender": "Sportschau Live",
+          "slug": "matteo-arnaldi-vs-quentin-halys"
+        },
+        {
+          "title": "Alex Michelsen vs Jacob Fearnley",
+          "time": "13:10",
+          "sender": "Sportschau Live",
+          "slug": "alex-michelsen-vs-jacob-fearnley"
+        },
+        {
+          "title": "Kyrian Jacquet vs Vilius Gaubas",
+          "time": "13:10",
+          "sender": "Sportschau Live",
+          "slug": "kyrian-jacquet-vs-vilius-gaubas"
+        }
+      ]
+    },
+    {
+      "title": "Kyrian Jacquet vs Vilius Gaubas",
+      "time": "13:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754514/kyrian-jacquet_vilius-gaubas/info",
+      "slug": "kyrian-jacquet-vs-vilius-gaubas",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Matteo Arnaldi vs Quentin Halys",
+          "time": "13:10",
+          "sender": "Sportschau Live",
+          "slug": "matteo-arnaldi-vs-quentin-halys"
+        },
+        {
+          "title": "Alex Michelsen vs Jacob Fearnley",
+          "time": "13:10",
+          "sender": "Sportschau Live",
+          "slug": "alex-michelsen-vs-jacob-fearnley"
+        },
+        {
+          "title": "Thanasi Kokkinakis vs Alexander Bublik",
+          "time": "13:10",
+          "sender": "Sportschau Live",
+          "slug": "thanasi-kokkinakis-vs-alexander-bublik"
+        }
+      ]
+    },
+    {
+      "title": "Otto Virtanen vs Ben Shelton",
+      "time": "13:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754493/otto-virtanen_ben-shelton/info",
+      "slug": "otto-virtanen-vs-ben-shelton",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Matteo Arnaldi vs Quentin Halys",
+          "time": "13:10",
+          "sender": "Sportschau Live",
+          "slug": "matteo-arnaldi-vs-quentin-halys"
+        },
+        {
+          "title": "Alex Michelsen vs Jacob Fearnley",
+          "time": "13:10",
+          "sender": "Sportschau Live",
+          "slug": "alex-michelsen-vs-jacob-fearnley"
+        },
+        {
+          "title": "Thanasi Kokkinakis vs Alexander Bublik",
+          "time": "13:10",
+          "sender": "Sportschau Live",
+          "slug": "thanasi-kokkinakis-vs-alexander-bublik"
+        }
+      ]
+    },
+    {
+      "title": "Damir Džumhur vs Arthur Fery",
+      "time": "13:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754490/damir-dzumhur_arthur-fery/info",
+      "slug": "damir-dzumhur-vs-arthur-fery",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Matteo Arnaldi vs Quentin Halys",
+          "time": "13:10",
+          "sender": "Sportschau Live",
+          "slug": "matteo-arnaldi-vs-quentin-halys"
+        },
+        {
+          "title": "Alex Michelsen vs Jacob Fearnley",
+          "time": "13:10",
+          "sender": "Sportschau Live",
+          "slug": "alex-michelsen-vs-jacob-fearnley"
+        },
+        {
+          "title": "Thanasi Kokkinakis vs Alexander Bublik",
+          "time": "13:10",
+          "sender": "Sportschau Live",
+          "slug": "thanasi-kokkinakis-vs-alexander-bublik"
+        }
+      ]
+    },
+    {
+      "title": "Karen Khachanov vs Billy Harris",
+      "time": "13:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754460/karen-khachanov_billy-harris/info",
+      "slug": "karen-khachanov-vs-billy-harris",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Matteo Arnaldi vs Quentin Halys",
+          "time": "13:10",
+          "sender": "Sportschau Live",
+          "slug": "matteo-arnaldi-vs-quentin-halys"
+        },
+        {
+          "title": "Alex Michelsen vs Jacob Fearnley",
+          "time": "13:10",
+          "sender": "Sportschau Live",
+          "slug": "alex-michelsen-vs-jacob-fearnley"
+        },
+        {
+          "title": "Thanasi Kokkinakis vs Alexander Bublik",
+          "time": "13:10",
+          "sender": "Sportschau Live",
+          "slug": "thanasi-kokkinakis-vs-alexander-bublik"
+        }
+      ]
+    },
+    {
+      "title": "Pablo Llamas Ruiz vs Zachary Svajda",
+      "time": "13:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754454/pablo-llamas-ruiz_zachary-svajda/info",
+      "slug": "pablo-llamas-ruiz-vs-zachary-svajda",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Matteo Arnaldi vs Quentin Halys",
+          "time": "13:10",
+          "sender": "Sportschau Live",
+          "slug": "matteo-arnaldi-vs-quentin-halys"
+        },
+        {
+          "title": "Alex Michelsen vs Jacob Fearnley",
+          "time": "13:10",
+          "sender": "Sportschau Live",
+          "slug": "alex-michelsen-vs-jacob-fearnley"
+        },
+        {
+          "title": "Thanasi Kokkinakis vs Alexander Bublik",
+          "time": "13:10",
+          "sender": "Sportschau Live",
+          "slug": "thanasi-kokkinakis-vs-alexander-bublik"
+        }
+      ]
+    },
+    {
+      "title": "Alex de Minaur vs Roman Burruchaga",
+      "time": "13:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754448/alex-de-minaur_roman-burruchaga/info",
+      "slug": "alex-de-minaur-vs-roman-burruchaga",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Matteo Arnaldi vs Quentin Halys",
+          "time": "13:10",
+          "sender": "Sportschau Live",
+          "slug": "matteo-arnaldi-vs-quentin-halys"
+        },
+        {
+          "title": "Alex Michelsen vs Jacob Fearnley",
+          "time": "13:10",
+          "sender": "Sportschau Live",
+          "slug": "alex-michelsen-vs-jacob-fearnley"
+        },
+        {
+          "title": "Thanasi Kokkinakis vs Alexander Bublik",
+          "time": "13:10",
+          "sender": "Sportschau Live",
+          "slug": "thanasi-kokkinakis-vs-alexander-bublik"
+        }
+      ]
+    },
+    {
+      "title": "Jesper De Jong vs Rinky Hijikata",
+      "time": "13:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754430/jesper-de-jong_rinky-hijikata/info",
+      "slug": "jesper-de-jong-vs-rinky-hijikata",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Brandon Nakashima vs Jack Pinnington Jones",
+          "time": "13:30",
+          "sender": "Sportschau Live",
+          "slug": "brandon-nakashima-vs-jack-pinnington-jones"
+        }
+      ]
+    },
+    {
+      "title": "Brandon Nakashima vs Jack Pinnington Jones",
+      "time": "13:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754388/brandon-nakashima_jack-pinnington-jones/info",
+      "slug": "brandon-nakashima-vs-jack-pinnington-jones",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Jesper De Jong vs Rinky Hijikata",
+          "time": "13:30",
+          "sender": "Sportschau Live",
+          "slug": "jesper-de-jong-vs-rinky-hijikata"
+        }
+      ]
+    },
+    {
+      "title": "Jaume Munar vs Francisco Cerúndolo",
+      "time": "13:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754529/jaume-munar_francisco-cerundolo/info",
+      "slug": "jaume-munar-vs-francisco-cerundolo",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Benjamin Bonzi vs Gabriel Diallo",
+          "time": "13:40",
+          "sender": "Sportschau Live",
+          "slug": "benjamin-bonzi-vs-gabriel-diallo"
+        },
+        {
+          "title": "Beatriz Haddad Maia vs Maria Timofeeva",
+          "time": "13:40",
+          "sender": "Sportschau Live",
+          "slug": "beatriz-haddad-maia-vs-maria-timofeeva"
+        },
+        {
+          "title": "Kimberly Birrell vs Alina Korneeva",
+          "time": "13:40",
+          "sender": "Sportschau Live",
+          "slug": "kimberly-birrell-vs-alina-korneeva"
+        }
+      ]
+    },
+    {
+      "title": "Benjamin Bonzi vs Gabriel Diallo",
+      "time": "13:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754502/benjamin-bonzi_gabriel-diallo/info",
+      "slug": "benjamin-bonzi-vs-gabriel-diallo",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Jaume Munar vs Francisco Cerúndolo",
+          "time": "13:40",
+          "sender": "Sportschau Live",
+          "slug": "jaume-munar-vs-francisco-cerundolo"
+        },
+        {
+          "title": "Beatriz Haddad Maia vs Maria Timofeeva",
+          "time": "13:40",
+          "sender": "Sportschau Live",
+          "slug": "beatriz-haddad-maia-vs-maria-timofeeva"
+        },
+        {
+          "title": "Kimberly Birrell vs Alina Korneeva",
+          "time": "13:40",
+          "sender": "Sportschau Live",
+          "slug": "kimberly-birrell-vs-alina-korneeva"
+        }
+      ]
+    },
+    {
+      "title": "Taylor Fritz vs Dušan Lajović",
+      "time": "14:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754496/taylor-fritz_dusan-lajovic/info",
+      "slug": "taylor-fritz-vs-dusan-lajovic",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ugo Humbert vs Zizou Bergs",
+          "time": "14:00",
+          "sender": "Sportschau Live",
+          "slug": "ugo-humbert-vs-zizou-bergs"
+        }
+      ]
+    },
+    {
+      "title": "Ugo Humbert vs Zizou Bergs",
+      "time": "14:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754484/ugo-humbert_zizou-bergs/info",
+      "slug": "ugo-humbert-vs-zizou-bergs",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Taylor Fritz vs Dušan Lajović",
+          "time": "14:00",
+          "sender": "Sportschau Live",
+          "slug": "taylor-fritz-vs-dusan-lajovic"
+        }
+      ]
+    },
+    {
+      "title": "Corentin Moutet vs Marcos Giron",
+      "time": "14:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754535/corentin-moutet_marcos-giron/info",
+      "slug": "corentin-moutet-vs-marcos-giron",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Lorenzo Sonego vs Tomas Martin Etcheverry",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "lorenzo-sonego-vs-tomas-martin-etcheverry"
+        },
+        {
+          "title": "Patrick Kypson vs Mackenzie McDonald",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "patrick-kypson-vs-mackenzie-mcdonald"
+        },
+        {
+          "title": "Raphael Collignon vs Arthur Fils",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "raphael-collignon-vs-arthur-fils"
+        }
+      ]
+    },
+    {
+      "title": "Lorenzo Sonego vs Tomas Martin Etcheverry",
+      "time": "14:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754505/lorenzo-sonego_tomas-martin-etcheverry/info",
+      "slug": "lorenzo-sonego-vs-tomas-martin-etcheverry",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Corentin Moutet vs Marcos Giron",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "corentin-moutet-vs-marcos-giron"
+        },
+        {
+          "title": "Patrick Kypson vs Mackenzie McDonald",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "patrick-kypson-vs-mackenzie-mcdonald"
+        },
+        {
+          "title": "Raphael Collignon vs Arthur Fils",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "raphael-collignon-vs-arthur-fils"
+        }
+      ]
+    },
+    {
+      "title": "Patrick Kypson vs Mackenzie McDonald",
+      "time": "14:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754499/patrick-kypson_mackenzie-mcdonald/info",
+      "slug": "patrick-kypson-vs-mackenzie-mcdonald",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Corentin Moutet vs Marcos Giron",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "corentin-moutet-vs-marcos-giron"
+        },
+        {
+          "title": "Lorenzo Sonego vs Tomas Martin Etcheverry",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "lorenzo-sonego-vs-tomas-martin-etcheverry"
+        },
+        {
+          "title": "Raphael Collignon vs Arthur Fils",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "raphael-collignon-vs-arthur-fils"
+        }
+      ]
+    },
+    {
+      "title": "Raphael Collignon vs Arthur Fils",
+      "time": "14:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754481/raphael-collignon_arthur-fils/info",
+      "slug": "raphael-collignon-vs-arthur-fils",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Corentin Moutet vs Marcos Giron",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "corentin-moutet-vs-marcos-giron"
+        },
+        {
+          "title": "Lorenzo Sonego vs Tomas Martin Etcheverry",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "lorenzo-sonego-vs-tomas-martin-etcheverry"
+        },
+        {
+          "title": "Patrick Kypson vs Mackenzie McDonald",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "patrick-kypson-vs-mackenzie-mcdonald"
+        }
+      ]
+    },
+    {
+      "title": "Dane Sweeny vs Grigor Dimitrov",
+      "time": "14:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754475/dane-sweeny_grigor-dimitrov/info",
+      "slug": "dane-sweeny-vs-grigor-dimitrov",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Corentin Moutet vs Marcos Giron",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "corentin-moutet-vs-marcos-giron"
+        },
+        {
+          "title": "Lorenzo Sonego vs Tomas Martin Etcheverry",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "lorenzo-sonego-vs-tomas-martin-etcheverry"
+        },
+        {
+          "title": "Patrick Kypson vs Mackenzie McDonald",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "patrick-kypson-vs-mackenzie-mcdonald"
+        }
+      ]
+    },
+    {
+      "title": "Jakub Mensik vs Toby Samuel",
+      "time": "14:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754472/jakub-mensik_toby-samuel/info",
+      "slug": "jakub-mensik-vs-toby-samuel",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Corentin Moutet vs Marcos Giron",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "corentin-moutet-vs-marcos-giron"
+        },
+        {
+          "title": "Lorenzo Sonego vs Tomas Martin Etcheverry",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "lorenzo-sonego-vs-tomas-martin-etcheverry"
+        },
+        {
+          "title": "Patrick Kypson vs Mackenzie McDonald",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "patrick-kypson-vs-mackenzie-mcdonald"
+        }
+      ]
+    },
+    {
+      "title": "Alexander Blockx vs Alexander Zverev",
+      "time": "15:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754541/alexander-blockx_alexander-zverev/info",
+      "slug": "alexander-blockx-vs-alexander-zverev",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Lois Boisson vs Elena Rybakina",
+          "time": "15:40",
+          "sender": "Sportschau Live",
+          "slug": "lois-boisson-vs-elena-rybakina"
+        },
+        {
+          "title": "Sorana Cirstea vs Sara Bejlek",
+          "time": "15:40",
+          "sender": "Sportschau Live",
+          "slug": "sorana-cirstea-vs-sara-bejlek"
+        }
+      ]
+    },
+    {
+      "title": "Alex Molčan vs Daniel Altmaier",
+      "time": "16:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754523/alex-molcan_daniel-altmaier/info",
+      "slug": "alex-molcan-vs-daniel-altmaier",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Vit Kopriva vs Jan Choinski",
+          "time": "16:00",
+          "sender": "Sportschau Live",
+          "slug": "vit-kopriva-vs-jan-choinski"
+        },
+        {
+          "title": "Frances Tiafoe vs Terence Atmane",
+          "time": "16:00",
+          "sender": "Sportschau Live",
+          "slug": "frances-tiafoe-vs-terence-atmane"
+        },
+        {
+          "title": "Mariano Navone vs Flavio Cobolli",
+          "time": "16:00",
+          "sender": "Sportschau Live",
+          "slug": "mariano-navone-vs-flavio-cobolli"
+        }
+      ]
+    },
+    {
+      "title": "Vit Kopriva vs Jan Choinski",
+      "time": "16:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754511/vit-kopriva_jan-choinski/info",
+      "slug": "vit-kopriva-vs-jan-choinski",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Alex Molčan vs Daniel Altmaier",
+          "time": "16:00",
+          "sender": "Sportschau Live",
+          "slug": "alex-molcan-vs-daniel-altmaier"
+        },
+        {
+          "title": "Frances Tiafoe vs Terence Atmane",
+          "time": "16:00",
+          "sender": "Sportschau Live",
+          "slug": "frances-tiafoe-vs-terence-atmane"
+        },
+        {
+          "title": "Mariano Navone vs Flavio Cobolli",
+          "time": "16:00",
+          "sender": "Sportschau Live",
+          "slug": "mariano-navone-vs-flavio-cobolli"
+        }
+      ]
+    },
+    {
+      "title": "Frances Tiafoe vs Terence Atmane",
+      "time": "16:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754508/frances-tiafoe_terence-atmane/info",
+      "slug": "frances-tiafoe-vs-terence-atmane",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Alex Molčan vs Daniel Altmaier",
+          "time": "16:00",
+          "sender": "Sportschau Live",
+          "slug": "alex-molcan-vs-daniel-altmaier"
+        },
+        {
+          "title": "Vit Kopriva vs Jan Choinski",
+          "time": "16:00",
+          "sender": "Sportschau Live",
+          "slug": "vit-kopriva-vs-jan-choinski"
+        },
+        {
+          "title": "Mariano Navone vs Flavio Cobolli",
+          "time": "16:00",
+          "sender": "Sportschau Live",
+          "slug": "mariano-navone-vs-flavio-cobolli"
+        }
+      ]
+    },
+    {
+      "title": "Mariano Navone vs Flavio Cobolli",
+      "time": "16:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754469/mariano-navone_flavio-cobolli/info",
+      "slug": "mariano-navone-vs-flavio-cobolli",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Alex Molčan vs Daniel Altmaier",
+          "time": "16:00",
+          "sender": "Sportschau Live",
+          "slug": "alex-molcan-vs-daniel-altmaier"
+        },
+        {
+          "title": "Vit Kopriva vs Jan Choinski",
+          "time": "16:00",
+          "sender": "Sportschau Live",
+          "slug": "vit-kopriva-vs-jan-choinski"
+        },
+        {
+          "title": "Frances Tiafoe vs Terence Atmane",
+          "time": "16:00",
+          "sender": "Sportschau Live",
+          "slug": "frances-tiafoe-vs-terence-atmane"
+        }
+      ]
+    },
+    {
+      "title": "Tallon Griekspoor vs James Duckworth",
+      "time": "16:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754466/tallon-griekspoor_james-duckworth/info",
+      "slug": "tallon-griekspoor-vs-james-duckworth",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Alex Molčan vs Daniel Altmaier",
+          "time": "16:00",
+          "sender": "Sportschau Live",
+          "slug": "alex-molcan-vs-daniel-altmaier"
+        },
+        {
+          "title": "Vit Kopriva vs Jan Choinski",
+          "time": "16:00",
+          "sender": "Sportschau Live",
+          "slug": "vit-kopriva-vs-jan-choinski"
+        },
+        {
+          "title": "Frances Tiafoe vs Terence Atmane",
+          "time": "16:00",
+          "sender": "Sportschau Live",
+          "slug": "frances-tiafoe-vs-terence-atmane"
+        }
+      ]
+    },
+    {
+      "title": "Jiří Lehečka vs Alexei Popyrin",
+      "time": "16:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754520/jiri-lehecka_alexei-popyrin/info",
+      "slug": "jiri-lehecka-vs-alexei-popyrin",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Stan Wawrinka vs Matteo Berrettini",
+          "time": "16:50",
+          "sender": "Sportschau Live",
+          "slug": "stan-wawrinka-vs-matteo-berrettini"
+        }
+      ]
+    },
+    {
+      "title": "Stan Wawrinka vs Matteo Berrettini",
+      "time": "16:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754478/stan-wawrinka_matteo-berrettini/info",
+      "slug": "stan-wawrinka-vs-matteo-berrettini",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Jiří Lehečka vs Alexei Popyrin",
+          "time": "16:50",
+          "sender": "Sportschau Live",
+          "slug": "jiri-lehecka-vs-alexei-popyrin"
+        }
+      ]
+    },
+    {
+      "title": "Talia Gibson vs Marie Bouzkova",
+      "time": "12:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780152/talia-gibson_marie-bouzkova/info",
+      "slug": "talia-gibson-vs-marie-bouzkova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Valentin Royer vs Harry Wendelken",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "valentin-royer-vs-harry-wendelken"
+        },
+        {
+          "title": "Sho Shimabukuro vs Jaime Faria",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "sho-shimabukuro-vs-jaime-faria"
+        },
+        {
+          "title": "Yannick Hanfmann vs Giovanni Mpetshi Perricard",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "yannick-hanfmann-vs-giovanni-mpetshi-perricard"
+        }
+      ]
+    },
+    {
+      "title": "Katie Boulter vs Tyra Caterina Grant",
+      "time": "12:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780149/katie-boulter_tyra-caterina-grant/info",
+      "slug": "katie-boulter-vs-tyra-caterina-grant",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Valentin Royer vs Harry Wendelken",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "valentin-royer-vs-harry-wendelken"
+        },
+        {
+          "title": "Sho Shimabukuro vs Jaime Faria",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "sho-shimabukuro-vs-jaime-faria"
+        },
+        {
+          "title": "Yannick Hanfmann vs Giovanni Mpetshi Perricard",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "yannick-hanfmann-vs-giovanni-mpetshi-perricard"
+        }
+      ]
+    },
+    {
+      "title": "Kayla Day vs Madison Keys",
+      "time": "12:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780128/kayla-day_madison-keys/info",
+      "slug": "kayla-day-vs-madison-keys",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Valentin Royer vs Harry Wendelken",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "valentin-royer-vs-harry-wendelken"
+        },
+        {
+          "title": "Sho Shimabukuro vs Jaime Faria",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "sho-shimabukuro-vs-jaime-faria"
+        },
+        {
+          "title": "Yannick Hanfmann vs Giovanni Mpetshi Perricard",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "yannick-hanfmann-vs-giovanni-mpetshi-perricard"
+        }
+      ]
+    },
+    {
+      "title": "Irina Begu vs Katie Swan",
+      "time": "12:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780125/irina-begu_katie-swan/info",
+      "slug": "irina-begu-vs-katie-swan",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Valentin Royer vs Harry Wendelken",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "valentin-royer-vs-harry-wendelken"
+        },
+        {
+          "title": "Sho Shimabukuro vs Jaime Faria",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "sho-shimabukuro-vs-jaime-faria"
+        },
+        {
+          "title": "Yannick Hanfmann vs Giovanni Mpetshi Perricard",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "yannick-hanfmann-vs-giovanni-mpetshi-perricard"
+        }
+      ]
+    },
+    {
+      "title": "Petra Marcinko vs Sofia Kenin",
+      "time": "12:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780122/petra-marcinko_sofia-kenin/info",
+      "slug": "petra-marcinko-vs-sofia-kenin",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Valentin Royer vs Harry Wendelken",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "valentin-royer-vs-harry-wendelken"
+        },
+        {
+          "title": "Sho Shimabukuro vs Jaime Faria",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "sho-shimabukuro-vs-jaime-faria"
+        },
+        {
+          "title": "Yannick Hanfmann vs Giovanni Mpetshi Perricard",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "yannick-hanfmann-vs-giovanni-mpetshi-perricard"
+        }
+      ]
+    },
+    {
+      "title": "Amanda Anisimova vs Lina Gjorcheska",
+      "time": "12:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780119/amanda-anisimova_lina-gjorcheska/info",
+      "slug": "amanda-anisimova-vs-lina-gjorcheska",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Valentin Royer vs Harry Wendelken",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "valentin-royer-vs-harry-wendelken"
+        },
+        {
+          "title": "Sho Shimabukuro vs Jaime Faria",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "sho-shimabukuro-vs-jaime-faria"
+        },
+        {
+          "title": "Yannick Hanfmann vs Giovanni Mpetshi Perricard",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "yannick-hanfmann-vs-giovanni-mpetshi-perricard"
+        }
+      ]
+    },
+    {
+      "title": "Tereza Valentová vs Karolina Plíšková",
+      "time": "12:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780113/tereza-valentova_karolina-pliskova/info",
+      "slug": "tereza-valentova-vs-karolina-pliskova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Valentin Royer vs Harry Wendelken",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "valentin-royer-vs-harry-wendelken"
+        },
+        {
+          "title": "Sho Shimabukuro vs Jaime Faria",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "sho-shimabukuro-vs-jaime-faria"
+        },
+        {
+          "title": "Yannick Hanfmann vs Giovanni Mpetshi Perricard",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "yannick-hanfmann-vs-giovanni-mpetshi-perricard"
+        }
+      ]
+    },
+    {
+      "title": "Maria Sakkari vs Clara Tauson",
+      "time": "12:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780104/maria-sakkari_clara-tauson/info",
+      "slug": "maria-sakkari-vs-clara-tauson",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Valentin Royer vs Harry Wendelken",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "valentin-royer-vs-harry-wendelken"
+        },
+        {
+          "title": "Sho Shimabukuro vs Jaime Faria",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "sho-shimabukuro-vs-jaime-faria"
+        },
+        {
+          "title": "Yannick Hanfmann vs Giovanni Mpetshi Perricard",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "yannick-hanfmann-vs-giovanni-mpetshi-perricard"
+        }
+      ]
+    },
+    {
+      "title": "Anhelina Kalinina vs Kamilla Rakhimova",
+      "time": "12:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780101/anhelina-kalinina_kamilla-rakhimova/info",
+      "slug": "anhelina-kalinina-vs-kamilla-rakhimova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Valentin Royer vs Harry Wendelken",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "valentin-royer-vs-harry-wendelken"
+        },
+        {
+          "title": "Sho Shimabukuro vs Jaime Faria",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "sho-shimabukuro-vs-jaime-faria"
+        },
+        {
+          "title": "Yannick Hanfmann vs Giovanni Mpetshi Perricard",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "yannick-hanfmann-vs-giovanni-mpetshi-perricard"
+        }
+      ]
+    },
+    {
+      "title": "Jasmine Paolini vs Robin Montgomery",
+      "time": "12:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780095/jasmine-paolini_robin-montgomery/info",
+      "slug": "jasmine-paolini-vs-robin-montgomery",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Valentin Royer vs Harry Wendelken",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "valentin-royer-vs-harry-wendelken"
+        },
+        {
+          "title": "Sho Shimabukuro vs Jaime Faria",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "sho-shimabukuro-vs-jaime-faria"
+        },
+        {
+          "title": "Yannick Hanfmann vs Giovanni Mpetshi Perricard",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "yannick-hanfmann-vs-giovanni-mpetshi-perricard"
+        }
+      ]
+    },
+    {
+      "title": "Beatriz Haddad Maia vs Maria Timofeeva",
+      "time": "13:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780158/beatriz-haddad-maia_maria-timofeeva/info",
+      "slug": "beatriz-haddad-maia-vs-maria-timofeeva",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Jaume Munar vs Francisco Cerúndolo",
+          "time": "13:40",
+          "sender": "Sportschau Live",
+          "slug": "jaume-munar-vs-francisco-cerundolo"
+        },
+        {
+          "title": "Benjamin Bonzi vs Gabriel Diallo",
+          "time": "13:40",
+          "sender": "Sportschau Live",
+          "slug": "benjamin-bonzi-vs-gabriel-diallo"
+        },
+        {
+          "title": "Kimberly Birrell vs Alina Korneeva",
+          "time": "13:40",
+          "sender": "Sportschau Live",
+          "slug": "kimberly-birrell-vs-alina-korneeva"
+        }
+      ]
+    },
+    {
+      "title": "Kimberly Birrell vs Alina Korneeva",
+      "time": "13:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780134/kimberly-birrell_alina-korneeva/info",
+      "slug": "kimberly-birrell-vs-alina-korneeva",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Jaume Munar vs Francisco Cerúndolo",
+          "time": "13:40",
+          "sender": "Sportschau Live",
+          "slug": "jaume-munar-vs-francisco-cerundolo"
+        },
+        {
+          "title": "Benjamin Bonzi vs Gabriel Diallo",
+          "time": "13:40",
+          "sender": "Sportschau Live",
+          "slug": "benjamin-bonzi-vs-gabriel-diallo"
+        },
+        {
+          "title": "Beatriz Haddad Maia vs Maria Timofeeva",
+          "time": "13:40",
+          "sender": "Sportschau Live",
+          "slug": "beatriz-haddad-maia-vs-maria-timofeeva"
+        }
+      ]
+    },
+    {
+      "title": "Iryna Shymanovich vs Viktorija Golubic",
+      "time": "13:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780098/iryna-shymanovich_viktorija-golubic/info",
+      "slug": "iryna-shymanovich-vs-viktorija-golubic",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Jaume Munar vs Francisco Cerúndolo",
+          "time": "13:40",
+          "sender": "Sportschau Live",
+          "slug": "jaume-munar-vs-francisco-cerundolo"
+        },
+        {
+          "title": "Benjamin Bonzi vs Gabriel Diallo",
+          "time": "13:40",
+          "sender": "Sportschau Live",
+          "slug": "benjamin-bonzi-vs-gabriel-diallo"
+        },
+        {
+          "title": "Beatriz Haddad Maia vs Maria Timofeeva",
+          "time": "13:40",
+          "sender": "Sportschau Live",
+          "slug": "beatriz-haddad-maia-vs-maria-timofeeva"
+        }
+      ]
+    },
+    {
+      "title": "Taylor Townsend vs Iga Świątek",
+      "time": "14:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780116/taylor-townsend_iga-swiatek/info",
+      "slug": "taylor-townsend-vs-iga-swiatek",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alexandra Eala vs Renata Zarazúa",
+      "time": "14:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780107/alexandra-eala_renata-zarazua/info",
+      "slug": "alexandra-eala-vs-renata-zarazua",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Corentin Moutet vs Marcos Giron",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "corentin-moutet-vs-marcos-giron"
+        },
+        {
+          "title": "Lorenzo Sonego vs Tomas Martin Etcheverry",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "lorenzo-sonego-vs-tomas-martin-etcheverry"
+        },
+        {
+          "title": "Patrick Kypson vs Mackenzie McDonald",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "patrick-kypson-vs-mackenzie-mcdonald"
+        }
+      ]
+    },
+    {
+      "title": "Yulia Starodubtseva vs Anna Blinkova",
+      "time": "14:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780089/yulia-starodubtseva_anna-blinkova/info",
+      "slug": "yulia-starodubtseva-vs-anna-blinkova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Corentin Moutet vs Marcos Giron",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "corentin-moutet-vs-marcos-giron"
+        },
+        {
+          "title": "Lorenzo Sonego vs Tomas Martin Etcheverry",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "lorenzo-sonego-vs-tomas-martin-etcheverry"
+        },
+        {
+          "title": "Patrick Kypson vs Mackenzie McDonald",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "patrick-kypson-vs-mackenzie-mcdonald"
+        }
+      ]
+    },
+    {
+      "title": "Oksana Selekhmeteva vs Sinja Kraus",
+      "time": "14:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780086/oksana-selekhmeteva_sinja-kraus/info",
+      "slug": "oksana-selekhmeteva-vs-sinja-kraus",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Corentin Moutet vs Marcos Giron",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "corentin-moutet-vs-marcos-giron"
+        },
+        {
+          "title": "Lorenzo Sonego vs Tomas Martin Etcheverry",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "lorenzo-sonego-vs-tomas-martin-etcheverry"
+        },
+        {
+          "title": "Patrick Kypson vs Mackenzie McDonald",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "patrick-kypson-vs-mackenzie-mcdonald"
+        }
+      ]
+    },
+    {
+      "title": "Emma Navarro vs Paula Badosa",
+      "time": "14:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780083/emma-navarro_paula-badosa/info",
+      "slug": "emma-navarro-vs-paula-badosa",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Corentin Moutet vs Marcos Giron",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "corentin-moutet-vs-marcos-giron"
+        },
+        {
+          "title": "Lorenzo Sonego vs Tomas Martin Etcheverry",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "lorenzo-sonego-vs-tomas-martin-etcheverry"
+        },
+        {
+          "title": "Patrick Kypson vs Mackenzie McDonald",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "patrick-kypson-vs-mackenzie-mcdonald"
+        }
+      ]
+    },
+    {
+      "title": "Veronika Erjavec vs Leolia Jeanjean",
+      "time": "14:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780074/veronika-erjavec_leolia-jeanjean/info",
+      "slug": "veronika-erjavec-vs-leolia-jeanjean",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Corentin Moutet vs Marcos Giron",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "corentin-moutet-vs-marcos-giron"
+        },
+        {
+          "title": "Lorenzo Sonego vs Tomas Martin Etcheverry",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "lorenzo-sonego-vs-tomas-martin-etcheverry"
+        },
+        {
+          "title": "Patrick Kypson vs Mackenzie McDonald",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "patrick-kypson-vs-mackenzie-mcdonald"
+        }
+      ]
+    },
+    {
+      "title": "Elina Svitolina vs Daria Snigur",
+      "time": "14:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780071/elina-svitolina_daria-snigur/info",
+      "slug": "elina-svitolina-vs-daria-snigur",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Corentin Moutet vs Marcos Giron",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "corentin-moutet-vs-marcos-giron"
+        },
+        {
+          "title": "Lorenzo Sonego vs Tomas Martin Etcheverry",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "lorenzo-sonego-vs-tomas-martin-etcheverry"
+        },
+        {
+          "title": "Patrick Kypson vs Mackenzie McDonald",
+          "time": "14:50",
+          "sender": "Sportschau Live",
+          "slug": "patrick-kypson-vs-mackenzie-mcdonald"
+        }
+      ]
+    },
+    {
+      "title": "Elena Ruse vs Caty McNally",
+      "time": "15:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780161/elena-ruse_caty-mcnally/info",
+      "slug": "elena-ruse-vs-caty-mcnally",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Elise Mertens vs Laura Siegemund",
+          "time": "15:20",
+          "sender": "Sportschau Live",
+          "slug": "elise-mertens-vs-laura-siegemund"
+        }
+      ]
+    },
+    {
+      "title": "Elise Mertens vs Laura Siegemund",
+      "time": "15:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780155/elise-mertens_laura-siegemund/info",
+      "slug": "elise-mertens-vs-laura-siegemund",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Elena Ruse vs Caty McNally",
+          "time": "15:20",
+          "sender": "Sportschau Live",
+          "slug": "elena-ruse-vs-caty-mcnally"
+        }
+      ]
+    },
+    {
+      "title": "Lois Boisson vs Elena Rybakina",
+      "time": "15:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780164/lois-boisson_elena-rybakina/info",
+      "slug": "lois-boisson-vs-elena-rybakina",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Alexander Blockx vs Alexander Zverev",
+          "time": "15:40",
+          "sender": "Sportschau Live",
+          "slug": "alexander-blockx-vs-alexander-zverev"
+        },
+        {
+          "title": "Sorana Cirstea vs Sara Bejlek",
+          "time": "15:40",
+          "sender": "Sportschau Live",
+          "slug": "sorana-cirstea-vs-sara-bejlek"
+        }
+      ]
+    },
+    {
+      "title": "Sorana Cirstea vs Sara Bejlek",
+      "time": "15:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780131/sorana-cirstea_sara-bejlek/info",
+      "slug": "sorana-cirstea-vs-sara-bejlek",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Alexander Blockx vs Alexander Zverev",
+          "time": "15:40",
+          "sender": "Sportschau Live",
+          "slug": "alexander-blockx-vs-alexander-zverev"
+        },
+        {
+          "title": "Lois Boisson vs Elena Rybakina",
+          "time": "15:40",
+          "sender": "Sportschau Live",
+          "slug": "lois-boisson-vs-elena-rybakina"
+        }
+      ]
+    },
+    {
+      "title": "Polina Kudermetova vs Ludmilla Samsonova",
+      "time": "16:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780146/polina-kudermetova_ludmilla-samsonova/info",
+      "slug": "polina-kudermetova-vs-ludmilla-samsonova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Diana Shnaider vs Eva Lys",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "diana-shnaider-vs-eva-lys"
+        },
+        {
+          "title": "Ella Seidel vs Linda Noskova",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "ella-seidel-vs-linda-noskova"
+        },
+        {
+          "title": "Camila Osorio vs Simona Waltert",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "camila-osorio-vs-simona-waltert"
+        }
+      ]
+    },
+    {
+      "title": "Diana Shnaider vs Eva Lys",
+      "time": "16:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780143/diana-shnaider_eva-lys/info",
+      "slug": "diana-shnaider-vs-eva-lys",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Polina Kudermetova vs Ludmilla Samsonova",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "polina-kudermetova-vs-ludmilla-samsonova"
+        },
+        {
+          "title": "Ella Seidel vs Linda Noskova",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "ella-seidel-vs-linda-noskova"
+        },
+        {
+          "title": "Camila Osorio vs Simona Waltert",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "camila-osorio-vs-simona-waltert"
+        }
+      ]
+    },
+    {
+      "title": "Ella Seidel vs Linda Noskova",
+      "time": "16:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780140/ella-seidel_linda-noskova/info",
+      "slug": "ella-seidel-vs-linda-noskova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Polina Kudermetova vs Ludmilla Samsonova",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "polina-kudermetova-vs-ludmilla-samsonova"
+        },
+        {
+          "title": "Diana Shnaider vs Eva Lys",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "diana-shnaider-vs-eva-lys"
+        },
+        {
+          "title": "Camila Osorio vs Simona Waltert",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "camila-osorio-vs-simona-waltert"
+        }
+      ]
+    },
+    {
+      "title": "Camila Osorio vs Simona Waltert",
+      "time": "16:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780137/camila-osorio_simona-waltert/info",
+      "slug": "camila-osorio-vs-simona-waltert",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Polina Kudermetova vs Ludmilla Samsonova",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "polina-kudermetova-vs-ludmilla-samsonova"
+        },
+        {
+          "title": "Diana Shnaider vs Eva Lys",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "diana-shnaider-vs-eva-lys"
+        },
+        {
+          "title": "Ella Seidel vs Linda Noskova",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "ella-seidel-vs-linda-noskova"
+        }
+      ]
+    },
+    {
+      "title": "Ajla Tomljanović vs Mariam Bolkvadze",
+      "time": "16:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780077/ajla-tomljanovic_mariam-bolkvadze/info",
+      "slug": "ajla-tomljanovic-vs-mariam-bolkvadze",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Polina Kudermetova vs Ludmilla Samsonova",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "polina-kudermetova-vs-ludmilla-samsonova"
+        },
+        {
+          "title": "Diana Shnaider vs Eva Lys",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "diana-shnaider-vs-eva-lys"
+        },
+        {
+          "title": "Ella Seidel vs Linda Noskova",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "ella-seidel-vs-linda-noskova"
+        }
+      ]
+    },
+    {
+      "title": "Serena Williams vs Maya Joint",
+      "time": "17:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780110/serena-williams_maya-joint/info",
+      "slug": "serena-williams-vs-maya-joint",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Nadia Podoroska vs Marta Kostyuk",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780092/nadia-podoroska_marta-kostyuk/info",
+      "slug": "nadia-podoroska-vs-marta-kostyuk",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ashlyn Krueger vs Donna Vekić",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "ashlyn-krueger-vs-donna-vekic"
+        }
+      ]
+    },
+    {
+      "title": "Ashlyn Krueger vs Donna Vekić",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780080/ashlyn-krueger_donna-vekic/info",
+      "slug": "ashlyn-krueger-vs-donna-vekic",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Nadia Podoroska vs Marta Kostyuk",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "nadia-podoroska-vs-marta-kostyuk"
+        }
+      ]
+    },
+    {
+      "title": "Northern Ireland Open | Finale",
+      "subtitle": "J. Lisowski - J. Trump | Belfast | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:30",
+      "iso_time": "2026-06-30T01:30:23+02:00",
+      "link": "",
+      "slug": "northern-ireland-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France | 9. Etappe",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:01",
+      "iso_time": "2026-06-30T04:01:18+02:00",
+      "link": "",
+      "slug": "tour-de-france-9-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France | 10. Etappe",
+          "time": "04:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-10-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 10. Etappe",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:59",
+      "iso_time": "2026-06-30T04:59:32+02:00",
+      "link": "",
+      "slug": "tour-de-france-10-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France | 9. Etappe",
+          "time": "04:01",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-9-etappe"
+        }
+      ]
+    },
+    {
+      "title": "8h von Spa | Rennen",
+      "subtitle": "FIM EWC | 2. Station",
+      "sport": "Motorrad-Langstrecke",
+      "sport_slug": "motorrad-langstrecke",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:59",
+      "iso_time": "2026-06-30T05:59:19+02:00",
+      "link": "https://play.hbomax.com/sport/3d976c9f-d5cd-5e08-9a28-046c1ea2f987?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "8h-von-spa-rennen",
+      "related_events": []
+    },
+    {
+      "title": "UK Championship 2025 | Finale",
+      "subtitle": "Mark Selby - Judd Trump | York",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:29",
+      "iso_time": "2026-06-30T08:29:57+02:00",
+      "link": "https://play.hbomax.com/sport/26d1abf2-67c6-56d4-ad41-10323aa6ed84?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uk-championship-2025-finale",
+      "related_events": []
+    },
+    {
+      "title": "FIA WEC | 24h von Le Mans | Rennen",
+      "subtitle": "Langstrecken-WM | 3. Station",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:36",
+      "iso_time": "2026-06-30T08:36:17+02:00",
+      "link": "https://play.hbomax.com/sport/5f7c6eec-09e6-5dd2-9fad-5b0e56e88455?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "fia-wec-24h-von-le-mans-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Prag | Bouldern | Finale",
+      "subtitle": "World Series | Frauen",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:59",
+      "iso_time": "2026-06-30T09:59:00+02:00",
+      "link": "https://play.hbomax.com/sport/ac624aff-583b-5210-aa45-b5d8710baf0c?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "prag-bouldern-finale",
+      "related_events": []
+    },
+    {
+      "title": "Racing on the Edge",
+      "subtitle": "SailGP-Magazin | Saison 2026 | Folge 3",
+      "sport": "Segeln",
+      "sport_slug": "segeln",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:26",
+      "iso_time": "2026-06-30T10:26:48+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "racing-on-the-edge",
+      "related_events": []
+    },
+    {
+      "title": "World Classic Open Powerlifting Championships",
+      "subtitle": "Druskininkai | 63kg Frauen / 83kg Männer",
+      "sport": "Kraftdreikampf",
+      "sport_slug": "kraftdreikampf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-06-30T11:00:01+02:00",
+      "link": "https://play.hbomax.com/sport/df51f7e2-34a0-55fa-9a81-aa81a5662716?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "world-classic-open-powerlifting-championships",
+      "related_events": []
+    },
+    {
+      "title": "UK Championship 2025 | Finale",
+      "subtitle": "Mark Selby - Judd Trump | York",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-06-30T11:00:07+02:00",
+      "link": "https://play.hbomax.com/sport/1f115e89-ff48-52c2-a625-117e1a10df36?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uk-championship-2025-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France | 10. Etappe",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:59",
+      "iso_time": "2026-06-30T11:59:07+02:00",
+      "link": "https://play.hbomax.com/sport/77b5ee07-87d7-538b-802c-b8d6df686f4b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-10-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France | 11. Etappe",
+          "time": "14:31",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-11-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Prag | Bouldern | Finale",
+      "subtitle": "World Series | Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:57",
+      "iso_time": "2026-06-30T12:57:39+02:00",
+      "link": "https://play.hbomax.com/sport/699cedc2-2b60-5fba-93ea-4a04f392080c?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "prag-bouldern-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France | 10. Etappe",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:01",
+      "iso_time": "2026-06-30T13:01:43+02:00",
+      "link": "https://play.hbomax.com/sport/7c4058bb-f706-517d-a014-febddbbe0e76?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-10-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France | 11. Etappe",
+          "time": "14:31",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-11-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Prag | Bouldern | Finale",
+      "subtitle": "World Series | Frauen",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:59",
+      "iso_time": "2026-06-30T13:59:38+02:00",
+      "link": "https://play.hbomax.com/sport/08414ac8-e1e2-5ad4-ac5b-964e01d0fe05?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "prag-bouldern-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France | 11. Etappe",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:31",
+      "iso_time": "2026-06-30T14:31:30+02:00",
+      "link": "https://play.hbomax.com/sport/1a48358c-df1a-504f-a636-393ff01f8b7c?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-11-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France | 10. Etappe",
+          "time": "11:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-10-etappe"
+        },
+        {
+          "title": "Tour de France | 10. Etappe",
+          "time": "13:01",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-10-etappe"
+        },
+        {
+          "title": "Tour de France | 12. Etappe",
+          "time": "16:27",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe"
+        }
+      ]
+    },
+    {
+      "title": "FIA WEC | 24h von Le Mans | Rennen",
+      "subtitle": "Langstrecken-WM | 3. Station",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:00",
+      "iso_time": "2026-06-30T15:00:02+02:00",
+      "link": "https://play.hbomax.com/sport/ac598fa1-2eaf-5110-ac4c-cef1e6639fb3?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "fia-wec-24h-von-le-mans-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France | 12. Etappe",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:27",
+      "iso_time": "2026-06-30T16:27:32+02:00",
+      "link": "https://play.hbomax.com/sport/1396d167-d3e5-5dbe-b99d-413647bf54ad?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-12-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France | 11. Etappe",
+          "time": "14:31",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-11-etappe"
+        },
+        {
+          "title": "Cycling Essential Stories",
+          "time": "18:15",
+          "sender": "Eurosport",
+          "slug": "cycling-essential-stories"
+        },
+        {
+          "title": "The Cycling Show",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "the-cycling-show"
+        }
+      ]
+    },
+    {
+      "title": "UK Championship 2025 | Finale",
+      "subtitle": "Mark Selby - Judd Trump | York",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:59",
+      "iso_time": "2026-06-30T16:59:54+02:00",
+      "link": "https://play.hbomax.com/sport/e1adc51d-d178-50ec-8e56-f72fe6a8ca4d?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uk-championship-2025-finale",
+      "related_events": []
+    },
+    {
+      "title": "Cycling Essential Stories",
+      "subtitle": "Magazin | Folge 1",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:15",
+      "iso_time": "2026-06-30T18:15:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "cycling-essential-stories",
+      "related_events": [
+        {
+          "title": "Tour de France | 12. Etappe",
+          "time": "16:27",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe"
+        },
+        {
+          "title": "The Cycling Show",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "the-cycling-show"
+        },
+        {
+          "title": "Tour de France | 11. Etappe",
+          "time": "19:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-11-etappe"
+        }
+      ]
+    },
+    {
+      "title": "The Cycling Show",
+      "subtitle": "Radsport-Magazin | Saison 2026 | Folge 10",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2026-06-30T18:30:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "the-cycling-show",
+      "related_events": [
+        {
+          "title": "Tour de France | 12. Etappe",
+          "time": "16:27",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe"
+        },
+        {
+          "title": "Cycling Essential Stories",
+          "time": "18:15",
+          "sender": "Eurosport",
+          "slug": "cycling-essential-stories"
+        },
+        {
+          "title": "Tour de France | 11. Etappe",
+          "time": "19:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-11-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Prag | Bouldern | Finale",
+      "subtitle": "World Series | Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2026-06-30T19:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/eee36cb8-41ef-5568-bca7-6a73a67c78e4?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "prag-bouldern-finale",
+      "related_events": []
+    },
+    {
+      "title": "UCI Downhill Weltcup | Lenzerheide | Männer Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Abfahrt",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2026-06-30T19:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/df46e361-5aff-56bc-9227-b1b6b078a6b6?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uci-downhill-weltcup-lenzerheide-manner-elite",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France | 11. Etappe",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:30",
+      "iso_time": "2026-06-30T19:30:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-11-etappe",
+      "related_events": [
+        {
+          "title": "Cycling Essential Stories",
+          "time": "18:15",
+          "sender": "Eurosport",
+          "slug": "cycling-essential-stories"
+        },
+        {
+          "title": "The Cycling Show",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "the-cycling-show"
+        },
+        {
+          "title": "Tour de France | 12. Etappe",
+          "time": "20:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe"
+        }
+      ]
+    },
+    {
+      "title": "UK Championship 2025 | Finale",
+      "subtitle": "Mark Selby - Judd Trump | York",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-06-30T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/209e03c6-ce9f-543a-b2e1-525d03e4a5f6?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uk-championship-2025-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France | 12. Etappe",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:30",
+      "iso_time": "2026-06-30T20:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/7d2369b8-042f-5374-bec2-ad33436479b8?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-12-etappe",
+      "related_events": [
+        {
+          "title": "Cycling Essential Stories",
+          "time": "18:15",
+          "sender": "Eurosport",
+          "slug": "cycling-essential-stories"
+        },
+        {
+          "title": "The Cycling Show",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "the-cycling-show"
+        },
+        {
+          "title": "Tour de France | 11. Etappe",
+          "time": "19:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-11-etappe"
+        }
+      ]
+    },
+    {
+      "title": "The Cycling Show",
+      "subtitle": "Radsport-Magazin | Saison 2026 | Folge 10",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:30",
+      "iso_time": "2026-06-30T21:30:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "the-cycling-show",
+      "related_events": [
+        {
+          "title": "Tour de France | 11. Etappe",
+          "time": "19:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-11-etappe"
+        },
+        {
+          "title": "Tour de France | 12. Etappe",
+          "time": "20:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe"
+        },
+        {
+          "title": "Cycling Essential Stories",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "cycling-essential-stories"
+        }
+      ]
+    },
+    {
+      "title": "Prag | Bouldern | Finale",
+      "subtitle": "World Series | Frauen",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-06-30T22:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/c6b3a132-2173-5953-bab3-957d0ddaaf96?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "prag-bouldern-finale",
+      "related_events": []
+    },
+    {
+      "title": "Cycling Essential Stories",
+      "subtitle": "Magazin | Folge 1",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-06-30T22:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "cycling-essential-stories",
+      "related_events": [
+        {
+          "title": "Tour de France | 11. Etappe",
+          "time": "19:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-11-etappe"
+        },
+        {
+          "title": "Tour de France | 12. Etappe",
+          "time": "20:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe"
+        },
+        {
+          "title": "The Cycling Show",
+          "time": "21:30",
+          "sender": "Eurosport",
+          "slug": "the-cycling-show"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 11. Etappe",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:15",
+      "iso_time": "2026-06-30T22:15:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-11-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France | 12. Etappe",
+          "time": "20:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe"
+        },
+        {
+          "title": "The Cycling Show",
+          "time": "21:30",
+          "sender": "Eurosport",
+          "slug": "the-cycling-show"
+        },
+        {
+          "title": "Cycling Essential Stories",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "cycling-essential-stories"
+        }
+      ]
+    },
+    {
+      "title": "UK Championship 2025 | Finale",
+      "subtitle": "Mark Selby - Judd Trump | York",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2026-06-30T23:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/63d40e2e-58ba-5bb8-90db-54e62ec7b8fe?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uk-championship-2025-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France | 12. Etappe",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2026-06-30T23:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/a2448b65-872e-584e-92ec-a7711a26ea22?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-12-etappe",
+      "related_events": [
+        {
+          "title": "The Cycling Show",
+          "time": "21:30",
+          "sender": "Eurosport",
+          "slug": "the-cycling-show"
+        },
+        {
+          "title": "Cycling Essential Stories",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "cycling-essential-stories"
+        },
+        {
+          "title": "Tour de France | 11. Etappe",
+          "time": "22:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-11-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 12. Etappe",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-07-01T00:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/c585f9c7-beec-54b3-b309-b8604ee73f20?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-12-etappe",
+      "related_events": [
+        {
+          "title": "The Cycling Show",
+          "time": "21:30",
+          "sender": "Eurosport",
+          "slug": "the-cycling-show"
+        },
+        {
+          "title": "Cycling Essential Stories",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "cycling-essential-stories"
+        },
+        {
+          "title": "Tour de France | 11. Etappe",
+          "time": "22:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-11-etappe"
+        }
+      ]
+    },
+    {
+      "title": "UK Championship 2025 | Finale",
+      "subtitle": "Mark Selby - Judd Trump | York",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-07-01T00:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/f6813cb4-2a33-53f0-b49a-87c1d74b20a0?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uk-championship-2025-finale",
+      "related_events": []
+    },
+    {
+      "title": "UK Championship 2025 | Finale",
+      "subtitle": "Mark Selby - Judd Trump | York",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:30",
+      "iso_time": "2026-07-01T01:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/3487e8d8-8d14-5e12-b55e-9b69203baa9d?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uk-championship-2025-finale",
+      "related_events": []
+    }
+  ]
+}
