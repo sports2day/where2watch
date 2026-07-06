@@ -1,0 +1,1417 @@
+{
+  "date": "2026-07-06",
+  "events": [
+    {
+      "title": "Mexiko vs England",
+      "time": "03:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-wm/ma10714016/mexiko_england/liveticker",
+      "slug": "mexiko-vs-england",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Portugal vs Spanien",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-wm/ma10714019/portugal_spanien/info",
+      "slug": "portugal-vs-spanien",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": " vs ",
+      "time": "12:10",
+      "iso_time": "",
+      "sport": "Radsport Straßenrennen",
+      "sport_slug": "radsport-strassenrennen",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/radsport/tour-de-france/ma11702806/ergebnisse",
+      "slug": "vs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Türkei vs Schweiz",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-quali/ma11576972/tuerkei_schweiz/info",
+      "slug": "turkei-vs-schweiz",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Polen vs Niederlande",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "polen-vs-niederlande"
+        },
+        {
+          "title": "Ungarn vs Belgien",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "ungarn-vs-belgien"
+        }
+      ]
+    },
+    {
+      "title": "Serbien vs Bosnien-Herzegowina",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-quali/ma11576957/serbien_bosnien-herzegowina/info",
+      "slug": "serbien-vs-bosnien-herzegowina",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Kroatien vs Israel",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "kroatien-vs-israel"
+        },
+        {
+          "title": "Slowenien vs Schweden",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "slowenien-vs-schweden"
+        }
+      ]
+    },
+    {
+      "title": "Deutschland vs Zypern",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-quali/ma11576975/deutschland_zypern/info",
+      "slug": "deutschland-vs-zypern",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Kroatien vs Israel",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-quali/ma11576987/kroatien_israel/info",
+      "slug": "kroatien-vs-israel",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Serbien vs Bosnien-Herzegowina",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "serbien-vs-bosnien-herzegowina"
+        },
+        {
+          "title": "Slowenien vs Schweden",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "slowenien-vs-schweden"
+        }
+      ]
+    },
+    {
+      "title": "Polen vs Niederlande",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-quali/ma11576993/polen_niederlande/info",
+      "slug": "polen-vs-niederlande",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Türkei vs Schweiz",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "turkei-vs-schweiz"
+        },
+        {
+          "title": "Ungarn vs Belgien",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "ungarn-vs-belgien"
+        }
+      ]
+    },
+    {
+      "title": "Lettland vs Österreich",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-quali/ma11576990/lettland_oesterreich/info",
+      "slug": "lettland-vs-osterreich",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Ungarn vs Belgien",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-quali/ma11576996/ungarn_belgien/info",
+      "slug": "ungarn-vs-belgien",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Türkei vs Schweiz",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "turkei-vs-schweiz"
+        },
+        {
+          "title": "Polen vs Niederlande",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "polen-vs-niederlande"
+        }
+      ]
+    },
+    {
+      "title": "Frankreich vs Finnland",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-quali/ma11576978/frankreich_finnland/info",
+      "slug": "frankreich-vs-finnland",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Tschechien vs Estland",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-quali/ma11576984/tschechien_estland/info",
+      "slug": "tschechien-vs-estland",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Slowenien vs Schweden",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-quali/ma11576981/slowenien_schweden/info",
+      "slug": "slowenien-vs-schweden",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Serbien vs Bosnien-Herzegowina",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "serbien-vs-bosnien-herzegowina"
+        },
+        {
+          "title": "Kroatien vs Israel",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "kroatien-vs-israel"
+        }
+      ]
+    },
+    {
+      "title": "Kokkinakis, T. / Kovacevic, A. vs Harrison, C. / Skupski, N.",
+      "time": "13:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co920/wimbledon-london/ma11754886/kokkinakis-t---kovacevic-a_harrison-c---skupski-n/info",
+      "slug": "kokkinakis-t-kovacevic-a-vs-harrison-c-skupski-n",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Jiang, X. / Xu, Y. vs Siegemund, L. / Zvonareva, V.",
+          "time": "13:30",
+          "sender": "Sportschau Live",
+          "slug": "jiang-x-xu-y-vs-siegemund-l-zvonareva-v"
+        },
+        {
+          "title": "Krunić, A. / Danilina, A. vs Neel, I. / Olmos, G.",
+          "time": "13:30",
+          "sender": "Sportschau Live",
+          "slug": "krunic-a-danilina-a-vs-neel-i-olmos-g"
+        }
+      ]
+    },
+    {
+      "title": "Arevalo, M. / Pavic, M. vs Rojer, J. / Winegar, T.",
+      "time": "14:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co920/wimbledon-london/ma11754889/arevalo-m---pavic-m_rojer-j---winegar-t/info",
+      "slug": "arevalo-m-pavic-m-vs-rojer-j-winegar-t",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Alex de Minaur vs Flavio Cobolli",
+          "time": "14:00",
+          "sender": "Sportschau Live",
+          "slug": "alex-de-minaur-vs-flavio-cobolli"
+        }
+      ]
+    },
+    {
+      "title": "Nouza, P. / Oberleitner, N. vs Cash, J. / Glasspool, L.",
+      "time": "14:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co920/wimbledon-london/ma11754892/nouza-p---oberleitner-n_cash-j---glasspool-l/info",
+      "slug": "nouza-p-oberleitner-n-vs-cash-j-glasspool-l",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Bolelli, S. / Vavassori, A. vs Krajicek, A. / Mektic, N.",
+          "time": "14:40",
+          "sender": "Sportschau Live",
+          "slug": "bolelli-s-vavassori-a-vs-krajicek-a-mektic-n"
+        }
+      ]
+    },
+    {
+      "title": "Bolelli, S. / Vavassori, A. vs Krajicek, A. / Mektic, N.",
+      "time": "14:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co920/wimbledon-london/ma11754883/bolelli-s---vavassori-a_krajicek-a---mektic-n/info",
+      "slug": "bolelli-s-vavassori-a-vs-krajicek-a-mektic-n",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Nouza, P. / Oberleitner, N. vs Cash, J. / Glasspool, L.",
+          "time": "14:40",
+          "sender": "Sportschau Live",
+          "slug": "nouza-p-oberleitner-n-vs-cash-j-glasspool-l"
+        }
+      ]
+    },
+    {
+      "title": "Alex de Minaur vs Flavio Cobolli",
+      "time": "14:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754700/alex-de-minaur_flavio-cobolli/info",
+      "slug": "alex-de-minaur-vs-flavio-cobolli",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Arevalo, M. / Pavic, M. vs Rojer, J. / Winegar, T.",
+          "time": "14:00",
+          "sender": "Sportschau Live",
+          "slug": "arevalo-m-pavic-m-vs-rojer-j-winegar-t"
+        }
+      ]
+    },
+    {
+      "title": "Grigor Dimitrov vs Arthur Fery",
+      "time": "15:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754703/grigor-dimitrov_arthur-fery/info",
+      "slug": "grigor-dimitrov-vs-arthur-fery",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Madison Keys vs Linda Noskova",
+          "time": "15:40",
+          "sender": "Sportschau Live",
+          "slug": "madison-keys-vs-linda-noskova"
+        }
+      ]
+    },
+    {
+      "title": "Taylor Fritz vs Alexander Bublik",
+      "time": "16:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754706/taylor-fritz_alexander-bublik/info",
+      "slug": "taylor-fritz-vs-alexander-bublik",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Jiří Lehečka vs Alexander Zverev",
+      "time": "17:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754709/jiri-lehecka_alexander-zverev/info",
+      "slug": "jiri-lehecka-vs-alexander-zverev",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Aoyama, S. / Liang, E. vs Hsieh, S.-W. / Wang, X.",
+      "time": "12:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1028/wimbledon-london/ma11780515/aoyama-s---liang-e_hsieh-s-w---wang-x/info",
+      "slug": "aoyama-s-liang-e-vs-hsieh-s-w-wang-x",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Guo, H. / Mladenovic, K. vs Detiuc, A. / Khromacheva, I.",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "guo-h-mladenovic-k-vs-detiuc-a-khromacheva-i"
+        },
+        {
+          "title": "Ashlyn Krueger vs Marta Kostyuk",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "ashlyn-krueger-vs-marta-kostyuk"
+        }
+      ]
+    },
+    {
+      "title": "Guo, H. / Mladenovic, K. vs Detiuc, A. / Khromacheva, I.",
+      "time": "12:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1028/wimbledon-london/ma11780503/guo-h---mladenovic-k_detiuc-a---khromacheva-i/info",
+      "slug": "guo-h-mladenovic-k-vs-detiuc-a-khromacheva-i",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Aoyama, S. / Liang, E. vs Hsieh, S.-W. / Wang, X.",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "aoyama-s-liang-e-vs-hsieh-s-w-wang-x"
+        },
+        {
+          "title": "Ashlyn Krueger vs Marta Kostyuk",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "ashlyn-krueger-vs-marta-kostyuk"
+        }
+      ]
+    },
+    {
+      "title": "Jiang, X. / Xu, Y. vs Siegemund, L. / Zvonareva, V.",
+      "time": "13:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1028/wimbledon-london/ma11780509/jiang-x---xu-y_siegemund-l---zvonareva-v/info",
+      "slug": "jiang-x-xu-y-vs-siegemund-l-zvonareva-v",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Kokkinakis, T. / Kovacevic, A. vs Harrison, C. / Skupski, N.",
+          "time": "13:30",
+          "sender": "Sportschau Live",
+          "slug": "kokkinakis-t-kovacevic-a-vs-harrison-c-skupski-n"
+        },
+        {
+          "title": "Krunić, A. / Danilina, A. vs Neel, I. / Olmos, G.",
+          "time": "13:30",
+          "sender": "Sportschau Live",
+          "slug": "krunic-a-danilina-a-vs-neel-i-olmos-g"
+        }
+      ]
+    },
+    {
+      "title": "Krunić, A. / Danilina, A. vs Neel, I. / Olmos, G.",
+      "time": "13:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1028/wimbledon-london/ma11780506/krunic-a---danilina-a_neel-i---olmos-g/info",
+      "slug": "krunic-a-danilina-a-vs-neel-i-olmos-g",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Kokkinakis, T. / Kovacevic, A. vs Harrison, C. / Skupski, N.",
+          "time": "13:30",
+          "sender": "Sportschau Live",
+          "slug": "kokkinakis-t-kovacevic-a-vs-harrison-c-skupski-n"
+        },
+        {
+          "title": "Jiang, X. / Xu, Y. vs Siegemund, L. / Zvonareva, V.",
+          "time": "13:30",
+          "sender": "Sportschau Live",
+          "slug": "jiang-x-xu-y-vs-siegemund-l-zvonareva-v"
+        }
+      ]
+    },
+    {
+      "title": "Kostyuk, M. / Ruse, E.-G. vs Schuurs, D. / Perez, E.",
+      "time": "14:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1028/wimbledon-london/ma11780512/kostyuk-m---ruse-e-g_schuurs-d---perez-e/info",
+      "slug": "kostyuk-m-ruse-e-g-vs-schuurs-d-perez-e",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Ashlyn Krueger vs Marta Kostyuk",
+      "time": "12:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780323/ashlyn-krueger_marta-kostyuk/info",
+      "slug": "ashlyn-krueger-vs-marta-kostyuk",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Aoyama, S. / Liang, E. vs Hsieh, S.-W. / Wang, X.",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "aoyama-s-liang-e-vs-hsieh-s-w-wang-x"
+        },
+        {
+          "title": "Guo, H. / Mladenovic, K. vs Detiuc, A. / Khromacheva, I.",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "guo-h-mladenovic-k-vs-detiuc-a-khromacheva-i"
+        }
+      ]
+    },
+    {
+      "title": "Marie Bouzkova vs Elise Mertens",
+      "time": "13:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780332/marie-bouzkova_elise-mertens/info",
+      "slug": "marie-bouzkova-vs-elise-mertens",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Jasmine Paolini vs Alexandra Eala",
+      "time": "14:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780326/jasmine-paolini_alexandra-eala/info",
+      "slug": "jasmine-paolini-vs-alexandra-eala",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Madison Keys vs Linda Noskova",
+      "time": "15:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780329/madison-keys_linda-noskova/info",
+      "slug": "madison-keys-vs-linda-noskova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Grigor Dimitrov vs Arthur Fery",
+          "time": "15:40",
+          "sender": "Sportschau Live",
+          "slug": "grigor-dimitrov-vs-arthur-fery"
+        }
+      ]
+    },
+    {
+      "title": "8h von Suzuka | Rennen",
+      "subtitle": "FIM EWC | 3. Station",
+      "sport": "Motorrad-Langstrecke",
+      "sport_slug": "motorrad-langstrecke",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:34",
+      "iso_time": "2026-07-06T01:34:34+02:00",
+      "link": "",
+      "slug": "8h-von-suzuka-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France | 2. Etappe",
+      "subtitle": "Tarragona - Barcelona (169,2km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:02",
+      "iso_time": "2026-07-06T03:02:01+02:00",
+      "link": "",
+      "slug": "tour-de-france-2-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Northern Ireland Open | Finale",
+      "subtitle": "J. Lisowski - J. Trump | Belfast | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:31",
+      "iso_time": "2026-07-06T04:31:14+02:00",
+      "link": "",
+      "slug": "northern-ireland-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France | 2. Etappe",
+      "subtitle": "Tarragona - Barcelona (169,2km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:30",
+      "iso_time": "2026-07-06T06:30:15+02:00",
+      "link": "https://play.hbomax.com/sport/f6c0e458-3d9b-5003-944d-63552aa263b1?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-2-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Südafrika | MX2 | 1. Rennen",
+      "subtitle": "WM | 11. Station | Johannesburg",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:29",
+      "iso_time": "2026-07-06T08:29:59+02:00",
+      "link": "https://play.hbomax.com/sport/0f48ee89-0494-57ec-8227-a706aba7151a?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "sudafrika-mx2-1-rennen",
+      "related_events": [
+        {
+          "title": "Südafrika | MXGP | 1. Rennen",
+          "time": "09:16",
+          "sender": "Eurosport",
+          "slug": "sudafrika-mxgp-1-rennen"
+        },
+        {
+          "title": "Südafrika | MX2 | 2. Rennen",
+          "time": "10:01",
+          "sender": "Eurosport",
+          "slug": "sudafrika-mx2-2-rennen"
+        },
+        {
+          "title": "Südafrika | MXGP | 2. Rennen",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "sudafrika-mxgp-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Krakau | Speed | Finale",
+      "subtitle": "World Series | Frauen / Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:35",
+      "iso_time": "2026-07-06T08:35:42+02:00",
+      "link": "https://play.hbomax.com/sport/707330e0-93b8-5fb5-9831-29a7c1d21deb?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "krakau-speed-finale",
+      "related_events": []
+    },
+    {
+      "title": "Global Champions Tour | Monaco",
+      "subtitle": "Springreiten | 9. Station",
+      "sport": "Reitsport",
+      "sport_slug": "reitsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:00",
+      "iso_time": "2026-07-06T09:00:58+02:00",
+      "link": "https://play.hbomax.com/sport/83a88370-374d-591f-8bfe-a8c164416e91?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "global-champions-tour-monaco",
+      "related_events": []
+    },
+    {
+      "title": "Südafrika | MXGP | 1. Rennen",
+      "subtitle": "WM | 11. Station | Johannesburg",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:16",
+      "iso_time": "2026-07-06T09:16:31+02:00",
+      "link": "https://play.hbomax.com/sport/2e9f4f08-54e9-55e1-97aa-6810e71f219e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "sudafrika-mxgp-1-rennen",
+      "related_events": [
+        {
+          "title": "Südafrika | MX2 | 1. Rennen",
+          "time": "08:29",
+          "sender": "Eurosport",
+          "slug": "sudafrika-mx2-1-rennen"
+        },
+        {
+          "title": "Südafrika | MX2 | 2. Rennen",
+          "time": "10:01",
+          "sender": "Eurosport",
+          "slug": "sudafrika-mx2-2-rennen"
+        },
+        {
+          "title": "Südafrika | MXGP | 2. Rennen",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "sudafrika-mxgp-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Südafrika | MX2 | 2. Rennen",
+      "subtitle": "WM | 11. Station | Johannesburg",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:01",
+      "iso_time": "2026-07-06T10:01:59+02:00",
+      "link": "https://play.hbomax.com/sport/ccdbf6e2-900d-56ef-b9bb-248b58939403?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "sudafrika-mx2-2-rennen",
+      "related_events": [
+        {
+          "title": "Südafrika | MX2 | 1. Rennen",
+          "time": "08:29",
+          "sender": "Eurosport",
+          "slug": "sudafrika-mx2-1-rennen"
+        },
+        {
+          "title": "Südafrika | MXGP | 1. Rennen",
+          "time": "09:16",
+          "sender": "Eurosport",
+          "slug": "sudafrika-mxgp-1-rennen"
+        },
+        {
+          "title": "Südafrika | MXGP | 2. Rennen",
+          "time": "11:00",
+          "sender": "Eurosport",
+          "slug": "sudafrika-mxgp-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 2. Etappe",
+      "subtitle": "Tarragona - Barcelona (169,2km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:58",
+      "iso_time": "2026-07-06T10:58:44+02:00",
+      "link": "https://play.hbomax.com/sport/3a86e8c0-6e67-55f1-95a5-27801231c61d?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-2-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France | 3. Etappe",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-3-etappe"
+        },
+        {
+          "title": "Tour de France | 3. Etappe",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-3-etappe"
+        },
+        {
+          "title": "Tour de France | 3. Etappe",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Südafrika | MXGP | 2. Rennen",
+      "subtitle": "WM | 11. Station | Johannesburg",
+      "sport": "Motocross",
+      "sport_slug": "motocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-07-06T11:00:59+02:00",
+      "link": "https://play.hbomax.com/sport/8784105f-b2e3-555a-8f27-c8ec9ccd99ae?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "sudafrika-mxgp-2-rennen",
+      "related_events": [
+        {
+          "title": "Südafrika | MX2 | 1. Rennen",
+          "time": "08:29",
+          "sender": "Eurosport",
+          "slug": "sudafrika-mx2-1-rennen"
+        },
+        {
+          "title": "Südafrika | MXGP | 1. Rennen",
+          "time": "09:16",
+          "sender": "Eurosport",
+          "slug": "sudafrika-mxgp-1-rennen"
+        },
+        {
+          "title": "Südafrika | MX2 | 2. Rennen",
+          "time": "10:01",
+          "sender": "Eurosport",
+          "slug": "sudafrika-mx2-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 3. Etappe",
+      "subtitle": "UCI World Tour | Männer | Internationaler Kommentar",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:00",
+      "iso_time": "2026-07-06T12:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/2dd603cf-95f5-5331-824d-0ff9eaf46c41?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-3-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France | 2. Etappe",
+          "time": "10:58",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-2-etappe"
+        },
+        {
+          "title": "Tour de France | 3. Etappe | Multi-Screen 4",
+          "time": "12:20",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-3-etappe-multi-screen-4"
+        },
+        {
+          "title": "Tour de France | 3. Etappe | Multiview",
+          "time": "12:20",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-3-etappe-multiview"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 3. Etappe",
+      "subtitle": "Granollers - Les Angles (196,2km) | Männer | UCI World Tour | Deutscher Kommentar",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:00",
+      "iso_time": "2026-07-06T12:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/51f326dd-8043-5d84-8d7a-29f4554138c1?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-3-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France | 2. Etappe",
+          "time": "10:58",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-2-etappe"
+        },
+        {
+          "title": "Tour de France | 3. Etappe | Multi-Screen 4",
+          "time": "12:20",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-3-etappe-multi-screen-4"
+        },
+        {
+          "title": "Tour de France | 3. Etappe | Multiview",
+          "time": "12:20",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-3-etappe-multiview"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 3. Etappe",
+      "subtitle": "Granollers - Les Angles (196,2km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:00",
+      "iso_time": "2026-07-06T12:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/fe52c21a-9267-5d21-9038-4dc0beb6e6f8?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-3-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France | 2. Etappe",
+          "time": "10:58",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-2-etappe"
+        },
+        {
+          "title": "Tour de France | 3. Etappe | Multi-Screen 4",
+          "time": "12:20",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-3-etappe-multi-screen-4"
+        },
+        {
+          "title": "Tour de France | 3. Etappe | Multiview",
+          "time": "12:20",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-3-etappe-multiview"
+        }
+      ]
+    },
+    {
+      "title": "Northern Ireland Open | Finale",
+      "subtitle": "J. Lisowski - J. Trump | Belfast | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:00",
+      "iso_time": "2026-07-06T12:00:04+02:00",
+      "link": "https://play.hbomax.com/sport/bcd324de-b5e2-5e1c-a362-6da29f073538?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "northern-ireland-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France | 3. Etappe | Multi-Screen 4",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:20",
+      "iso_time": "2026-07-06T12:20:00+02:00",
+      "link": "https://play.hbomax.com/sport/06e71591-47da-577b-b909-122fc2d6c54c?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-3-etappe-multi-screen-4",
+      "related_events": [
+        {
+          "title": "Tour de France | 2. Etappe",
+          "time": "10:58",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-2-etappe"
+        },
+        {
+          "title": "Tour de France | 3. Etappe",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-3-etappe"
+        },
+        {
+          "title": "Tour de France | 3. Etappe",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 3. Etappe | Multiview",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:20",
+      "iso_time": "2026-07-06T12:20:00+02:00",
+      "link": "https://play.hbomax.com/sport/08fd5fb2-e532-51bf-92c1-dd7f018ad1ee?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-3-etappe-multiview",
+      "related_events": [
+        {
+          "title": "Tour de France | 2. Etappe",
+          "time": "10:58",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-2-etappe"
+        },
+        {
+          "title": "Tour de France | 3. Etappe",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-3-etappe"
+        },
+        {
+          "title": "Tour de France | 3. Etappe",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 3. Etappe | Multi-Screen 1",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:20",
+      "iso_time": "2026-07-06T12:20:00+02:00",
+      "link": "https://play.hbomax.com/sport/7c847b7c-7fd2-59c2-99a4-78c4ca7f85ca?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-3-etappe-multi-screen-1",
+      "related_events": [
+        {
+          "title": "Tour de France | 2. Etappe",
+          "time": "10:58",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-2-etappe"
+        },
+        {
+          "title": "Tour de France | 3. Etappe",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-3-etappe"
+        },
+        {
+          "title": "Tour de France | 3. Etappe",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 3. Etappe | Multi-Screen 3",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:20",
+      "iso_time": "2026-07-06T12:20:00+02:00",
+      "link": "https://play.hbomax.com/sport/ce3e740b-0221-520a-8884-e91fab6818a6?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-3-etappe-multi-screen-3",
+      "related_events": [
+        {
+          "title": "Tour de France | 2. Etappe",
+          "time": "10:58",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-2-etappe"
+        },
+        {
+          "title": "Tour de France | 3. Etappe",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-3-etappe"
+        },
+        {
+          "title": "Tour de France | 3. Etappe",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 3. Etappe | Multi-Screen 2",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:20",
+      "iso_time": "2026-07-06T12:20:00+02:00",
+      "link": "https://play.hbomax.com/sport/6251f686-ac8b-5a04-9e87-535a3420a345?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-3-etappe-multi-screen-2",
+      "related_events": [
+        {
+          "title": "Tour de France | 2. Etappe",
+          "time": "10:58",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-2-etappe"
+        },
+        {
+          "title": "Tour de France | 3. Etappe",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-3-etappe"
+        },
+        {
+          "title": "Tour de France | 3. Etappe",
+          "time": "12:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Krakau | Speed | Finale",
+      "subtitle": "World Series | Frauen / Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:01",
+      "iso_time": "2026-07-06T15:01:36+02:00",
+      "link": "https://play.hbomax.com/sport/a3e11f30-c4c1-57f3-b297-8afb18b1a5b2?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "krakau-speed-finale",
+      "related_events": [
+        {
+          "title": "Krakau | Speed Staffel | Finale",
+          "time": "16:02",
+          "sender": "Eurosport",
+          "slug": "krakau-speed-staffel-finale"
+        },
+        {
+          "title": "Krakau | Speed Staffel | Finale",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "krakau-speed-staffel-finale"
+        }
+      ]
+    },
+    {
+      "title": "Krakau | Speed Staffel | Finale",
+      "subtitle": "World Series | Mixed",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:02",
+      "iso_time": "2026-07-06T16:02:00+02:00",
+      "link": "https://play.hbomax.com/sport/8cd07a1c-8475-5f7e-b027-b7276902ea28?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "krakau-speed-staffel-finale",
+      "related_events": [
+        {
+          "title": "Krakau | Speed | Finale",
+          "time": "15:01",
+          "sender": "Eurosport",
+          "slug": "krakau-speed-finale"
+        }
+      ]
+    },
+    {
+      "title": "Velo Club | Tour-Show zur 3. Etappe",
+      "subtitle": "Experten-Talk zur Tour de France",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2026-07-06T17:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/ddc82557-a130-50d5-8427-bf247a040fd2?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "velo-club-tour-show-zur-3-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France | 3. Etappe",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Velo Club | Tour-Show zur 3. Etappe",
+      "subtitle": "Experten-Talk zur Tour de France",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2026-07-06T17:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "velo-club-tour-show-zur-3-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France | 3. Etappe",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Krakau | Speed Staffel | Finale",
+      "subtitle": "World Series | Frauen / Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2026-07-06T17:00:31+02:00",
+      "link": "https://play.hbomax.com/sport/57490264-e05b-5998-ae41-68907e93b017?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "krakau-speed-staffel-finale",
+      "related_events": [
+        {
+          "title": "Krakau | Speed | Finale",
+          "time": "15:01",
+          "sender": "Eurosport",
+          "slug": "krakau-speed-finale"
+        }
+      ]
+    },
+    {
+      "title": "UCI XCO Weltcup | La Thuile | Frauen Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Olympic",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:30",
+      "iso_time": "2026-07-06T17:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/1dbaf54a-f32a-5de7-854e-229983d5c9e6?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uci-xco-weltcup-la-thuile-frauen-elite",
+      "related_events": [
+        {
+          "title": "UCI XCO Weltcup | La Thuile | Männer Elite",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "uci-xco-weltcup-la-thuile-manner-elite"
+        }
+      ]
+    },
+    {
+      "title": "Global Champions Tour | Monaco",
+      "subtitle": "Springreiten | 9. Station",
+      "sport": "Reitsport",
+      "sport_slug": "reitsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2026-07-06T18:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/1ed67a18-0ea9-5ec0-930b-2c867e35b637?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "global-champions-tour-monaco",
+      "related_events": []
+    },
+    {
+      "title": "UCI XCO Weltcup | La Thuile | Männer Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Cross-Country Olympic",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2026-07-06T18:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/5d52655b-327a-5809-a736-ff48ab772e80?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uci-xco-weltcup-la-thuile-manner-elite",
+      "related_events": [
+        {
+          "title": "UCI XCO Weltcup | La Thuile | Frauen Elite",
+          "time": "17:30",
+          "sender": "Eurosport",
+          "slug": "uci-xco-weltcup-la-thuile-frauen-elite"
+        }
+      ]
+    },
+    {
+      "title": "8h von Suzuka | Rennen",
+      "subtitle": "FIM EWC | 3. Station",
+      "sport": "Motorrad-Langstrecke",
+      "sport_slug": "motorrad-langstrecke",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:30",
+      "iso_time": "2026-07-06T19:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/5c0a9ede-9cd9-5ec3-8528-1dcccccf3942?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "8h-von-suzuka-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France | 3. Etappe",
+      "subtitle": "Granollers - Les Angles (196,2km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-07-06T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/6ca74448-559e-58cf-85b6-84baac3e70a1?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-3-etappe",
+      "related_events": [
+        {
+          "title": "Velo Club | Tour-Show zur 3. Etappe",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "velo-club-tour-show-zur-3-etappe"
+        },
+        {
+          "title": "Velo Club | Tour-Show zur 3. Etappe",
+          "time": "17:00",
+          "sender": "Eurosport",
+          "slug": "velo-club-tour-show-zur-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Northern Ireland Open | Finale",
+      "subtitle": "J. Lisowski - J. Trump | Belfast | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2026-07-06T21:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/20ed524f-8116-59d6-b6ce-86e30880024c?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "northern-ireland-open-finale",
+      "related_events": [
+        {
+          "title": "UK Championship 2025 | Finale",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "uk-championship-2025-finale"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 3. Etappe",
+      "subtitle": "Granollers - Les Angles (196,2km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-07-06T22:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/4eca6575-8e81-53c3-9f3e-4c74575edd64?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-3-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Hall Of Fame | Barcelona 1992",
+      "subtitle": "Olympia-Magazin",
+      "sport": "Olympische Spiele",
+      "sport_slug": "olympische-spiele",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-07-06T22:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/olympic/9b3d8cd4-c454-58e4-83f8-c17c4821b0a0?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "hall-of-fame-barcelona-1992",
+      "related_events": [
+        {
+          "title": "Hall Of Fame | Atlanta 1996",
+          "time": "23:00",
+          "sender": "Eurosport",
+          "slug": "hall-of-fame-atlanta-1996"
+        }
+      ]
+    },
+    {
+      "title": "Hall Of Fame | Atlanta 1996",
+      "subtitle": "Olympia-Magazin",
+      "sport": "Olympische Spiele",
+      "sport_slug": "olympische-spiele",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2026-07-06T23:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/olympic/732cdb37-3961-5cd2-a083-e48a83a7b99f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "hall-of-fame-atlanta-1996",
+      "related_events": [
+        {
+          "title": "Hall Of Fame | Barcelona 1992",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "hall-of-fame-barcelona-1992"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 3. Etappe",
+      "subtitle": "Granollers - Les Angles (196,2km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-07-07T00:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/331d059e-fd36-5846-bcdd-1963c2e3824d?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-3-etappe",
+      "related_events": []
+    },
+    {
+      "title": "UK Championship 2025 | Finale",
+      "subtitle": "Mark Selby - Judd Trump | York",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-07-07T00:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/1694609d-4df7-52c1-ae0c-e9fdc15fd376?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uk-championship-2025-finale",
+      "related_events": [
+        {
+          "title": "Northern Ireland Open | Finale",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "northern-ireland-open-finale"
+        }
+      ]
+    },
+    {
+      "title": "24h von Le Mans | Rennen",
+      "subtitle": "WM",
+      "sport": "Motorrad-Langstrecke",
+      "sport_slug": "motorrad-langstrecke",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:30",
+      "iso_time": "2026-07-07T01:30:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "24h-von-le-mans-rennen",
+      "related_events": []
+    }
+  ]
+}
