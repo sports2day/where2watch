@@ -1,0 +1,1835 @@
+{
+  "date": "2026-07-09",
+  "events": [
+    {
+      "title": "Frankreich vs Marokko",
+      "time": "22:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-wm/ma10714031/frankreich_marokko/info",
+      "slug": "frankreich-vs-marokko",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": " vs ",
+      "time": "12:25",
+      "iso_time": "",
+      "sport": "Radsport Straßenrennen",
+      "sport_slug": "radsport-strassenrennen",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/radsport/tour-de-france/ma11702809/ergebnisse",
+      "slug": "vs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Qarabağ FK vs IF Vestri",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-el-quali/ma12127702/qarabag-fk_if-vestri/info",
+      "slug": "qarabag-fk-vs-if-vestri",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FK Liepāja vs FK Dečić Tuzi",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "fk-liepaja-vs-fk-decic-tuzi"
+        },
+        {
+          "title": "FC Hegelmann vs Paide Linnameeskond",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-hegelmann-vs-paide-linnameeskond"
+        },
+        {
+          "title": "FC Alashkert vs FK Yelimay",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-alashkert-vs-fk-yelimay"
+        }
+      ]
+    },
+    {
+      "title": "Dynamo Kiew vs Universitatea Cluj",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-el-quali/ma12127696/dynamo-kiew_universitatea-cluj/info",
+      "slug": "dynamo-kiew-vs-universitatea-cluj",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Sheriff vs NK Aluminij",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-sheriff-vs-nk-aluminij"
+        },
+        {
+          "title": "Bohemian FC vs St. Joseph's FC",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "bohemian-fc-vs-st-joseph-s-fc"
+        },
+        {
+          "title": "Velež Mostar vs FC Milsami",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "velez-mostar-vs-fc-milsami"
+        }
+      ]
+    },
+    {
+      "title": "FC Sheriff vs NK Aluminij",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-el-quali/ma12127720/fc-sheriff_nk-aluminij/info",
+      "slug": "fc-sheriff-vs-nk-aluminij",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dynamo Kiew vs Universitatea Cluj",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "dynamo-kiew-vs-universitatea-cluj"
+        },
+        {
+          "title": "Bohemian FC vs St. Joseph's FC",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "bohemian-fc-vs-st-joseph-s-fc"
+        },
+        {
+          "title": "Velež Mostar vs FC Milsami",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "velez-mostar-vs-fc-milsami"
+        }
+      ]
+    },
+    {
+      "title": "Hajduk Split vs MŠK Žilina",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-el-quali/ma12127708/hajduk-split_msk-zilina/info",
+      "slug": "hajduk-split-vs-msk-zilina",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "CSKA Sofia vs Derry City",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "cska-sofia-vs-derry-city"
+        },
+        {
+          "title": "Vojvodina vs Ferencvárosi TC",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "vojvodina-vs-ferencvarosi-tc"
+        },
+        {
+          "title": "FK Vllaznia vs KF Malisheva",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "fk-vllaznia-vs-kf-malisheva"
+        }
+      ]
+    },
+    {
+      "title": "CSKA Sofia vs Derry City",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-el-quali/ma12127714/cska-sofia_derry-city/info",
+      "slug": "cska-sofia-vs-derry-city",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Hajduk Split vs MŠK Žilina",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "hajduk-split-vs-msk-zilina"
+        },
+        {
+          "title": "Vojvodina vs Ferencvárosi TC",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "vojvodina-vs-ferencvarosi-tc"
+        },
+        {
+          "title": "FK Vllaznia vs KF Malisheva",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "fk-vllaznia-vs-kf-malisheva"
+        }
+      ]
+    },
+    {
+      "title": "Vojvodina vs Ferencvárosi TC",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-el-quali/ma12127726/vojvodina_ferencvarosi-tc/info",
+      "slug": "vojvodina-vs-ferencvarosi-tc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Hajduk Split vs MŠK Žilina",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "hajduk-split-vs-msk-zilina"
+        },
+        {
+          "title": "CSKA Sofia vs Derry City",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "cska-sofia-vs-derry-city"
+        },
+        {
+          "title": "FK Vllaznia vs KF Malisheva",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "fk-vllaznia-vs-kf-malisheva"
+        }
+      ]
+    },
+    {
+      "title": "Atlétic Escaldes vs FK Mornar",
+      "time": "16:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127789/atletic-escaldes_fk-mornar/info",
+      "slug": "atletic-escaldes-vs-fk-mornar",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "FK Liepāja vs FK Dečić Tuzi",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127777/fk-liepaja_fk-decic-tuzi/info",
+      "slug": "fk-liepaja-vs-fk-decic-tuzi",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Qarabağ FK vs IF Vestri",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "qarabag-fk-vs-if-vestri"
+        },
+        {
+          "title": "FC Hegelmann vs Paide Linnameeskond",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-hegelmann-vs-paide-linnameeskond"
+        },
+        {
+          "title": "FC Alashkert vs FK Yelimay",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-alashkert-vs-fk-yelimay"
+        }
+      ]
+    },
+    {
+      "title": "FC Hegelmann vs Paide Linnameeskond",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127822/fc-hegelmann_paide-linnameeskond/info",
+      "slug": "fc-hegelmann-vs-paide-linnameeskond",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Qarabağ FK vs IF Vestri",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "qarabag-fk-vs-if-vestri"
+        },
+        {
+          "title": "FK Liepāja vs FK Dečić Tuzi",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "fk-liepaja-vs-fk-decic-tuzi"
+        },
+        {
+          "title": "FC Alashkert vs FK Yelimay",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-alashkert-vs-fk-yelimay"
+        }
+      ]
+    },
+    {
+      "title": "FC Alashkert vs FK Yelimay",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127828/fc-alashkert_fk-yelimay/info",
+      "slug": "fc-alashkert-vs-fk-yelimay",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Qarabağ FK vs IF Vestri",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "qarabag-fk-vs-if-vestri"
+        },
+        {
+          "title": "FK Liepāja vs FK Dečić Tuzi",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "fk-liepaja-vs-fk-decic-tuzi"
+        },
+        {
+          "title": "FC Hegelmann vs Paide Linnameeskond",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-hegelmann-vs-paide-linnameeskond"
+        }
+      ]
+    },
+    {
+      "title": "Dila Gori vs SS Virtus",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127840/dila-gori_ss-virtus/info",
+      "slug": "dila-gori-vs-ss-virtus",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Qarabağ FK vs IF Vestri",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "qarabag-fk-vs-if-vestri"
+        },
+        {
+          "title": "FK Liepāja vs FK Dečić Tuzi",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "fk-liepaja-vs-fk-decic-tuzi"
+        },
+        {
+          "title": "FC Hegelmann vs Paide Linnameeskond",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-hegelmann-vs-paide-linnameeskond"
+        }
+      ]
+    },
+    {
+      "title": "JK Nõmme Kalju vs Linfield FC",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127858/jk-nomme-kalju_linfield-fc/info",
+      "slug": "jk-nomme-kalju-vs-linfield-fc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Qarabağ FK vs IF Vestri",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "qarabag-fk-vs-if-vestri"
+        },
+        {
+          "title": "FK Liepāja vs FK Dečić Tuzi",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "fk-liepaja-vs-fk-decic-tuzi"
+        },
+        {
+          "title": "FC Hegelmann vs Paide Linnameeskond",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-hegelmann-vs-paide-linnameeskond"
+        }
+      ]
+    },
+    {
+      "title": "Bohemian FC vs St. Joseph's FC",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127738/bohemian-fc_st-josephs-fc/info",
+      "slug": "bohemian-fc-vs-st-joseph-s-fc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dynamo Kiew vs Universitatea Cluj",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "dynamo-kiew-vs-universitatea-cluj"
+        },
+        {
+          "title": "FC Sheriff vs NK Aluminij",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-sheriff-vs-nk-aluminij"
+        },
+        {
+          "title": "Velež Mostar vs FC Milsami",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "velez-mostar-vs-fc-milsami"
+        }
+      ]
+    },
+    {
+      "title": "Velež Mostar vs FC Milsami",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127750/velez-mostar_fc-milsami/info",
+      "slug": "velez-mostar-vs-fc-milsami",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dynamo Kiew vs Universitatea Cluj",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "dynamo-kiew-vs-universitatea-cluj"
+        },
+        {
+          "title": "FC Sheriff vs NK Aluminij",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-sheriff-vs-nk-aluminij"
+        },
+        {
+          "title": "Bohemian FC vs St. Joseph's FC",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "bohemian-fc-vs-st-joseph-s-fc"
+        }
+      ]
+    },
+    {
+      "title": "Dinamo Minsk vs Sileks Kratovo",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127756/dinamo-minsk_sileks-kratovo/info",
+      "slug": "dinamo-minsk-vs-sileks-kratovo",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dynamo Kiew vs Universitatea Cluj",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "dynamo-kiew-vs-universitatea-cluj"
+        },
+        {
+          "title": "FC Sheriff vs NK Aluminij",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-sheriff-vs-nk-aluminij"
+        },
+        {
+          "title": "Bohemian FC vs St. Joseph's FC",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "bohemian-fc-vs-st-joseph-s-fc"
+        }
+      ]
+    },
+    {
+      "title": "Marsaxlokk FC vs Pyunik FC",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127810/marsaxlokk-fc_pyunik-fc/info",
+      "slug": "marsaxlokk-fc-vs-pyunik-fc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dynamo Kiew vs Universitatea Cluj",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "dynamo-kiew-vs-universitatea-cluj"
+        },
+        {
+          "title": "FC Sheriff vs NK Aluminij",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-sheriff-vs-nk-aluminij"
+        },
+        {
+          "title": "Bohemian FC vs St. Joseph's FC",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "bohemian-fc-vs-st-joseph-s-fc"
+        }
+      ]
+    },
+    {
+      "title": "US Mondorf vs Dinamo Tbilisi",
+      "time": "19:15",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127780/us-mondorf_dinamo-tbilisi/info",
+      "slug": "us-mondorf-vs-dinamo-tbilisi",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Caernarfon Town vs FCI Levadia",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127816/caernarfon-town_fci-levadia/info",
+      "slug": "caernarfon-town-vs-fci-levadia",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Europa FC vs KF Shkëndija 79",
+          "time": "19:30",
+          "sender": "Sportschau Live",
+          "slug": "europa-fc-vs-kf-shkendija-79"
+        }
+      ]
+    },
+    {
+      "title": "Europa FC vs KF Shkëndija 79",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127852/europa-fc_kf-shkendija-79/info",
+      "slug": "europa-fc-vs-kf-shkendija-79",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Caernarfon Town vs FCI Levadia",
+          "time": "19:30",
+          "sender": "Sportschau Live",
+          "slug": "caernarfon-town-vs-fci-levadia"
+        }
+      ]
+    },
+    {
+      "title": "FK Vllaznia vs KF Malisheva",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127882/fk-vllaznia_kf-malisheva/info",
+      "slug": "fk-vllaznia-vs-kf-malisheva",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Hajduk Split vs MŠK Žilina",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "hajduk-split-vs-msk-zilina"
+        },
+        {
+          "title": "CSKA Sofia vs Derry City",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "cska-sofia-vs-derry-city"
+        },
+        {
+          "title": "Vojvodina vs Ferencvárosi TC",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "vojvodina-vs-ferencvarosi-tc"
+        }
+      ]
+    },
+    {
+      "title": "Glentoran FC vs FK RFS",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127792/glentoran-fc_fk-rfs/info",
+      "slug": "glentoran-fc-vs-fk-rfs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "OFK Petrovac vs FK Žalgiris",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127804/ofk-petrovac_fk-zalgiris/info",
+      "slug": "ofk-petrovac-vs-fk-zalgiris",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Penybont FC vs FC Santa Coloma",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "penybont-fc-vs-fc-santa-coloma"
+        },
+        {
+          "title": "NSÍ Runavík vs Hamrun Spartans",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "nsi-runavik-vs-hamrun-spartans"
+        }
+      ]
+    },
+    {
+      "title": "Penybont FC vs FC Santa Coloma",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127864/penybont-fc_fc-santa-coloma/info",
+      "slug": "penybont-fc-vs-fc-santa-coloma",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "OFK Petrovac vs FK Žalgiris",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "ofk-petrovac-vs-fk-zalgiris"
+        },
+        {
+          "title": "NSÍ Runavík vs Hamrun Spartans",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "nsi-runavik-vs-hamrun-spartans"
+        }
+      ]
+    },
+    {
+      "title": "NSÍ Runavík vs Hamrun Spartans",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127870/nsi-runavik_hamrun-spartans/info",
+      "slug": "nsi-runavik-vs-hamrun-spartans",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "OFK Petrovac vs FK Žalgiris",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "ofk-petrovac-vs-fk-zalgiris"
+        },
+        {
+          "title": "Penybont FC vs FC Santa Coloma",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "penybont-fc-vs-fc-santa-coloma"
+        }
+      ]
+    },
+    {
+      "title": "FC Dinamo City vs FK Astana",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127744/fc-dinamo-city_fk-astana/info",
+      "slug": "fc-dinamo-city-vs-fk-astana",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "UMF Stjarnan vs Víkingur",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "umf-stjarnan-vs-vikingur"
+        },
+        {
+          "title": "FK Sarajevo vs Inter Turku",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fk-sarajevo-vs-inter-turku"
+        }
+      ]
+    },
+    {
+      "title": "UMF Stjarnan vs Víkingur",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127837/umf-stjarnan_vikingur/info",
+      "slug": "umf-stjarnan-vs-vikingur",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Dinamo City vs FK Astana",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-dinamo-city-vs-fk-astana"
+        },
+        {
+          "title": "FK Sarajevo vs Inter Turku",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fk-sarajevo-vs-inter-turku"
+        }
+      ]
+    },
+    {
+      "title": "FK Sarajevo vs Inter Turku",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127846/fk-sarajevo_inter-turku/info",
+      "slug": "fk-sarajevo-vs-inter-turku",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Dinamo City vs FK Astana",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-dinamo-city-vs-fk-astana"
+        },
+        {
+          "title": "UMF Stjarnan vs Víkingur",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "umf-stjarnan-vs-vikingur"
+        }
+      ]
+    },
+    {
+      "title": "Toronto Tempo vs Golden State Valkyries",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/wnba/ma11863585/toronto-tempo_golden-state-valkyries/info",
+      "slug": "toronto-tempo-vs-golden-state-valkyries",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Connecticut Sun vs Minnesota Lynx",
+      "time": "01:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/wnba/ma11863108/connecticut-sun_minnesota-lynx/info",
+      "slug": "connecticut-sun-vs-minnesota-lynx",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Los Angeles Sparks vs Indiana Fever",
+      "time": "04:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/wnba/ma11863111/los-angeles-sparks_indiana-fever/info",
+      "slug": "los-angeles-sparks-vs-indiana-fever",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Arevalo, M. / Pavic, M. vs Krawietz, K. / Pütz, T.",
+      "time": "14:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co920/wimbledon-london/ma11754916/arevalo-m---pavic-m_krawietz-k---puetz-t/info",
+      "slug": "arevalo-m-pavic-m-vs-krawietz-k-putz-t",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Heliovaara, H. / Patten H. vs Kokkinakis, T. / Kovacevic, A.",
+      "time": "15:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co920/wimbledon-london/ma11754913/heliovaara-h---patten-h_kokkinakis-t---kovacevic-a/info",
+      "slug": "heliovaara-h-patten-h-vs-kokkinakis-t-kovacevic-a",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Siniakova, K. / Townsend, T. vs Guo, H. / Mladenovic, K.",
+      "time": "12:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1028/wimbledon-london/ma11780524/siniakova-k---townsend-t_guo-h---mladenovic-k/info",
+      "slug": "siniakova-k-townsend-t-vs-guo-h-mladenovic-k",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Neel, I. / Olmos, G. vs Jiang, X. / Xu, Y.",
+      "time": "13:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1028/wimbledon-london/ma11780527/neel-i---olmos-g_jiang-x---xu-y/info",
+      "slug": "neel-i-olmos-g-vs-jiang-x-xu-y",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Karolina Muchova vs Coco Gauff",
+      "time": "14:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780347/karolina-muchova_coco-gauff/info",
+      "slug": "karolina-muchova-vs-coco-gauff",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Marta Kostyuk vs Linda Noskova",
+      "time": "15:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-england-wimbledon/ma11780350/marta-kostyuk_linda-noskova/info",
+      "slug": "marta-kostyuk-vs-linda-noskova",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "FIA WEC | 6h von Imola | Rennen",
+      "subtitle": "Langstrecken-WM",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:31",
+      "iso_time": "2026-07-09T01:31:37+02:00",
+      "link": "",
+      "slug": "fia-wec-6h-von-imola-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France | 5. Etappe",
+      "subtitle": "Lannemezan - Pau (158,3km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:02",
+      "iso_time": "2026-07-09T03:02:55+02:00",
+      "link": "",
+      "slug": "tour-de-france-5-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Masters | Finale",
+      "subtitle": "K. Wilson - J. Higgins | 2. Session | London",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:32",
+      "iso_time": "2026-07-09T04:32:08+02:00",
+      "link": "",
+      "slug": "masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France | 5. Etappe",
+      "subtitle": "Lannemezan - Pau (158,3km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:30",
+      "iso_time": "2026-07-09T06:30:06+02:00",
+      "link": "https://play.hbomax.com/sport/b4cc5708-b923-58df-87cf-ca8baeb51ec1?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-5-etappe",
+      "related_events": []
+    },
+    {
+      "title": "FIA WEC | 6h von Imola | Rennen",
+      "subtitle": "Langstrecken-WM",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:30",
+      "iso_time": "2026-07-09T08:30:49+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "fia-wec-6h-von-imola-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France | 5. Etappe",
+      "subtitle": "Lannemezan - Pau (158,3km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:35",
+      "iso_time": "2026-07-09T08:35:34+02:00",
+      "link": "https://play.hbomax.com/sport/dd64ea50-c83c-588b-afe5-cb6fcdc2d7b4?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-5-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Hall of Fame Peking 2008",
+      "subtitle": "",
+      "sport": "Olympische Spiele",
+      "sport_slug": "olympische-spiele",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:06",
+      "iso_time": "2026-07-09T09:06:18+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "hall-of-fame-peking-2008",
+      "related_events": [
+        {
+          "title": "Hall of Fame London 2012",
+          "time": "10:00",
+          "sender": "Eurosport",
+          "slug": "hall-of-fame-london-2012"
+        }
+      ]
+    },
+    {
+      "title": "Goodwood Festival of Speed | Tag 1",
+      "subtitle": "Goodwood | Englischer Kommentar",
+      "sport": "Motorsports",
+      "sport_slug": "motorsports",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:50",
+      "iso_time": "2026-07-09T09:50:00+02:00",
+      "link": "https://play.hbomax.com/sport/99038f14-233e-5713-a271-6c85b3a0da0b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "goodwood-festival-of-speed-tag-1",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France | 5. Etappe",
+      "subtitle": "Lannemezan - Pau (158,3km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:59",
+      "iso_time": "2026-07-09T09:59:47+02:00",
+      "link": "https://play.hbomax.com/sport/7ba18917-8c80-5984-bfae-5afb052e2f4c?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-5-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France | 6. Etappe",
+          "time": "12:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-6-etappe"
+        },
+        {
+          "title": "Tour de France | 6. Etappe",
+          "time": "12:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-6-etappe"
+        },
+        {
+          "title": "Tour de France | 6. Etappe",
+          "time": "12:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-6-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Hall of Fame London 2012",
+      "subtitle": "Olympia-Magazin",
+      "sport": "Olympische Spiele",
+      "sport_slug": "olympische-spiele",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:00",
+      "iso_time": "2026-07-09T10:00:04+02:00",
+      "link": "https://play.hbomax.com/sport/olympic/03f7c8bf-d9de-5d54-925b-d0d1204958ec?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "hall-of-fame-london-2012",
+      "related_events": [
+        {
+          "title": "Hall of Fame Peking 2008",
+          "time": "09:06",
+          "sender": "Eurosport",
+          "slug": "hall-of-fame-peking-2008"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 5. Etappe",
+      "subtitle": "Lannemezan - Pau (158,3km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:59",
+      "iso_time": "2026-07-09T10:59:29+02:00",
+      "link": "https://play.hbomax.com/sport/08e38a16-f29f-5436-97be-97fbc9207625?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-5-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France | 6. Etappe",
+          "time": "12:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-6-etappe"
+        },
+        {
+          "title": "Tour de France | 6. Etappe",
+          "time": "12:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-6-etappe"
+        },
+        {
+          "title": "Tour de France | 6. Etappe",
+          "time": "12:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-6-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Trail GT World Series",
+      "subtitle": "Quebec City",
+      "sport": "Trail Running",
+      "sport_slug": "trail-running",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-07-09T11:00:33+02:00",
+      "link": "https://play.hbomax.com/sport/17d26786-6b99-532b-988f-111bad798538?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "trail-gt-world-series",
+      "related_events": []
+    },
+    {
+      "title": "Shanghai | 1. Rennen",
+      "subtitle": "WM | 12. Saisonlauf",
+      "sport": "Formel E",
+      "sport_slug": "formel-e",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:30",
+      "iso_time": "2026-07-09T11:30:31+02:00",
+      "link": "https://play.hbomax.com/sport/d0f2be91-63af-55ce-8414-7c8cf727acb5?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "shanghai-1-rennen",
+      "related_events": [
+        {
+          "title": "Shanghai | 2. Rennen",
+          "time": "12:17",
+          "sender": "Eurosport",
+          "slug": "shanghai-2-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 6. Etappe",
+      "subtitle": "Internationaler Kommentar | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:15",
+      "iso_time": "2026-07-09T12:15:00+02:00",
+      "link": "https://play.hbomax.com/sport/161a13a4-ecd5-53f9-baed-fde000ef9cdb?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-6-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France | 5. Etappe",
+          "time": "09:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-5-etappe"
+        },
+        {
+          "title": "Tour de France | 5. Etappe",
+          "time": "10:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-5-etappe"
+        },
+        {
+          "title": "Tour de France | 6. Etappe | Multi-Screen 2",
+          "time": "12:40",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-6-etappe-multi-screen-2"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 6. Etappe",
+      "subtitle": "Deutscher Kommentar | Pau - Gavarnie-Gèdre (186,4km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:15",
+      "iso_time": "2026-07-09T12:15:00+02:00",
+      "link": "https://play.hbomax.com/sport/ce49b783-bdc0-5108-9896-fa1a4d21165f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-6-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France | 5. Etappe",
+          "time": "09:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-5-etappe"
+        },
+        {
+          "title": "Tour de France | 5. Etappe",
+          "time": "10:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-5-etappe"
+        },
+        {
+          "title": "Tour de France | 6. Etappe | Multi-Screen 2",
+          "time": "12:40",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-6-etappe-multi-screen-2"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 6. Etappe",
+      "subtitle": "Pau - Gavarnie-Gèdre (186,4km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:15",
+      "iso_time": "2026-07-09T12:15:00+02:00",
+      "link": "https://play.hbomax.com/sport/7a078740-3358-5fb1-a2a5-acc54c67a3e6?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-6-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France | 5. Etappe",
+          "time": "09:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-5-etappe"
+        },
+        {
+          "title": "Tour de France | 5. Etappe",
+          "time": "10:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-5-etappe"
+        },
+        {
+          "title": "Tour de France | 6. Etappe | Multi-Screen 2",
+          "time": "12:40",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-6-etappe-multi-screen-2"
+        }
+      ]
+    },
+    {
+      "title": "Shanghai | 2. Rennen",
+      "subtitle": "WM | 13. Saisonlauf",
+      "sport": "Formel E",
+      "sport_slug": "formel-e",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:17",
+      "iso_time": "2026-07-09T12:17:44+02:00",
+      "link": "https://play.hbomax.com/sport/df95b9d9-f637-54fc-b25b-a50fda123faf?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "shanghai-2-rennen",
+      "related_events": [
+        {
+          "title": "Shanghai | 1. Rennen",
+          "time": "11:30",
+          "sender": "Eurosport",
+          "slug": "shanghai-1-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 6. Etappe | Multi-Screen 2",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:40",
+      "iso_time": "2026-07-09T12:40:00+02:00",
+      "link": "https://play.hbomax.com/sport/1b293c9b-cbde-550e-be5e-eab88ab521e6?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-6-etappe-multi-screen-2",
+      "related_events": [
+        {
+          "title": "Tour de France | 5. Etappe",
+          "time": "09:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-5-etappe"
+        },
+        {
+          "title": "Tour de France | 5. Etappe",
+          "time": "10:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-5-etappe"
+        },
+        {
+          "title": "Tour de France | 6. Etappe",
+          "time": "12:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-6-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 6. Etappe | Multiview",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:40",
+      "iso_time": "2026-07-09T12:40:00+02:00",
+      "link": "https://play.hbomax.com/sport/2fd4803a-1033-51af-9a36-48e1419870f2?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-6-etappe-multiview",
+      "related_events": [
+        {
+          "title": "Tour de France | 5. Etappe",
+          "time": "09:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-5-etappe"
+        },
+        {
+          "title": "Tour de France | 5. Etappe",
+          "time": "10:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-5-etappe"
+        },
+        {
+          "title": "Tour de France | 6. Etappe",
+          "time": "12:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-6-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 6. Etappe | Multi-Screen 1",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:40",
+      "iso_time": "2026-07-09T12:40:00+02:00",
+      "link": "https://play.hbomax.com/sport/5d659707-ada3-582d-83d3-bacb4c76bf96?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-6-etappe-multi-screen-1",
+      "related_events": [
+        {
+          "title": "Tour de France | 5. Etappe",
+          "time": "09:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-5-etappe"
+        },
+        {
+          "title": "Tour de France | 5. Etappe",
+          "time": "10:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-5-etappe"
+        },
+        {
+          "title": "Tour de France | 6. Etappe",
+          "time": "12:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-6-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 6. Etappe | Multi-Screen 4",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:40",
+      "iso_time": "2026-07-09T12:40:00+02:00",
+      "link": "https://play.hbomax.com/sport/b329ac6f-c56b-54ce-8159-ed232c4ced10?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-6-etappe-multi-screen-4",
+      "related_events": [
+        {
+          "title": "Tour de France | 5. Etappe",
+          "time": "09:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-5-etappe"
+        },
+        {
+          "title": "Tour de France | 5. Etappe",
+          "time": "10:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-5-etappe"
+        },
+        {
+          "title": "Tour de France | 6. Etappe",
+          "time": "12:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-6-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 6. Etappe | Multi-Screen 3",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:40",
+      "iso_time": "2026-07-09T12:40:00+02:00",
+      "link": "https://play.hbomax.com/sport/d11c23a8-6f28-5305-93f6-6d421b045ad7?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-6-etappe-multi-screen-3",
+      "related_events": [
+        {
+          "title": "Tour de France | 5. Etappe",
+          "time": "09:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-5-etappe"
+        },
+        {
+          "title": "Tour de France | 5. Etappe",
+          "time": "10:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-5-etappe"
+        },
+        {
+          "title": "Tour de France | 6. Etappe",
+          "time": "12:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-6-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour of Austria | 2. Etappe",
+      "subtitle": "UCI Europe Tour | Männer | Bad Kleinkirchheim - Großglockner (Franz Josef Höhe) (188,8km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:00",
+      "iso_time": "2026-07-09T13:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/484854c1-3293-5152-be49-a14e92e4ead4?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-of-austria-2-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France | 5. Etappe",
+          "time": "10:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-5-etappe"
+        },
+        {
+          "title": "Tour de France | 6. Etappe",
+          "time": "12:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-6-etappe"
+        },
+        {
+          "title": "Tour de France | 6. Etappe",
+          "time": "12:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-6-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Masters | Finale",
+      "subtitle": "K. Wilson - J. Higgins | 2. Session | London",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:03",
+      "iso_time": "2026-07-09T13:03:28+02:00",
+      "link": "https://play.hbomax.com/sport/2e68fbcb-a966-54bc-8ca3-6fbd44c48f6c?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "Hall of Fame Rio 2016",
+      "subtitle": "",
+      "sport": "Olympische Spiele",
+      "sport_slug": "olympische-spiele",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:14",
+      "iso_time": "2026-07-09T15:14:30+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "hall-of-fame-rio-2016",
+      "related_events": [
+        {
+          "title": "Hall of Fame Tokyo 2020",
+          "time": "16:08",
+          "sender": "Eurosport",
+          "slug": "hall-of-fame-tokyo-2020"
+        }
+      ]
+    },
+    {
+      "title": "Hall of Fame Tokyo 2020",
+      "subtitle": "",
+      "sport": "Olympische Spiele",
+      "sport_slug": "olympische-spiele",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:08",
+      "iso_time": "2026-07-09T16:08:31+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "hall-of-fame-tokyo-2020",
+      "related_events": [
+        {
+          "title": "Hall of Fame Rio 2016",
+          "time": "15:14",
+          "sender": "Eurosport",
+          "slug": "hall-of-fame-rio-2016"
+        }
+      ]
+    },
+    {
+      "title": "Shanghai | Highlights",
+      "subtitle": "WM | 12. Saisonlauf",
+      "sport": "Formel E",
+      "sport_slug": "formel-e",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2026-07-09T17:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/0412b020-c0d7-521a-8c70-9b14c894120d?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "shanghai-highlights",
+      "related_events": []
+    },
+    {
+      "title": "Velo Club | Tour-Show zur 6. Etappe",
+      "subtitle": "Experten-Talk zur Tour de France",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:45",
+      "iso_time": "2026-07-09T17:45:00+02:00",
+      "link": "https://play.hbomax.com/sport/298aaaeb-97d6-5a5b-97ab-5cbd6916696b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "velo-club-tour-show-zur-6-etappe",
+      "related_events": [
+        {
+          "title": "Tour of Austria | 2. Etappe",
+          "time": "18:15",
+          "sender": "Eurosport",
+          "slug": "tour-of-austria-2-etappe"
+        },
+        {
+          "title": "Tour de France | 6. Etappe",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-6-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Velo Club | Tour-Show zur 6. Etappe",
+      "subtitle": "Experten-Talk zur Tour de France",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:45",
+      "iso_time": "2026-07-09T17:45:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "velo-club-tour-show-zur-6-etappe",
+      "related_events": [
+        {
+          "title": "Tour of Austria | 2. Etappe",
+          "time": "18:15",
+          "sender": "Eurosport",
+          "slug": "tour-of-austria-2-etappe"
+        },
+        {
+          "title": "Tour de France | 6. Etappe",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-6-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Masters | Finale",
+      "subtitle": "K. Wilson - J. Higgins | 2. Session | London",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2026-07-09T18:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/ae9d3628-8d53-544c-9bcf-aea03677648c?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tour of Austria | 2. Etappe",
+      "subtitle": "UCI Europe Tour | Männer | Bad Kleinkirchheim - Großglockner (Franz Josef Höhe) (188,8km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:15",
+      "iso_time": "2026-07-09T18:15:00+02:00",
+      "link": "https://play.hbomax.com/sport/a09bd385-3b4c-5373-88de-6ffa78e7f811?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-of-austria-2-etappe",
+      "related_events": [
+        {
+          "title": "Velo Club | Tour-Show zur 6. Etappe",
+          "time": "17:45",
+          "sender": "Eurosport",
+          "slug": "velo-club-tour-show-zur-6-etappe"
+        },
+        {
+          "title": "Velo Club | Tour-Show zur 6. Etappe",
+          "time": "17:45",
+          "sender": "Eurosport",
+          "slug": "velo-club-tour-show-zur-6-etappe"
+        },
+        {
+          "title": "Tour de France | 6. Etappe",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-6-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Trail GT World Series",
+      "subtitle": "Quebec City",
+      "sport": "Trail Running",
+      "sport_slug": "trail-running",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:45",
+      "iso_time": "2026-07-09T18:45:00+02:00",
+      "link": "https://play.hbomax.com/sport/9d996590-1246-5641-bd8d-fc13bdfb589a?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "trail-gt-world-series",
+      "related_events": []
+    },
+    {
+      "title": "FIA WEC | 6h von Imola | Rennen",
+      "subtitle": "Langstrecken-WM",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:15",
+      "iso_time": "2026-07-09T19:15:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "fia-wec-6h-von-imola-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France | 6. Etappe",
+      "subtitle": "Pau - Gavarnie-Gèdre (186,4km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-07-09T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/8a13ffc0-e9bb-5924-aa44-1ef214f521e5?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-6-etappe",
+      "related_events": [
+        {
+          "title": "Velo Club | Tour-Show zur 6. Etappe",
+          "time": "17:45",
+          "sender": "Eurosport",
+          "slug": "velo-club-tour-show-zur-6-etappe"
+        },
+        {
+          "title": "Velo Club | Tour-Show zur 6. Etappe",
+          "time": "17:45",
+          "sender": "Eurosport",
+          "slug": "velo-club-tour-show-zur-6-etappe"
+        },
+        {
+          "title": "Tour of Austria | 2. Etappe",
+          "time": "18:15",
+          "sender": "Eurosport",
+          "slug": "tour-of-austria-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Masters | Finale",
+      "subtitle": "K. Wilson - J. Higgins | 2. Session | London",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:45",
+      "iso_time": "2026-07-09T20:45:00+02:00",
+      "link": "https://play.hbomax.com/sport/d31914a0-cee5-527a-aa76-6739c3c1dac9?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "masters-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France | 6. Etappe",
+      "subtitle": "Pau - Gavarnie-Gèdre (186,4km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-07-09T22:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/7a905b3f-12cb-5a39-921a-8a5218acf738?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-6-etappe",
+      "related_events": [
+        {
+          "title": "Cycling Essential Stories",
+          "time": "23:45",
+          "sender": "Eurosport",
+          "slug": "cycling-essential-stories"
+        }
+      ]
+    },
+    {
+      "title": "Hall of Fame Rio 2016",
+      "subtitle": "",
+      "sport": "Olympische Spiele",
+      "sport_slug": "olympische-spiele",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-07-09T22:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "hall-of-fame-rio-2016",
+      "related_events": [
+        {
+          "title": "Hall of Fame Tokyo 2020",
+          "time": "23:00",
+          "sender": "Eurosport",
+          "slug": "hall-of-fame-tokyo-2020"
+        },
+        {
+          "title": "Hall of Fame Paris 2024",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "hall-of-fame-paris-2024"
+        }
+      ]
+    },
+    {
+      "title": "Hall of Fame Tokyo 2020",
+      "subtitle": "",
+      "sport": "Olympische Spiele",
+      "sport_slug": "olympische-spiele",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2026-07-09T23:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "hall-of-fame-tokyo-2020",
+      "related_events": [
+        {
+          "title": "Hall of Fame Rio 2016",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "hall-of-fame-rio-2016"
+        },
+        {
+          "title": "Hall of Fame Paris 2024",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "hall-of-fame-paris-2024"
+        }
+      ]
+    },
+    {
+      "title": "Cycling Essential Stories",
+      "subtitle": "Magazin | Folge 1",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:45",
+      "iso_time": "2026-07-09T23:45:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "cycling-essential-stories",
+      "related_events": [
+        {
+          "title": "Tour de France | 6. Etappe",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-6-etappe"
+        },
+        {
+          "title": "Tour de France | 6. Etappe",
+          "time": "01:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-6-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Players Championship | Finale",
+      "subtitle": "J. Higgins - Zhao X. | 2. Session | Telford",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-07-10T00:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/231f6367-111a-5f6a-b5af-76320710bbcc?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "players-championship-finale",
+      "related_events": []
+    },
+    {
+      "title": "Hall of Fame Paris 2024",
+      "subtitle": "",
+      "sport": "Olympische Spiele",
+      "sport_slug": "olympische-spiele",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-07-10T00:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "hall-of-fame-paris-2024",
+      "related_events": [
+        {
+          "title": "Hall of Fame Rio 2016",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "hall-of-fame-rio-2016"
+        },
+        {
+          "title": "Hall of Fame Tokyo 2020",
+          "time": "23:00",
+          "sender": "Eurosport",
+          "slug": "hall-of-fame-tokyo-2020"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 6. Etappe",
+      "subtitle": "Pau - Gavarnie-Gèdre (186,4km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:00",
+      "iso_time": "2026-07-10T01:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/4348a03a-0358-5c52-bf8d-46092a880efc?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-6-etappe",
+      "related_events": [
+        {
+          "title": "Cycling Essential Stories",
+          "time": "23:45",
+          "sender": "Eurosport",
+          "slug": "cycling-essential-stories"
+        }
+      ]
+    },
+    {
+      "title": "FIA WEC | 6h von Spa | Rennen",
+      "subtitle": "Langstrecken-WM | 2. Saisonlauf",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:30",
+      "iso_time": "2026-07-10T01:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/7ef07878-e891-5d1b-a0cb-2c903068f5ab?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "fia-wec-6h-von-spa-rennen",
+      "related_events": []
+    }
+  ]
+}
