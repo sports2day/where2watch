@@ -1,0 +1,110 @@
+{
+  "date": "2026-07-12",
+  "events": [
+    {
+      "title": "Argentinien vs Schweiz",
+      "time": "03:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-wm/ma10714040/argentinien_schweiz/liveticker",
+      "slug": "argentinien-vs-schweiz",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": " vs ",
+      "time": "13:35",
+      "iso_time": "",
+      "sport": "Radsport Straßenrennen",
+      "sport_slug": "radsport-strassenrennen",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/radsport/tour-de-france/ma11702800/ergebnisse",
+      "slug": "vs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Las Vegas Aces vs Phoenix Mercury",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/wnba/ma11863132/las-vegas-aces_phoenix-mercury/info",
+      "slug": "las-vegas-aces-vs-phoenix-mercury",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Washington Mystics vs Seattle Storm",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/wnba/ma11863138/washington-mystics_seattle-storm/info",
+      "slug": "washington-mystics-vs-seattle-storm",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Toronto Tempo vs New York Liberty",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "toronto-tempo-vs-new-york-liberty"
+        }
+      ]
+    },
+    {
+      "title": "Toronto Tempo vs New York Liberty",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/wnba/ma11863591/toronto-tempo_new-york-liberty/info",
+      "slug": "toronto-tempo-vs-new-york-liberty",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Washington Mystics vs Seattle Storm",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "washington-mystics-vs-seattle-storm"
+        }
+      ]
+    },
+    {
+      "title": "Jannik Sinner vs Alexander Zverev",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-england-wimbledon/ma11754730/jannik-sinner_alexander-zverev/info",
+      "slug": "jannik-sinner-vs-alexander-zverev",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Guo, H. / Mladenovic, K. vs Dabrowski, G. / Stefani, L.",
+      "time": "14:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1028/wimbledon-london/ma11780542/guo-h---mladenovic-k_dabrowski-g---stefani-l/info",
+      "slug": "guo-h-mladenovic-k-vs-dabrowski-g-stefani-l",
+      "subtitle": "",
+      "related_events": []
+    }
+  ]
+}
