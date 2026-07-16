@@ -1,0 +1,1806 @@
+{
+  "date": "2026-07-16",
+  "events": [
+    {
+      "title": " vs ",
+      "time": "13:30",
+      "iso_time": "",
+      "sport": "Radsport Straßenrennen",
+      "sport_slug": "radsport-strassenrennen",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/radsport/tour-de-france/ma11702827/ergebnisse",
+      "slug": "vs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Universitatea Cluj vs Dynamo Kiew",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-el-quali/ma12127699/universitatea-cluj_dynamo-kiew/info",
+      "slug": "universitatea-cluj-vs-dynamo-kiew",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Derry City vs CSKA Sofia",
+          "time": "19:30",
+          "sender": "Sportschau Live",
+          "slug": "derry-city-vs-cska-sofia"
+        },
+        {
+          "title": "Hamrun Spartans vs NSÍ Runavík",
+          "time": "19:30",
+          "sender": "Sportschau Live",
+          "slug": "hamrun-spartans-vs-nsi-runavik"
+        }
+      ]
+    },
+    {
+      "title": "Derry City vs CSKA Sofia",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-el-quali/ma12127717/derry-city_cska-sofia/info",
+      "slug": "derry-city-vs-cska-sofia",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Universitatea Cluj vs Dynamo Kiew",
+          "time": "19:30",
+          "sender": "Sportschau Live",
+          "slug": "universitatea-cluj-vs-dynamo-kiew"
+        },
+        {
+          "title": "Hamrun Spartans vs NSÍ Runavík",
+          "time": "19:30",
+          "sender": "Sportschau Live",
+          "slug": "hamrun-spartans-vs-nsi-runavik"
+        }
+      ]
+    },
+    {
+      "title": "NK Aluminij vs FC Sheriff",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-el-quali/ma12127723/nk-aluminij_fc-sheriff/info",
+      "slug": "nk-aluminij-vs-fc-sheriff",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "KF Ballkani vs Connah's Quay Nomads",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "kf-ballkani-vs-connah-s-quay-nomads"
+        },
+        {
+          "title": "Sileks Kratovo vs Dinamo Minsk",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "sileks-kratovo-vs-dinamo-minsk"
+        },
+        {
+          "title": "KF Shkëndija 79 vs Europa FC",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "kf-shkendija-79-vs-europa-fc"
+        }
+      ]
+    },
+    {
+      "title": "Ferencvárosi TC vs Vojvodina",
+      "time": "20:15",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-el-quali/ma12127729/ferencvarosi-tc_vojvodina/info",
+      "slug": "ferencvarosi-tc-vs-vojvodina",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "MŠK Žilina vs Hajduk Split",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-el-quali/ma12127711/msk-zilina_hajduk-split/info",
+      "slug": "msk-zilina-vs-hajduk-split",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "IF Vestri vs Qarabağ FK",
+      "time": "22:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-el-quali/ma12127705/if-vestri_qarabag-fk/info",
+      "slug": "if-vestri-vs-qarabag-fk",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "FK Astana vs FC Dinamo City",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127747/fk-astana_fc-dinamo-city/info",
+      "slug": "fk-astana-vs-fc-dinamo-city",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FK Yelimay vs FC Alashkert",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "fk-yelimay-vs-fc-alashkert"
+        },
+        {
+          "title": "Inter Turku vs FK Sarajevo",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "inter-turku-vs-fk-sarajevo"
+        }
+      ]
+    },
+    {
+      "title": "FK Yelimay vs FC Alashkert",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127831/fk-yelimay_fc-alashkert/info",
+      "slug": "fk-yelimay-vs-fc-alashkert",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FK Astana vs FC Dinamo City",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "fk-astana-vs-fc-dinamo-city"
+        },
+        {
+          "title": "Inter Turku vs FK Sarajevo",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "inter-turku-vs-fk-sarajevo"
+        }
+      ]
+    },
+    {
+      "title": "Inter Turku vs FK Sarajevo",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127849/inter-turku_fk-sarajevo/info",
+      "slug": "inter-turku-vs-fk-sarajevo",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FK Astana vs FC Dinamo City",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "fk-astana-vs-fc-dinamo-city"
+        },
+        {
+          "title": "FK Yelimay vs FC Alashkert",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "fk-yelimay-vs-fc-alashkert"
+        }
+      ]
+    },
+    {
+      "title": "St. Joseph's FC vs Bohemian FC",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127741/st-josephs-fc_bohemian-fc/info",
+      "slug": "st-joseph-s-fc-vs-bohemian-fc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Torpedo Kutaisi vs Zira FK",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "torpedo-kutaisi-vs-zira-fk"
+        },
+        {
+          "title": "Ilves Tampere vs FC Differdange 03",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "ilves-tampere-vs-fc-differdange-03"
+        },
+        {
+          "title": "Pyunik FC vs Marsaxlokk FC",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "pyunik-fc-vs-marsaxlokk-fc"
+        }
+      ]
+    },
+    {
+      "title": "Torpedo Kutaisi vs Zira FK",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127765/torpedo-kutaisi_zira-fk/info",
+      "slug": "torpedo-kutaisi-vs-zira-fk",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "St. Joseph's FC vs Bohemian FC",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "st-joseph-s-fc-vs-bohemian-fc"
+        },
+        {
+          "title": "Ilves Tampere vs FC Differdange 03",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "ilves-tampere-vs-fc-differdange-03"
+        },
+        {
+          "title": "Pyunik FC vs Marsaxlokk FC",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "pyunik-fc-vs-marsaxlokk-fc"
+        }
+      ]
+    },
+    {
+      "title": "Ilves Tampere vs FC Differdange 03",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127771/ilves-tampere_fc-differdange-03/info",
+      "slug": "ilves-tampere-vs-fc-differdange-03",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "St. Joseph's FC vs Bohemian FC",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "st-joseph-s-fc-vs-bohemian-fc"
+        },
+        {
+          "title": "Torpedo Kutaisi vs Zira FK",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "torpedo-kutaisi-vs-zira-fk"
+        },
+        {
+          "title": "Pyunik FC vs Marsaxlokk FC",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "pyunik-fc-vs-marsaxlokk-fc"
+        }
+      ]
+    },
+    {
+      "title": "Pyunik FC vs Marsaxlokk FC",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127813/pyunik-fc_marsaxlokk-fc/info",
+      "slug": "pyunik-fc-vs-marsaxlokk-fc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "St. Joseph's FC vs Bohemian FC",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "st-joseph-s-fc-vs-bohemian-fc"
+        },
+        {
+          "title": "Torpedo Kutaisi vs Zira FK",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "torpedo-kutaisi-vs-zira-fk"
+        },
+        {
+          "title": "Ilves Tampere vs FC Differdange 03",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "ilves-tampere-vs-fc-differdange-03"
+        }
+      ]
+    },
+    {
+      "title": "Paide Linnameeskond vs FC Hegelmann",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127825/paide-linnameeskond_fc-hegelmann/info",
+      "slug": "paide-linnameeskond-vs-fc-hegelmann",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "St. Joseph's FC vs Bohemian FC",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "st-joseph-s-fc-vs-bohemian-fc"
+        },
+        {
+          "title": "Torpedo Kutaisi vs Zira FK",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "torpedo-kutaisi-vs-zira-fk"
+        },
+        {
+          "title": "Ilves Tampere vs FC Differdange 03",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "ilves-tampere-vs-fc-differdange-03"
+        }
+      ]
+    },
+    {
+      "title": "FK RFS vs Glentoran FC",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127795/fk-rfs_glentoran-fc/info",
+      "slug": "fk-rfs-vs-glentoran-fc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FCI Levadia vs Caernarfon Town",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "fci-levadia-vs-caernarfon-town"
+        }
+      ]
+    },
+    {
+      "title": "FCI Levadia vs Caernarfon Town",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127819/fci-levadia_caernarfon-town/info",
+      "slug": "fci-levadia-vs-caernarfon-town",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FK RFS vs Glentoran FC",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "fk-rfs-vs-glentoran-fc"
+        }
+      ]
+    },
+    {
+      "title": "FC Milsami vs Velež Mostar",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127753/fc-milsami_velez-mostar/info",
+      "slug": "fc-milsami-vs-velez-mostar",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dinamo Tbilisi vs US Mondorf",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "dinamo-tbilisi-vs-us-mondorf"
+        },
+        {
+          "title": "BATE Baryssau vs AF Elbasani",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "bate-baryssau-vs-af-elbasani"
+        },
+        {
+          "title": "FK Žalgiris vs OFK Petrovac",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "fk-zalgiris-vs-ofk-petrovac"
+        }
+      ]
+    },
+    {
+      "title": "Dinamo Tbilisi vs US Mondorf",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127783/dinamo-tbilisi_us-mondorf/info",
+      "slug": "dinamo-tbilisi-vs-us-mondorf",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Milsami vs Velež Mostar",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-milsami-vs-velez-mostar"
+        },
+        {
+          "title": "BATE Baryssau vs AF Elbasani",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "bate-baryssau-vs-af-elbasani"
+        },
+        {
+          "title": "FK Žalgiris vs OFK Petrovac",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "fk-zalgiris-vs-ofk-petrovac"
+        }
+      ]
+    },
+    {
+      "title": "BATE Baryssau vs AF Elbasani",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127801/bate-baryssau-_af-elbasani/info",
+      "slug": "bate-baryssau-vs-af-elbasani",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Milsami vs Velež Mostar",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-milsami-vs-velez-mostar"
+        },
+        {
+          "title": "Dinamo Tbilisi vs US Mondorf",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "dinamo-tbilisi-vs-us-mondorf"
+        },
+        {
+          "title": "FK Žalgiris vs OFK Petrovac",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "fk-zalgiris-vs-ofk-petrovac"
+        }
+      ]
+    },
+    {
+      "title": "FK Žalgiris vs OFK Petrovac",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127807/fk-zalgiris_ofk-petrovac/info",
+      "slug": "fk-zalgiris-vs-ofk-petrovac",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Milsami vs Velež Mostar",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-milsami-vs-velez-mostar"
+        },
+        {
+          "title": "Dinamo Tbilisi vs US Mondorf",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "dinamo-tbilisi-vs-us-mondorf"
+        },
+        {
+          "title": "BATE Baryssau vs AF Elbasani",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "bate-baryssau-vs-af-elbasani"
+        }
+      ]
+    },
+    {
+      "title": "Víkingur vs UMF Stjarnan",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127834/vikingur_umf-stjarnan/info",
+      "slug": "vikingur-vs-umf-stjarnan",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Milsami vs Velež Mostar",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-milsami-vs-velez-mostar"
+        },
+        {
+          "title": "Dinamo Tbilisi vs US Mondorf",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "dinamo-tbilisi-vs-us-mondorf"
+        },
+        {
+          "title": "BATE Baryssau vs AF Elbasani",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "bate-baryssau-vs-af-elbasani"
+        }
+      ]
+    },
+    {
+      "title": "FC Santa Coloma vs Penybont FC",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127867/fc-santa-coloma_penybont-fc/info",
+      "slug": "fc-santa-coloma-vs-penybont-fc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Milsami vs Velež Mostar",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-milsami-vs-velez-mostar"
+        },
+        {
+          "title": "Dinamo Tbilisi vs US Mondorf",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "dinamo-tbilisi-vs-us-mondorf"
+        },
+        {
+          "title": "BATE Baryssau vs AF Elbasani",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "bate-baryssau-vs-af-elbasani"
+        }
+      ]
+    },
+    {
+      "title": "Hamrun Spartans vs NSÍ Runavík",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127873/hamrun-spartans_nsi-runavik/info",
+      "slug": "hamrun-spartans-vs-nsi-runavik",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Universitatea Cluj vs Dynamo Kiew",
+          "time": "19:30",
+          "sender": "Sportschau Live",
+          "slug": "universitatea-cluj-vs-dynamo-kiew"
+        },
+        {
+          "title": "Derry City vs CSKA Sofia",
+          "time": "19:30",
+          "sender": "Sportschau Live",
+          "slug": "derry-city-vs-cska-sofia"
+        }
+      ]
+    },
+    {
+      "title": "KF Ballkani vs Connah's Quay Nomads",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127735/kf-ballkani_connahs-quay-nomads/info",
+      "slug": "kf-ballkani-vs-connah-s-quay-nomads",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "NK Aluminij vs FC Sheriff",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "nk-aluminij-vs-fc-sheriff"
+        },
+        {
+          "title": "Sileks Kratovo vs Dinamo Minsk",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "sileks-kratovo-vs-dinamo-minsk"
+        },
+        {
+          "title": "KF Shkëndija 79 vs Europa FC",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "kf-shkendija-79-vs-europa-fc"
+        }
+      ]
+    },
+    {
+      "title": "Sileks Kratovo vs Dinamo Minsk",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127759/sileks-kratovo_dinamo-minsk/info",
+      "slug": "sileks-kratovo-vs-dinamo-minsk",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "NK Aluminij vs FC Sheriff",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "nk-aluminij-vs-fc-sheriff"
+        },
+        {
+          "title": "KF Ballkani vs Connah's Quay Nomads",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "kf-ballkani-vs-connah-s-quay-nomads"
+        },
+        {
+          "title": "KF Shkëndija 79 vs Europa FC",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "kf-shkendija-79-vs-europa-fc"
+        }
+      ]
+    },
+    {
+      "title": "KF Shkëndija 79 vs Europa FC",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127855/kf-shkendija-79_europa-fc/info",
+      "slug": "kf-shkendija-79-vs-europa-fc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "NK Aluminij vs FC Sheriff",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "nk-aluminij-vs-fc-sheriff"
+        },
+        {
+          "title": "KF Ballkani vs Connah's Quay Nomads",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "kf-ballkani-vs-connah-s-quay-nomads"
+        },
+        {
+          "title": "Sileks Kratovo vs Dinamo Minsk",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "sileks-kratovo-vs-dinamo-minsk"
+        }
+      ]
+    },
+    {
+      "title": "FK Mornar vs Atlétic Escaldes",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127786/fk-mornar_atletic-escaldes/info",
+      "slug": "fk-mornar-vs-atletic-escaldes",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Linfield FC vs JK Nõmme Kalju",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "linfield-fc-vs-jk-nomme-kalju"
+        }
+      ]
+    },
+    {
+      "title": "Linfield FC vs JK Nõmme Kalju",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127861/linfield-fc_jk-nomme-kalju/info",
+      "slug": "linfield-fc-vs-jk-nomme-kalju",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FK Mornar vs Atlétic Escaldes",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "fk-mornar-vs-atletic-escaldes"
+        }
+      ]
+    },
+    {
+      "title": "SS Virtus vs Dila Gori",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12127843/ss-virtus_dila-gori/info",
+      "slug": "ss-virtus-vs-dila-gori",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Indiana Fever vs Golden State Valkyries",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/wnba/ma11863162/indiana-fever_golden-state-valkyries/info",
+      "slug": "indiana-fever-vs-golden-state-valkyries",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Daniel Merida Aguilar vs Titouan Droguet",
+      "time": "16:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kroatien-konzum-croatia-open/ma11759683/daniel-merida-aguilar_titouan-droguet/info",
+      "slug": "daniel-merida-aguilar-vs-titouan-droguet",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Damir Džumhur vs Matteo Arnaldi",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kroatien-konzum-croatia-open/ma11759686/damir-dzumhur_matteo-arnaldi/info",
+      "slug": "damir-dzumhur-vs-matteo-arnaldi",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Roman Burruchaga vs Camilo Ugo Carabelli",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kroatien-konzum-croatia-open/ma11759680/roman-burruchaga_camilo-ugo-carabelli/info",
+      "slug": "roman-burruchaga-vs-camilo-ugo-carabelli",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Barbora Krejčíková vs Carole Monnet",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "barbora-krejcikova-vs-carole-monnet"
+        }
+      ]
+    },
+    {
+      "title": "Alex Molčan vs Alejandro Davidovich Fokina",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kroatien-konzum-croatia-open/ma11759689/alex-molcan_alejandro-davidovich-fokina/info",
+      "slug": "alex-molcan-vs-alejandro-davidovich-fokina",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Nikoloz Basilashvili vs Thiago Tirante",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-schweden-skistar-swedish-open/ma11755816/nikoloz-basilashvili_thiago-tirante/info",
+      "slug": "nikoloz-basilashvili-vs-thiago-tirante",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Andrey Rublev vs Andrea Pellegrino",
+      "time": "12:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-schweden-skistar-swedish-open/ma11755807/andrey-rublev_andrea-pellegrino/info",
+      "slug": "andrey-rublev-vs-andrea-pellegrino",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alejandro Tabilo vs Lautaro Midon",
+      "time": "13:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-schweden-skistar-swedish-open/ma11755813/alejandro-tabilo_lautaro-midon/info",
+      "slug": "alejandro-tabilo-vs-lautaro-midon",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Jesper De Jong vs Sebastian Baez",
+      "time": "14:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-schweden-skistar-swedish-open/ma11755810/jesper-de-jong_sebastian-baez/info",
+      "slug": "jesper-de-jong-vs-sebastian-baez",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Juan Manuel Cerundolo vs Miomir Kecmanović",
+      "time": "10:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-schweiz-credit-agricole-suisse-open/ma11755918/juan-manuel-cerundolo_miomir-kecmanovic/info",
+      "slug": "juan-manuel-cerundolo-vs-miomir-kecmanovic",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Jaime Faria vs Casper Ruud",
+      "time": "12:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-schweiz-credit-agricole-suisse-open/ma11755921/jaime-faria_casper-ruud/info",
+      "slug": "jaime-faria-vs-casper-ruud",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Maiar Sherif vs Kaitlin Quevedo",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "maiar-sherif-vs-kaitlin-quevedo"
+        }
+      ]
+    },
+    {
+      "title": "Jerome Kym vs Stefanos Tsitsipas",
+      "time": "14:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-schweiz-credit-agricole-suisse-open/ma11755909/jerome-kym_stefanos-tsitsipas/info",
+      "slug": "jerome-kym-vs-stefanos-tsitsipas",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alexander Bublik vs Quentin Halys",
+      "time": "15:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-schweiz-credit-agricole-suisse-open/ma11755900/alexander-bublik_quentin-halys/info",
+      "slug": "alexander-bublik-vs-quentin-halys",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alexander Shevchenko vs Dominic Stricker",
+      "time": "17:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-schweiz-credit-agricole-suisse-open/ma11755903/alexander-shevchenko_dominic-stricker/info",
+      "slug": "alexander-shevchenko-vs-dominic-stricker",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alina Korneeva vs Ann Li",
+      "time": "16:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co20369/athen-open/ma12092621/alina-korneeva_ann-li/info",
+      "slug": "alina-korneeva-vs-ann-li",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Tereza Valentová vs Aliaksandra Sasnovich",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "tereza-valentova-vs-aliaksandra-sasnovich"
+        },
+        {
+          "title": "Alevtina Ibragimova vs Paula Badosa",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "alevtina-ibragimova-vs-paula-badosa"
+        }
+      ]
+    },
+    {
+      "title": "Tereza Valentová vs Aliaksandra Sasnovich",
+      "time": "16:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co20369/athen-open/ma12092618/tereza-valentova_aliaksandra-sasnovich/info",
+      "slug": "tereza-valentova-vs-aliaksandra-sasnovich",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Alina Korneeva vs Ann Li",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "alina-korneeva-vs-ann-li"
+        },
+        {
+          "title": "Alevtina Ibragimova vs Paula Badosa",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "alevtina-ibragimova-vs-paula-badosa"
+        }
+      ]
+    },
+    {
+      "title": "Barbora Krejčíková vs Carole Monnet",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co20369/athen-open/ma12092606/barbora-krejcikova_carole-monnet/info",
+      "slug": "barbora-krejcikova-vs-carole-monnet",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Roman Burruchaga vs Camilo Ugo Carabelli",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "roman-burruchaga-vs-camilo-ugo-carabelli"
+        }
+      ]
+    },
+    {
+      "title": "Clara Tauson vs Miriana Tona",
+      "time": "19:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co20369/athen-open/ma12092600/clara-tauson_miriana-tona/info",
+      "slug": "clara-tauson-vs-miriana-tona",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Maiar Sherif vs Kaitlin Quevedo",
+      "time": "12:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co14531/iasi-open/ma11780968/maiar-sherif_kaitlin-quevedo/info",
+      "slug": "maiar-sherif-vs-kaitlin-quevedo",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Jaime Faria vs Casper Ruud",
+          "time": "12:00",
+          "sender": "Sportschau Live",
+          "slug": "jaime-faria-vs-casper-ruud"
+        }
+      ]
+    },
+    {
+      "title": "Oleksandra Oliynykova vs Elena Pridankina",
+      "time": "13:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co14531/iasi-open/ma11780971/oleksandra-oliynykova_elena-pridankina/info",
+      "slug": "oleksandra-oliynykova-vs-elena-pridankina",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alevtina Ibragimova vs Paula Badosa",
+      "time": "16:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co14531/iasi-open/ma11780980/alevtina-ibragimova_paula-badosa/info",
+      "slug": "alevtina-ibragimova-vs-paula-badosa",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Alina Korneeva vs Ann Li",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "alina-korneeva-vs-ann-li"
+        },
+        {
+          "title": "Tereza Valentová vs Aliaksandra Sasnovich",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "tereza-valentova-vs-aliaksandra-sasnovich"
+        }
+      ]
+    },
+    {
+      "title": "Panna Udvardy vs Katarzyna Kawa",
+      "time": "17:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co14531/iasi-open/ma11780977/panna-udvardy_katarzyna-kawa/info",
+      "slug": "panna-udvardy-vs-katarzyna-kawa",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "8h von Suzuka | Rennen",
+      "subtitle": "FIM EWC | 3. Station",
+      "sport": "Motorrad-Langstrecke",
+      "sport_slug": "motorrad-langstrecke",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:29",
+      "iso_time": "2026-07-16T01:29:54+02:00",
+      "link": "",
+      "slug": "8h-von-suzuka-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France | 11. Etappe",
+      "subtitle": "Vichy - Nevers (161,3km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:01",
+      "iso_time": "2026-07-16T03:01:30+02:00",
+      "link": "",
+      "slug": "tour-de-france-11-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Welsh Open | Finale",
+      "subtitle": "B. Hawkins - J. Lisowski | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:30",
+      "iso_time": "2026-07-16T04:30:53+02:00",
+      "link": "https://play.hbomax.com/sport/003fd4e1-3b2b-5d43-9236-b9f574aac051?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "welsh-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France | 11. Etappe",
+      "subtitle": "Vichy - Nevers (161,3km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:32",
+      "iso_time": "2026-07-16T06:32:01+02:00",
+      "link": "https://play.hbomax.com/sport/39ba2d84-1fce-5fab-9848-8063372a009d?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-11-etappe",
+      "related_events": []
+    },
+    {
+      "title": "8h von Suzuka | Rennen",
+      "subtitle": "FIM EWC | 3. Station",
+      "sport": "Motorrad-Langstrecke",
+      "sport_slug": "motorrad-langstrecke",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:27",
+      "iso_time": "2026-07-16T08:27:02+02:00",
+      "link": "https://play.hbomax.com/sport/0a6ddb48-afef-5a0b-8a7a-1b2011f8d5a2?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "8h-von-suzuka-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France | 11. Etappe",
+      "subtitle": "Vichy - Nevers (161,3km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:35",
+      "iso_time": "2026-07-16T08:35:49+02:00",
+      "link": "https://play.hbomax.com/sport/a5882419-5cbf-5c92-b179-219e2b1819bc?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-11-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Welsh Open | Finale",
+      "subtitle": "B. Hawkins - J. Lisowski | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:00",
+      "iso_time": "2026-07-16T10:00:03+02:00",
+      "link": "https://play.hbomax.com/sport/0c87a13e-4dc6-526d-aca7-cab3ce17a537?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "welsh-open-finale",
+      "related_events": [
+        {
+          "title": "World Open | Finale",
+          "time": "12:01",
+          "sender": "Eurosport",
+          "slug": "world-open-finale"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 11. Etappe",
+      "subtitle": "Vichy - Nevers (161,3km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:04",
+      "iso_time": "2026-07-16T10:04:24+02:00",
+      "link": "https://play.hbomax.com/sport/d9550178-fb41-5cc3-8858-61216dd7ec2d?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-11-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France | 11. Etappe",
+      "subtitle": "Vichy - Nevers (161,3km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:59",
+      "iso_time": "2026-07-16T11:59:41+02:00",
+      "link": "https://play.hbomax.com/sport/e1a4857c-a681-51e2-834b-8685d255f1c1?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-11-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France | 12. Etappe",
+          "time": "13:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe"
+        },
+        {
+          "title": "Tour de France | 12. Etappe",
+          "time": "13:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe"
+        },
+        {
+          "title": "Tour de France | 12. Etappe",
+          "time": "13:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe"
+        }
+      ]
+    },
+    {
+      "title": "World Open | Finale",
+      "subtitle": "B. Hawkins - J. Lisowski | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:01",
+      "iso_time": "2026-07-16T12:01:25+02:00",
+      "link": "https://play.hbomax.com/sport/3bb840ed-9d7c-5fee-aab8-3c652ba53c4b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "world-open-finale",
+      "related_events": [
+        {
+          "title": "Welsh Open | Finale",
+          "time": "10:00",
+          "sender": "Eurosport",
+          "slug": "welsh-open-finale"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 12. Etappe",
+      "subtitle": "Internationaler Kommentar | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:15",
+      "iso_time": "2026-07-16T13:15:00+02:00",
+      "link": "https://play.hbomax.com/sport/bb8874d3-6323-5554-a9b5-ec679ffc9ff8?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-12-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France | 11. Etappe",
+          "time": "11:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-11-etappe"
+        },
+        {
+          "title": "Tour de France | 12. Etappe | Multi-Screen 3",
+          "time": "13:40",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe-multi-screen-3"
+        },
+        {
+          "title": "Tour de France | 12. Etappe | Multiview",
+          "time": "13:40",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe-multiview"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 12. Etappe",
+      "subtitle": "Deutscher Kommentar | Circuit Nevers Magny-Cours - Chalon-sur-Saône (179,1km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:15",
+      "iso_time": "2026-07-16T13:15:00+02:00",
+      "link": "https://play.hbomax.com/sport/87d168db-bb8c-56f4-8f33-993bfd22a666?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-12-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France | 11. Etappe",
+          "time": "11:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-11-etappe"
+        },
+        {
+          "title": "Tour de France | 12. Etappe | Multi-Screen 3",
+          "time": "13:40",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe-multi-screen-3"
+        },
+        {
+          "title": "Tour de France | 12. Etappe | Multiview",
+          "time": "13:40",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe-multiview"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 12. Etappe",
+      "subtitle": "Circuit Nevers Magny-Cours - Chalon-sur-Saône (179,1km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:15",
+      "iso_time": "2026-07-16T13:15:00+02:00",
+      "link": "https://play.hbomax.com/sport/1668b23b-36cb-5f70-bc1e-7c82a82cd7d2?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-12-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France | 11. Etappe",
+          "time": "11:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-11-etappe"
+        },
+        {
+          "title": "Tour de France | 12. Etappe | Multi-Screen 3",
+          "time": "13:40",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe-multi-screen-3"
+        },
+        {
+          "title": "Tour de France | 12. Etappe | Multiview",
+          "time": "13:40",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe-multiview"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 12. Etappe | Multi-Screen 3",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:40",
+      "iso_time": "2026-07-16T13:40:00+02:00",
+      "link": "https://play.hbomax.com/sport/43960d1b-3533-5f89-a931-59d652647ee8?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-12-etappe-multi-screen-3",
+      "related_events": [
+        {
+          "title": "Tour de France | 11. Etappe",
+          "time": "11:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-11-etappe"
+        },
+        {
+          "title": "Tour de France | 12. Etappe",
+          "time": "13:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe"
+        },
+        {
+          "title": "Tour de France | 12. Etappe",
+          "time": "13:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 12. Etappe | Multiview",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:40",
+      "iso_time": "2026-07-16T13:40:00+02:00",
+      "link": "https://play.hbomax.com/sport/9fbc953c-a385-5571-98a6-a9c1b57f35c0?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-12-etappe-multiview",
+      "related_events": [
+        {
+          "title": "Tour de France | 11. Etappe",
+          "time": "11:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-11-etappe"
+        },
+        {
+          "title": "Tour de France | 12. Etappe",
+          "time": "13:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe"
+        },
+        {
+          "title": "Tour de France | 12. Etappe",
+          "time": "13:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 12. Etappe | Multi-Screen 4",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:40",
+      "iso_time": "2026-07-16T13:40:00+02:00",
+      "link": "https://play.hbomax.com/sport/80ed80c4-07fb-56e6-b41e-67923288e30d?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-12-etappe-multi-screen-4",
+      "related_events": [
+        {
+          "title": "Tour de France | 11. Etappe",
+          "time": "11:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-11-etappe"
+        },
+        {
+          "title": "Tour de France | 12. Etappe",
+          "time": "13:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe"
+        },
+        {
+          "title": "Tour de France | 12. Etappe",
+          "time": "13:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 12. Etappe | Multi-Screen 1",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:40",
+      "iso_time": "2026-07-16T13:40:00+02:00",
+      "link": "https://play.hbomax.com/sport/8acb31ec-42f8-5c76-ae42-1bda085508f4?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-12-etappe-multi-screen-1",
+      "related_events": [
+        {
+          "title": "Tour de France | 11. Etappe",
+          "time": "11:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-11-etappe"
+        },
+        {
+          "title": "Tour de France | 12. Etappe",
+          "time": "13:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe"
+        },
+        {
+          "title": "Tour de France | 12. Etappe",
+          "time": "13:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 12. Etappe | Multi-Screen 2",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:40",
+      "iso_time": "2026-07-16T13:40:00+02:00",
+      "link": "https://play.hbomax.com/sport/af180958-022e-544f-ba6b-43bbfcfe1f76?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-12-etappe-multi-screen-2",
+      "related_events": [
+        {
+          "title": "Tour de France | 11. Etappe",
+          "time": "11:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-11-etappe"
+        },
+        {
+          "title": "Tour de France | 12. Etappe",
+          "time": "13:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe"
+        },
+        {
+          "title": "Tour de France | 12. Etappe",
+          "time": "13:15",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Australian Open | Finale",
+      "subtitle": "Grand Slam",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:59",
+      "iso_time": "2026-07-16T13:59:05+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "australian-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "World Open | Finale",
+      "subtitle": "B. Hawkins - J. Lisowski | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:00",
+      "iso_time": "2026-07-16T17:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/7bbc5cc3-426d-5b3e-8316-745f201c01cf?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "world-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Velo Club | Tour-Show zur 12. Etappe",
+      "subtitle": "Experten-Talk zur Tour de France",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:45",
+      "iso_time": "2026-07-16T17:45:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "velo-club-tour-show-zur-12-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Velo Club | Tour-Show zur 12. Etappe",
+      "subtitle": "Experten-Talk zur Tour de France",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:45",
+      "iso_time": "2026-07-16T17:45:00+02:00",
+      "link": "https://play.hbomax.com/sport/62f6a943-0ecb-51c8-b4f1-48baedc0b36f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "velo-club-tour-show-zur-12-etappe",
+      "related_events": []
+    },
+    {
+      "title": "UCI Downhill Weltcup | Vallnord-Pal Arinsal | Männer Elite",
+      "subtitle": "WHOOP UCI Mountain Bike World Series | Abfahrt",
+      "sport": "Mountainbike",
+      "sport_slug": "mountainbike",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:15",
+      "iso_time": "2026-07-16T18:15:00+02:00",
+      "link": "https://play.hbomax.com/sport/6bbe5136-a1e1-5eea-8ea0-394b76f7aaff?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "uci-downhill-weltcup-vallnord-pal-arinsal-manner-elite",
+      "related_events": []
+    },
+    {
+      "title": "8h von Suzuka | Rennen",
+      "subtitle": "FIM EWC | 3. Station",
+      "sport": "Motorrad-Langstrecke",
+      "sport_slug": "motorrad-langstrecke",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2026-07-16T18:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/c2fe92a9-ad1a-5176-bcb7-7c3e6b844769?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "8h-von-suzuka-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Chamonix | Speed | Finale",
+      "subtitle": "World Series | Frauen / Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2026-07-16T19:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/607a2216-4aa5-5b60-b57a-87cd763ef5a2?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "chamonix-speed-finale",
+      "related_events": []
+    },
+    {
+      "title": "World Open | Finale",
+      "subtitle": "B. Hawkins - J. Lisowski | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-07-16T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/21430761-f880-5dd7-9053-8595db4605d8?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "world-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Australian Open | Finale",
+      "subtitle": "Grand Slam",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-07-16T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "australian-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France | 12. Etappe",
+      "subtitle": "Circuit Nevers Magny-Cours - Chalon-sur-Saône (179,1km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:30",
+      "iso_time": "2026-07-16T21:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/19a2c1df-8643-53e1-ad28-6b4231337481?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-12-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France Femmes - Road To Yellow",
+          "time": "23:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-femmes-road-to-yellow"
+        }
+      ]
+    },
+    {
+      "title": "World Open | Finale",
+      "subtitle": "B. Hawkins - J. Lisowski | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-07-16T22:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/1df32b49-2383-532b-a3f5-d7e0a8a8883b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "world-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France | 12. Etappe",
+      "subtitle": "Circuit Nevers Magny-Cours - Chalon-sur-Saône (179,1km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-07-16T22:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/155f74d4-710c-5370-a8e9-03661ea798c7?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-12-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France Femmes - Road To Yellow",
+          "time": "23:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-femmes-road-to-yellow"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France Femmes - Road To Yellow",
+      "subtitle": "Radsport-Dokumentation",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:30",
+      "iso_time": "2026-07-16T23:30:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-femmes-road-to-yellow",
+      "related_events": [
+        {
+          "title": "Tour de France | 12. Etappe",
+          "time": "21:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe"
+        },
+        {
+          "title": "Tour de France | 12. Etappe",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe"
+        },
+        {
+          "title": "Tour de France | 12. Etappe",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-12-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 12. Etappe",
+      "subtitle": "Circuit Nevers Magny-Cours - Chalon-sur-Saône (179,1km) | Männer | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-07-17T00:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/7642378b-f54f-5928-8c1e-8b85a364d941?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-12-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France Femmes - Road To Yellow",
+          "time": "23:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-femmes-road-to-yellow"
+        }
+      ]
+    },
+    {
+      "title": "World Open | Finale",
+      "subtitle": "B. Hawkins - J. Lisowski | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-07-17T00:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/fc330ba7-d9da-566f-93b7-e804efd0149f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "world-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Chamonix | Speed | Finale",
+      "subtitle": "World Series | Frauen / Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:30",
+      "iso_time": "2026-07-17T01:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/d146d9f4-2308-5b18-8e6c-3ab6ade05651?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "chamonix-speed-finale",
+      "related_events": []
+    }
+  ]
+}
