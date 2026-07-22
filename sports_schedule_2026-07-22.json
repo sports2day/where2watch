@@ -1,0 +1,947 @@
+{
+  "date": "2026-07-22",
+  "events": [
+    {
+      "title": " vs ",
+      "time": "13:20",
+      "iso_time": "",
+      "sport": "Radsport Straßenrennen",
+      "sport_slug": "radsport-strassenrennen",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/radsport/tour-de-france/ma11702842/ergebnisse",
+      "slug": "vs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Omonia Nikosia vs FK Kairat",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-cl-quali/ma12146968/omonia-nikosia_fk-kairat/info",
+      "slug": "omonia-nikosia-vs-fk-kairat",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Bohemian FC vs KF Ballkani",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "bohemian-fc-vs-kf-ballkani"
+        }
+      ]
+    },
+    {
+      "title": "Levski Sofia vs CS Universitatea Craiova",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-cl-quali/ma12146962/levski-sofia_cs-universitatea-craiova/info",
+      "slug": "levski-sofia-vs-cs-universitatea-craiova",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Egnatia Rrogozhine vs NK Celje",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-cl-quali/ma12146992/egnatia-rrogozhine_nk-celje/info",
+      "slug": "egnatia-rrogozhine-vs-nk-celje",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Železničar Pančevo vs Sporting Braga",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "zeleznicar-pancevo-vs-sporting-braga"
+        }
+      ]
+    },
+    {
+      "title": "Neftçi PFK vs ŽFK Budućnost Podgorica",
+      "time": "10:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148438/neftci-pfk_zfk-buducnost-podgorica/info",
+      "slug": "neftci-pfk-vs-zfk-buducnost-podgorica",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Athlone Town vs ZFK Lombardini Skopje",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148456/athlone-town_zfk-lombardini-skopje/info",
+      "slug": "athlone-town-vs-zfk-lombardini-skopje",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Glentoran Belfast vs Riga FC",
+      "time": "14:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148450/glentoran-belfast_riga-fc/info",
+      "slug": "glentoran-belfast-vs-riga-fc",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "KÍ Klaksvík vs WFC Ludogorets Razgrad",
+      "time": "16:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148441/ki-klaksvik_wfc-ludogorets-razgrad/info",
+      "slug": "ki-klaksvik-vs-wfc-ludogorets-razgrad",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "KFF Mitrovica vs WFC Zimbru",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "kff-mitrovica-vs-wfc-zimbru"
+        }
+      ]
+    },
+    {
+      "title": "KFF Mitrovica vs WFC Zimbru",
+      "time": "16:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148444/kff-mitrovica_wfc-zimbru/info",
+      "slug": "kff-mitrovica-vs-wfc-zimbru",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "KÍ Klaksvík vs WFC Ludogorets Razgrad",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "ki-klaksvik-vs-wfc-ludogorets-razgrad"
+        }
+      ]
+    },
+    {
+      "title": "PAOK Saloniki vs Hapoel Katamon",
+      "time": "17:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148435/paok-saloniki_hapoel-katamon/info",
+      "slug": "paok-saloniki-vs-hapoel-katamon",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Czarni Sosnowiec vs WFC Nike Lusso",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148453/czarni-sosnowiec_wfc-nike-lusso/info",
+      "slug": "czarni-sosnowiec-vs-wfc-nike-lusso",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Flora vs Mġarr United FC",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-flora-vs-mgarr-united-fc"
+        },
+        {
+          "title": "Neftci Baku vs Dinamo Minsk",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "neftci-baku-vs-dinamo-minsk"
+        }
+      ]
+    },
+    {
+      "title": "FC Flora vs Mġarr United FC",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148459/fc-flora_marr-united-fc/info",
+      "slug": "fc-flora-vs-mgarr-united-fc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Czarni Sosnowiec vs WFC Nike Lusso",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "czarni-sosnowiec-vs-wfc-nike-lusso"
+        },
+        {
+          "title": "Neftci Baku vs Dinamo Minsk",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "neftci-baku-vs-dinamo-minsk"
+        }
+      ]
+    },
+    {
+      "title": "Pyunik FC vs Wrexham AFC",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148447/pyunik-fc_wrexham-afc/info",
+      "slug": "pyunik-fc-vs-wrexham-afc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Vardar Skopje vs Riga FC",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "vardar-skopje-vs-riga-fc"
+        }
+      ]
+    },
+    {
+      "title": "Neftci Baku vs Dinamo Minsk",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12147262/neftci-baku_dinamo-minsk/info",
+      "slug": "neftci-baku-vs-dinamo-minsk",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Czarni Sosnowiec vs WFC Nike Lusso",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "czarni-sosnowiec-vs-wfc-nike-lusso"
+        },
+        {
+          "title": "FC Flora vs Mġarr United FC",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-flora-vs-mgarr-united-fc"
+        }
+      ]
+    },
+    {
+      "title": "Bohemian FC vs KF Ballkani",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12147316/bohemian-fc_kf-ballkani/info",
+      "slug": "bohemian-fc-vs-kf-ballkani",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Omonia Nikosia vs FK Kairat",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "omonia-nikosia-vs-fk-kairat"
+        }
+      ]
+    },
+    {
+      "title": "İstanbul Başakşehir vs Inter Turku",
+      "time": "19:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12147106/stanbul-basaksehir_inter-turku/info",
+      "slug": "istanbul-basaksehir-vs-inter-turku",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Vardar Skopje vs Riga FC",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12147094/vardar-skopje_riga-fc/info",
+      "slug": "vardar-skopje-vs-riga-fc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Pyunik FC vs Wrexham AFC",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "pyunik-fc-vs-wrexham-afc"
+        }
+      ]
+    },
+    {
+      "title": "Spartak Trnava vs CSKA 1948 Sofia",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12147334/spartak-trnava_cska-1948-sofia/info",
+      "slug": "spartak-trnava-vs-cska-1948-sofia",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Železničar Pančevo vs Sporting Braga",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12147274/zeleznicar-pancevo_sporting-braga/info",
+      "slug": "zeleznicar-pancevo-vs-sporting-braga",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Egnatia Rrogozhine vs NK Celje",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "egnatia-rrogozhine-vs-nk-celje"
+        }
+      ]
+    },
+    {
+      "title": "Los Angeles Sparks vs Phoenix Mercury",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/wnba/ma11863201/los-angeles-sparks_phoenix-mercury/info",
+      "slug": "los-angeles-sparks-vs-phoenix-mercury",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Seattle Storm vs Minnesota Lynx",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "seattle-storm-vs-minnesota-lynx"
+        }
+      ]
+    },
+    {
+      "title": "Seattle Storm vs Minnesota Lynx",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/wnba/ma12240670/seattle-storm_minnesota-lynx/info",
+      "slug": "seattle-storm-vs-minnesota-lynx",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Los Angeles Sparks vs Phoenix Mercury",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "los-angeles-sparks-vs-phoenix-mercury"
+        }
+      ]
+    },
+    {
+      "title": "Quentin Halys vs Valentin Vacherot",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-oesterreich-generali-open/ma11759770/quentin-halys_valentin-vacherot/info",
+      "slug": "quentin-halys-vs-valentin-vacherot",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Sebastian Baez vs Arthur Rinderknech",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "sebastian-baez-vs-arthur-rinderknech"
+        },
+        {
+          "title": "Simona Waltert vs Maiar Sherif",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "simona-waltert-vs-maiar-sherif"
+        },
+        {
+          "title": "Ayla Aksu vs Daria Snigur",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "ayla-aksu-vs-daria-snigur"
+        }
+      ]
+    },
+    {
+      "title": "Sebastian Baez vs Arthur Rinderknech",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-oesterreich-generali-open/ma11759764/sebastian-baez_arthur-rinderknech/info",
+      "slug": "sebastian-baez-vs-arthur-rinderknech",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Quentin Halys vs Valentin Vacherot",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "quentin-halys-vs-valentin-vacherot"
+        },
+        {
+          "title": "Simona Waltert vs Maiar Sherif",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "simona-waltert-vs-maiar-sherif"
+        },
+        {
+          "title": "Ayla Aksu vs Daria Snigur",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "ayla-aksu-vs-daria-snigur"
+        }
+      ]
+    },
+    {
+      "title": "Jan-Lennard Struff vs Mariano Navone",
+      "time": "12:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-oesterreich-generali-open/ma11759767/jan-lennard-struff_mariano-navone/info",
+      "slug": "jan-lennard-struff-vs-mariano-navone",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Marco Trungelliti vs Yannick Hanfmann",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "marco-trungelliti-vs-yannick-hanfmann"
+        },
+        {
+          "title": "Kilian Feldbausch vs Ignacio Buse",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "kilian-feldbausch-vs-ignacio-buse"
+        },
+        {
+          "title": "Katarzyna Kawa vs Paula Badosa",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "katarzyna-kawa-vs-paula-badosa"
+        }
+      ]
+    },
+    {
+      "title": "Marco Trungelliti vs Yannick Hanfmann",
+      "time": "12:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-oesterreich-generali-open/ma11759761/marco-trungelliti_yannick-hanfmann/info",
+      "slug": "marco-trungelliti-vs-yannick-hanfmann",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Jan-Lennard Struff vs Mariano Navone",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "jan-lennard-struff-vs-mariano-navone"
+        },
+        {
+          "title": "Kilian Feldbausch vs Ignacio Buse",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "kilian-feldbausch-vs-ignacio-buse"
+        },
+        {
+          "title": "Katarzyna Kawa vs Paula Badosa",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "katarzyna-kawa-vs-paula-badosa"
+        }
+      ]
+    },
+    {
+      "title": "Kilian Feldbausch vs Ignacio Buse",
+      "time": "12:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-oesterreich-generali-open/ma11759758/kilian-feldbausch_ignacio-buse/info",
+      "slug": "kilian-feldbausch-vs-ignacio-buse",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Jan-Lennard Struff vs Mariano Navone",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "jan-lennard-struff-vs-mariano-navone"
+        },
+        {
+          "title": "Marco Trungelliti vs Yannick Hanfmann",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "marco-trungelliti-vs-yannick-hanfmann"
+        },
+        {
+          "title": "Katarzyna Kawa vs Paula Badosa",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "katarzyna-kawa-vs-paula-badosa"
+        }
+      ]
+    },
+    {
+      "title": "Tomas Martin Etcheverry vs Jurij Rodionov",
+      "time": "13:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-oesterreich-generali-open/ma11759755/tomas-martin-etcheverry_jurij-rodionov/info",
+      "slug": "tomas-martin-etcheverry-vs-jurij-rodionov",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Alex Molčan vs Daniel Altmaier",
+          "time": "13:20",
+          "sender": "Sportschau Live",
+          "slug": "alex-molcan-vs-daniel-altmaier"
+        },
+        {
+          "title": "Tamara Korpatsch vs Julia Stusek",
+          "time": "13:20",
+          "sender": "Sportschau Live",
+          "slug": "tamara-korpatsch-vs-julia-stusek"
+        },
+        {
+          "title": "Maya Joint vs Tereza Valentová",
+          "time": "13:20",
+          "sender": "Sportschau Live",
+          "slug": "maya-joint-vs-tereza-valentova"
+        }
+      ]
+    },
+    {
+      "title": "Alex Molčan vs Daniel Altmaier",
+      "time": "13:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-oesterreich-generali-open/ma11759752/alex-molcan_daniel-altmaier/info",
+      "slug": "alex-molcan-vs-daniel-altmaier",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Tomas Martin Etcheverry vs Jurij Rodionov",
+          "time": "13:20",
+          "sender": "Sportschau Live",
+          "slug": "tomas-martin-etcheverry-vs-jurij-rodionov"
+        },
+        {
+          "title": "Tamara Korpatsch vs Julia Stusek",
+          "time": "13:20",
+          "sender": "Sportschau Live",
+          "slug": "tamara-korpatsch-vs-julia-stusek"
+        },
+        {
+          "title": "Maya Joint vs Tereza Valentová",
+          "time": "13:20",
+          "sender": "Sportschau Live",
+          "slug": "maya-joint-vs-tereza-valentova"
+        }
+      ]
+    },
+    {
+      "title": "Alexander Bublik vs Facundo Díaz Acosta",
+      "time": "14:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-oesterreich-generali-open/ma11759749/alexander-bublik_facundo-diaz-acosta/info",
+      "slug": "alexander-bublik-vs-facundo-diaz-acosta",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dominika Salkova vs Oceane Dodin",
+          "time": "14:30",
+          "sender": "Sportschau Live",
+          "slug": "dominika-salkova-vs-oceane-dodin"
+        }
+      ]
+    },
+    {
+      "title": "Hugo Gaston vs Titouan Droguet",
+      "time": "13:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-portugal-estoril-open/ma11759851/hugo-gaston_titouan-droguet/info",
+      "slug": "hugo-gaston-vs-titouan-droguet",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Nuno Borges vs Roman Burruchaga",
+      "time": "15:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-portugal-estoril-open/ma11759854/nuno-borges_roman-burruchaga/info",
+      "slug": "nuno-borges-vs-roman-burruchaga",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alejandro Tabilo vs Tiago Torres",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-portugal-estoril-open/ma11759848/alejandro-tabilo_tiago-torres/info",
+      "slug": "alejandro-tabilo-vs-tiago-torres",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Kyrian Jacquet vs Alexander Blockx",
+      "time": "19:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-portugal-estoril-open/ma11759857/kyrian-jacquet_alexander-blockx/info",
+      "slug": "kyrian-jacquet-vs-alexander-blockx",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Simona Waltert vs Maiar Sherif",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co6518/hamburg-open/ma11780848/simona-waltert_maiar-sherif/info",
+      "slug": "simona-waltert-vs-maiar-sherif",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Quentin Halys vs Valentin Vacherot",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "quentin-halys-vs-valentin-vacherot"
+        },
+        {
+          "title": "Sebastian Baez vs Arthur Rinderknech",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "sebastian-baez-vs-arthur-rinderknech"
+        },
+        {
+          "title": "Ayla Aksu vs Daria Snigur",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "ayla-aksu-vs-daria-snigur"
+        }
+      ]
+    },
+    {
+      "title": "Tessa Johanna Brockmann vs Elsa Jacquemot",
+      "time": "11:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co6518/hamburg-open/ma11780851/tessa-johanna-brockmann_elsa-jacquemot/info",
+      "slug": "tessa-johanna-brockmann-vs-elsa-jacquemot",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Katarzyna Kawa vs Paula Badosa",
+      "time": "12:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co6518/hamburg-open/ma11780854/katarzyna-kawa_paula-badosa/info",
+      "slug": "katarzyna-kawa-vs-paula-badosa",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Jan-Lennard Struff vs Mariano Navone",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "jan-lennard-struff-vs-mariano-navone"
+        },
+        {
+          "title": "Marco Trungelliti vs Yannick Hanfmann",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "marco-trungelliti-vs-yannick-hanfmann"
+        },
+        {
+          "title": "Kilian Feldbausch vs Ignacio Buse",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "kilian-feldbausch-vs-ignacio-buse"
+        }
+      ]
+    },
+    {
+      "title": "Maria Lourdes Carle vs Anhelina Kalinina",
+      "time": "10:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co6518/hamburg-open/ma11780893/maria-lourdes-carle_anhelina-kalinina/info",
+      "slug": "maria-lourdes-carle-vs-anhelina-kalinina",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alina Charaeva vs Sinja Kraus",
+      "time": "12:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co6518/hamburg-open/ma11780881/alina-charaeva_sinja-kraus/info",
+      "slug": "alina-charaeva-vs-sinja-kraus",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Tamara Korpatsch vs Julia Stusek",
+      "time": "13:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co6518/hamburg-open/ma11780890/tamara-korpatsch_julia-stusek/info",
+      "slug": "tamara-korpatsch-vs-julia-stusek",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Tomas Martin Etcheverry vs Jurij Rodionov",
+          "time": "13:20",
+          "sender": "Sportschau Live",
+          "slug": "tomas-martin-etcheverry-vs-jurij-rodionov"
+        },
+        {
+          "title": "Alex Molčan vs Daniel Altmaier",
+          "time": "13:20",
+          "sender": "Sportschau Live",
+          "slug": "alex-molcan-vs-daniel-altmaier"
+        },
+        {
+          "title": "Maya Joint vs Tereza Valentová",
+          "time": "13:20",
+          "sender": "Sportschau Live",
+          "slug": "maya-joint-vs-tereza-valentova"
+        }
+      ]
+    },
+    {
+      "title": "Anna Bondar vs Noma Noha Akugue",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co6518/hamburg-open/ma11780878/anna-bondar_noma-noha-akugue/info",
+      "slug": "anna-bondar-vs-noma-noha-akugue",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Ayla Aksu vs Daria Snigur",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-tschechien-prague-open/ma11781067/ayla-aksu_daria-snigur/info",
+      "slug": "ayla-aksu-vs-daria-snigur",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Quentin Halys vs Valentin Vacherot",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "quentin-halys-vs-valentin-vacherot"
+        },
+        {
+          "title": "Sebastian Baez vs Arthur Rinderknech",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "sebastian-baez-vs-arthur-rinderknech"
+        },
+        {
+          "title": "Simona Waltert vs Maiar Sherif",
+          "time": "11:00",
+          "sender": "Sportschau Live",
+          "slug": "simona-waltert-vs-maiar-sherif"
+        }
+      ]
+    },
+    {
+      "title": "Marie Bouzkova vs Carol Lee",
+      "time": "12:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-tschechien-prague-open/ma11781058/marie-bouzkova_carol-lee/info",
+      "slug": "marie-bouzkova-vs-carol-lee",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Jan-Lennard Struff vs Mariano Navone",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "jan-lennard-struff-vs-mariano-navone"
+        },
+        {
+          "title": "Marco Trungelliti vs Yannick Hanfmann",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "marco-trungelliti-vs-yannick-hanfmann"
+        },
+        {
+          "title": "Kilian Feldbausch vs Ignacio Buse",
+          "time": "12:10",
+          "sender": "Sportschau Live",
+          "slug": "kilian-feldbausch-vs-ignacio-buse"
+        }
+      ]
+    },
+    {
+      "title": "Maya Joint vs Tereza Valentová",
+      "time": "13:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-tschechien-prague-open/ma11781061/maya-joint_tereza-valentova/info",
+      "slug": "maya-joint-vs-tereza-valentova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Tomas Martin Etcheverry vs Jurij Rodionov",
+          "time": "13:20",
+          "sender": "Sportschau Live",
+          "slug": "tomas-martin-etcheverry-vs-jurij-rodionov"
+        },
+        {
+          "title": "Alex Molčan vs Daniel Altmaier",
+          "time": "13:20",
+          "sender": "Sportschau Live",
+          "slug": "alex-molcan-vs-daniel-altmaier"
+        },
+        {
+          "title": "Tamara Korpatsch vs Julia Stusek",
+          "time": "13:20",
+          "sender": "Sportschau Live",
+          "slug": "tamara-korpatsch-vs-julia-stusek"
+        }
+      ]
+    },
+    {
+      "title": "Dominika Salkova vs Oceane Dodin",
+      "time": "14:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-tschechien-prague-open/ma11781076/dominika-salkova_oceane-dodin/info",
+      "slug": "dominika-salkova-vs-oceane-dodin",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Alexander Bublik vs Facundo Díaz Acosta",
+          "time": "14:30",
+          "sender": "Sportschau Live",
+          "slug": "alexander-bublik-vs-facundo-diaz-acosta"
+        }
+      ]
+    }
+  ]
+}
