@@ -1,0 +1,808 @@
+{
+  "date": "2026-08-02",
+  "events": [
+    {
+      "title": " vs ",
+      "time": "14:30",
+      "iso_time": "",
+      "sport": "Radsport Straßenrennen",
+      "sport_slug": "radsport-strassenrennen",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/radsport/tour-de-france-frauen/ma11702878/ergebnisse",
+      "slug": "vs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Wolfsberger AC vs Austria Wien",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/oesterreich-bundesliga/ma12168247/wolfsberger-ac_austria-wien/info",
+      "slug": "wolfsberger-ac-vs-austria-wien",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Austria Lustenau vs SV Ried",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "austria-lustenau-vs-sv-ried"
+        }
+      ]
+    },
+    {
+      "title": "Austria Lustenau vs SV Ried",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/oesterreich-bundesliga/ma12168250/austria-lustenau_sv-ried/info",
+      "slug": "austria-lustenau-vs-sv-ried",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Wolfsberger AC vs Austria Wien",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "wolfsberger-ac-vs-austria-wien"
+        }
+      ]
+    },
+    {
+      "title": "Rapid Wien vs SCR Altach",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/oesterreich-bundesliga/ma12168253/rapid-wien_scr-altach/info",
+      "slug": "rapid-wien-vs-scr-altach",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "FC Vaduz vs FC St. Gallen",
+      "time": "14:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/schweiz-super-league/ma12133810/fc-vaduz_fc-st-gallen/info",
+      "slug": "fc-vaduz-vs-fc-st-gallen",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "FC Sion vs FC Luzern",
+      "time": "16:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/schweiz-super-league/ma12133813/fc-sion_fc-luzern/info",
+      "slug": "fc-sion-vs-fc-luzern",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Grasshopper Club Zürich vs FC Lugano",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "grasshopper-club-zurich-vs-fc-lugano"
+        }
+      ]
+    },
+    {
+      "title": "Grasshopper Club Zürich vs FC Lugano",
+      "time": "16:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/schweiz-super-league/ma12133816/grasshopper-club-zuerich_fc-lugano/info",
+      "slug": "grasshopper-club-zurich-vs-fc-lugano",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Sion vs FC Luzern",
+          "time": "16:30",
+          "sender": "Sportschau Live",
+          "slug": "fc-sion-vs-fc-luzern"
+        }
+      ]
+    },
+    {
+      "title": "Minnesota Lynx vs Indiana Fever",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/wnba/ma11863255/minnesota-lynx_indiana-fever/info",
+      "slug": "minnesota-lynx-vs-indiana-fever",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Portland Fire vs Los Angeles Sparks",
+      "time": "21:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/wnba/ma11863258/portland-fire_los-angeles-sparks/info",
+      "slug": "portland-fire-vs-los-angeles-sparks",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Michael Zheng vs Miomir Kecmanović",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761393/michael-zheng_miomir-kecmanovic/info",
+      "slug": "michael-zheng-vs-miomir-kecmanovic",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Adolfo Daniel Vallejo vs Juncheng Shang",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "adolfo-daniel-vallejo-vs-juncheng-shang"
+        },
+        {
+          "title": "Aleksandar Kovacevic vs Nuno Borges",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "aleksandar-kovacevic-vs-nuno-borges"
+        },
+        {
+          "title": "Jaume Munar vs Rinky Hijikata",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "jaume-munar-vs-rinky-hijikata"
+        }
+      ]
+    },
+    {
+      "title": "Adolfo Daniel Vallejo vs Juncheng Shang",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761381/adolfo-daniel-vallejo_juncheng-shang/info",
+      "slug": "adolfo-daniel-vallejo-vs-juncheng-shang",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Michael Zheng vs Miomir Kecmanović",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "michael-zheng-vs-miomir-kecmanovic"
+        },
+        {
+          "title": "Aleksandar Kovacevic vs Nuno Borges",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "aleksandar-kovacevic-vs-nuno-borges"
+        },
+        {
+          "title": "Jaume Munar vs Rinky Hijikata",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "jaume-munar-vs-rinky-hijikata"
+        }
+      ]
+    },
+    {
+      "title": "Aleksandar Kovacevic vs Nuno Borges",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761369/aleksandar-kovacevic_nuno-borges/info",
+      "slug": "aleksandar-kovacevic-vs-nuno-borges",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Michael Zheng vs Miomir Kecmanović",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "michael-zheng-vs-miomir-kecmanovic"
+        },
+        {
+          "title": "Adolfo Daniel Vallejo vs Juncheng Shang",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "adolfo-daniel-vallejo-vs-juncheng-shang"
+        },
+        {
+          "title": "Jaume Munar vs Rinky Hijikata",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "jaume-munar-vs-rinky-hijikata"
+        }
+      ]
+    },
+    {
+      "title": "Jaume Munar vs Rinky Hijikata",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761321/jaume-munar_rinky-hijikata/info",
+      "slug": "jaume-munar-vs-rinky-hijikata",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Michael Zheng vs Miomir Kecmanović",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "michael-zheng-vs-miomir-kecmanovic"
+        },
+        {
+          "title": "Adolfo Daniel Vallejo vs Juncheng Shang",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "adolfo-daniel-vallejo-vs-juncheng-shang"
+        },
+        {
+          "title": "Aleksandar Kovacevic vs Nuno Borges",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "aleksandar-kovacevic-vs-nuno-borges"
+        }
+      ]
+    },
+    {
+      "title": "Aleksandar Vukic vs Daniel Altmaier",
+      "time": "18:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761402/aleksandar-vukic_daniel-altmaier/info",
+      "slug": "aleksandar-vukic-vs-daniel-altmaier",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "James Duckworth vs Christopher O'Connell",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "james-duckworth-vs-christopher-o-connell"
+        },
+        {
+          "title": "Matteo Berrettini vs Mariano Navone",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "matteo-berrettini-vs-mariano-navone"
+        },
+        {
+          "title": "Nicolas Mejia vs Martín Landaluce",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "nicolas-mejia-vs-martin-landaluce"
+        }
+      ]
+    },
+    {
+      "title": "James Duckworth vs Christopher O'Connell",
+      "time": "18:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761357/james-duckworth_christopher-oconnell/info",
+      "slug": "james-duckworth-vs-christopher-o-connell",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Aleksandar Vukic vs Daniel Altmaier",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "aleksandar-vukic-vs-daniel-altmaier"
+        },
+        {
+          "title": "Matteo Berrettini vs Mariano Navone",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "matteo-berrettini-vs-mariano-navone"
+        },
+        {
+          "title": "Nicolas Mejia vs Martín Landaluce",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "nicolas-mejia-vs-martin-landaluce"
+        }
+      ]
+    },
+    {
+      "title": "Matteo Berrettini vs Mariano Navone",
+      "time": "18:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761342/matteo-berrettini_mariano-navone/info",
+      "slug": "matteo-berrettini-vs-mariano-navone",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Aleksandar Vukic vs Daniel Altmaier",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "aleksandar-vukic-vs-daniel-altmaier"
+        },
+        {
+          "title": "James Duckworth vs Christopher O'Connell",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "james-duckworth-vs-christopher-o-connell"
+        },
+        {
+          "title": "Nicolas Mejia vs Martín Landaluce",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "nicolas-mejia-vs-martin-landaluce"
+        }
+      ]
+    },
+    {
+      "title": "Nicolas Mejia vs Martín Landaluce",
+      "time": "18:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761333/nicolas-mejia_martin-landaluce/info",
+      "slug": "nicolas-mejia-vs-martin-landaluce",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Aleksandar Vukic vs Daniel Altmaier",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "aleksandar-vukic-vs-daniel-altmaier"
+        },
+        {
+          "title": "James Duckworth vs Christopher O'Connell",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "james-duckworth-vs-christopher-o-connell"
+        },
+        {
+          "title": "Matteo Berrettini vs Mariano Navone",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "matteo-berrettini-vs-mariano-navone"
+        }
+      ]
+    },
+    {
+      "title": "Luca Van Assche vs Titouan Droguet",
+      "time": "19:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761405/luca-van-assche_titouan-droguet/info",
+      "slug": "luca-van-assche-vs-titouan-droguet",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Marton Fucsovics vs Corentin Moutet",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "marton-fucsovics-vs-corentin-moutet"
+        },
+        {
+          "title": "Magdalena Frech vs Leolia Jeanjean",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "magdalena-frech-vs-leolia-jeanjean"
+        }
+      ]
+    },
+    {
+      "title": "Marton Fucsovics vs Corentin Moutet",
+      "time": "19:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761330/marton-fucsovics_corentin-moutet/info",
+      "slug": "marton-fucsovics-vs-corentin-moutet",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Luca Van Assche vs Titouan Droguet",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "luca-van-assche-vs-titouan-droguet"
+        },
+        {
+          "title": "Magdalena Frech vs Leolia Jeanjean",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "magdalena-frech-vs-leolia-jeanjean"
+        }
+      ]
+    },
+    {
+      "title": "Brandon Nakashima vs Taylor Fritz",
+      "time": "00:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-citi-open/ma11760067/brandon-nakashima_taylor-fritz/info",
+      "slug": "brandon-nakashima-vs-taylor-fritz",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Rafael Jodar vs Alejandro Tabilo",
+      "time": "02:35",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-citi-open/ma11760070/rafael-jodar_alejandro-tabilo/info",
+      "slug": "rafael-jodar-vs-alejandro-tabilo",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Taylor Fritz vs Rafael Jodar",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-citi-open/ma11760073/taylor-fritz_rafael-jodar/info",
+      "slug": "taylor-fritz-vs-rafael-jodar",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Jessica Bouzas Maneiro vs Ariana Arseneault",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782735/jessica-bouzas-maneiro_ariana-arseneault/info",
+      "slug": "jessica-bouzas-maneiro-vs-ariana-arseneault",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Michael Zheng vs Miomir Kecmanović",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "michael-zheng-vs-miomir-kecmanovic"
+        },
+        {
+          "title": "Adolfo Daniel Vallejo vs Juncheng Shang",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "adolfo-daniel-vallejo-vs-juncheng-shang"
+        },
+        {
+          "title": "Aleksandar Kovacevic vs Nuno Borges",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "aleksandar-kovacevic-vs-nuno-borges"
+        }
+      ]
+    },
+    {
+      "title": "Moyuka Uchijima vs Cristina Bucsa",
+      "time": "18:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782711/moyuka-uchijima_cristina-bucsa/info",
+      "slug": "moyuka-uchijima-vs-cristina-bucsa",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Aleksandar Vukic vs Daniel Altmaier",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "aleksandar-vukic-vs-daniel-altmaier"
+        },
+        {
+          "title": "James Duckworth vs Christopher O'Connell",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "james-duckworth-vs-christopher-o-connell"
+        },
+        {
+          "title": "Matteo Berrettini vs Mariano Navone",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "matteo-berrettini-vs-mariano-navone"
+        }
+      ]
+    },
+    {
+      "title": "Xiyu Wang vs Sara Bejlek",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782798/xiyu-wang_sara-bejlek/info",
+      "slug": "xiyu-wang-vs-sara-bejlek",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Kimberly Birrell vs Viktorija Golubic",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "kimberly-birrell-vs-viktorija-golubic"
+        },
+        {
+          "title": "Kamilla Rakhimova vs Venus Williams",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "kamilla-rakhimova-vs-venus-williams"
+        }
+      ]
+    },
+    {
+      "title": "Kimberly Birrell vs Viktorija Golubic",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782795/kimberly-birrell_viktorija-golubic/info",
+      "slug": "kimberly-birrell-vs-viktorija-golubic",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Xiyu Wang vs Sara Bejlek",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "xiyu-wang-vs-sara-bejlek"
+        },
+        {
+          "title": "Kamilla Rakhimova vs Venus Williams",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "kamilla-rakhimova-vs-venus-williams"
+        }
+      ]
+    },
+    {
+      "title": "Kamilla Rakhimova vs Venus Williams",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782762/kamilla-rakhimova_venus-williams/info",
+      "slug": "kamilla-rakhimova-vs-venus-williams",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Xiyu Wang vs Sara Bejlek",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "xiyu-wang-vs-sara-bejlek"
+        },
+        {
+          "title": "Kimberly Birrell vs Viktorija Golubic",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "kimberly-birrell-vs-viktorija-golubic"
+        }
+      ]
+    },
+    {
+      "title": "Magdalena Frech vs Leolia Jeanjean",
+      "time": "19:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782759/magdalena-frech_leolia-jeanjean/info",
+      "slug": "magdalena-frech-vs-leolia-jeanjean",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Luca Van Assche vs Titouan Droguet",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "luca-van-assche-vs-titouan-droguet"
+        },
+        {
+          "title": "Marton Fucsovics vs Corentin Moutet",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "marton-fucsovics-vs-corentin-moutet"
+        }
+      ]
+    },
+    {
+      "title": "Lois Boisson vs Antonia Ruzic",
+      "time": "19:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782786/lois-boisson_antonia-ruzic/info",
+      "slug": "lois-boisson-vs-antonia-ruzic",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Aoi Ito vs Katherine Sebov",
+          "time": "19:40",
+          "sender": "Sportschau Live",
+          "slug": "aoi-ito-vs-katherine-sebov"
+        },
+        {
+          "title": "Lucrezia Stefanini vs Camila Osorio",
+          "time": "19:40",
+          "sender": "Sportschau Live",
+          "slug": "lucrezia-stefanini-vs-camila-osorio"
+        }
+      ]
+    },
+    {
+      "title": "Aoi Ito vs Katherine Sebov",
+      "time": "19:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782783/aoi-ito_katherine-sebov/info",
+      "slug": "aoi-ito-vs-katherine-sebov",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Lois Boisson vs Antonia Ruzic",
+          "time": "19:40",
+          "sender": "Sportschau Live",
+          "slug": "lois-boisson-vs-antonia-ruzic"
+        },
+        {
+          "title": "Lucrezia Stefanini vs Camila Osorio",
+          "time": "19:40",
+          "sender": "Sportschau Live",
+          "slug": "lucrezia-stefanini-vs-camila-osorio"
+        }
+      ]
+    },
+    {
+      "title": "Lucrezia Stefanini vs Camila Osorio",
+      "time": "19:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782726/lucrezia-stefanini_camila-osorio/info",
+      "slug": "lucrezia-stefanini-vs-camila-osorio",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Lois Boisson vs Antonia Ruzic",
+          "time": "19:40",
+          "sender": "Sportschau Live",
+          "slug": "lois-boisson-vs-antonia-ruzic"
+        },
+        {
+          "title": "Aoi Ito vs Katherine Sebov",
+          "time": "19:40",
+          "sender": "Sportschau Live",
+          "slug": "aoi-ito-vs-katherine-sebov"
+        }
+      ]
+    },
+    {
+      "title": "Rebecca Sramkova vs Anna Blinkova",
+      "time": "20:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782774/rebecca-sramkova_anna-blinkova/info",
+      "slug": "rebecca-sramkova-vs-anna-blinkova",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Emerson Jones vs Lanlana Tararudee",
+      "time": "22:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782750/emerson-jones_lanlana-tararudee/info",
+      "slug": "emerson-jones-vs-lanlana-tararudee",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Mccartney Kessler vs Cadence Brace",
+      "time": "23:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782771/mccartney-kessler_cadence-brace/info",
+      "slug": "mccartney-kessler-vs-cadence-brace",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Talia Gibson vs Elisabetta Cocciaretto",
+      "time": "23:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782723/talia-gibson_elisabetta-cocciaretto/info",
+      "slug": "talia-gibson-vs-elisabetta-cocciaretto",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Jessica Pegula vs Alexandra Eala",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-citi-open/ma11781856/jessica-pegula_alexandra-eala/info",
+      "slug": "jessica-pegula-vs-alexandra-eala",
+      "subtitle": "",
+      "related_events": []
+    }
+  ]
+}
