@@ -1,0 +1,2563 @@
+{
+  "date": "2026-08-05",
+  "events": [
+    {
+      "title": " vs ",
+      "time": "14:00",
+      "iso_time": "",
+      "sport": "Radsport Straßenrennen",
+      "sport_slug": "radsport-strassenrennen",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/radsport/tour-de-france-frauen/ma11702899/ergebnisse",
+      "slug": "vs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Aarhus GF vs Sabah FK",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-cl-quali/ma12328270/aarhus-gf_sabah-fk/info",
+      "slug": "aarhus-gf-vs-sabah-fk",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Fenerbahçe vs Sturm Graz",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-cl-quali/ma12328288/fenerbahce_sturm-graz/info",
+      "slug": "fenerbahce-vs-sturm-graz",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Oud-Heverlee Leuven vs TSC Bačka Topola",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "oud-heverlee-leuven-vs-tsc-backa-topola"
+        }
+      ]
+    },
+    {
+      "title": "SK Brann vs KFF Mitrovica",
+      "time": "10:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148474/sk-brann_kff-mitrovica/info",
+      "slug": "sk-brann-vs-kff-mitrovica",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Austria Wien vs Hajduk Split",
+      "time": "11:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148468/austria-wien_hajduk-split/info",
+      "slug": "austria-wien-vs-hajduk-split",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "SFK 2000 Sarajevo vs PSV Eindhoven",
+      "time": "13:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148486/sfk-2000-sarajevo_psv-eindhoven/info",
+      "slug": "sfk-2000-sarajevo-vs-psv-eindhoven",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Kharkiv vs Fenerbahçe",
+          "time": "13:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-kharkiv-vs-fenerbahce"
+        },
+        {
+          "title": "Vålerenga IF vs Malmö FF",
+          "time": "13:00",
+          "sender": "Sportschau Live",
+          "slug": "valerenga-if-vs-malmo-ff"
+        }
+      ]
+    },
+    {
+      "title": "FC Kharkiv vs Fenerbahçe",
+      "time": "13:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148492/fc-kharkiv_fenerbahce/info",
+      "slug": "fc-kharkiv-vs-fenerbahce",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "SFK 2000 Sarajevo vs PSV Eindhoven",
+          "time": "13:00",
+          "sender": "Sportschau Live",
+          "slug": "sfk-2000-sarajevo-vs-psv-eindhoven"
+        },
+        {
+          "title": "Vålerenga IF vs Malmö FF",
+          "time": "13:00",
+          "sender": "Sportschau Live",
+          "slug": "valerenga-if-vs-malmo-ff"
+        }
+      ]
+    },
+    {
+      "title": "Vålerenga IF vs Malmö FF",
+      "time": "13:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148522/valerenga-if_malmoe-ff/info",
+      "slug": "valerenga-if-vs-malmo-ff",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "SFK 2000 Sarajevo vs PSV Eindhoven",
+          "time": "13:00",
+          "sender": "Sportschau Live",
+          "slug": "sfk-2000-sarajevo-vs-psv-eindhoven"
+        },
+        {
+          "title": "FC Kharkiv vs Fenerbahçe",
+          "time": "13:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-kharkiv-vs-fenerbahce"
+        }
+      ]
+    },
+    {
+      "title": "Sporting CP vs SeaSters Odesa",
+      "time": "14:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148528/sporting-cp_seasters-odesa/info",
+      "slug": "sporting-cp-vs-seasters-odesa",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "AFC Ajax vs Brøndby IF",
+      "time": "15:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148510/afc-ajax_broendby-if/info",
+      "slug": "afc-ajax-vs-brondby-if",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Gintra Universitetas vs Heart of Midlothian WFC",
+      "time": "15:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148504/gintra-universitetas_heart-of-midlothian-wfc/info",
+      "slug": "gintra-universitetas-vs-heart-of-midlothian-wfc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Hammarby IF vs KF Apolonia Fier",
+          "time": "15:30",
+          "sender": "Sportschau Live",
+          "slug": "hammarby-if-vs-kf-apolonia-fier"
+        }
+      ]
+    },
+    {
+      "title": "Hammarby IF vs KF Apolonia Fier",
+      "time": "15:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148519/hammarby-if_kf-apolonia-fier/info",
+      "slug": "hammarby-if-vs-kf-apolonia-fier",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Gintra Universitetas vs Heart of Midlothian WFC",
+          "time": "15:30",
+          "sender": "Sportschau Live",
+          "slug": "gintra-universitetas-vs-heart-of-midlothian-wfc"
+        }
+      ]
+    },
+    {
+      "title": "Apollon Limassol vs Czarni Sosnowiec",
+      "time": "16:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148501/apollon-limassol_czarni-sosnowiec/info",
+      "slug": "apollon-limassol-vs-czarni-sosnowiec",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Ferencvárosi TC vs PAOK Saloniki",
+      "time": "16:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148477/ferencvarosi-tc_paok-saloniki/info",
+      "slug": "ferencvarosi-tc-vs-paok-saloniki",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "ŽNK Mura vs Farul Constanța",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148471/znk-mura_farul-constanta/info",
+      "slug": "znk-mura-vs-farul-constanta",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "SKN St. Pölten vs BSC Young Boys",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "skn-st-polten-vs-bsc-young-boys"
+        }
+      ]
+    },
+    {
+      "title": "SKN St. Pölten vs BSC Young Boys",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148531/skn-st-poelten_bsc-young-boys/info",
+      "slug": "skn-st-polten-vs-bsc-young-boys",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "ŽNK Mura vs Farul Constanța",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "znk-mura-vs-farul-constanta"
+        }
+      ]
+    },
+    {
+      "title": "RFCU Luxemburg vs HJK Helsinki",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148489/rfcu-luxemburg_hjk-helsinki/info",
+      "slug": "rfcu-luxemburg-vs-hjk-helsinki",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "HB Køge vs Riga FC",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "hb-koge-vs-riga-fc"
+        },
+        {
+          "title": "Eintracht Frankfurt vs Omonia Nikosia",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "eintracht-frankfurt-vs-omonia-nikosia"
+        },
+        {
+          "title": "SK Brann vs Apollon Limassol",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "sk-brann-vs-apollon-limassol"
+        }
+      ]
+    },
+    {
+      "title": "HB Køge vs Riga FC",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148507/hb-koege_riga-fc/info",
+      "slug": "hb-koge-vs-riga-fc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "RFCU Luxemburg vs HJK Helsinki",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "rfcu-luxemburg-vs-hjk-helsinki"
+        },
+        {
+          "title": "Eintracht Frankfurt vs Omonia Nikosia",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "eintracht-frankfurt-vs-omonia-nikosia"
+        },
+        {
+          "title": "SK Brann vs Apollon Limassol",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "sk-brann-vs-apollon-limassol"
+        }
+      ]
+    },
+    {
+      "title": "Eintracht Frankfurt vs Omonia Nikosia",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148525/eintracht-frankfurt_omonia-nikosia/info",
+      "slug": "eintracht-frankfurt-vs-omonia-nikosia",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "RFCU Luxemburg vs HJK Helsinki",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "rfcu-luxemburg-vs-hjk-helsinki"
+        },
+        {
+          "title": "HB Køge vs Riga FC",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "hb-koge-vs-riga-fc"
+        },
+        {
+          "title": "SK Brann vs Apollon Limassol",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "sk-brann-vs-apollon-limassol"
+        }
+      ]
+    },
+    {
+      "title": "Oud-Heverlee Leuven vs TSC Bačka Topola",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148495/oud-heverlee-leuven_tsc-backa-topola/info",
+      "slug": "oud-heverlee-leuven-vs-tsc-backa-topola",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Fenerbahçe vs Sturm Graz",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "fenerbahce-vs-sturm-graz"
+        }
+      ]
+    },
+    {
+      "title": "FK Vllaznia vs Spartak Myjava",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148498/fk-vllaznia_spartak-myjava/info",
+      "slug": "fk-vllaznia-vs-spartak-myjava",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Slavia Praha vs Rangers WFC",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "slavia-praha-vs-rangers-wfc"
+        },
+        {
+          "title": "Panathinaikos vs CSKA 1948 Sofia",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "panathinaikos-vs-cska-1948-sofia"
+        }
+      ]
+    },
+    {
+      "title": "Slavia Praha vs Rangers WFC",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148513/slavia-praha_rangers-wfc/info",
+      "slug": "slavia-praha-vs-rangers-wfc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FK Vllaznia vs Spartak Myjava",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "fk-vllaznia-vs-spartak-myjava"
+        },
+        {
+          "title": "Panathinaikos vs CSKA 1948 Sofia",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "panathinaikos-vs-cska-1948-sofia"
+        }
+      ]
+    },
+    {
+      "title": "Juventus vs União Torreense",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-champions-league-quali-frauen/ma12148516/juventus_uniao-torreense/info",
+      "slug": "juventus-vs-uniao-torreense",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Ferencvárosi TC vs Górnik Zabrze",
+      "time": "20:15",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-el-quali/ma12328369/ferencvarosi-tc_gornik-zabrze/info",
+      "slug": "ferencvarosi-tc-vs-gornik-zabrze",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "SK Brann vs Apollon Limassol",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12328483/sk-brann_apollon-limassol/info",
+      "slug": "sk-brann-vs-apollon-limassol",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "RFCU Luxemburg vs HJK Helsinki",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "rfcu-luxemburg-vs-hjk-helsinki"
+        },
+        {
+          "title": "HB Køge vs Riga FC",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "hb-koge-vs-riga-fc"
+        },
+        {
+          "title": "Eintracht Frankfurt vs Omonia Nikosia",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "eintracht-frankfurt-vs-omonia-nikosia"
+        }
+      ]
+    },
+    {
+      "title": "Panathinaikos vs CSKA 1948 Sofia",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league-qual/ma12328417/panathinaikos_cska-1948-sofia/info",
+      "slug": "panathinaikos-vs-cska-1948-sofia",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FK Vllaznia vs Spartak Myjava",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "fk-vllaznia-vs-spartak-myjava"
+        },
+        {
+          "title": "Slavia Praha vs Rangers WFC",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "slavia-praha-vs-rangers-wfc"
+        }
+      ]
+    },
+    {
+      "title": "Golden State Valkyries vs Toronto Tempo",
+      "time": "04:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/wnba/ma11863609/golden-state-valkyries_toronto-tempo/info",
+      "slug": "golden-state-valkyries-vs-toronto-tempo",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Jiří Lehečka vs Vit Kopriva",
+      "time": "00:15",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761459/jiri-lehecka_vit-kopriva/info",
+      "slug": "jiri-lehecka-vs-vit-kopriva",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Brandon Nakashima vs Daniel Altmaier",
+      "time": "00:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761501/brandon-nakashima_daniel-altmaier/info",
+      "slug": "brandon-nakashima-vs-daniel-altmaier",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Frances Tiafoe vs Marin Čilić",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761495/frances-tiafoe_marin-cilic/info",
+      "slug": "frances-tiafoe-vs-marin-cilic",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Aryna Sabalenka vs Moyuka Uchijima",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "aryna-sabalenka-vs-moyuka-uchijima"
+        }
+      ]
+    },
+    {
+      "title": "James Duckworth vs Alex de Minaur",
+      "time": "01:25",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761480/james-duckworth_alex-de-minaur/info",
+      "slug": "james-duckworth-vs-alex-de-minaur",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Luciano Darderi vs Gabriel Diallo",
+      "time": "03:35",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761489/luciano-darderi_gabriel-diallo/info",
+      "slug": "luciano-darderi-vs-gabriel-diallo",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Flavio Cobolli vs Yannick Hanfmann",
+          "time": "03:35",
+          "sender": "Sportschau Live",
+          "slug": "flavio-cobolli-vs-yannick-hanfmann"
+        }
+      ]
+    },
+    {
+      "title": "Flavio Cobolli vs Yannick Hanfmann",
+      "time": "03:35",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761483/flavio-cobolli_yannick-hanfmann/info",
+      "slug": "flavio-cobolli-vs-yannick-hanfmann",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Luciano Darderi vs Gabriel Diallo",
+          "time": "03:35",
+          "sender": "Sportschau Live",
+          "slug": "luciano-darderi-vs-gabriel-diallo"
+        }
+      ]
+    },
+    {
+      "title": "Nuno Borges vs Tomas Martin Etcheverry",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761486/nuno-borges_tomas-martin-etcheverry/info",
+      "slug": "nuno-borges-vs-tomas-martin-etcheverry",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Valentin Vacherot vs Mariano Navone",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "valentin-vacherot-vs-mariano-navone"
+        },
+        {
+          "title": "Nicolas Mejia vs Lorenzo Musetti",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "nicolas-mejia-vs-lorenzo-musetti"
+        },
+        {
+          "title": "Zizou Bergs vs Sebastian Baez",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "zizou-bergs-vs-sebastian-baez"
+        }
+      ]
+    },
+    {
+      "title": "Valentin Vacherot vs Mariano Navone",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761471/valentin-vacherot_mariano-navone/info",
+      "slug": "valentin-vacherot-vs-mariano-navone",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Nuno Borges vs Tomas Martin Etcheverry",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "nuno-borges-vs-tomas-martin-etcheverry"
+        },
+        {
+          "title": "Nicolas Mejia vs Lorenzo Musetti",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "nicolas-mejia-vs-lorenzo-musetti"
+        },
+        {
+          "title": "Zizou Bergs vs Sebastian Baez",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "zizou-bergs-vs-sebastian-baez"
+        }
+      ]
+    },
+    {
+      "title": "Nicolas Mejia vs Lorenzo Musetti",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761468/nicolas-mejia_lorenzo-musetti/info",
+      "slug": "nicolas-mejia-vs-lorenzo-musetti",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Nuno Borges vs Tomas Martin Etcheverry",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "nuno-borges-vs-tomas-martin-etcheverry"
+        },
+        {
+          "title": "Valentin Vacherot vs Mariano Navone",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "valentin-vacherot-vs-mariano-navone"
+        },
+        {
+          "title": "Zizou Bergs vs Sebastian Baez",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "zizou-bergs-vs-sebastian-baez"
+        }
+      ]
+    },
+    {
+      "title": "Zizou Bergs vs Sebastian Baez",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761453/zizou-bergs_sebastian-baez/info",
+      "slug": "zizou-bergs-vs-sebastian-baez",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Nuno Borges vs Tomas Martin Etcheverry",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "nuno-borges-vs-tomas-martin-etcheverry"
+        },
+        {
+          "title": "Valentin Vacherot vs Mariano Navone",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "valentin-vacherot-vs-mariano-navone"
+        },
+        {
+          "title": "Nicolas Mejia vs Lorenzo Musetti",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "nicolas-mejia-vs-lorenzo-musetti"
+        }
+      ]
+    },
+    {
+      "title": "Stefanos Tsitsipas vs João Fonseca",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761450/stefanos-tsitsipas_joao-fonseca/info",
+      "slug": "stefanos-tsitsipas-vs-joao-fonseca",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Nuno Borges vs Tomas Martin Etcheverry",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "nuno-borges-vs-tomas-martin-etcheverry"
+        },
+        {
+          "title": "Valentin Vacherot vs Mariano Navone",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "valentin-vacherot-vs-mariano-navone"
+        },
+        {
+          "title": "Nicolas Mejia vs Lorenzo Musetti",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "nicolas-mejia-vs-lorenzo-musetti"
+        }
+      ]
+    },
+    {
+      "title": "Miomir Kecmanović vs Arthur Rinderknech",
+      "time": "18:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761498/miomir-kecmanovic_arthur-rinderknech/info",
+      "slug": "miomir-kecmanovic-vs-arthur-rinderknech",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Zachary Svajda vs Arthur Fils",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "zachary-svajda-vs-arthur-fils"
+        },
+        {
+          "title": "Jenson Brooksby vs Ben Shelton",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "jenson-brooksby-vs-ben-shelton"
+        },
+        {
+          "title": "Casper Ruud vs Juan Manuel Cerundolo",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "casper-ruud-vs-juan-manuel-cerundolo"
+        }
+      ]
+    },
+    {
+      "title": "Zachary Svajda vs Arthur Fils",
+      "time": "18:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761474/zachary-svajda_arthur-fils/info",
+      "slug": "zachary-svajda-vs-arthur-fils",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Miomir Kecmanović vs Arthur Rinderknech",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "miomir-kecmanovic-vs-arthur-rinderknech"
+        },
+        {
+          "title": "Jenson Brooksby vs Ben Shelton",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "jenson-brooksby-vs-ben-shelton"
+        },
+        {
+          "title": "Casper Ruud vs Juan Manuel Cerundolo",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "casper-ruud-vs-juan-manuel-cerundolo"
+        }
+      ]
+    },
+    {
+      "title": "Jenson Brooksby vs Ben Shelton",
+      "time": "18:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761456/jenson-brooksby_ben-shelton/info",
+      "slug": "jenson-brooksby-vs-ben-shelton",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Miomir Kecmanović vs Arthur Rinderknech",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "miomir-kecmanovic-vs-arthur-rinderknech"
+        },
+        {
+          "title": "Zachary Svajda vs Arthur Fils",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "zachary-svajda-vs-arthur-fils"
+        },
+        {
+          "title": "Casper Ruud vs Juan Manuel Cerundolo",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "casper-ruud-vs-juan-manuel-cerundolo"
+        }
+      ]
+    },
+    {
+      "title": "Casper Ruud vs Juan Manuel Cerundolo",
+      "time": "18:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761447/casper-ruud_juan-manuel-cerundolo/info",
+      "slug": "casper-ruud-vs-juan-manuel-cerundolo",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Miomir Kecmanović vs Arthur Rinderknech",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "miomir-kecmanovic-vs-arthur-rinderknech"
+        },
+        {
+          "title": "Zachary Svajda vs Arthur Fils",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "zachary-svajda-vs-arthur-fils"
+        },
+        {
+          "title": "Jenson Brooksby vs Ben Shelton",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "jenson-brooksby-vs-ben-shelton"
+        }
+      ]
+    },
+    {
+      "title": "Ignacio Buse vs Cameron Norrie",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761477/ignacio-buse_cameron-norrie/info",
+      "slug": "ignacio-buse-vs-cameron-norrie",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Daria Kasatkina vs Elena Rybakina",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "daria-kasatkina-vs-elena-rybakina"
+        },
+        {
+          "title": "Sloane Stephens vs Belinda Bencic",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "sloane-stephens-vs-belinda-bencic"
+        },
+        {
+          "title": "Marie Bouzkova vs Taylor Townsend",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "marie-bouzkova-vs-taylor-townsend"
+        }
+      ]
+    },
+    {
+      "title": "Rafael Jodar vs Corentin Moutet",
+      "time": "19:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761465/rafael-jodar_corentin-moutet/info",
+      "slug": "rafael-jodar-vs-corentin-moutet",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Thiago Tirante vs Taylor Fritz",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "thiago-tirante-vs-taylor-fritz"
+        },
+        {
+          "title": "Raphael Collignon vs Alexei Popyrin",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "raphael-collignon-vs-alexei-popyrin"
+        },
+        {
+          "title": "Alexander Zverev vs Tallon Griekspoor",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "alexander-zverev-vs-tallon-griekspoor"
+        }
+      ]
+    },
+    {
+      "title": "Thiago Tirante vs Taylor Fritz",
+      "time": "19:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761432/thiago-tirante_taylor-fritz/info",
+      "slug": "thiago-tirante-vs-taylor-fritz",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Rafael Jodar vs Corentin Moutet",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "rafael-jodar-vs-corentin-moutet"
+        },
+        {
+          "title": "Raphael Collignon vs Alexei Popyrin",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "raphael-collignon-vs-alexei-popyrin"
+        },
+        {
+          "title": "Alexander Zverev vs Tallon Griekspoor",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "alexander-zverev-vs-tallon-griekspoor"
+        }
+      ]
+    },
+    {
+      "title": "Raphael Collignon vs Alexei Popyrin",
+      "time": "19:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761429/raphael-collignon_alexei-popyrin/info",
+      "slug": "raphael-collignon-vs-alexei-popyrin",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Rafael Jodar vs Corentin Moutet",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "rafael-jodar-vs-corentin-moutet"
+        },
+        {
+          "title": "Thiago Tirante vs Taylor Fritz",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "thiago-tirante-vs-taylor-fritz"
+        },
+        {
+          "title": "Alexander Zverev vs Tallon Griekspoor",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "alexander-zverev-vs-tallon-griekspoor"
+        }
+      ]
+    },
+    {
+      "title": "Alexander Zverev vs Tallon Griekspoor",
+      "time": "19:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761411/alexander-zverev_tallon-griekspoor/info",
+      "slug": "alexander-zverev-vs-tallon-griekspoor",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Rafael Jodar vs Corentin Moutet",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "rafael-jodar-vs-corentin-moutet"
+        },
+        {
+          "title": "Thiago Tirante vs Taylor Fritz",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "thiago-tirante-vs-taylor-fritz"
+        },
+        {
+          "title": "Raphael Collignon vs Alexei Popyrin",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "raphael-collignon-vs-alexei-popyrin"
+        }
+      ]
+    },
+    {
+      "title": "Hubert Hurkacz vs Alejandro Tabilo",
+      "time": "19:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761438/hubert-hurkacz_alejandro-tabilo/info",
+      "slug": "hubert-hurkacz-vs-alejandro-tabilo",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Kayla Day vs Coco Gauff",
+          "time": "19:40",
+          "sender": "Sportschau Live",
+          "slug": "kayla-day-vs-coco-gauff"
+        },
+        {
+          "title": "Alina Korneeva vs Emma Navarro",
+          "time": "19:40",
+          "sender": "Sportschau Live",
+          "slug": "alina-korneeva-vs-emma-navarro"
+        },
+        {
+          "title": "Iva Jovic vs Magda Linette",
+          "time": "19:40",
+          "sender": "Sportschau Live",
+          "slug": "iva-jovic-vs-magda-linette"
+        }
+      ]
+    },
+    {
+      "title": "Alex Michelsen vs Francisco Cerúndolo",
+      "time": "20:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761420/alex-michelsen_francisco-cerundolo/info",
+      "slug": "alex-michelsen-vs-francisco-cerundolo",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Elise Mertens vs Anna Bondar",
+          "time": "20:50",
+          "sender": "Sportschau Live",
+          "slug": "elise-mertens-vs-anna-bondar"
+        },
+        {
+          "title": "Maria Sakkari vs Zeynep Sonmez",
+          "time": "20:50",
+          "sender": "Sportschau Live",
+          "slug": "maria-sakkari-vs-zeynep-sonmez"
+        }
+      ]
+    },
+    {
+      "title": "Karen Khachanov vs Terence Atmane",
+      "time": "21:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761441/karen-khachanov_terence-atmane/info",
+      "slug": "karen-khachanov-vs-terence-atmane",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Fabian Marozsan vs Matteo Arnaldi",
+          "time": "21:30",
+          "sender": "Sportschau Live",
+          "slug": "fabian-marozsan-vs-matteo-arnaldi"
+        }
+      ]
+    },
+    {
+      "title": "Fabian Marozsan vs Matteo Arnaldi",
+      "time": "21:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761414/fabian-marozsan_matteo-arnaldi/info",
+      "slug": "fabian-marozsan-vs-matteo-arnaldi",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Karen Khachanov vs Terence Atmane",
+          "time": "21:30",
+          "sender": "Sportschau Live",
+          "slug": "karen-khachanov-vs-terence-atmane"
+        }
+      ]
+    },
+    {
+      "title": "Ugo Humbert vs Daniel Merida Aguilar",
+      "time": "22:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761417/ugo-humbert_daniel-merida-aguilar/info",
+      "slug": "ugo-humbert-vs-daniel-merida-aguilar",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ludmilla Samsonova vs Barbora Krejčíková",
+          "time": "22:00",
+          "sender": "Sportschau Live",
+          "slug": "ludmilla-samsonova-vs-barbora-krejcikova"
+        },
+        {
+          "title": "Sorana Cirstea vs Maya Joint",
+          "time": "22:00",
+          "sender": "Sportschau Live",
+          "slug": "sorana-cirstea-vs-maya-joint"
+        }
+      ]
+    },
+    {
+      "title": "Jacob Fearnley vs Jakub Mensik",
+      "time": "22:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-kanada-rogers-cup/ma11761444/jacob-fearnley_jakub-mensik/info",
+      "slug": "jacob-fearnley-vs-jakub-mensik",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Anna Kalinskaya vs Mccartney Kessler",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782930/anna-kalinskaya_mccartney-kessler/info",
+      "slug": "anna-kalinskaya-vs-mccartney-kessler",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Lanlana Tararudee vs Amanda Anisimova",
+      "time": "00:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782921/lanlana-tararudee_amanda-anisimova/info",
+      "slug": "lanlana-tararudee-vs-amanda-anisimova",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Aryna Sabalenka vs Moyuka Uchijima",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782900/aryna-sabalenka_moyuka-uchijima/info",
+      "slug": "aryna-sabalenka-vs-moyuka-uchijima",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Frances Tiafoe vs Marin Čilić",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "frances-tiafoe-vs-marin-cilic"
+        }
+      ]
+    },
+    {
+      "title": "Clara Tauson vs Nikola Bartunkova",
+      "time": "02:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782918/clara-tauson_nikola-bartunkova/info",
+      "slug": "clara-tauson-vs-nikola-bartunkova",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Ann Li vs Kayla Cross",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782990/ann-li_kayla-cross/info",
+      "slug": "ann-li-vs-kayla-cross",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Nuno Borges vs Tomas Martin Etcheverry",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "nuno-borges-vs-tomas-martin-etcheverry"
+        },
+        {
+          "title": "Valentin Vacherot vs Mariano Navone",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "valentin-vacherot-vs-mariano-navone"
+        },
+        {
+          "title": "Nicolas Mejia vs Lorenzo Musetti",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "nicolas-mejia-vs-lorenzo-musetti"
+        }
+      ]
+    },
+    {
+      "title": "Jessica Pegula vs Magdalena Frech",
+      "time": "18:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782924/jessica-pegula_magdalena-frech/info",
+      "slug": "jessica-pegula-vs-magdalena-frech",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Miomir Kecmanović vs Arthur Rinderknech",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "miomir-kecmanovic-vs-arthur-rinderknech"
+        },
+        {
+          "title": "Zachary Svajda vs Arthur Fils",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "zachary-svajda-vs-arthur-fils"
+        },
+        {
+          "title": "Jenson Brooksby vs Ben Shelton",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "jenson-brooksby-vs-ben-shelton"
+        }
+      ]
+    },
+    {
+      "title": "Daria Kasatkina vs Elena Rybakina",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782993/daria-kasatkina_elena-rybakina/info",
+      "slug": "daria-kasatkina-vs-elena-rybakina",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ignacio Buse vs Cameron Norrie",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "ignacio-buse-vs-cameron-norrie"
+        },
+        {
+          "title": "Sloane Stephens vs Belinda Bencic",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "sloane-stephens-vs-belinda-bencic"
+        },
+        {
+          "title": "Marie Bouzkova vs Taylor Townsend",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "marie-bouzkova-vs-taylor-townsend"
+        }
+      ]
+    },
+    {
+      "title": "Sloane Stephens vs Belinda Bencic",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782957/sloane-stephens_belinda-bencic/info",
+      "slug": "sloane-stephens-vs-belinda-bencic",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ignacio Buse vs Cameron Norrie",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "ignacio-buse-vs-cameron-norrie"
+        },
+        {
+          "title": "Daria Kasatkina vs Elena Rybakina",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "daria-kasatkina-vs-elena-rybakina"
+        },
+        {
+          "title": "Marie Bouzkova vs Taylor Townsend",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "marie-bouzkova-vs-taylor-townsend"
+        }
+      ]
+    },
+    {
+      "title": "Marie Bouzkova vs Taylor Townsend",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782954/marie-bouzkova_taylor-townsend/info",
+      "slug": "marie-bouzkova-vs-taylor-townsend",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ignacio Buse vs Cameron Norrie",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "ignacio-buse-vs-cameron-norrie"
+        },
+        {
+          "title": "Daria Kasatkina vs Elena Rybakina",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "daria-kasatkina-vs-elena-rybakina"
+        },
+        {
+          "title": "Sloane Stephens vs Belinda Bencic",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "sloane-stephens-vs-belinda-bencic"
+        }
+      ]
+    },
+    {
+      "title": "Mirra Andreeva vs Karolina Plíšková",
+      "time": "19:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782972/mirra-andreeva_karolina-pliskova/info",
+      "slug": "mirra-andreeva-vs-karolina-pliskova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Rafael Jodar vs Corentin Moutet",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "rafael-jodar-vs-corentin-moutet"
+        },
+        {
+          "title": "Thiago Tirante vs Taylor Fritz",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "thiago-tirante-vs-taylor-fritz"
+        },
+        {
+          "title": "Raphael Collignon vs Alexei Popyrin",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "raphael-collignon-vs-alexei-popyrin"
+        }
+      ]
+    },
+    {
+      "title": "Kayla Day vs Coco Gauff",
+      "time": "19:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782969/kayla-day_coco-gauff/info",
+      "slug": "kayla-day-vs-coco-gauff",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Hubert Hurkacz vs Alejandro Tabilo",
+          "time": "19:40",
+          "sender": "Sportschau Live",
+          "slug": "hubert-hurkacz-vs-alejandro-tabilo"
+        },
+        {
+          "title": "Alina Korneeva vs Emma Navarro",
+          "time": "19:40",
+          "sender": "Sportschau Live",
+          "slug": "alina-korneeva-vs-emma-navarro"
+        },
+        {
+          "title": "Iva Jovic vs Magda Linette",
+          "time": "19:40",
+          "sender": "Sportschau Live",
+          "slug": "iva-jovic-vs-magda-linette"
+        }
+      ]
+    },
+    {
+      "title": "Alina Korneeva vs Emma Navarro",
+      "time": "19:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782963/alina-korneeva_emma-navarro/info",
+      "slug": "alina-korneeva-vs-emma-navarro",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Hubert Hurkacz vs Alejandro Tabilo",
+          "time": "19:40",
+          "sender": "Sportschau Live",
+          "slug": "hubert-hurkacz-vs-alejandro-tabilo"
+        },
+        {
+          "title": "Kayla Day vs Coco Gauff",
+          "time": "19:40",
+          "sender": "Sportschau Live",
+          "slug": "kayla-day-vs-coco-gauff"
+        },
+        {
+          "title": "Iva Jovic vs Magda Linette",
+          "time": "19:40",
+          "sender": "Sportschau Live",
+          "slug": "iva-jovic-vs-magda-linette"
+        }
+      ]
+    },
+    {
+      "title": "Iva Jovic vs Magda Linette",
+      "time": "19:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782960/iva-jovic_magda-linette/info",
+      "slug": "iva-jovic-vs-magda-linette",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Hubert Hurkacz vs Alejandro Tabilo",
+          "time": "19:40",
+          "sender": "Sportschau Live",
+          "slug": "hubert-hurkacz-vs-alejandro-tabilo"
+        },
+        {
+          "title": "Kayla Day vs Coco Gauff",
+          "time": "19:40",
+          "sender": "Sportschau Live",
+          "slug": "kayla-day-vs-coco-gauff"
+        },
+        {
+          "title": "Alina Korneeva vs Emma Navarro",
+          "time": "19:40",
+          "sender": "Sportschau Live",
+          "slug": "alina-korneeva-vs-emma-navarro"
+        }
+      ]
+    },
+    {
+      "title": "Elise Mertens vs Anna Bondar",
+      "time": "20:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782978/elise-mertens_anna-bondar/info",
+      "slug": "elise-mertens-vs-anna-bondar",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Alex Michelsen vs Francisco Cerúndolo",
+          "time": "20:50",
+          "sender": "Sportschau Live",
+          "slug": "alex-michelsen-vs-francisco-cerundolo"
+        },
+        {
+          "title": "Maria Sakkari vs Zeynep Sonmez",
+          "time": "20:50",
+          "sender": "Sportschau Live",
+          "slug": "maria-sakkari-vs-zeynep-sonmez"
+        }
+      ]
+    },
+    {
+      "title": "Maria Sakkari vs Zeynep Sonmez",
+      "time": "20:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782966/maria-sakkari_zeynep-sonmez/info",
+      "slug": "maria-sakkari-vs-zeynep-sonmez",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Alex Michelsen vs Francisco Cerúndolo",
+          "time": "20:50",
+          "sender": "Sportschau Live",
+          "slug": "alex-michelsen-vs-francisco-cerundolo"
+        },
+        {
+          "title": "Elise Mertens vs Anna Bondar",
+          "time": "20:50",
+          "sender": "Sportschau Live",
+          "slug": "elise-mertens-vs-anna-bondar"
+        }
+      ]
+    },
+    {
+      "title": "Ludmilla Samsonova vs Barbora Krejčíková",
+      "time": "22:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782987/ludmilla-samsonova_barbora-krejcikova/info",
+      "slug": "ludmilla-samsonova-vs-barbora-krejcikova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ugo Humbert vs Daniel Merida Aguilar",
+          "time": "22:00",
+          "sender": "Sportschau Live",
+          "slug": "ugo-humbert-vs-daniel-merida-aguilar"
+        },
+        {
+          "title": "Sorana Cirstea vs Maya Joint",
+          "time": "22:00",
+          "sender": "Sportschau Live",
+          "slug": "sorana-cirstea-vs-maya-joint"
+        }
+      ]
+    },
+    {
+      "title": "Sorana Cirstea vs Maya Joint",
+      "time": "22:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782984/sorana-cirstea_maya-joint/info",
+      "slug": "sorana-cirstea-vs-maya-joint",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ugo Humbert vs Daniel Merida Aguilar",
+          "time": "22:00",
+          "sender": "Sportschau Live",
+          "slug": "ugo-humbert-vs-daniel-merida-aguilar"
+        },
+        {
+          "title": "Ludmilla Samsonova vs Barbora Krejčíková",
+          "time": "22:00",
+          "sender": "Sportschau Live",
+          "slug": "ludmilla-samsonova-vs-barbora-krejcikova"
+        }
+      ]
+    },
+    {
+      "title": "Panna Udvardy vs Naomi Osaka",
+      "time": "23:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-kanada-rogers-cup/ma11782981/panna-udvardy_naomi-osaka/info",
+      "slug": "panna-udvardy-vs-naomi-osaka",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "World Open | Finale",
+      "subtitle": "B. Hawkins - J. Lisowski | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:29",
+      "iso_time": "2026-08-05T01:29:19+02:00",
+      "link": "",
+      "slug": "world-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "World Series of Poker | Main Event | Final Table",
+      "subtitle": "Las Vegas | Tag 2",
+      "sport": "Poker",
+      "sport_slug": "poker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:00",
+      "iso_time": "2026-08-05T02:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/f0b89558-6f0f-5b9f-9898-1f557695046e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "world-series-of-poker-main-event-final-table",
+      "related_events": [
+        {
+          "title": "WSOP Main Event | Final Table | Tag 2",
+          "time": "02:00",
+          "sender": "Eurosport",
+          "slug": "wsop-main-event-final-table-tag-2"
+        }
+      ]
+    },
+    {
+      "title": "WSOP Main Event | Final Table | Tag 2",
+      "subtitle": "World Series of Poker | Las Vegas",
+      "sport": "Poker",
+      "sport_slug": "poker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:00",
+      "iso_time": "2026-08-05T02:00:02+02:00",
+      "link": "https://play.hbomax.com/sport/ec23dd0d-8ae1-5e2b-b7ed-865253448335?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wsop-main-event-final-table-tag-2",
+      "related_events": [
+        {
+          "title": "World Series of Poker | Main Event | Final Table",
+          "time": "02:00",
+          "sender": "Eurosport",
+          "slug": "world-series-of-poker-main-event-final-table"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France Femmes avec Zwift | 4. Etappe",
+      "subtitle": "Gevrey-Chambertin - Dijon (21km / EZF) | Frauen | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:30",
+      "iso_time": "2026-08-05T03:30:33+02:00",
+      "link": "",
+      "slug": "tour-de-france-femmes-avec-zwift-4-etappe",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France Femmes avec Zwift | 4. Etappe",
+      "subtitle": "Gevrey-Chambertin - Dijon (21km / EZF) | Frauen | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:56",
+      "iso_time": "2026-08-05T04:56:57+02:00",
+      "link": "https://play.hbomax.com/sport/e9e28331-b9f3-5c8d-bc35-c62c39daf477?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-femmes-avec-zwift-4-etappe",
+      "related_events": [
+        {
+          "title": "Tour de Pologne | 2. Etappe",
+          "time": "06:32",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Innsbruck | Bouldern | Finale",
+      "subtitle": "World Series | Frauen",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:00",
+      "iso_time": "2026-08-05T05:00:43+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "innsbruck-bouldern-finale",
+      "related_events": []
+    },
+    {
+      "title": "Welsh Open | Finale",
+      "subtitle": "B. Hawkins - J. Lisowski | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:29",
+      "iso_time": "2026-08-05T06:29:51+02:00",
+      "link": "https://play.hbomax.com/sport/6ab34687-be76-5ecf-af2f-0f35a79457c3?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "welsh-open-finale",
+      "related_events": [
+        {
+          "title": "World Open | Finale",
+          "time": "08:23",
+          "sender": "Eurosport",
+          "slug": "world-open-finale"
+        }
+      ]
+    },
+    {
+      "title": "Tour de Pologne | 2. Etappe",
+      "subtitle": "UCI World Tour | Männer | Międzyzdroje – Stettin (151km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "06:32",
+      "iso_time": "2026-08-05T06:32:22+02:00",
+      "link": "https://play.hbomax.com/sport/f3fd4844-521c-59a8-99d4-edceb2b8d7ca?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-pologne-2-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France Femmes avec Zwift | 4. Etappe",
+          "time": "04:56",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-femmes-avec-zwift-4-etappe"
+        },
+        {
+          "title": "Tour de France Femmes avec Zwift | 4. Etappe",
+          "time": "07:29",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-femmes-avec-zwift-4-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France Femmes avec Zwift | 4. Etappe",
+      "subtitle": "Gevrey-Chambertin - Dijon (21km / EZF) | Frauen | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:29",
+      "iso_time": "2026-08-05T07:29:55+02:00",
+      "link": "https://play.hbomax.com/sport/ec9a1859-d3f8-5798-9ee4-1839794f811b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-femmes-avec-zwift-4-etappe",
+      "related_events": [
+        {
+          "title": "Tour de Pologne | 2. Etappe",
+          "time": "06:32",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-2-etappe"
+        },
+        {
+          "title": "Tour de Pologne | 2. Etappe",
+          "time": "08:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "World Open | Finale",
+      "subtitle": "B. Hawkins - J. Lisowski | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:23",
+      "iso_time": "2026-08-05T08:23:17+02:00",
+      "link": "https://play.hbomax.com/sport/813f4c1b-cb44-5e92-b83e-5e62833b9aa9?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "world-open-finale",
+      "related_events": [
+        {
+          "title": "Welsh Open | Finale",
+          "time": "06:29",
+          "sender": "Eurosport",
+          "slug": "welsh-open-finale"
+        }
+      ]
+    },
+    {
+      "title": "Tour de Pologne | 2. Etappe",
+      "subtitle": "UCI World Tour | Männer | Międzyzdroje – Stettin (151km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:30",
+      "iso_time": "2026-08-05T08:30:02+02:00",
+      "link": "https://play.hbomax.com/sport/3d243463-91a8-5c75-9439-944cf1be7061?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-pologne-2-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France Femmes avec Zwift | 4. Etappe",
+          "time": "07:29",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-femmes-avec-zwift-4-etappe"
+        },
+        {
+          "title": "Tour de France Femmes avec Zwift | 4. Etappe",
+          "time": "09:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-femmes-avec-zwift-4-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France Femmes avec Zwift | 4. Etappe",
+      "subtitle": "Gevrey-Chambertin - Dijon (21km / EZF) | Frauen | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:59",
+      "iso_time": "2026-08-05T09:59:42+02:00",
+      "link": "https://play.hbomax.com/sport/9934aa26-1eef-5d34-8fba-584c9a18e945?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-femmes-avec-zwift-4-etappe",
+      "related_events": [
+        {
+          "title": "Tour de Pologne | 2. Etappe",
+          "time": "08:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-2-etappe"
+        },
+        {
+          "title": "Tour de Pologne | 2. Etappe",
+          "time": "10:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-2-etappe"
+        },
+        {
+          "title": "Tour de Pologne | 2. Etappe",
+          "time": "11:03",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Innsbruck | Lead | Finale",
+      "subtitle": "World Series | Frauen / Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:00",
+      "iso_time": "2026-08-05T10:00:15+02:00",
+      "link": "https://play.hbomax.com/sport/704ee283-c656-5de3-9ce1-cb117e64b12e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "innsbruck-lead-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tour de Pologne | 2. Etappe",
+      "subtitle": "UCI World Tour | Männer | Międzyzdroje – Stettin (151km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:59",
+      "iso_time": "2026-08-05T10:59:03+02:00",
+      "link": "https://play.hbomax.com/sport/ab298cce-db21-5632-8344-b4a7df909279?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-pologne-2-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France Femmes avec Zwift | 4. Etappe",
+          "time": "09:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-femmes-avec-zwift-4-etappe"
+        },
+        {
+          "title": "Tour de Pologne | 3. Etappe",
+          "time": "12:05",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-3-etappe"
+        },
+        {
+          "title": "Tour de Pologne | 3. Etappe",
+          "time": "12:05",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de Pologne | 2. Etappe",
+      "subtitle": "UCI World Tour | Männer | Międzyzdroje – Stettin (151km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:03",
+      "iso_time": "2026-08-05T11:03:41+02:00",
+      "link": "https://play.hbomax.com/sport/f4a202a9-c768-54ae-ad4c-687a12e6b9b4?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-pologne-2-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France Femmes avec Zwift | 4. Etappe",
+          "time": "09:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-femmes-avec-zwift-4-etappe"
+        },
+        {
+          "title": "Tour de Pologne | 3. Etappe",
+          "time": "12:05",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-3-etappe"
+        },
+        {
+          "title": "Tour de Pologne | 3. Etappe",
+          "time": "12:05",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de Pologne | 3. Etappe",
+      "subtitle": "UCI World Tour | Männer | Gorzów Wielkopolski – Zielona Góra (193,5km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:05",
+      "iso_time": "2026-08-05T12:05:00+02:00",
+      "link": "https://play.hbomax.com/sport/a61e8308-6adc-570c-9f94-494b40ab1250?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-pologne-3-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France Femmes avec Zwift | 4. Etappe",
+          "time": "09:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-femmes-avec-zwift-4-etappe"
+        },
+        {
+          "title": "Tour de Pologne | 2. Etappe",
+          "time": "10:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-2-etappe"
+        },
+        {
+          "title": "Tour de Pologne | 2. Etappe",
+          "time": "11:03",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de Pologne | 3. Etappe",
+      "subtitle": "UCI World Tour | Männer | Gorzów Wielkopolski – Zielona Góra (193,5km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:05",
+      "iso_time": "2026-08-05T12:05:00+02:00",
+      "link": "https://play.hbomax.com/sport/7134b369-ad56-5a0e-afe3-853c6df3f108?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-pologne-3-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France Femmes avec Zwift | 4. Etappe",
+          "time": "09:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-femmes-avec-zwift-4-etappe"
+        },
+        {
+          "title": "Tour de Pologne | 2. Etappe",
+          "time": "10:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-2-etappe"
+        },
+        {
+          "title": "Tour de Pologne | 2. Etappe",
+          "time": "11:03",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de Pologne | 3. Etappe",
+      "subtitle": "UCI World Tour | Männer | Gorzów Wielkopolski – Zielona Góra (193,5km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:05",
+      "iso_time": "2026-08-05T12:05:00+02:00",
+      "link": "https://play.hbomax.com/sport/ae230e42-0b8c-5709-ab75-cd39fd7398ae?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-pologne-3-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France Femmes avec Zwift | 4. Etappe",
+          "time": "09:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-femmes-avec-zwift-4-etappe"
+        },
+        {
+          "title": "Tour de Pologne | 2. Etappe",
+          "time": "10:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-2-etappe"
+        },
+        {
+          "title": "Tour de Pologne | 2. Etappe",
+          "time": "11:03",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-2-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France Femmes avec Zwift | 5. Etappe",
+      "subtitle": "Mâcon - Belleville-en-Beaujolais (140km) | Frauen | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:29",
+      "iso_time": "2026-08-05T13:29:54+02:00",
+      "link": "https://play.hbomax.com/sport/60265f13-0ac1-57bc-b555-9214c045680f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-femmes-avec-zwift-5-etappe",
+      "related_events": [
+        {
+          "title": "Tour de Pologne | 2. Etappe",
+          "time": "10:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-2-etappe"
+        },
+        {
+          "title": "Tour de Pologne | 2. Etappe",
+          "time": "11:03",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-2-etappe"
+        },
+        {
+          "title": "Tour de Pologne | 3. Etappe",
+          "time": "12:05",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France Femmes avec Zwift | 5. Etappe",
+      "subtitle": "Mâcon - Belleville-en-Beaujolais (140km) | Frauen | UCI World Tour",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:30",
+      "iso_time": "2026-08-05T13:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/58d90e7b-854b-55aa-866b-c57c5c90ee2e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-femmes-avec-zwift-5-etappe",
+      "related_events": [
+        {
+          "title": "Tour de Pologne | 2. Etappe",
+          "time": "10:59",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-2-etappe"
+        },
+        {
+          "title": "Tour de Pologne | 2. Etappe",
+          "time": "11:03",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-2-etappe"
+        },
+        {
+          "title": "Tour de Pologne | 3. Etappe",
+          "time": "12:05",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "World Open | Finale",
+      "subtitle": "B. Hawkins - J. Lisowski | Home Nations Series",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:45",
+      "iso_time": "2026-08-05T16:45:00+02:00",
+      "link": "https://play.hbomax.com/sport/199f0083-d788-5a74-a870-76bba9df8449?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "world-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Volta a Portugal | Prolog",
+      "subtitle": "UCI Europe Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:45",
+      "iso_time": "2026-08-05T16:45:00+02:00",
+      "link": "https://play.hbomax.com/sport/0fba340d-2467-5413-99d4-d0b3ab5d807d?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "volta-a-portugal-prolog",
+      "related_events": [
+        {
+          "title": "Tour de Pologne | 3. Etappe",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour de Pologne | 3. Etappe",
+      "subtitle": "UCI World Tour | Männer | Gorzów Wielkopolski – Zielona Góra (193,5km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2026-08-05T18:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/fd4be212-4095-5ad7-8c25-cd9a16fb3edb?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-pologne-3-etappe",
+      "related_events": [
+        {
+          "title": "Volta a Portugal | Prolog",
+          "time": "16:45",
+          "sender": "Eurosport",
+          "slug": "volta-a-portugal-prolog"
+        },
+        {
+          "title": "Tour de France | 5. Etappe",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-5-etappe"
+        }
+      ]
+    },
+    {
+      "title": "E-Sports World Cup",
+      "subtitle": "E-Sports Show",
+      "sport": "E-Sports",
+      "sport_slug": "e-sports",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2026-08-05T19:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "e-sports-world-cup",
+      "related_events": []
+    },
+    {
+      "title": "Innsbruck | Lead | Finale",
+      "subtitle": "World Series | Frauen / Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:30",
+      "iso_time": "2026-08-05T19:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/456c7dd8-7dc0-54d6-9ca3-bd655ecc38cb?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "innsbruck-lead-finale",
+      "related_events": [
+        {
+          "title": "Innsbruck | Bouldern | Finale",
+          "time": "22:30",
+          "sender": "Eurosport",
+          "slug": "innsbruck-bouldern-finale"
+        }
+      ]
+    },
+    {
+      "title": "Tour de France | 5. Etappe",
+      "subtitle": "UCI World Tour | Frauen",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-08-05T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-5-etappe",
+      "related_events": [
+        {
+          "title": "Tour de Pologne | 3. Etappe",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-3-etappe"
+        },
+        {
+          "title": "Tour de Pologne | 3. Etappe",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-3-etappe"
+        },
+        {
+          "title": "Radsport",
+          "time": "22:30",
+          "sender": "Eurosport",
+          "slug": "radsport"
+        }
+      ]
+    },
+    {
+      "title": "Pitz Alpine Glacier Trail | Highlights",
+      "subtitle": "Golden Trail World Series | Österreich | Männer / Frauen",
+      "sport": "Trail Running",
+      "sport_slug": "trail-running",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-08-05T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/efd5f6a8-627b-509d-89aa-703b9092cbf8?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "pitz-alpine-glacier-trail-highlights",
+      "related_events": []
+    },
+    {
+      "title": "WM | Finale",
+      "subtitle": "WM",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:30",
+      "iso_time": "2026-08-05T20:30:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tour de Pologne | 3. Etappe",
+      "subtitle": "UCI World Tour | Männer | Gorzów Wielkopolski – Zielona Góra (193,5km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "21:00",
+      "iso_time": "2026-08-05T21:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/d77f8048-5f0c-5b50-b256-410c26bd903b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-pologne-3-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France | 5. Etappe",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-5-etappe"
+        },
+        {
+          "title": "Radsport",
+          "time": "22:30",
+          "sender": "Eurosport",
+          "slug": "radsport"
+        },
+        {
+          "title": "Tour de France | 5. Etappe",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-5-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Racing on the Edge",
+      "subtitle": "SailGP-Magazin | Saison 2026 | Folge 4",
+      "sport": "Segeln",
+      "sport_slug": "segeln",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-08-05T22:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "racing-on-the-edge",
+      "related_events": []
+    },
+    {
+      "title": "Discovery Golf",
+      "subtitle": "Golf-Magazin | Saison 2026 | Folge 25",
+      "sport": "Golf",
+      "sport_slug": "golf",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-08-05T22:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "discovery-golf",
+      "related_events": []
+    },
+    {
+      "title": "Radsport",
+      "subtitle": "UCI World Tour | Frauen",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:30",
+      "iso_time": "2026-08-05T22:30:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "radsport",
+      "related_events": [
+        {
+          "title": "Tour de France | 5. Etappe",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-5-etappe"
+        },
+        {
+          "title": "Tour de Pologne | 3. Etappe",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-3-etappe"
+        },
+        {
+          "title": "Tour de Pologne | 3. Etappe",
+          "time": "23:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Innsbruck | Bouldern | Finale",
+      "subtitle": "World Series | Frauen",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:30",
+      "iso_time": "2026-08-05T22:30:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "innsbruck-bouldern-finale",
+      "related_events": [
+        {
+          "title": "Innsbruck | Lead | Finale",
+          "time": "19:30",
+          "sender": "Eurosport",
+          "slug": "innsbruck-lead-finale"
+        }
+      ]
+    },
+    {
+      "title": "Innsbruck | Bouldern | Finale",
+      "subtitle": "World Series | Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:15",
+      "iso_time": "2026-08-05T23:15:00+02:00",
+      "link": "https://play.hbomax.com/sport/f93f6070-aa64-5f22-8cd6-91b82fa58a70?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "innsbruck-bouldern-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tour de Pologne | 3. Etappe",
+      "subtitle": "UCI World Tour | Männer | Gorzów Wielkopolski – Zielona Góra (193,5km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:30",
+      "iso_time": "2026-08-05T23:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/1b8f5ccd-4c0b-50d5-8a77-657b8097f87f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-pologne-3-etappe",
+      "related_events": [
+        {
+          "title": "Radsport",
+          "time": "22:30",
+          "sender": "Eurosport",
+          "slug": "radsport"
+        },
+        {
+          "title": "Tour de France | 5. Etappe",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-5-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Eurosport News",
+      "subtitle": "",
+      "sport": "Poker",
+      "sport_slug": "poker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-08-06T00:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "eurosport-news",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France | 5. Etappe",
+      "subtitle": "UCI World Tour | Frauen",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-08-06T00:00:00+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-5-etappe",
+      "related_events": [
+        {
+          "title": "Tour de Pologne | 3. Etappe",
+          "time": "21:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-3-etappe"
+        },
+        {
+          "title": "Radsport",
+          "time": "22:30",
+          "sender": "Eurosport",
+          "slug": "radsport"
+        },
+        {
+          "title": "Tour de Pologne | 3. Etappe",
+          "time": "23:30",
+          "sender": "Eurosport",
+          "slug": "tour-de-pologne-3-etappe"
+        }
+      ]
+    },
+    {
+      "title": "Tour Championship | Finale",
+      "subtitle": "J. Trump - Zhao X. | 2. Session | Manchester",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:30",
+      "iso_time": "2026-08-06T01:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/5b97bf4e-378b-5917-b9ca-ff801fe630df?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-championship-finale",
+      "related_events": []
+    },
+    {
+      "title": "Tour de Pologne | 3. Etappe",
+      "subtitle": "UCI World Tour | Männer | Gorzów Wielkopolski – Zielona Góra (193,5km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "02:00",
+      "iso_time": "2026-08-06T02:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/9eb595b2-fb53-57f2-96e7-40d19b5d5f31?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-pologne-3-etappe",
+      "related_events": [
+        {
+          "title": "Tour de France | 5. Etappe",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "tour-de-france-5-etappe"
+        }
+      ]
+    }
+  ]
+}
