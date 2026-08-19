@@ -1,0 +1,521 @@
+{
+  "date": "2026-08-19",
+  "events": [
+    {
+      "title": " vs ",
+      "time": "14:00",
+      "iso_time": "",
+      "sport": "Radsport Straßenrennen",
+      "sport_slug": "radsport-strassenrennen",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/radsport/deutschland-tour/ma11702950/ergebnisse",
+      "slug": "vs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Celtic Glasgow vs LASK",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-cl-quali/ma12402190/celtic-glasgow_lask/info",
+      "slug": "celtic-glasgow-vs-lask",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Slovan Bratislava vs NK Celje",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "slovan-bratislava-vs-nk-celje"
+        },
+        {
+          "title": "Hapoel Be'er Sheva vs Sabah FK",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "hapoel-be-er-sheva-vs-sabah-fk"
+        },
+        {
+          "title": "NEC Nijmegen vs FK Bodø/Glimt",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "nec-nijmegen-vs-fk-bodo-glimt"
+        }
+      ]
+    },
+    {
+      "title": "Slovan Bratislava vs NK Celje",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-cl-quali/ma12402202/slovan-bratislava_nk-celje/info",
+      "slug": "slovan-bratislava-vs-nk-celje",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Celtic Glasgow vs LASK",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "celtic-glasgow-vs-lask"
+        },
+        {
+          "title": "Hapoel Be'er Sheva vs Sabah FK",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "hapoel-be-er-sheva-vs-sabah-fk"
+        },
+        {
+          "title": "NEC Nijmegen vs FK Bodø/Glimt",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "nec-nijmegen-vs-fk-bodo-glimt"
+        }
+      ]
+    },
+    {
+      "title": "Hapoel Be'er Sheva vs Sabah FK",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-cl-quali/ma12402208/hapoel-beer-sheva_sabah-fk/info",
+      "slug": "hapoel-be-er-sheva-vs-sabah-fk",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Celtic Glasgow vs LASK",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "celtic-glasgow-vs-lask"
+        },
+        {
+          "title": "Slovan Bratislava vs NK Celje",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "slovan-bratislava-vs-nk-celje"
+        },
+        {
+          "title": "NEC Nijmegen vs FK Bodø/Glimt",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "nec-nijmegen-vs-fk-bodo-glimt"
+        }
+      ]
+    },
+    {
+      "title": "NEC Nijmegen vs FK Bodø/Glimt",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-cl-quali/ma12402220/nec-nijmegen_fk-bodoe-glimt/info",
+      "slug": "nec-nijmegen-vs-fk-bodo-glimt",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Celtic Glasgow vs LASK",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "celtic-glasgow-vs-lask"
+        },
+        {
+          "title": "Slovan Bratislava vs NK Celje",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "slovan-bratislava-vs-nk-celje"
+        },
+        {
+          "title": "Hapoel Be'er Sheva vs Sabah FK",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "hapoel-be-er-sheva-vs-sabah-fk"
+        }
+      ]
+    },
+    {
+      "title": "Atlético Madrid vs Málaga CF",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-primera-division/ma12187756/atletico-madrid_malaga-cf/info",
+      "slug": "atletico-madrid-vs-malaga-cf",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Celtic Glasgow vs LASK",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "celtic-glasgow-vs-lask"
+        },
+        {
+          "title": "Slovan Bratislava vs NK Celje",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "slovan-bratislava-vs-nk-celje"
+        },
+        {
+          "title": "Hapoel Be'er Sheva vs Sabah FK",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "hapoel-be-er-sheva-vs-sabah-fk"
+        }
+      ]
+    },
+    {
+      "title": "Vietnam vs Malaysia",
+      "time": "15:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/fifa-freundschaft/ma12423235/vietnam_malaysia/info",
+      "slug": "vietnam-vs-malaysia",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Connecticut Sun vs Los Angeles Sparks",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/wnba/ma11863372/connecticut-sun_los-angeles-sparks/info",
+      "slug": "connecticut-sun-vs-los-angeles-sparks",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Toronto Tempo vs Indiana Fever",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "toronto-tempo-vs-indiana-fever"
+        }
+      ]
+    },
+    {
+      "title": "Toronto Tempo vs Indiana Fever",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/wnba/ma11863621/toronto-tempo_indiana-fever/info",
+      "slug": "toronto-tempo-vs-indiana-fever",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Connecticut Sun vs Los Angeles Sparks",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "connecticut-sun-vs-los-angeles-sparks"
+        }
+      ]
+    },
+    {
+      "title": "Chicago Sky vs New York Liberty",
+      "time": "03:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/wnba/ma11863375/chicago-sky_new-york-liberty/info",
+      "slug": "chicago-sky-vs-new-york-liberty",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Las Vegas Aces vs Atlanta Dream",
+          "time": "03:00",
+          "sender": "Sportschau Live",
+          "slug": "las-vegas-aces-vs-atlanta-dream"
+        }
+      ]
+    },
+    {
+      "title": "Las Vegas Aces vs Atlanta Dream",
+      "time": "03:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/wnba/ma11863378/las-vegas-aces_atlanta-dream/info",
+      "slug": "las-vegas-aces-vs-atlanta-dream",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Chicago Sky vs New York Liberty",
+          "time": "03:00",
+          "sender": "Sportschau Live",
+          "slug": "chicago-sky-vs-new-york-liberty"
+        }
+      ]
+    },
+    {
+      "title": "Juan Manuel Cerundolo vs Felix Auger-Aliassime",
+      "time": "01:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-western-southern-open/ma11760409/juan-manuel-cerundolo_felix-auger-aliassime/info",
+      "slug": "juan-manuel-cerundolo-vs-felix-auger-aliassime",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Learner Tien vs Frances Tiafoe",
+      "time": "02:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-western-southern-open/ma11760406/learner-tien_frances-tiafoe/info",
+      "slug": "learner-tien-vs-frances-tiafoe",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Rafael Jodar vs Flavio Cobolli",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-western-southern-open/ma11760415/rafael-jodar_flavio-cobolli/info",
+      "slug": "rafael-jodar-vs-flavio-cobolli",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Iga Świątek vs Diane Parry",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "iga-swiatek-vs-diane-parry"
+        }
+      ]
+    },
+    {
+      "title": "Thiago Tirante vs Jakub Mensik",
+      "time": "18:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-western-southern-open/ma11760418/thiago-tirante_jakub-mensik/info",
+      "slug": "thiago-tirante-vs-jakub-mensik",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Sorana Cirstea vs Jessica Pegula",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "sorana-cirstea-vs-jessica-pegula"
+        }
+      ]
+    },
+    {
+      "title": "Alexander Zverev vs Tommy Paul",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-western-southern-open/ma11760412/alexander-zverev_tommy-paul/info",
+      "slug": "alexander-zverev-vs-tommy-paul",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Marta Kostyuk vs Mirra Andreeva",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "marta-kostyuk-vs-mirra-andreeva"
+        }
+      ]
+    },
+    {
+      "title": "Arthur Fils vs Alex de Minaur",
+      "time": "19:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-western-southern-open/ma11760421/arthur-fils_alex-de-minaur/info",
+      "slug": "arthur-fils-vs-alex-de-minaur",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Nuno Borges vs Brandon Nakashima",
+      "time": "21:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-western-southern-open/ma11760427/nuno-borges_brandon-nakashima/info",
+      "slug": "nuno-borges-vs-brandon-nakashima",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Jaime Faria vs Lorenzo Musetti",
+      "time": "22:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-western-southern-open/ma11760430/jaime-faria_lorenzo-musetti/info",
+      "slug": "jaime-faria-vs-lorenzo-musetti",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Aryna Sabalenka vs Xinyu Wang",
+      "time": "01:05",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-western-southern-open/ma11782147/aryna-sabalenka_xinyu-wang/info",
+      "slug": "aryna-sabalenka-vs-xinyu-wang",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Marie Bouzkova vs Iva Jovic",
+      "time": "02:55",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-western-southern-open/ma11782162/marie-bouzkova_iva-jovic/info",
+      "slug": "marie-bouzkova-vs-iva-jovic",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Iga Świątek vs Diane Parry",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-western-southern-open/ma11782213/iga-swiatek_diane-parry/info",
+      "slug": "iga-swiatek-vs-diane-parry",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Rafael Jodar vs Flavio Cobolli",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "rafael-jodar-vs-flavio-cobolli"
+        }
+      ]
+    },
+    {
+      "title": "Sorana Cirstea vs Jessica Pegula",
+      "time": "18:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-western-southern-open/ma11782210/sorana-cirstea_jessica-pegula/info",
+      "slug": "sorana-cirstea-vs-jessica-pegula",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Thiago Tirante vs Jakub Mensik",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "thiago-tirante-vs-jakub-mensik"
+        }
+      ]
+    },
+    {
+      "title": "Marta Kostyuk vs Mirra Andreeva",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-western-southern-open/ma11782204/marta-kostyuk_mirra-andreeva/info",
+      "slug": "marta-kostyuk-vs-mirra-andreeva",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Alexander Zverev vs Tommy Paul",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "alexander-zverev-vs-tommy-paul"
+        }
+      ]
+    },
+    {
+      "title": "Diana Shnaider vs Elena Rybakina",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-western-southern-open/ma11782216/diana-shnaider_elena-rybakina/info",
+      "slug": "diana-shnaider-vs-elena-rybakina",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Linda Noskova vs Amanda Anisimova",
+      "time": "20:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-western-southern-open/ma11782207/linda-noskova_amanda-anisimova/info",
+      "slug": "linda-noskova-vs-amanda-anisimova",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Coco Gauff vs N.N.",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": null,
+      "slug": "coco-gauff-vs-n-n",
+      "subtitle": "",
+      "related_events": []
+    }
+  ]
+}
