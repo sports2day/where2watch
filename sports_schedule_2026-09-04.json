@@ -1,0 +1,1924 @@
+{
+  "date": "2026-09-04",
+  "events": [
+    {
+      "title": "VfB Stuttgart vs 1. FC Köln",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193726/vfb-stuttgart_1-fc-koeln/info",
+      "slug": "vfb-stuttgart-vs-1-fc-koln",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Hannover 96 vs Karlsruher SC",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-2-bundesliga/ma12194089/hannover-96_karlsruher-sc/info",
+      "slug": "hannover-96-vs-karlsruher-sc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Arminia Bielefeld vs FC St. Pauli",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "arminia-bielefeld-vs-fc-st-pauli"
+        },
+        {
+          "title": "TSG Hoffenheim vs Bayer Leverkusen",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "tsg-hoffenheim-vs-bayer-leverkusen"
+        }
+      ]
+    },
+    {
+      "title": "Arminia Bielefeld vs FC St. Pauli",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-2-bundesliga/ma12194161/arminia-bielefeld_fc-st-pauli/info",
+      "slug": "arminia-bielefeld-vs-fc-st-pauli",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Hannover 96 vs Karlsruher SC",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "hannover-96-vs-karlsruher-sc"
+        },
+        {
+          "title": "TSG Hoffenheim vs Bayer Leverkusen",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "tsg-hoffenheim-vs-bayer-leverkusen"
+        }
+      ]
+    },
+    {
+      "title": "TSG Hoffenheim vs Bayer Leverkusen",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga-frauen/ma12306118/tsg-hoffenheim_bayer-leverkusen/info",
+      "slug": "tsg-hoffenheim-vs-bayer-leverkusen",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Hannover 96 vs Karlsruher SC",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "hannover-96-vs-karlsruher-sc"
+        },
+        {
+          "title": "Arminia Bielefeld vs FC St. Pauli",
+          "time": "18:30",
+          "sender": "Sportschau Live",
+          "slug": "arminia-bielefeld-vs-fc-st-pauli"
+        }
+      ]
+    },
+    {
+      "title": "FC Ingolstadt 04 vs Alemannia Aachen",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-3-liga/ma12240760/fc-ingolstadt-04_alemannia-aachen/info",
+      "slug": "fc-ingolstadt-04-vs-alemannia-aachen",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Olympique Lyon vs AJ Auxerre",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "olympique-lyon-vs-aj-auxerre"
+        },
+        {
+          "title": "İstanbul Başakşehir vs Galatasaray",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "istanbul-basaksehir-vs-galatasaray"
+        }
+      ]
+    },
+    {
+      "title": "Japan vs Mali",
+      "time": "11:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-frauen/ma12004262/japan_mali/info",
+      "slug": "japan-vs-mali",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Australien vs Puerto Rico",
+          "time": "11:30",
+          "sender": "Sportschau Live",
+          "slug": "australien-vs-puerto-rico"
+        }
+      ]
+    },
+    {
+      "title": "Spanien vs Deutschland",
+      "time": "17:45",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-frauen/ma12004265/spanien_deutschland/info",
+      "slug": "spanien-vs-deutschland",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Südkorea vs Nigeria",
+      "time": "14:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-frauen/ma12004283/suedkorea_nigeria/info",
+      "slug": "sudkorea-vs-nigeria",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Ungarn vs Frankreich",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-frauen/ma12004280/ungarn_frankreich/info",
+      "slug": "ungarn-vs-frankreich",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Australien vs Puerto Rico",
+      "time": "11:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-frauen/ma12004301/australien_puerto-rico/info",
+      "slug": "australien-vs-puerto-rico",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Japan vs Mali",
+          "time": "11:30",
+          "sender": "Sportschau Live",
+          "slug": "japan-vs-mali"
+        }
+      ]
+    },
+    {
+      "title": "Belgien vs Türkei",
+      "time": "17:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-frauen/ma12004298/belgien_tuerkei/info",
+      "slug": "belgien-vs-turkei",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "USA vs China",
+      "time": "14:15",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-frauen/ma12004316/usa_china/info",
+      "slug": "usa-vs-china",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Tschechien vs Italien",
+      "time": "20:15",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-frauen/ma12004319/tschechien_italien/info",
+      "slug": "tschechien-vs-italien",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Ipswich Town vs Liverpool FC",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/england-premier-league/ma12153226/ipswich-town_liverpool-fc/info",
+      "slug": "ipswich-town-vs-liverpool-fc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Betis Sevilla vs Real Madrid",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "betis-sevilla-vs-real-madrid"
+        }
+      ]
+    },
+    {
+      "title": " vs ",
+      "time": "12:41",
+      "iso_time": "",
+      "sport": "Radsport Straßenrennen",
+      "sport_slug": "radsport-strassenrennen",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/radsport/vuelta-a-espana/ma11702998/ergebnisse",
+      "slug": "vs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "London City Lionesses vs Manchester United WFC",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/england-womens-super-league/ma12395068/london-city-lionesses_manchester-united-wfc/info",
+      "slug": "london-city-lionesses-vs-manchester-united-wfc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Sparta Rotterdam vs PEC Zwolle",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "sparta-rotterdam-vs-pec-zwolle"
+        }
+      ]
+    },
+    {
+      "title": "HK Nitra vs Skellefteå AIK",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/champions-hockey-league/ma12114967/hk-nitra_skelleftea-aik/info",
+      "slug": "hk-nitra-vs-skelleftea-aik",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Herning Blue Fox vs KooKoo Hockey",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/champions-hockey-league/ma12114970/herning-blue-fox_kookoo-hockey/info",
+      "slug": "herning-blue-fox-vs-kookoo-hockey",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Frölunda HC vs SaiPa Lappeenranta",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "frolunda-hc-vs-saipa-lappeenranta"
+        }
+      ]
+    },
+    {
+      "title": "Frölunda HC vs SaiPa Lappeenranta",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/champions-hockey-league/ma12114973/froelunda-hc_saipa-lappeenranta/info",
+      "slug": "frolunda-hc-vs-saipa-lappeenranta",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Herning Blue Fox vs KooKoo Hockey",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "herning-blue-fox-vs-kookoo-hockey"
+        }
+      ]
+    },
+    {
+      "title": "Adler Mannheim vs Växjö Lakers",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/champions-hockey-league/ma12114976/adler-mannheim_vaexjoe-lakers/info",
+      "slug": "adler-mannheim-vs-vaxjo-lakers",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "HC Davos vs Storhamar Ishockey",
+      "time": "19:45",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/champions-hockey-league/ma12114979/hc-davos_storhamar-ishockey/info",
+      "slug": "hc-davos-vs-storhamar-ishockey",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Genève-Servette HC vs Eisbären Berlin",
+          "time": "19:45",
+          "sender": "Sportschau Live",
+          "slug": "geneve-servette-hc-vs-eisbaren-berlin"
+        }
+      ]
+    },
+    {
+      "title": "Genève-Servette HC vs Eisbären Berlin",
+      "time": "19:45",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/champions-hockey-league/ma12114982/geneve-servette-hc_eisbaeren-berlin/info",
+      "slug": "geneve-servette-hc-vs-eisbaren-berlin",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "HC Davos vs Storhamar Ishockey",
+          "time": "19:45",
+          "sender": "Sportschau Live",
+          "slug": "hc-davos-vs-storhamar-ishockey"
+        }
+      ]
+    },
+    {
+      "title": " vs ",
+      "time": "16:00",
+      "iso_time": "",
+      "sport": "Formel 1",
+      "sport_slug": "formel-1",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/motorsport/formel-1/co556/grosser-preis-von-italien/ma11135796/ergebnisse",
+      "slug": "vs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": " vs ",
+      "time": "12:30",
+      "iso_time": "",
+      "sport": "Formel 1",
+      "sport_slug": "formel-1",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/motorsport/formel-1/co556/grosser-preis-von-italien/ma11135787/ergebnisse",
+      "slug": "vs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Betis Sevilla vs Real Madrid",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-primera-division/ma12187852/betis-sevilla_real-madrid/info",
+      "slug": "betis-sevilla-vs-real-madrid",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ipswich Town vs Liverpool FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "ipswich-town-vs-liverpool-fc"
+        }
+      ]
+    },
+    {
+      "title": "Olympique Lyon vs AJ Auxerre",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/frankreich-ligue-1/ma12132013/olympique-lyon_aj-auxerre/info",
+      "slug": "olympique-lyon-vs-aj-auxerre",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Ingolstadt 04 vs Alemannia Aachen",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-ingolstadt-04-vs-alemannia-aachen"
+        },
+        {
+          "title": "İstanbul Başakşehir vs Galatasaray",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "istanbul-basaksehir-vs-galatasaray"
+        }
+      ]
+    },
+    {
+      "title": "Paris Saint-Germain vs AS Monaco",
+      "time": "21:05",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/frankreich-ligue-1/ma12132019/paris-saint-germain_as-monaco/info",
+      "slug": "paris-saint-germain-vs-as-monaco",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "FC Genua vs Como 1907",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/italien-serie-a/ma12130876/fc-genua_como-1907/info",
+      "slug": "fc-genua-vs-como-1907",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Lommel SK vs FC Brügge",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "lommel-sk-vs-fc-brugge"
+        }
+      ]
+    },
+    {
+      "title": "İstanbul Başakşehir vs Galatasaray",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/tuerkei-sueper-lig/ma12280042/stanbul-basaksehir_galatasaray/info",
+      "slug": "istanbul-basaksehir-vs-galatasaray",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Ingolstadt 04 vs Alemannia Aachen",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "fc-ingolstadt-04-vs-alemannia-aachen"
+        },
+        {
+          "title": "Olympique Lyon vs AJ Auxerre",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "olympique-lyon-vs-aj-auxerre"
+        }
+      ]
+    },
+    {
+      "title": "Sparta Rotterdam vs PEC Zwolle",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/niederlande-eredivisie/ma12113713/sparta-rotterdam_pec-zwolle/info",
+      "slug": "sparta-rotterdam-vs-pec-zwolle",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "London City Lionesses vs Manchester United WFC",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "london-city-lionesses-vs-manchester-united-wfc"
+        }
+      ]
+    },
+    {
+      "title": "Lommel SK vs FC Brügge",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/belgien-eerste-klasse/ma12151936/lommel-sk_fc-bruegge/info",
+      "slug": "lommel-sk-vs-fc-brugge",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "FC Genua vs Como 1907",
+          "time": "20:45",
+          "sender": "Sportschau Live",
+          "slug": "fc-genua-vs-como-1907"
+        }
+      ]
+    },
+    {
+      "title": "FC Porto vs Moreirense FC",
+      "time": "21:15",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/portugal-primeira-liga/ma12223672/fc-porto_moreirense-fc/info",
+      "slug": "fc-porto-vs-moreirense-fc",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Frantzen, C. / Haase, R. vs Gonzalez, M. / Molteni, A.",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co945/us-open-new-york/ma11761114/frantzen-c---haase-r_gonzalez-m---molteni-a/info",
+      "slug": "frantzen-c-haase-r-vs-gonzalez-m-molteni-a",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Duckworth, J. / Kecmanović, M. vs Melo, M. / Peers, J.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "duckworth-j-kecmanovic-m-vs-melo-m-peers-j"
+        },
+        {
+          "title": "Luz, O. / Matos, R. vs Carpico, B. / Filin, N.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "luz-o-matos-r-vs-carpico-b-filin-n"
+        },
+        {
+          "title": "Borges, N. / Hijikata, R. vs Cash, R. / Erler, A.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "borges-n-hijikata-r-vs-cash-r-erler-a"
+        }
+      ]
+    },
+    {
+      "title": "Duckworth, J. / Kecmanović, M. vs Melo, M. / Peers, J.",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co945/us-open-new-york/ma11761105/duckworth-j---kecmanovic-m_melo-m---peers-j/info",
+      "slug": "duckworth-j-kecmanovic-m-vs-melo-m-peers-j",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Frantzen, C. / Haase, R. vs Gonzalez, M. / Molteni, A.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "frantzen-c-haase-r-vs-gonzalez-m-molteni-a"
+        },
+        {
+          "title": "Luz, O. / Matos, R. vs Carpico, B. / Filin, N.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "luz-o-matos-r-vs-carpico-b-filin-n"
+        },
+        {
+          "title": "Borges, N. / Hijikata, R. vs Cash, R. / Erler, A.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "borges-n-hijikata-r-vs-cash-r-erler-a"
+        }
+      ]
+    },
+    {
+      "title": "Luz, O. / Matos, R. vs Carpico, B. / Filin, N.",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co945/us-open-new-york/ma11761102/luz-o---matos-r_carpico-b---filin-n/info",
+      "slug": "luz-o-matos-r-vs-carpico-b-filin-n",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Frantzen, C. / Haase, R. vs Gonzalez, M. / Molteni, A.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "frantzen-c-haase-r-vs-gonzalez-m-molteni-a"
+        },
+        {
+          "title": "Duckworth, J. / Kecmanović, M. vs Melo, M. / Peers, J.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "duckworth-j-kecmanovic-m-vs-melo-m-peers-j"
+        },
+        {
+          "title": "Borges, N. / Hijikata, R. vs Cash, R. / Erler, A.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "borges-n-hijikata-r-vs-cash-r-erler-a"
+        }
+      ]
+    },
+    {
+      "title": "Borges, N. / Hijikata, R. vs Cash, R. / Erler, A.",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co945/us-open-new-york/ma11761093/borges-n---hijikata-r_cash-r---erler-a/info",
+      "slug": "borges-n-hijikata-r-vs-cash-r-erler-a",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Frantzen, C. / Haase, R. vs Gonzalez, M. / Molteni, A.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "frantzen-c-haase-r-vs-gonzalez-m-molteni-a"
+        },
+        {
+          "title": "Duckworth, J. / Kecmanović, M. vs Melo, M. / Peers, J.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "duckworth-j-kecmanovic-m-vs-melo-m-peers-j"
+        },
+        {
+          "title": "Luz, O. / Matos, R. vs Carpico, B. / Filin, N.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "luz-o-matos-r-vs-carpico-b-filin-n"
+        }
+      ]
+    },
+    {
+      "title": "Galloway, R. / Goransson, A. vs Rojer, J. / Winegar, T.",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co945/us-open-new-york/ma11761081/galloway-r---goransson-a_rojer-j---winegar-t/info",
+      "slug": "galloway-r-goransson-a-vs-rojer-j-winegar-t",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Frantzen, C. / Haase, R. vs Gonzalez, M. / Molteni, A.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "frantzen-c-haase-r-vs-gonzalez-m-molteni-a"
+        },
+        {
+          "title": "Duckworth, J. / Kecmanović, M. vs Melo, M. / Peers, J.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "duckworth-j-kecmanovic-m-vs-melo-m-peers-j"
+        },
+        {
+          "title": "Luz, O. / Matos, R. vs Carpico, B. / Filin, N.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "luz-o-matos-r-vs-carpico-b-filin-n"
+        }
+      ]
+    },
+    {
+      "title": "Arends, S. / Pel, D. vs Balaji, S. / King, E.",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co945/us-open-new-york/ma11761045/arends-s---pel-d_balaji-s---king-e/info",
+      "slug": "arends-s-pel-d-vs-balaji-s-king-e",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Frantzen, C. / Haase, R. vs Gonzalez, M. / Molteni, A.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "frantzen-c-haase-r-vs-gonzalez-m-molteni-a"
+        },
+        {
+          "title": "Duckworth, J. / Kecmanović, M. vs Melo, M. / Peers, J.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "duckworth-j-kecmanovic-m-vs-melo-m-peers-j"
+        },
+        {
+          "title": "Luz, O. / Matos, R. vs Carpico, B. / Filin, N.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "luz-o-matos-r-vs-carpico-b-filin-n"
+        }
+      ]
+    },
+    {
+      "title": "Miedler, L. / Polmans, M. vs Nakashima, B. / Nakashima, B.",
+      "time": "18:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co945/us-open-new-york/ma11761090/miedler-l---polmans-m_nakashima-b---nakashima-b/info",
+      "slug": "miedler-l-polmans-m-vs-nakashima-b-nakashima-b",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Krawietz, K. / Pütz, T. vs Atmane, T. / Romboli, F.",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "krawietz-k-putz-t-vs-atmane-t-romboli-f"
+        },
+        {
+          "title": "Nys, H. / Roger-Vasselin, E. vs Paul, J. / Vocel, M.",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "nys-h-roger-vasselin-e-vs-paul-j-vocel-m"
+        },
+        {
+          "title": "Arneodo, R. / Mannarino, A. vs Arnaldi, M. / Struff, J.",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "arneodo-r-mannarino-a-vs-arnaldi-m-struff-j"
+        }
+      ]
+    },
+    {
+      "title": "Krawietz, K. / Pütz, T. vs Atmane, T. / Romboli, F.",
+      "time": "18:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co945/us-open-new-york/ma11761078/krawietz-k---puetz-t_atmane-t---romboli-f/info",
+      "slug": "krawietz-k-putz-t-vs-atmane-t-romboli-f",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Miedler, L. / Polmans, M. vs Nakashima, B. / Nakashima, B.",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "miedler-l-polmans-m-vs-nakashima-b-nakashima-b"
+        },
+        {
+          "title": "Nys, H. / Roger-Vasselin, E. vs Paul, J. / Vocel, M.",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "nys-h-roger-vasselin-e-vs-paul-j-vocel-m"
+        },
+        {
+          "title": "Arneodo, R. / Mannarino, A. vs Arnaldi, M. / Struff, J.",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "arneodo-r-mannarino-a-vs-arnaldi-m-struff-j"
+        }
+      ]
+    },
+    {
+      "title": "Nys, H. / Roger-Vasselin, E. vs Paul, J. / Vocel, M.",
+      "time": "18:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co945/us-open-new-york/ma11761042/nys-h---roger-vasselin-e_paul-j---vocel-m/info",
+      "slug": "nys-h-roger-vasselin-e-vs-paul-j-vocel-m",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Miedler, L. / Polmans, M. vs Nakashima, B. / Nakashima, B.",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "miedler-l-polmans-m-vs-nakashima-b-nakashima-b"
+        },
+        {
+          "title": "Krawietz, K. / Pütz, T. vs Atmane, T. / Romboli, F.",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "krawietz-k-putz-t-vs-atmane-t-romboli-f"
+        },
+        {
+          "title": "Arneodo, R. / Mannarino, A. vs Arnaldi, M. / Struff, J.",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "arneodo-r-mannarino-a-vs-arnaldi-m-struff-j"
+        }
+      ]
+    },
+    {
+      "title": "Arneodo, R. / Mannarino, A. vs Arnaldi, M. / Struff, J.",
+      "time": "18:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co945/us-open-new-york/ma11761033/arneodo-r---mannarino-a_arnaldi-m---struff-j/info",
+      "slug": "arneodo-r-mannarino-a-vs-arnaldi-m-struff-j",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Miedler, L. / Polmans, M. vs Nakashima, B. / Nakashima, B.",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "miedler-l-polmans-m-vs-nakashima-b-nakashima-b"
+        },
+        {
+          "title": "Krawietz, K. / Pütz, T. vs Atmane, T. / Romboli, F.",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "krawietz-k-putz-t-vs-atmane-t-romboli-f"
+        },
+        {
+          "title": "Nys, H. / Roger-Vasselin, E. vs Paul, J. / Vocel, M.",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "nys-h-roger-vasselin-e-vs-paul-j-vocel-m"
+        }
+      ]
+    },
+    {
+      "title": "Heliovaara, H. / Patten H. vs Cerúndolo, F. / Cerúndolo, J.",
+      "time": "18:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co945/us-open-new-york/ma11761030/heliovaara-h---patten-h_cerundolo-f---cerundolo-j/info",
+      "slug": "heliovaara-h-patten-h-vs-cerundolo-f-cerundolo-j",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Miedler, L. / Polmans, M. vs Nakashima, B. / Nakashima, B.",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "miedler-l-polmans-m-vs-nakashima-b-nakashima-b"
+        },
+        {
+          "title": "Krawietz, K. / Pütz, T. vs Atmane, T. / Romboli, F.",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "krawietz-k-putz-t-vs-atmane-t-romboli-f"
+        },
+        {
+          "title": "Nys, H. / Roger-Vasselin, E. vs Paul, J. / Vocel, M.",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "nys-h-roger-vasselin-e-vs-paul-j-vocel-m"
+        }
+      ]
+    },
+    {
+      "title": "Nouza, P. / Oberleitner, N. vs Buse, I. / Trungelliti, M.",
+      "time": "19:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co945/us-open-new-york/ma11761117/nouza-p---oberleitner-n_buse-i---trungelliti-m/info",
+      "slug": "nouza-p-oberleitner-n-vs-buse-i-trungelliti-m",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ram, R. / Salisbury, J. vs Gonzalez, S. / Smith, J.",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "ram-r-salisbury-j-vs-gonzalez-s-smith-j"
+        },
+        {
+          "title": "Muhammad, A. / Stollar, F. vs Parks, A. / Shymanovich, I.",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "muhammad-a-stollar-f-vs-parks-a-shymanovich-i"
+        },
+        {
+          "title": "Sonmez, Z. / Maria, T. vs Alexandrova, E. / Gibson, T.",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "sonmez-z-maria-t-vs-alexandrova-e-gibson-t"
+        }
+      ]
+    },
+    {
+      "title": "Ram, R. / Salisbury, J. vs Gonzalez, S. / Smith, J.",
+      "time": "19:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co945/us-open-new-york/ma11761108/ram-r---salisbury-j_gonzalez-s---smith-j/info",
+      "slug": "ram-r-salisbury-j-vs-gonzalez-s-smith-j",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Nouza, P. / Oberleitner, N. vs Buse, I. / Trungelliti, M.",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "nouza-p-oberleitner-n-vs-buse-i-trungelliti-m"
+        },
+        {
+          "title": "Muhammad, A. / Stollar, F. vs Parks, A. / Shymanovich, I.",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "muhammad-a-stollar-f-vs-parks-a-shymanovich-i"
+        },
+        {
+          "title": "Sonmez, Z. / Maria, T. vs Alexandrova, E. / Gibson, T.",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "sonmez-z-maria-t-vs-alexandrova-e-gibson-t"
+        }
+      ]
+    },
+    {
+      "title": "Blockx, A. / Prižmić, D. vs Gille, S. / Verbeek, S.",
+      "time": "19:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co945/us-open-new-york/ma11761057/blockx-a---prizmic-d_gille-s---verbeek-s/info",
+      "slug": "blockx-a-prizmic-d-vs-gille-s-verbeek-s",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Bolelli, S. / Vavassori, A. vs Halys, Q. / Herbert, P.",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co945/us-open-new-york/ma11761054/bolelli-s---vavassori-a_halys-q---herbert-p/info",
+      "slug": "bolelli-s-vavassori-a-vs-halys-q-herbert-p",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Kato, M. / Wu, F. vs Mihalikova, T. / Nicholls, O.",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "kato-m-wu-f-vs-mihalikova-t-nicholls-o"
+        },
+        {
+          "title": "Snigur, D. / Vandewinkel, H. vs Mertens, E. / Shnaider, D.",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "snigur-d-vandewinkel-h-vs-mertens-e-shnaider-d"
+        },
+        {
+          "title": "Korpatsch, T. / Huergo, N. vs Maleckova, J. / Skoch, M.",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "korpatsch-t-huergo-n-vs-maleckova-j-skoch-m"
+        }
+      ]
+    },
+    {
+      "title": "Damm, M. / McDonald, M. vs Hidalgo, D. / Tabilo, A.",
+      "time": "21:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co945/us-open-new-york/ma11761072/damm-m---mcdonald-m_hidalgo-d---tabilo-a/info",
+      "slug": "damm-m-mcdonald-m-vs-hidalgo-d-tabilo-a",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ostapenko, J. / Hsieh, S. vs Jurak Schreiber, D. / Ruzic, A.",
+          "time": "21:10",
+          "sender": "Sportschau Live",
+          "slug": "ostapenko-j-hsieh-s-vs-jurak-schreiber-d-ruzic-a"
+        }
+      ]
+    },
+    {
+      "title": "Botic van de Zandschulp vs Alex de Minaur",
+      "time": "00:05",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-us-open/ma11760862/botic-van-de-zandschulp_alex-de-minaur/info",
+      "slug": "botic-van-de-zandschulp-vs-alex-de-minaur",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Zizou Bergs vs Jesper De Jong",
+      "time": "00:15",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-us-open/ma11760859/zizou-bergs_jesper-de-jong/info",
+      "slug": "zizou-bergs-vs-jesper-de-jong",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Krueger, A. / Montgomery, R. vs Sramkova, R. / Noskova, L.",
+          "time": "00:15",
+          "sender": "Sportschau Live",
+          "slug": "krueger-a-montgomery-r-vs-sramkova-r-noskova-l"
+        },
+        {
+          "title": "Maria Sakkari vs Yulia Starodubtseva",
+          "time": "00:15",
+          "sender": "Sportschau Live",
+          "slug": "maria-sakkari-vs-yulia-starodubtseva"
+        }
+      ]
+    },
+    {
+      "title": "Zachary Svajda vs Arthur Gea",
+      "time": "00:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-us-open/ma11760856/zachary-svajda_arthur-gea/info",
+      "slug": "zachary-svajda-vs-arthur-gea",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Gael Monfils vs Learner Tien",
+      "time": "01:05",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-us-open/ma11760874/gael-monfils_learner-tien/info",
+      "slug": "gael-monfils-vs-learner-tien",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Yunchaokete Bu vs Michael Zheng",
+      "time": "01:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-us-open/ma11760853/yunchaokete-bu_michael-zheng/info",
+      "slug": "yunchaokete-bu-vs-michael-zheng",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alexander Zverev vs Quentin Halys",
+      "time": "03:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-us-open/ma11760841/alexander-zverev_quentin-halys/liveticker",
+      "slug": "alexander-zverev-vs-quentin-halys",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alexander Bublik vs Tommy Paul",
+      "time": "18:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-us-open/ma11760979/alexander-bublik_tommy-paul/info",
+      "slug": "alexander-bublik-vs-tommy-paul",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Miedler, L. / Polmans, M. vs Nakashima, B. / Nakashima, B.",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "miedler-l-polmans-m-vs-nakashima-b-nakashima-b"
+        },
+        {
+          "title": "Krawietz, K. / Pütz, T. vs Atmane, T. / Romboli, F.",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "krawietz-k-putz-t-vs-atmane-t-romboli-f"
+        },
+        {
+          "title": "Nys, H. / Roger-Vasselin, E. vs Paul, J. / Vocel, M.",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "nys-h-roger-vasselin-e-vs-paul-j-vocel-m"
+        }
+      ]
+    },
+    {
+      "title": "Daniil Medvedev vs Arthur Rinderknech",
+      "time": "18:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-us-open/ma11760961/daniil-medvedev_arthur-rinderknech/info",
+      "slug": "daniil-medvedev-vs-arthur-rinderknech",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Miedler, L. / Polmans, M. vs Nakashima, B. / Nakashima, B.",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "miedler-l-polmans-m-vs-nakashima-b-nakashima-b"
+        },
+        {
+          "title": "Krawietz, K. / Pütz, T. vs Atmane, T. / Romboli, F.",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "krawietz-k-putz-t-vs-atmane-t-romboli-f"
+        },
+        {
+          "title": "Nys, H. / Roger-Vasselin, E. vs Paul, J. / Vocel, M.",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "nys-h-roger-vasselin-e-vs-paul-j-vocel-m"
+        }
+      ]
+    },
+    {
+      "title": "Yibing Wu vs Carlos Alcaraz",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-us-open/ma11760982/yibing-wu_carlos-alcaraz/info",
+      "slug": "yibing-wu-vs-carlos-alcaraz",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Taylor Townsend vs Diana Shnaider",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "taylor-townsend-vs-diana-shnaider"
+        }
+      ]
+    },
+    {
+      "title": "Tomas Martin Etcheverry vs Mariano Navone",
+      "time": "22:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-us-open/ma11760970/tomas-martin-etcheverry_mariano-navone/info",
+      "slug": "tomas-martin-etcheverry-vs-mariano-navone",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alex Michelsen vs Daniel Merida Aguilar",
+      "time": "22:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-us-open/ma11760967/alex-michelsen_daniel-merida-aguilar/info",
+      "slug": "alex-michelsen-vs-daniel-merida-aguilar",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Jiří Lehečka vs Stefanos Tsitsipas",
+      "time": "23:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-usa-us-open/ma11760976/jiri-lehecka_stefanos-tsitsipas/info",
+      "slug": "jiri-lehecka-vs-stefanos-tsitsipas",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Siniakova, K. / Townsend, T. vs Brantmeier, R. / Broadus, S.",
+      "time": "00:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1053/us-open-new-york/ma11783656/siniakova-k---townsend-t_brantmeier-r---broadus-s/info",
+      "slug": "siniakova-k-townsend-t-vs-brantmeier-r-broadus-s",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Krueger, A. / Montgomery, R. vs Sramkova, R. / Noskova, L.",
+      "time": "00:15",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1053/us-open-new-york/ma11783719/krueger-a---montgomery-r_sramkova-r---noskova-l/info",
+      "slug": "krueger-a-montgomery-r-vs-sramkova-r-noskova-l",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Zizou Bergs vs Jesper De Jong",
+          "time": "00:15",
+          "sender": "Sportschau Live",
+          "slug": "zizou-bergs-vs-jesper-de-jong"
+        },
+        {
+          "title": "Maria Sakkari vs Yulia Starodubtseva",
+          "time": "00:15",
+          "sender": "Sportschau Live",
+          "slug": "maria-sakkari-vs-yulia-starodubtseva"
+        }
+      ]
+    },
+    {
+      "title": "Payne, B. / Shumate, S. vs Hozumi, E. / Klepac, A.",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1053/us-open-new-york/ma11783743/payne-b---shumate-s_hozumi-e---klepac-a/info",
+      "slug": "payne-b-shumate-s-vs-hozumi-e-klepac-a",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Frantzen, C. / Haase, R. vs Gonzalez, M. / Molteni, A.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "frantzen-c-haase-r-vs-gonzalez-m-molteni-a"
+        },
+        {
+          "title": "Duckworth, J. / Kecmanović, M. vs Melo, M. / Peers, J.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "duckworth-j-kecmanovic-m-vs-melo-m-peers-j"
+        },
+        {
+          "title": "Luz, O. / Matos, R. vs Carpico, B. / Filin, N.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "luz-o-matos-r-vs-carpico-b-filin-n"
+        }
+      ]
+    },
+    {
+      "title": "Guarachi Mathison, A. / Sherif, M. vs Krunić, A. / Danilina, A.",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1053/us-open-new-york/ma11783725/guarachi-mathison-a---sherif-m_krunic-a---danilina-a/info",
+      "slug": "guarachi-mathison-a-sherif-m-vs-krunic-a-danilina-a",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Frantzen, C. / Haase, R. vs Gonzalez, M. / Molteni, A.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "frantzen-c-haase-r-vs-gonzalez-m-molteni-a"
+        },
+        {
+          "title": "Duckworth, J. / Kecmanović, M. vs Melo, M. / Peers, J.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "duckworth-j-kecmanovic-m-vs-melo-m-peers-j"
+        },
+        {
+          "title": "Luz, O. / Matos, R. vs Carpico, B. / Filin, N.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "luz-o-matos-r-vs-carpico-b-filin-n"
+        }
+      ]
+    },
+    {
+      "title": "Jiang, X. / Zhang, S. vs Kenin, S. / Potapova, A.",
+      "time": "18:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1053/us-open-new-york/ma11783728/jiang-x---zhang-s_kenin-s---potapova-a/info",
+      "slug": "jiang-x-zhang-s-vs-kenin-s-potapova-a",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Miedler, L. / Polmans, M. vs Nakashima, B. / Nakashima, B.",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "miedler-l-polmans-m-vs-nakashima-b-nakashima-b"
+        },
+        {
+          "title": "Krawietz, K. / Pütz, T. vs Atmane, T. / Romboli, F.",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "krawietz-k-putz-t-vs-atmane-t-romboli-f"
+        },
+        {
+          "title": "Nys, H. / Roger-Vasselin, E. vs Paul, J. / Vocel, M.",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "nys-h-roger-vasselin-e-vs-paul-j-vocel-m"
+        }
+      ]
+    },
+    {
+      "title": "Marcinko, P. / Oliynykova, O. vs Dart, H. / Lumsden, M.",
+      "time": "18:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1053/us-open-new-york/ma11783674/marcinko-p---oliynykova-o_dart-h---lumsden-m/info",
+      "slug": "marcinko-p-oliynykova-o-vs-dart-h-lumsden-m",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Miedler, L. / Polmans, M. vs Nakashima, B. / Nakashima, B.",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "miedler-l-polmans-m-vs-nakashima-b-nakashima-b"
+        },
+        {
+          "title": "Krawietz, K. / Pütz, T. vs Atmane, T. / Romboli, F.",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "krawietz-k-putz-t-vs-atmane-t-romboli-f"
+        },
+        {
+          "title": "Nys, H. / Roger-Vasselin, E. vs Paul, J. / Vocel, M.",
+          "time": "18:10",
+          "sender": "Sportschau Live",
+          "slug": "nys-h-roger-vasselin-e-vs-paul-j-vocel-m"
+        }
+      ]
+    },
+    {
+      "title": "Bartunkova, N. / Osorio Serrano, M. vs Kichenok, L. / Kichenok, N.",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1053/us-open-new-york/ma11783734/bartunkova-n---osorio-serrano-m_kichenok-l---kichenok-n/info",
+      "slug": "bartunkova-n-osorio-serrano-m-vs-kichenok-l-kichenok-n",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Muhammad, A. / Stollar, F. vs Parks, A. / Shymanovich, I.",
+      "time": "19:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1053/us-open-new-york/ma11783740/muhammad-a---stollar-f_parks-a---shymanovich-i/info",
+      "slug": "muhammad-a-stollar-f-vs-parks-a-shymanovich-i",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Nouza, P. / Oberleitner, N. vs Buse, I. / Trungelliti, M.",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "nouza-p-oberleitner-n-vs-buse-i-trungelliti-m"
+        },
+        {
+          "title": "Ram, R. / Salisbury, J. vs Gonzalez, S. / Smith, J.",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "ram-r-salisbury-j-vs-gonzalez-s-smith-j"
+        },
+        {
+          "title": "Sonmez, Z. / Maria, T. vs Alexandrova, E. / Gibson, T.",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "sonmez-z-maria-t-vs-alexandrova-e-gibson-t"
+        }
+      ]
+    },
+    {
+      "title": "Sonmez, Z. / Maria, T. vs Alexandrova, E. / Gibson, T.",
+      "time": "19:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1053/us-open-new-york/ma11783722/sonmez-z---maria-t_alexandrova-e---gibson-t/info",
+      "slug": "sonmez-z-maria-t-vs-alexandrova-e-gibson-t",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Nouza, P. / Oberleitner, N. vs Buse, I. / Trungelliti, M.",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "nouza-p-oberleitner-n-vs-buse-i-trungelliti-m"
+        },
+        {
+          "title": "Ram, R. / Salisbury, J. vs Gonzalez, S. / Smith, J.",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "ram-r-salisbury-j-vs-gonzalez-s-smith-j"
+        },
+        {
+          "title": "Muhammad, A. / Stollar, F. vs Parks, A. / Shymanovich, I.",
+          "time": "19:20",
+          "sender": "Sportschau Live",
+          "slug": "muhammad-a-stollar-f-vs-parks-a-shymanovich-i"
+        }
+      ]
+    },
+    {
+      "title": "Kasatkina, D. / Starodubtseva, J. vs Chong, E. / Yang, Z.",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1053/us-open-new-york/ma11783731/kasatkina-d---starodubtseva-j_chong-e---yang-z/info",
+      "slug": "kasatkina-d-starodubtseva-j-vs-chong-e-yang-z",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Golubic, V. / Waltert, S. vs Bucsa, C. / Melichar-Martinez, N.",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "golubic-v-waltert-s-vs-bucsa-c-melichar-martinez-n"
+        }
+      ]
+    },
+    {
+      "title": "Golubic, V. / Waltert, S. vs Bucsa, C. / Melichar-Martinez, N.",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1053/us-open-new-york/ma11783677/golubic-v---waltert-s_bucsa-c---melichar-martinez-n/info",
+      "slug": "golubic-v-waltert-s-vs-bucsa-c-melichar-martinez-n",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Kasatkina, D. / Starodubtseva, J. vs Chong, E. / Yang, Z.",
+          "time": "20:00",
+          "sender": "Sportschau Live",
+          "slug": "kasatkina-d-starodubtseva-j-vs-chong-e-yang-z"
+        }
+      ]
+    },
+    {
+      "title": "Kato, M. / Wu, F. vs Mihalikova, T. / Nicholls, O.",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1053/us-open-new-york/ma11783737/kato-m---wu-f_mihalikova-t---nicholls-o/info",
+      "slug": "kato-m-wu-f-vs-mihalikova-t-nicholls-o",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Bolelli, S. / Vavassori, A. vs Halys, Q. / Herbert, P.",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "bolelli-s-vavassori-a-vs-halys-q-herbert-p"
+        },
+        {
+          "title": "Snigur, D. / Vandewinkel, H. vs Mertens, E. / Shnaider, D.",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "snigur-d-vandewinkel-h-vs-mertens-e-shnaider-d"
+        },
+        {
+          "title": "Korpatsch, T. / Huergo, N. vs Maleckova, J. / Skoch, M.",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "korpatsch-t-huergo-n-vs-maleckova-j-skoch-m"
+        }
+      ]
+    },
+    {
+      "title": "Snigur, D. / Vandewinkel, H. vs Mertens, E. / Shnaider, D.",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1053/us-open-new-york/ma11783701/snigur-d---vandewinkel-h_mertens-e---shnaider-d/info",
+      "slug": "snigur-d-vandewinkel-h-vs-mertens-e-shnaider-d",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Bolelli, S. / Vavassori, A. vs Halys, Q. / Herbert, P.",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "bolelli-s-vavassori-a-vs-halys-q-herbert-p"
+        },
+        {
+          "title": "Kato, M. / Wu, F. vs Mihalikova, T. / Nicholls, O.",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "kato-m-wu-f-vs-mihalikova-t-nicholls-o"
+        },
+        {
+          "title": "Korpatsch, T. / Huergo, N. vs Maleckova, J. / Skoch, M.",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "korpatsch-t-huergo-n-vs-maleckova-j-skoch-m"
+        }
+      ]
+    },
+    {
+      "title": "Korpatsch, T. / Huergo, N. vs Maleckova, J. / Skoch, M.",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1053/us-open-new-york/ma11783686/korpatsch-t---huergo-n_maleckova-j---skoch-m/info",
+      "slug": "korpatsch-t-huergo-n-vs-maleckova-j-skoch-m",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Bolelli, S. / Vavassori, A. vs Halys, Q. / Herbert, P.",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "bolelli-s-vavassori-a-vs-halys-q-herbert-p"
+        },
+        {
+          "title": "Kato, M. / Wu, F. vs Mihalikova, T. / Nicholls, O.",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "kato-m-wu-f-vs-mihalikova-t-nicholls-o"
+        },
+        {
+          "title": "Snigur, D. / Vandewinkel, H. vs Mertens, E. / Shnaider, D.",
+          "time": "20:30",
+          "sender": "Sportschau Live",
+          "slug": "snigur-d-vandewinkel-h-vs-mertens-e-shnaider-d"
+        }
+      ]
+    },
+    {
+      "title": "Korneeva, A. / Vidmanova, D. vs Bondar, A. / Kalinina, A.",
+      "time": "20:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1053/us-open-new-york/ma11783707/korneeva-a---vidmanova-d_bondar-a---kalinina-a/info",
+      "slug": "korneeva-a-vidmanova-d-vs-bondar-a-kalinina-a",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Ostapenko, J. / Hsieh, S. vs Jurak Schreiber, D. / Ruzic, A.",
+      "time": "21:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1053/us-open-new-york/ma11783680/ostapenko-j---hsieh-s_jurak-schreiber-d---ruzic-a/info",
+      "slug": "ostapenko-j-hsieh-s-vs-jurak-schreiber-d-ruzic-a",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Damm, M. / McDonald, M. vs Hidalgo, D. / Tabilo, A.",
+          "time": "21:10",
+          "sender": "Sportschau Live",
+          "slug": "damm-m-mcdonald-m-vs-hidalgo-d-tabilo-a"
+        }
+      ]
+    },
+    {
+      "title": "Tagger, L. / Errani, S. vs Penickova, A. / Penickova, K.",
+      "time": "21:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co1053/us-open-new-york/ma11783746/tagger-l---errani-s_penickova-a---penickova-k/info",
+      "slug": "tagger-l-errani-s-vs-penickova-a-penickova-k",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Maria Sakkari vs Yulia Starodubtseva",
+      "time": "00:15",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-us-open/ma11783557/maria-sakkari_yulia-starodubtseva/info",
+      "slug": "maria-sakkari-vs-yulia-starodubtseva",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Zizou Bergs vs Jesper De Jong",
+          "time": "00:15",
+          "sender": "Sportschau Live",
+          "slug": "zizou-bergs-vs-jesper-de-jong"
+        },
+        {
+          "title": "Krueger, A. / Montgomery, R. vs Sramkova, R. / Noskova, L.",
+          "time": "00:15",
+          "sender": "Sportschau Live",
+          "slug": "krueger-a-montgomery-r-vs-sramkova-r-noskova-l"
+        }
+      ]
+    },
+    {
+      "title": "Iva Jovic vs Francesca Jones",
+      "time": "00:55",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-us-open/ma11783527/iva-jovic_francesca-jones/info",
+      "slug": "iva-jovic-vs-francesca-jones",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Paula Badosa vs Coco Gauff",
+      "time": "01:15",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-us-open/ma11783536/paula-badosa_coco-gauff/info",
+      "slug": "paula-badosa-vs-coco-gauff",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Jessica Bouzas Maneiro vs Elena Rybakina",
+      "time": "03:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-us-open/ma11783560/jessica-bouzas-maneiro_elena-rybakina/info",
+      "slug": "jessica-bouzas-maneiro-vs-elena-rybakina",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Jasmine Paolini vs Sorana Cirstea",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-us-open/ma11783578/jasmine-paolini_sorana-cirstea/info",
+      "slug": "jasmine-paolini-vs-sorana-cirstea",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Frantzen, C. / Haase, R. vs Gonzalez, M. / Molteni, A.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "frantzen-c-haase-r-vs-gonzalez-m-molteni-a"
+        },
+        {
+          "title": "Duckworth, J. / Kecmanović, M. vs Melo, M. / Peers, J.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "duckworth-j-kecmanovic-m-vs-melo-m-peers-j"
+        },
+        {
+          "title": "Luz, O. / Matos, R. vs Carpico, B. / Filin, N.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "luz-o-matos-r-vs-carpico-b-filin-n"
+        }
+      ]
+    },
+    {
+      "title": "Marta Kostyuk vs Ekaterina Alexandrova",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-us-open/ma11783569/marta-kostyuk_ekaterina-alexandrova/info",
+      "slug": "marta-kostyuk-vs-ekaterina-alexandrova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Frantzen, C. / Haase, R. vs Gonzalez, M. / Molteni, A.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "frantzen-c-haase-r-vs-gonzalez-m-molteni-a"
+        },
+        {
+          "title": "Duckworth, J. / Kecmanović, M. vs Melo, M. / Peers, J.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "duckworth-j-kecmanovic-m-vs-melo-m-peers-j"
+        },
+        {
+          "title": "Luz, O. / Matos, R. vs Carpico, B. / Filin, N.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "luz-o-matos-r-vs-carpico-b-filin-n"
+        }
+      ]
+    },
+    {
+      "title": "Aryna Sabalenka vs Kamilla Rakhimova",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-us-open/ma11783563/aryna-sabalenka_kamilla-rakhimova/info",
+      "slug": "aryna-sabalenka-vs-kamilla-rakhimova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Frantzen, C. / Haase, R. vs Gonzalez, M. / Molteni, A.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "frantzen-c-haase-r-vs-gonzalez-m-molteni-a"
+        },
+        {
+          "title": "Duckworth, J. / Kecmanović, M. vs Melo, M. / Peers, J.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "duckworth-j-kecmanovic-m-vs-melo-m-peers-j"
+        },
+        {
+          "title": "Luz, O. / Matos, R. vs Carpico, B. / Filin, N.",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "luz-o-matos-r-vs-carpico-b-filin-n"
+        }
+      ]
+    },
+    {
+      "title": "Jessica Pegula vs Leylah Fernandez",
+      "time": "17:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-us-open/ma11783575/jessica-pegula_leylah-fernandez/info",
+      "slug": "jessica-pegula-vs-leylah-fernandez",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Taylor Townsend vs Diana Shnaider",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-us-open/ma11783566/taylor-townsend_diana-shnaider/info",
+      "slug": "taylor-townsend-vs-diana-shnaider",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Yibing Wu vs Carlos Alcaraz",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "yibing-wu-vs-carlos-alcaraz"
+        }
+      ]
+    },
+    {
+      "title": "Emma Navarro vs Karolina Muchova",
+      "time": "19:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-us-open/ma11783584/emma-navarro_karolina-muchova/info",
+      "slug": "emma-navarro-vs-karolina-muchova",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Ann Li vs Linda Noskova",
+      "time": "20:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-usa-us-open/ma11783572/ann-li_linda-noskova/info",
+      "slug": "ann-li-vs-linda-noskova",
+      "subtitle": "",
+      "related_events": []
+    }
+  ]
+}
