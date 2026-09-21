@@ -1,0 +1,316 @@
+{
+  "date": "2026-09-21",
+  "events": [
+    {
+      "title": "Werder Bremen vs VfB Stuttgart",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga-frauen/ma12306172/werder-bremen_vfb-stuttgart/info",
+      "slug": "werder-bremen-vs-vfb-stuttgart",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Belgien vs Tschechien",
+      "time": "16:00",
+      "iso_time": "",
+      "sport": "Volleyball",
+      "sport_slug": "volleyball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/volleyball/volleyball-em/ma12563317/belgien_tschechien/info",
+      "slug": "belgien-vs-tschechien",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Slowenien vs Serbien",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Volleyball",
+      "sport_slug": "volleyball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/volleyball/volleyball-em/ma12563320/slowenien_serbien/info",
+      "slug": "slowenien-vs-serbien",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Kansas City Chiefs vs Indianapolis Colts",
+      "time": "02:20",
+      "iso_time": "",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/football/usa-nfl/ma12087554/kansas-city-chiefs_indianapolis-colts/info",
+      "slug": "kansas-city-chiefs-vs-indianapolis-colts",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Daria Kasatkina vs Aliaksandra Sasnovich",
+      "time": "05:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co15410/singapore-open/ma11784127/daria-kasatkina_aliaksandra-sasnovich/info",
+      "slug": "daria-kasatkina-vs-aliaksandra-sasnovich",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Katie Volynets vs Elvina Kalieva",
+          "time": "05:00",
+          "sender": "Sportschau Live",
+          "slug": "katie-volynets-vs-elvina-kalieva"
+        },
+        {
+          "title": "Xinxin Yao vs Maya Joint",
+          "time": "05:00",
+          "sender": "Sportschau Live",
+          "slug": "xinxin-yao-vs-maya-joint"
+        },
+        {
+          "title": "Lanlana Tararudee vs Moyuka Uchijima",
+          "time": "05:00",
+          "sender": "Sportschau Live",
+          "slug": "lanlana-tararudee-vs-moyuka-uchijima"
+        }
+      ]
+    },
+    {
+      "title": "Kristina Mladenovic vs Nao Hibino",
+      "time": "06:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co15410/singapore-open/ma11784163/kristina-mladenovic_nao-hibino/info",
+      "slug": "kristina-mladenovic-vs-nao-hibino",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Talia Gibson vs Fiona Ferro",
+      "time": "08:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co15410/singapore-open/ma11784166/talia-gibson_fiona-ferro/info",
+      "slug": "talia-gibson-vs-fiona-ferro",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Rebecca Sramkova vs Maja Chwalinska",
+          "time": "08:00",
+          "sender": "Sportschau Live",
+          "slug": "rebecca-sramkova-vs-maja-chwalinska"
+        }
+      ]
+    },
+    {
+      "title": "Rebecca Sramkova vs Maja Chwalinska",
+      "time": "08:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co15410/singapore-open/ma11784145/rebecca-sramkova_maja-chwalinska/info",
+      "slug": "rebecca-sramkova-vs-maja-chwalinska",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Talia Gibson vs Fiona Ferro",
+          "time": "08:00",
+          "sender": "Sportschau Live",
+          "slug": "talia-gibson-vs-fiona-ferro"
+        }
+      ]
+    },
+    {
+      "title": "Kyoka Okamura vs Leylah Fernandez",
+      "time": "12:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co15410/singapore-open/ma11784133/kyoka-okamura_leylah-fernandez/info",
+      "slug": "kyoka-okamura-vs-leylah-fernandez",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Storm Hunter vs Joanna Garland",
+      "time": "13:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co15410/singapore-open/ma11784151/storm-hunter_joanna-garland/info",
+      "slug": "storm-hunter-vs-joanna-garland",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Katie Volynets vs Elvina Kalieva",
+      "time": "05:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-suedkorea-kdb-korea-open/ma11784256/katie-volynets_elvina-kalieva/info",
+      "slug": "katie-volynets-vs-elvina-kalieva",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Daria Kasatkina vs Aliaksandra Sasnovich",
+          "time": "05:00",
+          "sender": "Sportschau Live",
+          "slug": "daria-kasatkina-vs-aliaksandra-sasnovich"
+        },
+        {
+          "title": "Xinxin Yao vs Maya Joint",
+          "time": "05:00",
+          "sender": "Sportschau Live",
+          "slug": "xinxin-yao-vs-maya-joint"
+        },
+        {
+          "title": "Lanlana Tararudee vs Moyuka Uchijima",
+          "time": "05:00",
+          "sender": "Sportschau Live",
+          "slug": "lanlana-tararudee-vs-moyuka-uchijima"
+        }
+      ]
+    },
+    {
+      "title": "Xinxin Yao vs Maya Joint",
+      "time": "05:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-suedkorea-kdb-korea-open/ma11784238/xinxin-yao_maya-joint/info",
+      "slug": "xinxin-yao-vs-maya-joint",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Daria Kasatkina vs Aliaksandra Sasnovich",
+          "time": "05:00",
+          "sender": "Sportschau Live",
+          "slug": "daria-kasatkina-vs-aliaksandra-sasnovich"
+        },
+        {
+          "title": "Katie Volynets vs Elvina Kalieva",
+          "time": "05:00",
+          "sender": "Sportschau Live",
+          "slug": "katie-volynets-vs-elvina-kalieva"
+        },
+        {
+          "title": "Lanlana Tararudee vs Moyuka Uchijima",
+          "time": "05:00",
+          "sender": "Sportschau Live",
+          "slug": "lanlana-tararudee-vs-moyuka-uchijima"
+        }
+      ]
+    },
+    {
+      "title": "Lanlana Tararudee vs Moyuka Uchijima",
+      "time": "05:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-suedkorea-kdb-korea-open/ma11784229/lanlana-tararudee_moyuka-uchijima/info",
+      "slug": "lanlana-tararudee-vs-moyuka-uchijima",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Daria Kasatkina vs Aliaksandra Sasnovich",
+          "time": "05:00",
+          "sender": "Sportschau Live",
+          "slug": "daria-kasatkina-vs-aliaksandra-sasnovich"
+        },
+        {
+          "title": "Katie Volynets vs Elvina Kalieva",
+          "time": "05:00",
+          "sender": "Sportschau Live",
+          "slug": "katie-volynets-vs-elvina-kalieva"
+        },
+        {
+          "title": "Xinxin Yao vs Maya Joint",
+          "time": "05:00",
+          "sender": "Sportschau Live",
+          "slug": "xinxin-yao-vs-maya-joint"
+        }
+      ]
+    },
+    {
+      "title": "Alina Korneeva vs Mananchaya Sawangkaew",
+      "time": "06:25",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-suedkorea-kdb-korea-open/ma11784223/alina-korneeva_mananchaya-sawangkaew/info",
+      "slug": "alina-korneeva-vs-mananchaya-sawangkaew",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Kamilla Rakhimova vs Polina Kudermetova",
+      "time": "07:35",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-suedkorea-kdb-korea-open/ma11784253/kamilla-rakhimova_polina-kudermetova/info",
+      "slug": "kamilla-rakhimova-vs-polina-kudermetova",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Yue Yuan vs Dayeon Back",
+      "time": "09:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-suedkorea-kdb-korea-open/ma11784235/yue-yuan_dayeon-back/info",
+      "slug": "yue-yuan-vs-dayeon-back",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Darya Astakhova vs Magda Linette",
+      "time": "10:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-suedkorea-kdb-korea-open/ma11784226/darya-astakhova_magda-linette/info",
+      "slug": "darya-astakhova-vs-magda-linette",
+      "subtitle": "",
+      "related_events": []
+    }
+  ]
+}
