@@ -1,0 +1,935 @@
+{
+  "date": "2026-10-12",
+  "events": [
+    {
+      "title": "Coventry City vs Newcastle United",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/england-premier-league/ma12153307/coventry-city_newcastle-united/info",
+      "slug": "coventry-city-vs-newcastle-united",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Levante UD vs Sevilla FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "levante-ud-vs-sevilla-fc"
+        }
+      ]
+    },
+    {
+      "title": "Levante UD vs Sevilla FC",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-primera-division/ma12188029/levante-ud_sevilla-fc/info",
+      "slug": "levante-ud-vs-sevilla-fc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Coventry City vs Newcastle United",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "coventry-city-vs-newcastle-united"
+        }
+      ]
+    },
+    {
+      "title": "Atalanta vs Venezia FC",
+      "time": "18:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/italien-serie-a/ma12130957/atalanta_venezia-fc/info",
+      "slug": "atalanta-vs-venezia-fc",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "FC Turin vs Udinese Calcio",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/italien-serie-a/ma12130969/fc-turin_udinese-calcio/info",
+      "slug": "fc-turin-vs-udinese-calcio",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Eyüpspor vs Göztepe",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/tuerkei-sueper-lig/ma12280117/eyuepspor_goeztepe/info",
+      "slug": "eyupspor-vs-goztepe",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "FC Famalicão vs FC Alverca",
+      "time": "21:15",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/portugal-primeira-liga/ma12223756/fc-famalicao_fc-alverca/info",
+      "slug": "fc-famalicao-vs-fc-alverca",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Atlanta Falcons vs Baltimore Ravens",
+      "time": "02:20",
+      "iso_time": "",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/football/usa-nfl/ma12087767/atlanta-falcons_baltimore-ravens/info",
+      "slug": "atlanta-falcons-vs-baltimore-ravens",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "New York Rangers vs Vancouver Canucks",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma12317008/new-york-rangers_vancouver-canucks/info",
+      "slug": "new-york-rangers-vs-vancouver-canucks",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Philadelphia Flyers vs Carolina Hurricanes",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma12317011/philadelphia-flyers_carolina-hurricanes/info",
+      "slug": "philadelphia-flyers-vs-carolina-hurricanes",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Buffalo Sabres vs Florida Panthers",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma12317014/buffalo-sabres_florida-panthers/info",
+      "slug": "buffalo-sabres-vs-florida-panthers",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Pablo Carreno Busta vs Felix Auger-Aliassime",
+      "time": "06:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-china-shanghai-atp-masters-1000/ma11762206/pablo-carreno-busta_felix-auger-aliassime/info",
+      "slug": "pablo-carreno-busta-vs-felix-auger-aliassime",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Learner Tien vs Casper Ruud",
+          "time": "06:00",
+          "sender": "Sportschau Live",
+          "slug": "learner-tien-vs-casper-ruud"
+        }
+      ]
+    },
+    {
+      "title": "Learner Tien vs Casper Ruud",
+      "time": "06:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-china-shanghai-atp-masters-1000/ma11762203/learner-tien_casper-ruud/info",
+      "slug": "learner-tien-vs-casper-ruud",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Pablo Carreno Busta vs Felix Auger-Aliassime",
+          "time": "06:00",
+          "sender": "Sportschau Live",
+          "slug": "pablo-carreno-busta-vs-felix-auger-aliassime"
+        }
+      ]
+    },
+    {
+      "title": "Jiří Lehečka vs Rafael Jodar",
+      "time": "08:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-china-shanghai-atp-masters-1000/ma11762200/jiri-lehecka_rafael-jodar/info",
+      "slug": "jiri-lehecka-vs-rafael-jodar",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Stefanos Tsitsipas vs Taylor Fritz",
+      "time": "08:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-china-shanghai-atp-masters-1000/ma11762212/stefanos-tsitsipas_taylor-fritz/info",
+      "slug": "stefanos-tsitsipas-vs-taylor-fritz",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Daniil Medvedev vs Dalibor Svrcina",
+      "time": "09:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-china-shanghai-atp-masters-1000/ma11762209/daniil-medvedev_dalibor-svrcina/info",
+      "slug": "daniil-medvedev-vs-dalibor-svrcina",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Arthur Fils vs Botic van de Zandschulp",
+      "time": "10:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-china-shanghai-atp-masters-1000/ma11762197/arthur-fils_botic-van-de-zandschulp/info",
+      "slug": "arthur-fils-vs-botic-van-de-zandschulp",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Zizou Bergs vs Carlos Alcaraz",
+      "time": "12:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-china-shanghai-atp-masters-1000/ma11762218/zizou-bergs_carlos-alcaraz/info",
+      "slug": "zizou-bergs-vs-carlos-alcaraz",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Tommy Paul vs Valentin Vacherot",
+      "time": "13:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-china-shanghai-atp-masters-1000/ma11762215/tommy-paul_valentin-vacherot/info",
+      "slug": "tommy-paul-vs-valentin-vacherot",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Ekaterina Alexandrova vs Leylah Fernandez",
+      "time": "05:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-wuhan-tennis-open/ma11784871/ekaterina-alexandrova_leylah-fernandez/info",
+      "slug": "ekaterina-alexandrova-vs-leylah-fernandez",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Anhelina Kalinina vs Sonay Kartal",
+          "time": "05:00",
+          "sender": "Sportschau Live",
+          "slug": "anhelina-kalinina-vs-sonay-kartal"
+        },
+        {
+          "title": "Diane Parry vs Lanlana Tararudee",
+          "time": "05:00",
+          "sender": "Sportschau Live",
+          "slug": "diane-parry-vs-lanlana-tararudee"
+        }
+      ]
+    },
+    {
+      "title": "Anhelina Kalinina vs Sonay Kartal",
+      "time": "05:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-wuhan-tennis-open/ma11784850/anhelina-kalinina_sonay-kartal/info",
+      "slug": "anhelina-kalinina-vs-sonay-kartal",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ekaterina Alexandrova vs Leylah Fernandez",
+          "time": "05:00",
+          "sender": "Sportschau Live",
+          "slug": "ekaterina-alexandrova-vs-leylah-fernandez"
+        },
+        {
+          "title": "Diane Parry vs Lanlana Tararudee",
+          "time": "05:00",
+          "sender": "Sportschau Live",
+          "slug": "diane-parry-vs-lanlana-tararudee"
+        }
+      ]
+    },
+    {
+      "title": "Diane Parry vs Lanlana Tararudee",
+      "time": "05:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-wuhan-tennis-open/ma11784799/diane-parry_lanlana-tararudee/info",
+      "slug": "diane-parry-vs-lanlana-tararudee",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Ekaterina Alexandrova vs Leylah Fernandez",
+          "time": "05:00",
+          "sender": "Sportschau Live",
+          "slug": "ekaterina-alexandrova-vs-leylah-fernandez"
+        },
+        {
+          "title": "Anhelina Kalinina vs Sonay Kartal",
+          "time": "05:00",
+          "sender": "Sportschau Live",
+          "slug": "anhelina-kalinina-vs-sonay-kartal"
+        }
+      ]
+    },
+    {
+      "title": "Clara Tauson vs Marie Bouzkova",
+      "time": "06:45",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-wuhan-tennis-open/ma11784814/clara-tauson_marie-bouzkova/info",
+      "slug": "clara-tauson-vs-marie-bouzkova",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Janice Tjen vs Aoi Ito",
+          "time": "06:45",
+          "sender": "Sportschau Live",
+          "slug": "janice-tjen-vs-aoi-ito"
+        }
+      ]
+    },
+    {
+      "title": "Janice Tjen vs Aoi Ito",
+      "time": "06:45",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-wuhan-tennis-open/ma11784790/janice-tjen_aoi-ito/info",
+      "slug": "janice-tjen-vs-aoi-ito",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Clara Tauson vs Marie Bouzkova",
+          "time": "06:45",
+          "sender": "Sportschau Live",
+          "slug": "clara-tauson-vs-marie-bouzkova"
+        }
+      ]
+    },
+    {
+      "title": "Anna Bondar vs Mia Pohankova",
+      "time": "07:45",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-wuhan-tennis-open/ma11784820/anna-bondar_mia-pohankova/info",
+      "slug": "anna-bondar-vs-mia-pohankova",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Jasmine Paolini vs Sara Bejlek",
+      "time": "07:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-wuhan-tennis-open/ma11784844/jasmine-paolini_sara-bejlek/info",
+      "slug": "jasmine-paolini-vs-sara-bejlek",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Mananchaya Sawangkaew vs Magdalena Frech",
+      "time": "08:15",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-wuhan-tennis-open/ma11784802/mananchaya-sawangkaew_magdalena-frech/info",
+      "slug": "mananchaya-sawangkaew-vs-magdalena-frech",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Caty McNally vs Yulia Starodubtseva",
+      "time": "09:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-wuhan-tennis-open/ma11784859/caty-mcnally_yulia-starodubtseva/info",
+      "slug": "caty-mcnally-vs-yulia-starodubtseva",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Maria Sakkari vs Donna Vekić",
+          "time": "09:00",
+          "sender": "Sportschau Live",
+          "slug": "maria-sakkari-vs-donna-vekic"
+        }
+      ]
+    },
+    {
+      "title": "Maria Sakkari vs Donna Vekić",
+      "time": "09:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-wuhan-tennis-open/ma11784826/maria-sakkari_donna-vekic/info",
+      "slug": "maria-sakkari-vs-donna-vekic",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Caty McNally vs Yulia Starodubtseva",
+          "time": "09:00",
+          "sender": "Sportschau Live",
+          "slug": "caty-mcnally-vs-yulia-starodubtseva"
+        }
+      ]
+    },
+    {
+      "title": "Xiyu Wang vs Xinyu Wang",
+      "time": "13:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-wuhan-tennis-open/ma11784823/xiyu-wang_xinyu-wang/info",
+      "slug": "xiyu-wang-vs-xinyu-wang",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alexandra Eala vs Han Shi",
+      "time": "14:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-wuhan-tennis-open/ma11784868/alexandra-eala_han-shi/info",
+      "slug": "alexandra-eala-vs-han-shi",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Shenzhen Open | Finale",
+      "subtitle": "Yuan S. - Wu Y. | 2. Session | Shenzhen",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:59",
+      "iso_time": "2026-10-12T01:59:04+02:00",
+      "link": "",
+      "slug": "shenzhen-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Chicago-Marathon",
+      "subtitle": "World Marathon Majors | Frauen / Männer | 48. Austragung",
+      "sport": "Leichtathletik",
+      "sport_slug": "leichtathletik",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:32",
+      "iso_time": "2026-10-12T03:32:51+02:00",
+      "link": "",
+      "slug": "chicago-marathon",
+      "related_events": []
+    },
+    {
+      "title": "Shenzhen Open | Finale",
+      "subtitle": "Yuan S. - Wu Y. | 2. Session | Shenzhen",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:02",
+      "iso_time": "2026-10-12T05:02:09+02:00",
+      "link": "",
+      "slug": "shenzhen-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "WM | Zeitfahren | Männer Elite",
+      "subtitle": "Montréal | Montréal - Montréal (39,2km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "07:00",
+      "iso_time": "2026-10-12T07:00:36+02:00",
+      "link": "https://play.hbomax.com/sport/2104050a-e6b9-58ed-bb8c-6af2ac43c92e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-zeitfahren-manner-elite",
+      "related_events": []
+    },
+    {
+      "title": "Chicago-Marathon",
+      "subtitle": "World Marathon Majors | Frauen / Männer | 48. Austragung",
+      "sport": "Leichtathletik",
+      "sport_slug": "leichtathletik",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:34",
+      "iso_time": "2026-10-12T08:34:18+02:00",
+      "link": "https://play.hbomax.com/sport/83864b18-8f3e-5833-820a-560a38b891b7?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "chicago-marathon",
+      "related_events": []
+    },
+    {
+      "title": "Shenzhen Open | Finale",
+      "subtitle": "Yuan S. - Wu Y. | 2. Session | Shenzhen",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "09:00",
+      "iso_time": "2026-10-12T09:00:01+02:00",
+      "link": "https://play.hbomax.com/sport/e0048938-0f64-59dc-9c4b-2973d3987f68?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "shenzhen-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Chamonix | Lead | Finale",
+      "subtitle": "World Series | Frauen / Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:28",
+      "iso_time": "2026-10-12T10:28:52+02:00",
+      "link": "https://play.hbomax.com/sport/08369427-27e2-5d61-8bb2-0f6df436aa1b?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "chamonix-lead-finale",
+      "related_events": [
+        {
+          "title": "Chamonix | Speed | Finale",
+          "time": "12:59",
+          "sender": "Eurosport",
+          "slug": "chamonix-speed-finale"
+        }
+      ]
+    },
+    {
+      "title": "Chicago-Marathon",
+      "subtitle": "World Marathon Majors | Frauen / Männer | 48. Austragung",
+      "sport": "Leichtathletik",
+      "sport_slug": "leichtathletik",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:00",
+      "iso_time": "2026-10-12T11:00:02+02:00",
+      "link": "https://play.hbomax.com/sport/8f79a00e-4c9e-582f-aaf4-1256195c11de?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "chicago-marathon",
+      "related_events": []
+    },
+    {
+      "title": "Shenzhen Open | Finale",
+      "subtitle": "Yuan S. - Wu Y. | 2. Session | Shenzhen",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:01",
+      "iso_time": "2026-10-12T11:01:16+02:00",
+      "link": "https://play.hbomax.com/sport/844baa5a-986a-5181-b835-36c24d1676ac?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "shenzhen-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Chamonix | Speed | Finale",
+      "subtitle": "World Series | Frauen / Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:59",
+      "iso_time": "2026-10-12T12:59:11+02:00",
+      "link": "https://play.hbomax.com/sport/bac6be6f-36a3-5f53-a2f7-092ea829c217?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "chamonix-speed-finale",
+      "related_events": [
+        {
+          "title": "Chamonix | Lead | Finale",
+          "time": "10:28",
+          "sender": "Eurosport",
+          "slug": "chamonix-lead-finale"
+        },
+        {
+          "title": "Chamonix | Lead | Finale",
+          "time": "13:59",
+          "sender": "Eurosport",
+          "slug": "chamonix-lead-finale"
+        }
+      ]
+    },
+    {
+      "title": "WM | Frauen Elite",
+      "subtitle": "Nannup | Nannup - Nannup (125,6km) | Englischer Kommentar",
+      "sport": "Gravel",
+      "sport_slug": "gravel",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:00",
+      "iso_time": "2026-10-12T13:00:32+02:00",
+      "link": "https://play.hbomax.com/sport/bad5d109-7f5e-5606-8658-c545024f59ff?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-frauen-elite",
+      "related_events": [
+        {
+          "title": "WM | Männer Elite",
+          "time": "14:01",
+          "sender": "Eurosport",
+          "slug": "wm-manner-elite"
+        }
+      ]
+    },
+    {
+      "title": "Chamonix | Lead | Finale",
+      "subtitle": "World Series | Frauen / Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:59",
+      "iso_time": "2026-10-12T13:59:04+02:00",
+      "link": "https://play.hbomax.com/sport/0c5847e8-c506-5f04-9230-bdf61412784d?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "chamonix-lead-finale",
+      "related_events": [
+        {
+          "title": "Chamonix | Speed | Finale",
+          "time": "12:59",
+          "sender": "Eurosport",
+          "slug": "chamonix-speed-finale"
+        }
+      ]
+    },
+    {
+      "title": "WM | Männer Elite",
+      "subtitle": "Nannup | Nannup - Nannup (144km)",
+      "sport": "Gravel",
+      "sport_slug": "gravel",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:01",
+      "iso_time": "2026-10-12T14:01:32+02:00",
+      "link": "https://play.hbomax.com/sport/16c9d9ad-f686-50ae-a81b-106acfe88f71?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-manner-elite",
+      "related_events": [
+        {
+          "title": "WM | Frauen Elite",
+          "time": "13:00",
+          "sender": "Eurosport",
+          "slug": "wm-frauen-elite"
+        }
+      ]
+    },
+    {
+      "title": "EM | Trap Trio",
+      "subtitle": "Malakasa | Frauen | Englischer Kommentar",
+      "sport": "Sportschießen",
+      "sport_slug": "sportschiessen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:55",
+      "iso_time": "2026-10-12T14:55:00+02:00",
+      "link": "https://play.hbomax.com/sport/0f0fdb4b-c4a5-56dd-b34c-b0127136ecb5?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "em-trap-trio",
+      "related_events": []
+    },
+    {
+      "title": "Shenzhen Open | Finale",
+      "subtitle": "Yuan S. - Wu Y. | 2. Session | Shenzhen",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:59",
+      "iso_time": "2026-10-12T14:59:58+02:00",
+      "link": "https://play.hbomax.com/sport/b864fe2f-00cf-5093-9889-8c431c0343c9?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "shenzhen-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "Lombardei-Rundfahrt",
+      "subtitle": "UCI World Tour | Männer | Bergamo - Como (239km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:01",
+      "iso_time": "2026-10-12T15:01:37+02:00",
+      "link": "https://play.hbomax.com/sport/125f4500-54b3-5421-b12e-666769865288?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lombardei-rundfahrt",
+      "related_events": []
+    },
+    {
+      "title": "EM | Trap Trio",
+      "subtitle": "Malakasa | Männer | Englischer Kommentar",
+      "sport": "Sportschießen",
+      "sport_slug": "sportschiessen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:15",
+      "iso_time": "2026-10-12T16:15:00+02:00",
+      "link": "https://play.hbomax.com/sport/9a353e09-7122-5b68-a193-059ddb2a5f57?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "em-trap-trio",
+      "related_events": []
+    },
+    {
+      "title": "Chicago-Marathon",
+      "subtitle": "World Marathon Majors | Frauen / Männer | 48. Austragung",
+      "sport": "Leichtathletik",
+      "sport_slug": "leichtathletik",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:59",
+      "iso_time": "2026-10-12T16:59:58+02:00",
+      "link": "https://play.hbomax.com/sport/3b810360-0e90-5f18-b3e3-357790781cff?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "chicago-marathon",
+      "related_events": []
+    },
+    {
+      "title": "Chamonix | Lead | Finale",
+      "subtitle": "World Series | Frauen / Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:01",
+      "iso_time": "2026-10-12T17:01:21+02:00",
+      "link": "https://play.hbomax.com/sport/7018a693-7ff1-51aa-93b8-bbe56480821a?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "chamonix-lead-finale",
+      "related_events": []
+    },
+    {
+      "title": "Global Champions Tour | Rom",
+      "subtitle": "Springreiten",
+      "sport": "Reitsport",
+      "sport_slug": "reitsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:00",
+      "iso_time": "2026-10-12T18:00:42+02:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "global-champions-tour-rom",
+      "related_events": []
+    },
+    {
+      "title": "Chamonix | Lead | Finale",
+      "subtitle": "World Series | Frauen / Männer",
+      "sport": "Sportklettern",
+      "sport_slug": "sportklettern",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:00",
+      "iso_time": "2026-10-12T19:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/1f5d44a0-e247-51b0-8e20-25b3d6a2927f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "chamonix-lead-finale",
+      "related_events": []
+    },
+    {
+      "title": "Lombardei-Rundfahrt",
+      "subtitle": "UCI World Tour | Männer | Bergamo - Como (239km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-10-12T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/23781837-286f-5426-bcb1-b80e75538888?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lombardei-rundfahrt",
+      "related_events": [
+        {
+          "title": "Paris-Tours",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "paris-tours"
+        }
+      ]
+    },
+    {
+      "title": "Chicago-Marathon",
+      "subtitle": "World Marathon Majors | Frauen / Männer | 48. Austragung",
+      "sport": "Leichtathletik",
+      "sport_slug": "leichtathletik",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-10-12T20:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/f60414f8-25dc-556e-a34d-93405de03603?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "chicago-marathon",
+      "related_events": []
+    },
+    {
+      "title": "Chicago-Marathon",
+      "subtitle": "World Marathon Majors | Frauen / Männer | 48. Austragung",
+      "sport": "Leichtathletik",
+      "sport_slug": "leichtathletik",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-10-12T22:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/1506c961-c252-5cd9-bbad-8edf2349fe6e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "chicago-marathon",
+      "related_events": []
+    },
+    {
+      "title": "Paris-Tours",
+      "subtitle": "UCI Pro Series | Männer | Chartres – Tours (216,2km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-10-12T22:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/22aff1c1-7230-59df-af55-c6df90f60f18?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "paris-tours",
+      "related_events": [
+        {
+          "title": "Lombardei-Rundfahrt",
+          "time": "20:00",
+          "sender": "Eurosport",
+          "slug": "lombardei-rundfahrt"
+        },
+        {
+          "title": "Lombardei-Rundfahrt",
+          "time": "23:00",
+          "sender": "Eurosport",
+          "slug": "lombardei-rundfahrt"
+        }
+      ]
+    },
+    {
+      "title": "Lombardei-Rundfahrt",
+      "subtitle": "UCI World Tour | Männer | Bergamo - Como (239km)",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2026-10-12T23:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/0d672493-6032-5cd2-90b5-f60b74fd20a6?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "lombardei-rundfahrt",
+      "related_events": [
+        {
+          "title": "Paris-Tours",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "paris-tours"
+        }
+      ]
+    },
+    {
+      "title": "China Open | Finale",
+      "subtitle": "M. Selby - N. Saengkham | 2 Session | Taiyuan",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-10-13T00:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/419fe6c6-ae92-5577-9907-45ce20d3fea6?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "china-open-finale",
+      "related_events": []
+    },
+    {
+      "title": "FIA WEC | 6h von Imola | Rennen",
+      "subtitle": "Langstrecken-WM | 1. Station",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-10-13T00:00:00+02:00",
+      "link": "https://play.hbomax.com/sport/dedbc454-2be6-594b-a21a-8ec5baa335cf?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "fia-wec-6h-von-imola-rennen",
+      "related_events": []
+    },
+    {
+      "title": "China Open | Finale",
+      "subtitle": "M. Selby - N. Saengkham | 2 Session | Taiyuan",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:30",
+      "iso_time": "2026-10-13T01:30:00+02:00",
+      "link": "https://play.hbomax.com/sport/4bea220a-eb67-5bd9-90e1-eced0f707442?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "china-open-finale",
+      "related_events": []
+    }
+  ]
+}
