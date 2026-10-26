@@ -1,0 +1,671 @@
+{
+  "date": "2026-10-26",
+  "events": [
+    {
+      "title": "Fitness First Würzburg Baskets vs NINERS Chemnitz",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/deutschland-bbl/ma12415810/fitness-first-wuerzburg-baskets_niners-chemnitz/info",
+      "slug": "fitness-first-wurzburg-baskets-vs-niners-chemnitz",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Sevilla FC vs CA Osasuna",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-primera-division/ma12188077/sevilla-fc_ca-osasuna/info",
+      "slug": "sevilla-fc-vs-ca-osasuna",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Paris Saint-Germain vs Olympique Lyon",
+      "time": "20:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/frankreich-ligue-1/ma12132160/paris-saint-germain_olympique-lyon/info",
+      "slug": "paris-saint-germain-vs-olympique-lyon",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Beşiktaş vs İstanbul Başakşehir",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/tuerkei-sueper-lig/ma12280165/besiktas_stanbul-basaksehir/info",
+      "slug": "besiktas-vs-istanbul-basaksehir",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Çaykur Rizespor vs Trabzonspor",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "caykur-rizespor-vs-trabzonspor"
+        }
+      ]
+    },
+    {
+      "title": "Çaykur Rizespor vs Trabzonspor",
+      "time": "17:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/tuerkei-sueper-lig/ma12280168/caykur-rizespor_trabzonspor/info",
+      "slug": "caykur-rizespor-vs-trabzonspor",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Beşiktaş vs İstanbul Başakşehir",
+          "time": "17:00",
+          "sender": "Sportschau Live",
+          "slug": "besiktas-vs-istanbul-basaksehir"
+        }
+      ]
+    },
+    {
+      "title": "Galatasaray vs Fenerbahçe",
+      "time": "19:30",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/tuerkei-sueper-lig/ma12280174/galatasaray_fenerbahce/info",
+      "slug": "galatasaray-vs-fenerbahce",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "CD Santa Clara vs SL Benfica",
+      "time": "19:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/portugal-primeira-liga/ma12223774/cd-santa-clara_sl-benfica/info",
+      "slug": "cd-santa-clara-vs-sl-benfica",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Minnesota Timberwolves vs Toronto Raptors",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma12455477/minnesota-timberwolves_toronto-raptors/info",
+      "slug": "minnesota-timberwolves-vs-toronto-raptors",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Oklahoma City Thunder vs Los Angeles Clippers",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "oklahoma-city-thunder-vs-los-angeles-clippers"
+        },
+        {
+          "title": "New York Knicks vs Orlando Magic",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "new-york-knicks-vs-orlando-magic"
+        }
+      ]
+    },
+    {
+      "title": "Oklahoma City Thunder vs Los Angeles Clippers",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma12455480/oklahoma-city-thunder_los-angeles-clippers/info",
+      "slug": "oklahoma-city-thunder-vs-los-angeles-clippers",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Minnesota Timberwolves vs Toronto Raptors",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "minnesota-timberwolves-vs-toronto-raptors"
+        },
+        {
+          "title": "New York Knicks vs Orlando Magic",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "new-york-knicks-vs-orlando-magic"
+        }
+      ]
+    },
+    {
+      "title": "New York Knicks vs Orlando Magic",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma12458174/new-york-knicks_orlando-magic/info",
+      "slug": "new-york-knicks-vs-orlando-magic",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Minnesota Timberwolves vs Toronto Raptors",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "minnesota-timberwolves-vs-toronto-raptors"
+        },
+        {
+          "title": "Oklahoma City Thunder vs Los Angeles Clippers",
+          "time": "00:00",
+          "sender": "Sportschau Live",
+          "slug": "oklahoma-city-thunder-vs-los-angeles-clippers"
+        }
+      ]
+    },
+    {
+      "title": "Philadelphia 76ers vs Detroit Pistons",
+      "time": "00:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma12455483/philadelphia-76ers_detroit-pistons/info",
+      "slug": "philadelphia-76ers-vs-detroit-pistons",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Sacramento Kings vs Memphis Grizzlies",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma12455486/sacramento-kings_memphis-grizzlies/info",
+      "slug": "sacramento-kings-vs-memphis-grizzlies",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Seattle Seahawks vs Kansas City Chiefs",
+      "time": "01:20",
+      "iso_time": "",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/football/usa-nfl/ma12087896/seattle-seahawks_kansas-city-chiefs/info",
+      "slug": "seattle-seahawks-vs-kansas-city-chiefs",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Winnipeg Jets vs Montréal Canadiens",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma12305980/winnipeg-jets_montreal-canadiens/info",
+      "slug": "winnipeg-jets-vs-montreal-canadiens",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Nashville Predators vs Colorado Avalanche",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma12317299/nashville-predators_colorado-avalanche/info",
+      "slug": "nashville-predators-vs-colorado-avalanche",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Vancouver Canucks vs Minnesota Wild",
+      "time": "03:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma12317302/vancouver-canucks_minnesota-wild/info",
+      "slug": "vancouver-canucks-vs-minnesota-wild",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Matteo Berrettini vs Tomas Martin Etcheverry",
+      "time": "13:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-oesterreich-erste-bank-open/ma11762746/matteo-berrettini_tomas-martin-etcheverry/info",
+      "slug": "matteo-berrettini-vs-tomas-martin-etcheverry",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Valentin Vacherot vs Mariano Navone",
+          "time": "13:30",
+          "sender": "Sportschau Live",
+          "slug": "valentin-vacherot-vs-mariano-navone"
+        },
+        {
+          "title": "Mika Brunold vs Nuno Borges",
+          "time": "13:30",
+          "sender": "Sportschau Live",
+          "slug": "mika-brunold-vs-nuno-borges"
+        }
+      ]
+    },
+    {
+      "title": "Tomas Machac vs Alex de Minaur",
+      "time": "14:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-oesterreich-erste-bank-open/ma11762752/tomas-machac_alex-de-minaur/info",
+      "slug": "tomas-machac-vs-alex-de-minaur",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Holger Rune vs Quentin Halys",
+          "time": "14:40",
+          "sender": "Sportschau Live",
+          "slug": "holger-rune-vs-quentin-halys"
+        },
+        {
+          "title": "Daniel Altmaier vs Juan Manuel Cerundolo",
+          "time": "14:40",
+          "sender": "Sportschau Live",
+          "slug": "daniel-altmaier-vs-juan-manuel-cerundolo"
+        }
+      ]
+    },
+    {
+      "title": "Jakub Mensik vs Lukas Neumayer",
+      "time": "17:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-oesterreich-erste-bank-open/ma11762755/jakub-mensik_lukas-neumayer/info",
+      "slug": "jakub-mensik-vs-lukas-neumayer",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Arthur Fery vs Jacob Fearnley",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "arthur-fery-vs-jacob-fearnley"
+        }
+      ]
+    },
+    {
+      "title": "Arthur Fery vs Jacob Fearnley",
+      "time": "17:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-oesterreich-erste-bank-open/ma11762737/arthur-fery_jacob-fearnley/info",
+      "slug": "arthur-fery-vs-jacob-fearnley",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Jakub Mensik vs Lukas Neumayer",
+          "time": "17:30",
+          "sender": "Sportschau Live",
+          "slug": "jakub-mensik-vs-lukas-neumayer"
+        }
+      ]
+    },
+    {
+      "title": "Luciano Darderi vs Matteo Arnaldi",
+      "time": "18:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-oesterreich-erste-bank-open/ma11762770/luciano-darderi_matteo-arnaldi/info",
+      "slug": "luciano-darderi-vs-matteo-arnaldi",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Luca Van Assche vs Learner Tien",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-oesterreich-erste-bank-open/ma11762749/luca-van-assche_learner-tien/info",
+      "slug": "luca-van-assche-vs-learner-tien",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Ben Shelton vs Casper Ruud",
+      "time": "",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-schweiz-swiss-indoors/ma11762638/ben-shelton_casper-ruud/info",
+      "slug": "ben-shelton-vs-casper-ruud",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Dominic Stricker vs Alexander Bublik",
+      "time": "",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-schweiz-swiss-indoors/ma11762659/dominic-stricker_alexander-bublik/info",
+      "slug": "dominic-stricker-vs-alexander-bublik",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Valentin Vacherot vs Mariano Navone",
+      "time": "13:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-schweiz-swiss-indoors/ma11762668/valentin-vacherot_mariano-navone/info",
+      "slug": "valentin-vacherot-vs-mariano-navone",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Matteo Berrettini vs Tomas Martin Etcheverry",
+          "time": "13:30",
+          "sender": "Sportschau Live",
+          "slug": "matteo-berrettini-vs-tomas-martin-etcheverry"
+        },
+        {
+          "title": "Mika Brunold vs Nuno Borges",
+          "time": "13:30",
+          "sender": "Sportschau Live",
+          "slug": "mika-brunold-vs-nuno-borges"
+        }
+      ]
+    },
+    {
+      "title": "Mika Brunold vs Nuno Borges",
+      "time": "13:30",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-schweiz-swiss-indoors/ma11762656/mika-brunold_nuno-borges/info",
+      "slug": "mika-brunold-vs-nuno-borges",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Matteo Berrettini vs Tomas Martin Etcheverry",
+          "time": "13:30",
+          "sender": "Sportschau Live",
+          "slug": "matteo-berrettini-vs-tomas-martin-etcheverry"
+        },
+        {
+          "title": "Valentin Vacherot vs Mariano Navone",
+          "time": "13:30",
+          "sender": "Sportschau Live",
+          "slug": "valentin-vacherot-vs-mariano-navone"
+        }
+      ]
+    },
+    {
+      "title": "Holger Rune vs Quentin Halys",
+      "time": "14:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-schweiz-swiss-indoors/ma11762665/holger-rune_quentin-halys/info",
+      "slug": "holger-rune-vs-quentin-halys",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Tomas Machac vs Alex de Minaur",
+          "time": "14:40",
+          "sender": "Sportschau Live",
+          "slug": "tomas-machac-vs-alex-de-minaur"
+        },
+        {
+          "title": "Daniel Altmaier vs Juan Manuel Cerundolo",
+          "time": "14:40",
+          "sender": "Sportschau Live",
+          "slug": "daniel-altmaier-vs-juan-manuel-cerundolo"
+        }
+      ]
+    },
+    {
+      "title": "Daniel Altmaier vs Juan Manuel Cerundolo",
+      "time": "14:40",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-schweiz-swiss-indoors/ma11762644/daniel-altmaier_juan-manuel-cerundolo/info",
+      "slug": "daniel-altmaier-vs-juan-manuel-cerundolo",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Tomas Machac vs Alex de Minaur",
+          "time": "14:40",
+          "sender": "Sportschau Live",
+          "slug": "tomas-machac-vs-alex-de-minaur"
+        },
+        {
+          "title": "Holger Rune vs Quentin Halys",
+          "time": "14:40",
+          "sender": "Sportschau Live",
+          "slug": "holger-rune-vs-quentin-halys"
+        }
+      ]
+    },
+    {
+      "title": "Panna Udvardy vs Sinja Kraus",
+      "time": "04:05",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-guangzhou-open/ma11785396/panna-udvardy_sinja-kraus/info",
+      "slug": "panna-udvardy-vs-sinja-kraus",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Maria Timofeeva vs Teodora Kostovic",
+          "time": "04:05",
+          "sender": "Sportschau Live",
+          "slug": "maria-timofeeva-vs-teodora-kostovic"
+        }
+      ]
+    },
+    {
+      "title": "Maria Timofeeva vs Teodora Kostovic",
+      "time": "04:05",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-guangzhou-open/ma11785381/maria-timofeeva_teodora-kostovic/info",
+      "slug": "maria-timofeeva-vs-teodora-kostovic",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Panna Udvardy vs Sinja Kraus",
+          "time": "04:05",
+          "sender": "Sportschau Live",
+          "slug": "panna-udvardy-vs-sinja-kraus"
+        }
+      ]
+    },
+    {
+      "title": "Daria Snigur vs Anna Bondar",
+      "time": "05:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-guangzhou-open/ma11785357/daria-snigur_anna-bondar/info",
+      "slug": "daria-snigur-vs-anna-bondar",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Han Shi vs Alevtina Ibragimova",
+      "time": "07:25",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-guangzhou-open/ma11785375/han-shi_alevtina-ibragimova/info",
+      "slug": "han-shi-vs-alevtina-ibragimova",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Paula Badosa vs Carol Lee",
+      "time": "08:35",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-guangzhou-open/ma11785393/paula-badosa_carol-lee/info",
+      "slug": "paula-badosa-vs-carol-lee",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Harriet Dart vs Tatiana Prozorova",
+      "time": "10:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-china-guangzhou-open/ma11785399/harriet-dart_tatiana-prozorova/info",
+      "slug": "harriet-dart-vs-tatiana-prozorova",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Xinyu Wang vs Alycia Parks",
+      "time": "02:35",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-japan-toray-pan-pacific-open/ma11785297/xinyu-wang_alycia-parks/info",
+      "slug": "xinyu-wang-vs-alycia-parks",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Daria Kasatkina vs Talia Gibson",
+      "time": "04:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-japan-toray-pan-pacific-open/ma11785282/daria-kasatkina_talia-gibson/info",
+      "slug": "daria-kasatkina-vs-talia-gibson",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Moyuka Uchijima vs Elise Mertens",
+      "time": "06:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-japan-toray-pan-pacific-open/ma11785264/moyuka-uchijima_elise-mertens/info",
+      "slug": "moyuka-uchijima-vs-elise-mertens",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Aliaksandra Sasnovich vs Nikola Bartunkova",
+      "time": "07:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-japan-toray-pan-pacific-open/ma11785285/aliaksandra-sasnovich_nikola-bartunkova/info",
+      "slug": "aliaksandra-sasnovich-vs-nikola-bartunkova",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alexandra Eala vs Mika Stojsavljevic,",
+      "time": "09:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-japan-toray-pan-pacific-open/ma11785279/alexandra-eala_mika-stojsavljevic/info",
+      "slug": "alexandra-eala-vs-mika-stojsavljevic",
+      "subtitle": "",
+      "related_events": []
+    }
+  ]
+}
