@@ -1,0 +1,983 @@
+{
+  "date": "2026-11-09",
+  "events": [
+    {
+      "title": "1. FC Köln vs RB Leipzig",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga-frauen/ma12306277/1-fc-koeln_rb-leipzig/info",
+      "slug": "1-fc-koln-vs-rb-leipzig",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Österreich vs USA",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/iihf-wm-frauen/ma12115504/oesterreich_usa/info",
+      "slug": "osterreich-vs-usa",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dänemark vs Kanada",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "danemark-vs-kanada"
+        }
+      ]
+    },
+    {
+      "title": "Dänemark vs Kanada",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/iihf-wm-frauen/ma12115507/daenemark_kanada/info",
+      "slug": "danemark-vs-kanada",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Österreich vs USA",
+          "time": "19:00",
+          "sender": "Sportschau Live",
+          "slug": "osterreich-vs-usa"
+        }
+      ]
+    },
+    {
+      "title": "Atlético Madrid vs FC Badalona Women",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-frauen-primera-division/ma12213715/atletico-madrid_fc-badalona-women/info",
+      "slug": "atletico-madrid-vs-fc-badalona-women",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Deportivo A Coruña vs Valencia CF",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-frauen-primera-division/ma12213721/deportivo-a-coruna_valencia-cf/info",
+      "slug": "deportivo-a-coruna-vs-valencia-cf",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Levalea 2010 vs Haukar Hafnarfjörður",
+      "time": "19:00",
+      "iso_time": "",
+      "sport": "Handball",
+      "sport_slug": "handball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-european-cup-frauen/ma12605802/levalea-2010_haukar-hafnarfjoerdur/info",
+      "slug": "levalea-2010-vs-haukar-hafnarfjordur",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Science City Jena vs Hamburg Towers",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/deutschland-bbl/ma12415867/science-city-jena_hamburg-towers/info",
+      "slug": "science-city-jena-vs-hamburg-towers",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Detroit Pistons vs Los Angeles Lakers",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma12455690/detroit-pistons_los-angeles-lakers/info",
+      "slug": "detroit-pistons-vs-los-angeles-lakers",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Minnesota Timberwolves vs Utah Jazz",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma12455693/minnesota-timberwolves_utah-jazz/info",
+      "slug": "minnesota-timberwolves-vs-utah-jazz",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Dallas Mavericks vs Brooklyn Nets",
+      "time": "01:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma12455696/dallas-mavericks_brooklyn-nets/info",
+      "slug": "dallas-mavericks-vs-brooklyn-nets",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Milwaukee Bucks vs Boston Celtics",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma12458267/milwaukee-bucks_boston-celtics/info",
+      "slug": "milwaukee-bucks-vs-boston-celtics",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Los Angeles Clippers vs New Orleans Pelicans",
+      "time": "03:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma12455699/los-angeles-clippers_new-orleans-pelicans/info",
+      "slug": "los-angeles-clippers-vs-new-orleans-pelicans",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Sacramento Kings vs Miami Heat",
+          "time": "03:00",
+          "sender": "Sportschau Live",
+          "slug": "sacramento-kings-vs-miami-heat"
+        }
+      ]
+    },
+    {
+      "title": "Sacramento Kings vs Miami Heat",
+      "time": "03:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma12455702/sacramento-kings_miami-heat/info",
+      "slug": "sacramento-kings-vs-miami-heat",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Los Angeles Clippers vs New Orleans Pelicans",
+          "time": "03:00",
+          "sender": "Sportschau Live",
+          "slug": "los-angeles-clippers-vs-new-orleans-pelicans"
+        }
+      ]
+    },
+    {
+      "title": "Chicago Bears vs Tampa Bay Buccaneers",
+      "time": "02:20",
+      "iso_time": "",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/football/usa-nfl/ma12088049/chicago-bears_tampa-bay-buccaneers/info",
+      "slug": "chicago-bears-vs-tampa-bay-buccaneers",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Winnipeg Jets vs Tampa Bay Lightning",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma12317590/winnipeg-jets_tampa-bay-lightning/info",
+      "slug": "winnipeg-jets-vs-tampa-bay-lightning",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Calgary Flames vs Philadelphia Flyers",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma12317587/calgary-flames_philadelphia-flyers/info",
+      "slug": "calgary-flames-vs-philadelphia-flyers",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Toronto Maple Leafs vs New Jersey Devils",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "toronto-maple-leafs-vs-new-jersey-devils"
+        }
+      ]
+    },
+    {
+      "title": "Toronto Maple Leafs vs New Jersey Devils",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma12317593/toronto-maple-leafs_new-jersey-devils/info",
+      "slug": "toronto-maple-leafs-vs-new-jersey-devils",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Calgary Flames vs Philadelphia Flyers",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "calgary-flames-vs-philadelphia-flyers"
+        }
+      ]
+    },
+    {
+      "title": "Anaheim Ducks vs Pittsburgh Penguins",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma12317596/anaheim-ducks_pittsburgh-penguins/info",
+      "slug": "anaheim-ducks-vs-pittsburgh-penguins",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Alex Michelsen vs Yannick Hanfmann",
+      "time": "12:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-schweden-if-stockholm-open/ma11763037/alex-michelsen_yannick-hanfmann/info",
+      "slug": "alex-michelsen-vs-yannick-hanfmann",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "James Duckworth vs Cameron Norrie",
+      "time": "13:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-schweden-if-stockholm-open/ma11763016/james-duckworth_cameron-norrie/info",
+      "slug": "james-duckworth-vs-cameron-norrie",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Tomas Machac vs Borna Gojo",
+      "time": "13:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-schweden-if-stockholm-open/ma11763031/tomas-machac_borna-gojo/info",
+      "slug": "tomas-machac-vs-borna-gojo",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Adolfo Daniel Vallejo vs Ugo Humbert",
+      "time": "14:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-schweden-if-stockholm-open/ma11763034/adolfo-daniel-vallejo_ugo-humbert/info",
+      "slug": "adolfo-daniel-vallejo-vs-ugo-humbert",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Tomas Martin Etcheverry vs Max Dahlin",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-schweden-if-stockholm-open/ma11763049/tomas-martin-etcheverry_max-dahlin/info",
+      "slug": "tomas-martin-etcheverry-vs-max-dahlin",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Leo Borg vs Toby Samuel",
+      "time": "19:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/atp-schweden-if-stockholm-open/ma11763028/leo-borg_toby-samuel/info",
+      "slug": "leo-borg-vs-toby-samuel",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Dabrowski, G. / Stefani, L. vs Mertens, E. / Zhang, S.",
+      "time": "23:20",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co2702/wta-finals-riyadh/ma12624678/dabrowski-g---stefani-l_mertens-e---zhang-s/info",
+      "slug": "dabrowski-g-stefani-l-vs-mertens-e-zhang-s",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Siniakova, K. / Townsend, T. vs Errani, S. / Paolini, J.",
+      "time": "01:55",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co2702/wta-finals-riyadh/ma12624666/siniakova-k---townsend-t_errani-s---paolini-j/info",
+      "slug": "siniakova-k-townsend-t-vs-errani-s-paolini-j",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Bucsa, C. / Melichar-Martinez, N. vs Schuurs, D. / Perez, E.",
+      "time": "03:50",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/co2702/wta-finals-riyadh/ma12624669/bucsa-c---melichar-martinez-n_schuurs-d---perez-e/info",
+      "slug": "bucsa-c-melichar-martinez-n-vs-schuurs-d-perez-e",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Aryna Sabalenka vs Karolina Muchova",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-singapur-wta-finals-singapore/ma12624672/aryna-sabalenka_karolina-muchova/info",
+      "slug": "aryna-sabalenka-vs-karolina-muchova",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Mirra Andreeva vs Elina Svitolina",
+      "time": "22:10",
+      "iso_time": "",
+      "sport": "Tennis",
+      "sport_slug": "tennis",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/tennis/wta-singapur-wta-finals-singapore/ma12624675/mirra-andreeva_elina-svitolina/info",
+      "slug": "mirra-andreeva-vs-elina-svitolina",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "International Championship | Finale",
+      "subtitle": "K. Wilson  -  J. Higgins | 2. Session | Nanjing",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:42",
+      "iso_time": "2026-11-08T23:42:00+01:00",
+      "link": "https://play.hbomax.com/sport/faad0164-ad1f-573a-8f8c-356b77c425b4?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "international-championship-finale",
+      "related_events": []
+    },
+    {
+      "title": "FIA WEC | 6 Stunden von Monza | Rennen",
+      "subtitle": "Langstrecken-WM",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:58",
+      "iso_time": "2026-11-08T23:58:58+01:00",
+      "link": "https://play.hbomax.com/sport/90ece153-ad03-5a7b-a86a-222bf9fb657f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "fia-wec-6-stunden-von-monza-rennen",
+      "related_events": []
+    },
+    {
+      "title": "FIA WEC | 6 Stunden von Monza | Rennen",
+      "subtitle": "Langstrecken-WM",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "01:30",
+      "iso_time": "2026-11-09T01:30:01+01:00",
+      "link": "",
+      "slug": "fia-wec-6-stunden-von-monza-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France 2026 | Highlights",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "03:59",
+      "iso_time": "2026-11-09T03:59:55+01:00",
+      "link": "",
+      "slug": "tour-de-france-2026-highlights",
+      "related_events": []
+    },
+    {
+      "title": "Olympische Spiele",
+      "subtitle": "",
+      "sport": "Olympische Spiele",
+      "sport_slug": "olympische-spiele",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "04:49",
+      "iso_time": "2026-11-09T04:49:58+01:00",
+      "link": "",
+      "slug": "olympische-spiele",
+      "related_events": []
+    },
+    {
+      "title": "International Championship | Finale",
+      "subtitle": "K. Wilson  -  J. Higgins | 2. Session | Nanjing",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "05:37",
+      "iso_time": "2026-11-09T05:37:44+01:00",
+      "link": "",
+      "slug": "international-championship-finale",
+      "related_events": []
+    },
+    {
+      "title": "FIA WEC | 6 Stunden von Monza | Rennen",
+      "subtitle": "Langstrecken-WM",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:30",
+      "iso_time": "2026-11-09T08:30:47+01:00",
+      "link": "https://play.hbomax.com/sport/6b0d5753-c070-5039-8089-ad7e08a0ce40?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "fia-wec-6-stunden-von-monza-rennen",
+      "related_events": []
+    },
+    {
+      "title": "International Championship | Finale",
+      "subtitle": "K. Wilson  -  J. Higgins | 2. Session | Nanjing",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "08:35",
+      "iso_time": "2026-11-09T08:35:06+01:00",
+      "link": "https://play.hbomax.com/sport/244af067-4332-578b-b4be-eeae21f85d25?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "international-championship-finale",
+      "related_events": []
+    },
+    {
+      "title": "| Männer",
+      "subtitle": "Europameisterschaft",
+      "sport": "Cyclocross",
+      "sport_slug": "cyclocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "10:59",
+      "iso_time": "2026-11-09T10:59:48+01:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "manner",
+      "related_events": [
+        {
+          "title": "EM | Frauen Elite",
+          "time": "13:49",
+          "sender": "Eurosport",
+          "slug": "em-frauen-elite"
+        }
+      ]
+    },
+    {
+      "title": "Olympische Spiele",
+      "subtitle": "",
+      "sport": "Olympische Spiele",
+      "sport_slug": "olympische-spiele",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:05",
+      "iso_time": "2026-11-09T11:05:38+01:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "olympische-spiele",
+      "related_events": []
+    },
+    {
+      "title": "YOG | Mannschaft Männer",
+      "subtitle": "Dakar 2026 Youth Olympic Games | Jugend (m) | Originalton",
+      "sport": "Kunstturnen",
+      "sport_slug": "kunstturnen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:25",
+      "iso_time": "2026-11-09T11:25:00+01:00",
+      "link": "https://play.hbomax.com/sport/9cda1789-0b84-5dba-a893-d5c3114b0f7f?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "yog-mannschaft-manner",
+      "related_events": []
+    },
+    {
+      "title": "YOG | Halbfinale",
+      "subtitle": "Dakar 2026 Youth Olympic Games | Jugend (m) | Originalton",
+      "sport": "Futsal",
+      "sport_slug": "futsal",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:55",
+      "iso_time": "2026-11-09T11:55:00+01:00",
+      "link": "https://play.hbomax.com/sport/a54cc88c-0e33-5469-be20-a3f07c64e166?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "yog-halbfinale",
+      "related_events": []
+    },
+    {
+      "title": "International Championship | Finale",
+      "subtitle": "K. Wilson  -  J. Higgins | 2. Session | Nanjing",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "11:59",
+      "iso_time": "2026-11-09T11:59:48+01:00",
+      "link": "https://play.hbomax.com/sport/d5746cea-ba7c-547c-a546-6a84475f2fc9?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "international-championship-finale",
+      "related_events": []
+    },
+    {
+      "title": "FIA WEC | 6 Stunden von Monza | Rennen",
+      "subtitle": "Langstrecken-WM",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "12:01",
+      "iso_time": "2026-11-09T12:01:07+01:00",
+      "link": "https://play.hbomax.com/sport/60116916-a69d-5c4e-8471-bdb1c4d10823?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "fia-wec-6-stunden-von-monza-rennen",
+      "related_events": []
+    },
+    {
+      "title": "EM | Frauen Elite",
+      "subtitle": "Zeddam",
+      "sport": "Cyclocross",
+      "sport_slug": "cyclocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "13:49",
+      "iso_time": "2026-11-09T13:49:56+01:00",
+      "link": "https://play.hbomax.com/sport/1a769c32-645a-5efc-9ccc-e3bb87406ce4?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "em-frauen-elite",
+      "related_events": [
+        {
+          "title": "| Männer",
+          "time": "10:59",
+          "sender": "Eurosport",
+          "slug": "manner"
+        },
+        {
+          "title": "Cyclocross",
+          "time": "14:33",
+          "sender": "Eurosport",
+          "slug": "cyclocross"
+        }
+      ]
+    },
+    {
+      "title": "FIA WEC | 6 Stunden von Monza | Rennen",
+      "subtitle": "Langstrecken-WM",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:29",
+      "iso_time": "2026-11-09T14:29:37+01:00",
+      "link": "https://play.hbomax.com/sport/6d05f281-a350-5630-a35b-77f5bb27b92a?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "fia-wec-6-stunden-von-monza-rennen",
+      "related_events": []
+    },
+    {
+      "title": "Cyclocross",
+      "subtitle": "Europameisterschaft",
+      "sport": "Cyclocross",
+      "sport_slug": "cyclocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:33",
+      "iso_time": "2026-11-09T14:33:22+01:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "cyclocross",
+      "related_events": [
+        {
+          "title": "EM | Frauen Elite",
+          "time": "13:49",
+          "sender": "Eurosport",
+          "slug": "em-frauen-elite"
+        },
+        {
+          "title": "EM | Frauen Elite",
+          "time": "16:45",
+          "sender": "Eurosport",
+          "slug": "em-frauen-elite"
+        }
+      ]
+    },
+    {
+      "title": "YOG | Nachmittagssession",
+      "subtitle": "Dakar 2026 Youth Olympic Games | Jugend (m/w) | Originalton",
+      "sport": "Leichtathletik",
+      "sport_slug": "leichtathletik",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "14:55",
+      "iso_time": "2026-11-09T14:55:00+01:00",
+      "link": "https://play.hbomax.com/sport/23a4cfa6-5ecf-59ea-b54f-3591205f0287?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "yog-nachmittagssession",
+      "related_events": []
+    },
+    {
+      "title": "International Championship | Finale",
+      "subtitle": "K. Wilson  -  J. Higgins | 2. Session | Nanjing",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "15:33",
+      "iso_time": "2026-11-09T15:33:12+01:00",
+      "link": "https://play.hbomax.com/sport/9d8a37dd-3b33-5994-a307-797456e36758?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "international-championship-finale",
+      "related_events": []
+    },
+    {
+      "title": "YOG | Halbfinale",
+      "subtitle": "Dakar 2026 Youth Olympic Games | Jugend (m) | Originalton",
+      "sport": "Futsal",
+      "sport_slug": "futsal",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:25",
+      "iso_time": "2026-11-09T16:25:00+01:00",
+      "link": "https://play.hbomax.com/sport/4c38c45c-41a6-5159-9c4e-ba41df86f7ba?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "yog-halbfinale",
+      "related_events": []
+    },
+    {
+      "title": "EM | Frauen Elite",
+      "subtitle": "Zeddam",
+      "sport": "Cyclocross",
+      "sport_slug": "cyclocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "16:45",
+      "iso_time": "2026-11-09T16:45:54+01:00",
+      "link": "https://play.hbomax.com/sport/62f14408-bc02-5651-915e-0a7972c0cdc0?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "em-frauen-elite",
+      "related_events": [
+        {
+          "title": "Cyclocross",
+          "time": "14:33",
+          "sender": "Eurosport",
+          "slug": "cyclocross"
+        },
+        {
+          "title": "Cyclocross",
+          "time": "17:30",
+          "sender": "Eurosport",
+          "slug": "cyclocross"
+        },
+        {
+          "title": "| Männer",
+          "time": "19:15",
+          "sender": "Eurosport",
+          "slug": "manner"
+        }
+      ]
+    },
+    {
+      "title": "Cyclocross",
+      "subtitle": "Europameisterschaft",
+      "sport": "Cyclocross",
+      "sport_slug": "cyclocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:30",
+      "iso_time": "2026-11-09T17:30:50+01:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "cyclocross",
+      "related_events": [
+        {
+          "title": "EM | Frauen Elite",
+          "time": "16:45",
+          "sender": "Eurosport",
+          "slug": "em-frauen-elite"
+        },
+        {
+          "title": "EM | Frauen Elite",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "em-frauen-elite"
+        },
+        {
+          "title": "| Männer",
+          "time": "19:15",
+          "sender": "Eurosport",
+          "slug": "manner"
+        }
+      ]
+    },
+    {
+      "title": "Olympische Spiele",
+      "subtitle": "",
+      "sport": "Olympische Spiele",
+      "sport_slug": "olympische-spiele",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:39",
+      "iso_time": "2026-11-09T17:39:44+01:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "olympische-spiele",
+      "related_events": []
+    },
+    {
+      "title": "YOG | Mannschaft (w)",
+      "subtitle": "Dakar 2026 Youth Olympic Games | Jugend | Originalton",
+      "sport": "Kunstturnen",
+      "sport_slug": "kunstturnen",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "17:55",
+      "iso_time": "2026-11-09T17:55:00+01:00",
+      "link": "https://play.hbomax.com/sport/256d39a8-e1bc-5b3f-a00d-7404e06bb754?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "yog-mannschaft-w",
+      "related_events": []
+    },
+    {
+      "title": "EM | Frauen Elite",
+      "subtitle": "Zeddam",
+      "sport": "Cyclocross",
+      "sport_slug": "cyclocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:30",
+      "iso_time": "2026-11-09T18:30:00+01:00",
+      "link": "https://play.hbomax.com/sport/72704971-09bb-5341-9e9b-705f4a4e27f0?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "em-frauen-elite",
+      "related_events": [
+        {
+          "title": "Cyclocross",
+          "time": "17:30",
+          "sender": "Eurosport",
+          "slug": "cyclocross"
+        },
+        {
+          "title": "| Männer",
+          "time": "19:15",
+          "sender": "Eurosport",
+          "slug": "manner"
+        }
+      ]
+    },
+    {
+      "title": "Olympische Spiele",
+      "subtitle": "",
+      "sport": "Olympische Spiele",
+      "sport_slug": "olympische-spiele",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "18:31",
+      "iso_time": "2026-11-09T18:31:28+01:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "olympische-spiele",
+      "related_events": []
+    },
+    {
+      "title": "| Männer",
+      "subtitle": "Europameisterschaft",
+      "sport": "Cyclocross",
+      "sport_slug": "cyclocross",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:15",
+      "iso_time": "2026-11-09T19:15:00+01:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "manner",
+      "related_events": [
+        {
+          "title": "EM | Frauen Elite",
+          "time": "16:45",
+          "sender": "Eurosport",
+          "slug": "em-frauen-elite"
+        },
+        {
+          "title": "Cyclocross",
+          "time": "17:30",
+          "sender": "Eurosport",
+          "slug": "cyclocross"
+        },
+        {
+          "title": "EM | Frauen Elite",
+          "time": "18:30",
+          "sender": "Eurosport",
+          "slug": "em-frauen-elite"
+        }
+      ]
+    },
+    {
+      "title": "FIA WEC | 6 Stunden von Monza | Rennen",
+      "subtitle": "Langstrecken-WM",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "19:30",
+      "iso_time": "2026-11-09T19:30:00+01:00",
+      "link": "https://play.hbomax.com/sport/47a9308b-aa06-53d0-a43a-e98bdd8e403a?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "fia-wec-6-stunden-von-monza-rennen",
+      "related_events": []
+    },
+    {
+      "title": "International Championship | Finale",
+      "subtitle": "K. Wilson  -  J. Higgins | 2. Session | Nanjing",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "20:00",
+      "iso_time": "2026-11-09T20:00:00+01:00",
+      "link": "https://play.hbomax.com/sport/87304e29-f7fd-5cfd-ab3f-71c688db6f1e?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "international-championship-finale",
+      "related_events": []
+    },
+    {
+      "title": "FIA WEC | 6 Stunden von Monza | Rennen",
+      "subtitle": "Langstrecken-WM",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-11-09T22:00:00+01:00",
+      "link": "https://play.hbomax.com/sport/421c3b07-eeb3-5d16-9283-80869f4db786?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "fia-wec-6-stunden-von-monza-rennen",
+      "related_events": [
+        {
+          "title": "FIA WEC | 6h von Imola | Rennen",
+          "time": "00:00",
+          "sender": "Eurosport",
+          "slug": "fia-wec-6h-von-imola-rennen"
+        }
+      ]
+    },
+    {
+      "title": "Hall of Fame Sydney 2000",
+      "subtitle": "",
+      "sport": "Olympische Spiele",
+      "sport_slug": "olympische-spiele",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "22:00",
+      "iso_time": "2026-11-09T22:00:00+01:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "hall-of-fame-sydney-2000",
+      "related_events": []
+    },
+    {
+      "title": "Tour de France 2026 | Highlights",
+      "subtitle": "UCI World Tour | Männer",
+      "sport": "Radsport",
+      "sport_slug": "radsport",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "23:00",
+      "iso_time": "2026-11-09T23:00:00+01:00",
+      "link": "https://play.hbomax.com/sport/e3ac8f14-0561-526f-8eff-c15ec85284d8?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "tour-de-france-2026-highlights",
+      "related_events": []
+    },
+    {
+      "title": "WM | Finale",
+      "subtitle": "WM",
+      "sport": "Snooker",
+      "sport_slug": "snooker",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-11-10T00:00:00+01:00",
+      "link": "https://play.hbomax.com/sports?utm_campaign=sportsEditorial-program-redirection&utm_source=wbd_eurosport_web&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "wm-finale",
+      "related_events": []
+    },
+    {
+      "title": "FIA WEC | 6h von Imola | Rennen",
+      "subtitle": "Langstrecken-WM | 1. Station",
+      "sport": "WEC",
+      "sport_slug": "wec",
+      "sender": "Eurosport",
+      "sender_slug": "eurosport",
+      "time": "00:00",
+      "iso_time": "2026-11-10T00:00:00+01:00",
+      "link": "https://play.hbomax.com/sport/63b03a21-565b-5edc-a2a3-29483e7f90d4?utm_source=wbd_eurosport_web&utm_campaign=sportsEditorial-program-redirection&utm_medium=owned&utm_content=programsByDate_Program_url",
+      "slug": "fia-wec-6h-von-imola-rennen",
+      "related_events": [
+        {
+          "title": "FIA WEC | 6 Stunden von Monza | Rennen",
+          "time": "22:00",
+          "sender": "Eurosport",
+          "slug": "fia-wec-6-stunden-von-monza-rennen"
+        }
+      ]
+    }
+  ]
+}
