@@ -1,0 +1,294 @@
+{
+  "date": "2026-11-23",
+  "events": [
+    {
+      "title": "Bayern München vs TSG Hoffenheim",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga-frauen/ma12306337/bayern-muenchen_tsg-hoffenheim/info",
+      "slug": "bayern-munchen-vs-tsg-hoffenheim",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "İstanbul Başakşehir vs Çorum FK",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "istanbul-basaksehir-vs-corum-fk"
+        }
+      ]
+    },
+    {
+      "title": "Brentford FC vs Everton FC",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/england-premier-league/ma12153454/brentford-fc_everton-fc/info",
+      "slug": "brentford-fc-vs-everton-fc",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Levante UD vs Elche CF",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "levante-ud-vs-elche-cf"
+        }
+      ]
+    },
+    {
+      "title": "Espanyol Barcelona vs Valencia CF",
+      "time": "20:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-frauen-primera-division/ma12213769/espanyol-barcelona_valencia-cf/info",
+      "slug": "espanyol-barcelona-vs-valencia-cf",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Levante UD vs Elche CF",
+      "time": "21:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/spanien-primera-division/ma12188179/levante-ud_elche-cf/info",
+      "slug": "levante-ud-vs-elche-cf",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Brentford FC vs Everton FC",
+          "time": "21:00",
+          "sender": "Sportschau Live",
+          "slug": "brentford-fc-vs-everton-fc"
+        }
+      ]
+    },
+    {
+      "title": "AC Monza vs AC Florenz",
+      "time": "20:45",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/italien-serie-a/ma12131140/ac-monza_ac-florenz/info",
+      "slug": "ac-monza-vs-ac-florenz",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "İstanbul Başakşehir vs Çorum FK",
+      "time": "18:00",
+      "iso_time": "",
+      "sport": "Fußball",
+      "sport_slug": "fussball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/fussball/tuerkei-sueper-lig/ma12280255/stanbul-basaksehir_corum-fk/info",
+      "slug": "istanbul-basaksehir-vs-corum-fk",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Bayern München vs TSG Hoffenheim",
+          "time": "18:00",
+          "sender": "Sportschau Live",
+          "slug": "bayern-munchen-vs-tsg-hoffenheim"
+        }
+      ]
+    },
+    {
+      "title": "Miami Heat vs Oklahoma City Thunder",
+      "time": "00:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma12455906/miami-heat_oklahoma-city-thunder/info",
+      "slug": "miami-heat-vs-oklahoma-city-thunder",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Utah Jazz vs Dallas Mavericks",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma12455909/utah-jazz_dallas-mavericks/info",
+      "slug": "utah-jazz-vs-dallas-mavericks",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Washington Wizards vs Orlando Magic",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "washington-wizards-vs-orlando-magic"
+        },
+        {
+          "title": "Chicago Bulls vs Denver Nuggets",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "chicago-bulls-vs-denver-nuggets"
+        }
+      ]
+    },
+    {
+      "title": "Washington Wizards vs Orlando Magic",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma12458363/washington-wizards_orlando-magic/info",
+      "slug": "washington-wizards-vs-orlando-magic",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Utah Jazz vs Dallas Mavericks",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "utah-jazz-vs-dallas-mavericks"
+        },
+        {
+          "title": "Chicago Bulls vs Denver Nuggets",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "chicago-bulls-vs-denver-nuggets"
+        }
+      ]
+    },
+    {
+      "title": "Chicago Bulls vs Denver Nuggets",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma12458366/chicago-bulls_denver-nuggets/info",
+      "slug": "chicago-bulls-vs-denver-nuggets",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Utah Jazz vs Dallas Mavericks",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "utah-jazz-vs-dallas-mavericks"
+        },
+        {
+          "title": "Washington Wizards vs Orlando Magic",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "washington-wizards-vs-orlando-magic"
+        }
+      ]
+    },
+    {
+      "title": "New York Knicks vs Indiana Pacers",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma12458369/new-york-knicks_indiana-pacers/info",
+      "slug": "new-york-knicks-vs-indiana-pacers",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Golden State Warriors vs Boston Celtics",
+      "time": "02:30",
+      "iso_time": "",
+      "sport": "Basketball",
+      "sport_slug": "basketball",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/basketball/usa-nba/ma12455912/golden-state-warriors_boston-celtics/info",
+      "slug": "golden-state-warriors-vs-boston-celtics",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "San Francisco 49ers vs Minnesota Vikings",
+      "time": "02:20",
+      "iso_time": "",
+      "sport": "American Football",
+      "sport_slug": "american-football",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/football/usa-nfl/ma12086981/san-francisco-49ers_minnesota-vikings/info",
+      "slug": "san-francisco-49ers-vs-minnesota-vikings",
+      "subtitle": "",
+      "related_events": []
+    },
+    {
+      "title": "Dallas Stars vs Pittsburgh Penguins",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma12317875/dallas-stars_pittsburgh-penguins/info",
+      "slug": "dallas-stars-vs-pittsburgh-penguins",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "St. Louis Blues vs Edmonton Oilers",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "st-louis-blues-vs-edmonton-oilers"
+        }
+      ]
+    },
+    {
+      "title": "St. Louis Blues vs Edmonton Oilers",
+      "time": "01:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma12317878/st-louis-blues_edmonton-oilers/info",
+      "slug": "st-louis-blues-vs-edmonton-oilers",
+      "subtitle": "",
+      "related_events": [
+        {
+          "title": "Dallas Stars vs Pittsburgh Penguins",
+          "time": "01:00",
+          "sender": "Sportschau Live",
+          "slug": "dallas-stars-vs-pittsburgh-penguins"
+        }
+      ]
+    },
+    {
+      "title": "Vancouver Canucks vs Chicago Blackhawks",
+      "time": "02:00",
+      "iso_time": "",
+      "sport": "Eishockey",
+      "sport_slug": "eishockey",
+      "sender": "Sportschau Live",
+      "sender_slug": "sportschau-live",
+      "link": "https://www.sportschau.de/live-und-ergebnisse/eishockey/nhl/ma12317881/vancouver-canucks_chicago-blackhawks/info",
+      "slug": "vancouver-canucks-vs-chicago-blackhawks",
+      "subtitle": "",
+      "related_events": []
+    }
+  ]
+}
